@@ -93,7 +93,7 @@ td, th { padding: 0; }
 */
 html { font-size: 62.5%; }
 
-body { font-size: 1.8em; line-height: 1.6; font-weight: 300; font-family: "Roboto", Helvetica, Arial, sans-serif; color: #333333; overflow-x: hidden; }
+body { font-size: 1.8em; line-height: 1.6; font-weight: 300; font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; color: #333333; overflow-x: hidden; }
 
 a { color: #ff530d; transition: all 0.4s ease; text-decoration: none; }
 
