@@ -1,0 +1,58 @@
+# Site settings
+title: Ahmet Çadırcı — Web Geliştirici
+description: 'Ahmet Çadırcı... Kişisel web sitemde yer alan blog, video, podcast ve sosyal medya hesaplarımın linkleri yer almaktadır. Ahmet Çadırcı olarak yeni yayına başladığım sitemde yazı, fotoğraf ve eğlenceli içerikler üretmeyi hedefliyorum. İçeriklere hızlı ulaşmak için aşağıda yer alan bağlantılara tıklayarak abone olabilir ve takip edebilirsiniz.'
+url: 'http://ahmetcadirci.com.tr'
+baseurl: '/'
+google_analytics: 'UA-66383788-5'
+disqus_shortname: 'ahmetcadirci25'
+
+author:
+  name: 'Ahmet Çadırcı'
+  email: stanfordhawx@gmail.com
+  youtube_username: ahmetcadirci25
+  instagram_username: ahmetcadirci25
+  twitter_username: ahmetcadirci25
+  facebook_username: ahmetcadirci25
+  github_username:  ahmetcadirci25
+  linkedin_username:  ahmetcadirci25
+  googleplus_username:  ahmetcadirci25
+  feedburner_username:  ahmetcadirci25
+  podcast_username: podcast
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+# Podcast
+podcast:
+  title: Ahmet Çadırcı
+  link: http://ahmetcadirci.com.tr
+  email: ahmetcadirci25@gmail.com
+  keywords: wordpress, teknoloji
+  art: http://ahmetcadirci.com.tr/images/ahmetcadirci-1400x1400.jpg
+  category: Technology
+  subcategories:
+  - Podcasting
+  subtitle: Ahmet Çadırcı — Web Geliştirici
+  summary: >
+    En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzerinden ulaşabilirsiniz.
+        
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

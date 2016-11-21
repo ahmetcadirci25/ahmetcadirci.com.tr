@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<article class="post-container post-container--single">
+<header class="post-header">
+<div class="post-meta">
+<time datetime="{{ page.date | date: "%-d %b %Y" }}" class="post-meta__date date">Tarih: {{ page.date | date: "%-d %b %Y" }}</time> &#8226; <span class="post-meta__tags">Etiket: {% for tag in page.tags %}<a href="{{ site.baseurl }}etiketler/#{{ tag }}">{{ tag }}</a> {% endfor %}</span>
+</div>
+<h2 class="post-title">{{ page.title }}</h2>
+<div class="share">
+<div class="addthis_inline_share_toolbox"></div>
+<hr>
+</div>
+</header>
+<section class="post">
+{{ content }}
+</section>
+<div class="related">
+<div class="addthis_relatedposts_inline"></div>
+</div>
+<hr>  
+
+<p><i class="icon icon-comments"></i> YORUMLAR</p>
+
+{% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
+</article>
+{% if page.comments != false %}{% include disqus.html %}{% endif %}

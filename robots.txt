@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /js/main.js
+Disallow: /feed.xml
+
+Sitemap: http://ahmetcadirci.com.tr/sitemap.xml

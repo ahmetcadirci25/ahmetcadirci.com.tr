@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+  <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://ahmetcadirci.com.tr/"/>
+  <title>{{ site.podcast.title }}</title>
+  <link>{{ site.podcast.link }}</link>
+  <language>tr-tr</language>
+  <copyright>{{ site.podcast.title }}</copyright>
+  <itunes:subtitle>
+  {{ site.podcast.subtitle }}
+  </itunes:subtitle>
+  <itunes:author>{{ site.podcast.title }}</itunes:author>
+  <itunes:summary>
+  {{ site.podcast.summary }}
+  </itunes:summary>
+  <itunes:description>
+  {{ site.podcast.summary }}
+  </itunes:description>
+  <itunes:owner>
+  <itunes:name>{{ site.podcast.title }}</itunes:name>
+  <itunes:email>{{ site.podcast.email }}</itunes:email>
+  </itunes:owner>
+  <itunes:image href="{{ site.podcast.art }}"/>
+  <itunes:category text="Technology">
+  <itunes:category text="Podcasting"/>
+  </itunes:category>
+  <itunes:category text="Technology">
+  <itunes:category text="Software How-To"/>
+  </itunes:category>
+  <itunes:category text="Technology">
+  <itunes:category text="Tech News"/>
+  </itunes:category>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:keywords>{{ site.podcast.keywords }}</itunes:keywords>
+  
+  {% for post in site.categories.podcast %}
+    <item>
+    <title>{{ post.title }}</title>
+    <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+    <description>{{ post.description }}</description>
+    <itunes:summary>{{ post.description }}</itunes:summary>
+    <itunes:subtitle>{{ post.description }}</itunes:subtitle>
+    <enclosure url="http://dts.podtrac.com/redirect.mp3/{{ post.mp3 }}" length="{{ post.length }}" type="video/mpeg" />
+    <itunes:image href="{{ site.url }}/images/{{ post.postimg }}" />
+    <guid isPermaLink="false">{{ site.url }}{{ post.url }}?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign={{ post.title }}</guid>
+    <itunes:duration>{{ post.duration }}</itunes:duration>
+    <itunes:keywords>{{ post.keywords }}</itunes:keywords>
+    </item>
+  {% endfor %}
+  </channel>
+</rss>

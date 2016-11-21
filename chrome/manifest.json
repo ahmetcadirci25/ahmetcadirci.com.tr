@@ -1,0 +1,16 @@
+{
+  "name": "Ahmet Çadırcı — Web Geliştirici",
+  "description": "Kişisel web sitemde yer alan blog, video, podcast ve sosyal medya hesaplarımın linkleri yer almaktadır.",
+  "version": "1.4",
+  "manifest_version": 2,
+  "icons": {
+    "16": "icon_16.png",
+    "128": "icon_128.png"    
+  },
+  "browser_action": {
+    "name": "Ahmet Çadırcı",
+    "default_icon": "icon_16.png",
+    "default_popup": "popup.html"
+  },
+  "content_security_policy":"script-src 'self' https://ajax.googleapis.com; object-src 'self'; script-src 'self' https://code.jquery.com; object-src 'self';"
+}
