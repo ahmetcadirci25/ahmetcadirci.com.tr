@@ -4,7 +4,7 @@ description: "Suriyeli Çocuklar... Yıllardır Süren Acımasın Savaştan Gör
 date: 2016-12-04 21:00:00
 categories: [galeri]
 tags: [fotoğraf]
-postimg: "onlar-sadece-cocuk.jpg.png"
+postimg: "onlar-sadece-cocuk.jpg"
 ---
 
 Suriyeli Çocuklar... Yıllardır Süren Acımasın Savaştan Görüntüler...
