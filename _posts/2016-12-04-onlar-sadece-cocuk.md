@@ -1,13 +1,13 @@
 ---
 title: "Onlar Sadece Çocuk..."
-description: "Suriyeli Çocuklar... Yıllardır Süren Acımasın Savaştan Görüntüler..."
+description: "Suriyeli Çocuklar... Yıllardır Süren Acımasız Savaştan Görüntüler..."
 date: 2016-12-04 21:00:00
 categories: [galeri]
 tags: [fotoğraf]
 postimg: "onlar-sadece-cocuk.jpg"
 ---
 
-Suriyeli Çocuklar... Yıllardır Süren Acımasın Savaştan Görüntüler...
+Suriyeli Çocuklar... Yıllardır Süren Acımasız Savaştan Görüntüler...
 
 Bu acıyı tarif edecek kelime hiçbir dilde yok. Suriyede savaş yapılmıyor, katliam yapılıyor...
 
