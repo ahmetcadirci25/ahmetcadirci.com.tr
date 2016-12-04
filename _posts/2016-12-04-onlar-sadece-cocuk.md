@@ -53,7 +53,6 @@ Bu acıyı tarif edecek kelime hiçbir dilde yok. Suriyede savaş yapılmıyor, 
 
 * * * 
 
-###Onlar cennetin çocukları...
+### Onlar cennetin çocukları...
 
-<blockquote class="twitter-tweet" data-lang="tr"><p lang="tr" dir="ltr">Onlar cennetin çocukları... <a href="https://t.co/G01aKJgsrg">pic.twitter.com/G01aKJgsrg</a></p>&mdash; Ahmet Çadırcı (@ahmetcadirci25) <a href="https://twitter.com/ahmetcadirci25/status/805486476041523200">4 Aralık 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fahmetcadirci25%2Fvideos%2Fvb.100005855682078%2F555772637961254%2F%3Ftype%3D3&width=900&show_text=false&appId=331059383931945&height=300" width="100%" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
