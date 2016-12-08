@@ -35,6 +35,8 @@ Code licensed under the [MIT License](https://github.com/ahmetcadirci.com.tr/blo
 
 ### Yeni Yazılar
 
+* [WordPress wp-config.php'inizi Nasıl Güvenli Hale Getirebilirsiniz?](http://ahmetcadirci.com.tr/2016/wordpress-wp-config-php-inizi-nasil-guvenli-hale-getirebilirsiniz/)
+* [Onlar Sadece Çocuk...](http://ahmetcadirci.com.tr/2016/onlar-sadece-cocuk/)
 * [Mikrobilgisayar Sistemleri Örnek Sorular](http://ahmetcadirci.com.tr/2016/mikrobilgisayar-sistemleri-ornek-sorular/)
 * [10+ İnsana Mutluluk Veren Ayçiçek Tarlaları](http://ahmetcadirci.com.tr/2016/insana-mutluluk-veren-aycicek-tarlalari/)
 * [Tasarımcıların El Çantası Niteliğindeki Ücretsiz Kaynaklar](http://ahmetcadirci.com.tr/2016/tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar/)
