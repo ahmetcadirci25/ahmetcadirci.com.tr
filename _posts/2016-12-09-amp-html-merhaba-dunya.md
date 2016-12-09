@@ -19,6 +19,7 @@ Head bölümünün başlangıcı
 
 ```
 <!doctype html>
+<html ⚡>
 <head>
 ```
 
