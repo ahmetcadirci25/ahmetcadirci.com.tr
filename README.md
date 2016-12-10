@@ -35,6 +35,7 @@ Code licensed under the [MIT License](https://github.com/ahmetcadirci.com.tr/blo
 
 ### Yeni Yazılar
 
+* [AMP HTML Merhaba Dünya!](http://ahmetcadirci.com.tr/2016/amp-html-merhaba-dunya/)
 * [WordPress wp-config.php'inizi Nasıl Güvenli Hale Getirebilirsiniz?](http://ahmetcadirci.com.tr/2016/wordpress-wp-config-php-inizi-nasil-guvenli-hale-getirebilirsiniz/)
 * [Onlar Sadece Çocuk...](http://ahmetcadirci.com.tr/2016/onlar-sadece-cocuk/)
 * [Mikrobilgisayar Sistemleri Örnek Sorular](http://ahmetcadirci.com.tr/2016/mikrobilgisayar-sistemleri-ornek-sorular/)

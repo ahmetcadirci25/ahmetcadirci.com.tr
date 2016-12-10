@@ -115,7 +115,47 @@ Body kısmının bitişi
 </html>
 ```
 
-## AMP HTML - Merhaba Dünya! ÖNİZLEME
+### Tüm Kodlar Bir Arada
 
-<p data-height="254" data-theme-id="dark" data-slug-hash="ZBjYqP" data-default-tab="html,result" data-user="ahmetcadirci25" data-embed-version="2" data-pen-title="AMP HTML - Merhaba Dünya!" class="codepen">See the Pen <a href="http://codepen.io/ahmetcadirci25/pen/ZBjYqP/">AMP HTML - Merhaba Dünya!</a> by Ahmet Cadirci (<a href="http://codepen.io/ahmetcadirci25">@ahmetcadirci25</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+```
+<!doctype html>
+<html ⚡>
+  <head>
+  <meta charset="utf-8">
+    
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+    
+  <link rel="canonical" href="http://ahmetcadirci.com.tr/">
+    
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    
+  <style amp-custom>
+    h1 {
+      color: red;
+    }
+  </style>
+    
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    
+</head>
+  
+<body>
+  
+   <h1>Merhaba Dünya!</h1>
+  
+   <!-- Responsive resim kodu -->
+   <amp-img src="http://lorempixel.com/400/200"
+      width="400" 
+      height="200" 
+      layout="responsive">
+  </amp-img>
+  
+</body>
+  
+</html>
+```
+
+## Kodlarının Çıktısı
+
+<p data-height="500" data-theme-id="dark" data-slug-hash="ZBjYqP" data-default-tab="result" data-user="ahmetcadirci25" data-embed-version="2" data-pen-title="AMP HTML Merhaba Dünya!" class="codepen">See the Pen <a href="http://codepen.io/ahmetcadirci25/pen/ZBjYqP/">AMP HTML Merhaba Dünya!</a> by Ahmet Cadirci (<a href="http://codepen.io/ahmetcadirci25">@ahmetcadirci25</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
