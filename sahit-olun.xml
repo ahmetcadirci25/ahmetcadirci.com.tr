@@ -19,7 +19,7 @@
 		<itunes:email>ahmetcadirci25@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:image href="http://ahmetcadirci.com.tr/images/mete-yarar.jpg"/>
-		<itunes:category text="TV & Film"/>
+		<itunes:category text="TV &amp; Film"/>
 		<itunes:explicit>no</itunes:explicit>
 
         <item>
