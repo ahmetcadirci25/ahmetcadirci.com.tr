@@ -62,6 +62,10 @@ Yüksek kaliteli, reklamlar için ücretsiz fotoğraflar.
 
 Kamu arşivlerinden Vintage fotoğraflar. Bilinen telif hakkı kısıtlamaları ücretsiz.
 
+[Free Nature Stock 🆕](http://freenaturestock.com/){:target="_blank"}
+
+Royalty Ücretsiz Doğa Fotoğrafları. İstediğiniz gibi kullanabilirsiniz. Adrian Pelletier tarafından oluşturuldu. Her gün güncellenmektedir.
+
 
 * * * 
 
@@ -116,6 +120,10 @@ Facebook tasarımcıları tarafından yapılan serbest kaynaklı bir koleksiyonu
 [Real Thread Clothing Templates](https://www.realthread.com/resources){:target="_blank"}
 
 Büyük koleksiyona ücretsiz sahip olabilirsiniz.
+
+[PSD Repo 🆕](https://psdrepo.com/){:target="_blank"}
+
+PSD Repo, topluluğa ücretsiz olarak sunulan tasarım kaynaklarını bulmanıza yardımcı olur.
 
 * * * 
 
@@ -265,6 +273,14 @@ Yüksek çözünürlüklü Photoshop Kapak PSD'leri.
 
 Frame ile ücretsiz mükemmel görünümler elde elebilirsiniz.
 
+[Font Combinations 🆕](https://www.canva.com/font-combinations/){:target="_blank"}
+
+Tasarım ihtiyaçlarınız için bir yazı tipi bileşimi bulun.
+
+[Lorem Ipsum 🆕](lipsum.com){:target="_blank"}
+
+Lorem Ipsum, masaüstü yayıncılık ve basın yayın sektöründe kullanılan taklit yazı bloğu olarak tanımlanır. Lipsum, oluşturulacak şablon ve taslaklarda içerik yerine geçerek yazı bloğunu doldurmak için kullanılır.
+
 * * * 
 
 #### Yazı Tipi
@@ -286,6 +302,10 @@ Serbestçe yazı tipi arşivi indirilebilirsiniz. Alfabetik veye tarzınıza uyg
 [Abstract Fonts](http://abstractfonts.com/){:target="_blank"}
 
 Ücretsiz yazı tipleri.
+
+[The League of Moveable Type 🆕](https://www.theleagueofmoveabletype.com/){:target="_blank"}
+
+Moveable Type Ligi, açık kaynaklı fontlara adanmış ve herkesi tipografi becerilerini seviyelendiren yetkilere sahip ilk açık kaynak tipi dökümhanedir.
 
 * * * 
 
@@ -408,3 +428,16 @@ Gelişmiş ses efektleri.
 [Sound Gator](http://www.soundgator.com/){:target="_blank"}
 
 Ücretsiz ses efektleri.
+
+
+[Adobe Sound Effects 🆕](http://offers.adobe.com/en/na/audition/offers/audition_dlc/AdobeAuditionDLCSFX.html){:target="_blank"}
+
+Sıkıştırılmamış, telifi ücretsiz olan ses efektleri binlerce içermektedir. Özel olarak arşivlenmiş dosyaları zip olarak indirebilirsiniz. Süper Arşiv...
+
+[Adobe Music Loops 🆕](http://offers.adobe.com/en/na/audition/offers/audition_dlc/AdobeAuditionDLCMUSICLOOPS.html){:target="_blank"}
+
+Telif ücretsiz müzik müzik döngüleri ve yatakları binlerce içerir. Özel olarak arşivlenmiş dosyaları zip olarak indirebilirsiniz. Süper Arşiv...
+
+[Wavy.Audio 🆕](http://wavy.audio/){:target="_blank"}
+
+Projenize ilham vermek için telifsiz müzik örnekleri. Kural yok. Sadece gerçekten iyi sesler...
