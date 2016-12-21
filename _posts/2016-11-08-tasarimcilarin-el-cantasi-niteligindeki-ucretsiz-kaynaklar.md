@@ -277,7 +277,7 @@ Frame ile ücretsiz mükemmel görünümler elde elebilirsiniz.
 
 Tasarım ihtiyaçlarınız için bir yazı tipi bileşimi bulun.
 
-[Lorem Ipsum 🆕](lipsum.com){:target="_blank"}
+[Lorem Ipsum 🆕](http://lipsum.com){:target="_blank"}
 
 Lorem Ipsum, masaüstü yayıncılık ve basın yayın sektöründe kullanılan taklit yazı bloğu olarak tanımlanır. Lipsum, oluşturulacak şablon ve taslaklarda içerik yerine geçerek yazı bloğunu doldurmak için kullanılır.
 
