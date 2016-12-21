@@ -35,6 +35,7 @@ Code licensed under the [MIT License](https://github.com/ahmetcadirci.com.tr/blo
 
 ### Yeni Yazılar
 
+* [XAMPP Kullanarak Yerel Ana Makinenize Özel Alan Adı (.dev) Oluşturma](http://ahmetcadirci.com.tr/2016/xampp-kullanarak-yerel-ana-makinenize-ozel-alan-adi-dev-olusturma/)
 * [AMP HTML Merhaba Dünya!](http://ahmetcadirci.com.tr/2016/amp-html-merhaba-dunya/)
 * [WordPress wp-config.php'inizi Nasıl Güvenli Hale Getirebilirsiniz?](http://ahmetcadirci.com.tr/2016/wordpress-wp-config-php-inizi-nasil-guvenli-hale-getirebilirsiniz/)
 * [Onlar Sadece Çocuk...](http://ahmetcadirci.com.tr/2016/onlar-sadece-cocuk/)
