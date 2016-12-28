@@ -1,6 +1,6 @@
 # Site settings
 title: Ahmet Çadırcı — Web Geliştirici
-description: 'Ahmet Çadırcı... Kişisel web sitemde yer alan blog, video, podcast ve sosyal medya hesaplarımın linkleri yer almaktadır. Ahmet Çadırcı olarak yeni yayına başladığım sitemde yazı, fotoğraf ve eğlenceli içerikler üretmeyi hedefliyorum. İçeriklere hızlı ulaşmak için aşağıda yer alan bağlantılara tıklayarak abone olabilir ve takip edebilirsiniz.'
+description: 'Ahmet Çadırcı... Kişisel web sitemde yer alan blog, video, podcast, iletişim ve sosyal medya hesaplarımın linkleri yer almaktadır. Ahmet Çadırcı olarak yeni yayına başladığım sitemde yazı, fotoğraf ve eğlenceli içerikler üretmeyi hedefliyorum. İçeriklere hızlı ulaşmak için aşağıda yer alan bağlantılara tıklayarak abone olabilir ve takip edebilirsiniz.'
 url: 'http://ahmetcadirci.com.tr'
 baseurl: '/'
 google_analytics: 'UA-66383788-5'
