@@ -38,7 +38,7 @@ AMP HTML çalışma zamanı etiketinin ikinci kısmı olarak yüklenmelidir.
 AMP HTML dosyaları normal HTML'ye işaret eden kanonik bir bağlantı gerektirir. 
 
 ```
-<link rel="canonical" href="http://ahmetcadirci.com.tr/">
+<link rel="canonical" href="https://ahmetcadirci.com.tr/">
 ```
 
 ```
@@ -125,7 +125,7 @@ Body kısmının bitişi
     
   <script async src="https://cdn.ampproject.org/v0.js"></script>
     
-  <link rel="canonical" href="http://ahmetcadirci.com.tr/">
+  <link rel="canonical" href="https://ahmetcadirci.com.tr/">
     
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     

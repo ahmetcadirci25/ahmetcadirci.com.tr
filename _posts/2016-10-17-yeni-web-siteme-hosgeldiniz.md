@@ -9,14 +9,14 @@ postimg: "ahmetcadirci-wallpaper.jpg"
 
 Tüm sosyal medya hesaplarıma tek bir hesaptan ulaşabilirsiniz.
 
-- [YouTube](http://ahmetcadirci.com.tr/youtube){:target="_blank"}
-- [Podcast](http://ahmetcadirci.com.tr/podcast){:target="_blank"}
-- [GitHub](http://ahmetcadirci.com.tr/github){:target="_blank"}
-- [Instagram](http://ahmetcadirci.com.tr/instagram){:target="_blank"}
-- [Twitter](http://ahmetcadirci.com.tr/twitter){:target="_blank"}
-- [Facebook](http://ahmetcadirci.com.tr/facebook){:target="_blank"}
-- [Google Plus](http://ahmetcadirci.com.tr/googleplus){:target="_blank"}
-- [LinkedIn](http://ahmetcadirci.com.tr/linkedin){:target="_blank"}
+- [YouTube](https://ahmetcadirci.com.tr/youtube){:target="_blank"}
+- [Podcast](https://ahmetcadirci.com.tr/podcast){:target="_blank"}
+- [GitHub](https://ahmetcadirci.com.tr/github){:target="_blank"}
+- [Instagram](https://ahmetcadirci.com.tr/instagram){:target="_blank"}
+- [Twitter](https://ahmetcadirci.com.tr/twitter){:target="_blank"}
+- [Facebook](https://ahmetcadirci.com.tr/facebook){:target="_blank"}
+- [Google Plus](https://ahmetcadirci.com.tr/googleplus){:target="_blank"}
+- [LinkedIn](https://ahmetcadirci.com.tr/linkedin){:target="_blank"}
 - [Feed](http://feeds.feedburner.com/ahmetcadirci25){:target="_blank"}
 - [Podcast Feed](http://feeds.feedburner.com/ahmetcadirci25-podcast){:target="_blank"}
 

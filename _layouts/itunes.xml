@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-  <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://ahmetcadirci.com.tr/"/>
+  <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://ahmetcadirci.com.tr/"/>
   <title>{{ site.podcast.title }}</title>
   <link>{{ site.podcast.link }}</link>
   <language>tr-tr</language>

@@ -9,7 +9,7 @@ postimg: "tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar.png"
 
 Kolay kullanım için hazırlanan el çantası niteliğindeki bu sitelerden ücretsiz olarak yararlanabilirsiniz. Ücretsiz stok fotoğraflar, videolar, mockuplar, yazı tipleri, grafikler, araçlar, dokular, sesler, renkler ve ikonların yer aldığı listede bir çok sitenin linki bulunmaktadır.
 
-![Tasarımcıların El Çantası Niteliğindeki Ücretsiz Kaynaklar](http://ahmetcadirci.com.tr/images/tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar.png "Tasarımcıların El Çantası Niteliğindeki Ücretsiz Kaynaklar")
+![Tasarımcıların El Çantası Niteliğindeki Ücretsiz Kaynaklar](https://ahmetcadirci.com.tr/images/tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar.png "Tasarımcıların El Çantası Niteliğindeki Ücretsiz Kaynaklar")
 
 ### İçindekiler
 

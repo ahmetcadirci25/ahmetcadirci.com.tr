@@ -9,7 +9,7 @@ postimg: "feedburner.png"
 
 FeedBurner hesabınızdaki beslemeleri nasıl güncel hale getirebilirim. Feed dosyanızda güncelleme yaptıktan sonra FeedBurner'da bulunan beslemenizi hızlı bir şekilde güncelleme yapmak istiyorsanız aşağıdaki adımları takip ederek bu işlemi öğrenebilirsiniz. 
 
-![Ahmet Çadırcı FeedBurner Hesabı](http://ahmetcadirci.com.tr/images/feedburner.png "Ahmet Çadırcı FeedBurner Hesabı")
+![Ahmet Çadırcı FeedBurner Hesabı](https://ahmetcadirci.com.tr/images/feedburner.png "Ahmet Çadırcı FeedBurner Hesabı")
 
 ### FeedBurner Güncelleme Nasıl Yapılır?
 
@@ -25,7 +25,7 @@ FeedBurner hesabınızdaki beslemeleri nasıl güncel hale getirebilirim. Feed d
 
 1. [https://feedburner.google.com/fb/a/ping](https://feedburner.google.com/fb/a/ping){:target="_blank"} linke tıklayın
 
-2. **Web site address:** kısmına [http://ahmetcadirci.com.tr](http://ahmetcadirci.com.tr){:target="_blank"} gibi domain (alan adı) adresinizi yazın.
+2. **Web site address:** kısmına [https://ahmetcadirci.com.tr](https://ahmetcadirci.com.tr){:target="_blank"} gibi domain (alan adı) adresinizi yazın.
 
 3. 30 dakika içinde otomatik olarak pingleme yapılacaktır.
 

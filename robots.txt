@@ -5,4 +5,4 @@ Disallow: /ferzan/
 Disallow: /risale-i-nurdan-sohbetler/
 Disallow: /tarihce/
 
-Sitemap: http://ahmetcadirci.com.tr/sitemap.xml
+Sitemap: https://ahmetcadirci.com.tr/sitemap.xml
