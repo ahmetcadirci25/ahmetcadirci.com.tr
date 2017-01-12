@@ -35,6 +35,7 @@ Code licensed under the [MIT License](https://github.com/ahmetcadirci.com.tr/blo
 
 ### Yeni Yazılar
 
+* [Google Chrome Şifreleri Dışa ve İçe Aktarma](https://ahmetcadirci.com.tr/2017/google-chrome-sifreleri-disa-ve-ice-aktarma/)
 * [Adobe After Effects için 101 Ücretsiz Şablonlar](https://ahmetcadirci.com.tr/2016/adobe-after-effects-icin-101-ucretsiz-sablonlar/)
 * [Web Site Kaynağını Android Tarayıcısında Nasıl Görüntüleyebilirim?](https://ahmetcadirci.com.tr/2016/web-site-kaynagini-android-tarayicsinda-nasil-goruntuleyebilirim/)
 * [XAMPP Kullanarak Yerel Ana Makinenize Özel Alan Adı (.dev) Oluşturma](https://ahmetcadirci.com.tr/2016/xampp-kullanarak-yerel-ana-makinenize-ozel-alan-adi-dev-olusturma/)
