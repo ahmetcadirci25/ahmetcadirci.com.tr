@@ -10,8 +10,8 @@ postimg: "ahmetcadirci-wallpaper.jpg"
 
 Sosyal medya hesaplarımdan bana ulaşabilirsiniz.
 
-- [Feed](http://feeds.feedburner.com/ahmetcadirci25){:target="_blank"}
-- [Podcast Feed](http://feeds.feedburner.com/ahmetcadirci25-podcast){:target="_blank"}
+- [Feed](https://ahmetcadirci.com.tr/rss){:target="_blank"}
+- [Podcast Feed](https://ahmetcadirci.com.tr/podcast){:target="_blank"}
 - [Twitter](https://ahmetcadirci.com.tr/twitter){:target="_blank"}
 - [Instagram](https://ahmetcadirci.com.tr/instagram){:target="_blank"}
 - [YouTube](https://ahmetcadirci.com.tr/youtube){:target="_blank"}
