@@ -31,5 +31,3 @@ Bu yöntemi kullanarak şifreleri dışarı aktarmayla ilgili önemli bir nokta,
 Yukarıdaki tüm işlemleri aynı şekilde Opera tarayısında yaptıktan sonra `opera://settings/passwords` kısmından **"Al"** diyerek tüm kayıtlı şifreleri içeri aktarmış olursunuz.
 
 ![Opera Şifreleri Yönet](https://ahmetcadirci.com.tr/images/galeri/opera-sifreler.png "Opera Şifreleri Yönet")
-
-
