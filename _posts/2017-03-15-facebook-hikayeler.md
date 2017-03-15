@@ -50,6 +50,6 @@ Hikayenle bir yazı paylaştıktan sonra, Snapchat ve Instagram Hikayeleri'nin �
 ![Facebook Hikayeleri 24 Saat Sonra Yok Olur](https://ahmetcadirci.com.tr/images/galeri/facebook-hikayeler-24-saat.png "Facebook Hikayeleri 24 Saat Sonra Yok Olur")
 
 ### Kaynakça
-1. Facebook Stories: Everything You Need to Know About Facebook’s Latest Feature. 15 Mart 2017. https://blog.bufferapp.com/facebook-stories.
-2. Instagram. 15 Mart 2017. https://tr.wikipedia.org/wiki/Instagram.
-3. Snapchat. 15 Mart 15. https://tr.wikipedia.org/wiki/Snapchat.
+1. Instagram. 15 Mart 2017. https://tr.wikipedia.org/wiki/Instagram.
+2. Snapchat. 15 Mart 15. https://tr.wikipedia.org/wiki/Snapchat.
+3. Facebook Stories: Everything You Need to Know About Facebook’s Latest Feature. 15 Mart 2017. https://blog.bufferapp.com/facebook-stories.
