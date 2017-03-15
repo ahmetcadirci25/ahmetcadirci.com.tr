@@ -19,7 +19,7 @@ Bununla yetinmeyen Facebook bir atak yaparak Facebook Hikayeleri çıkarmak üze
 “Facebook Hikayeleri olarak bilinen özellik, kullanıcıların eğlenceli filtreleri ve Snapchat benzeri objektifleri içeriğine bindirmelerinin yanı sıra fotoğraflarına ve videolarına görsel coğrafi konum etiketleri eklemelerine izin veren Facebook'un uygulama içi kamerasına odaklanıyor. Kameraya erişmek için, Facebook mobil uygulamasında sağa hızlıca kaydırın.
 Instagram'a inanılmaz derecede başarılı sağladı. Instagram Hikayeleri Ağustos 2016'da başlatıldı ve şimdi dünyada günlük 150 milyondan fazla insan hikayeleri kullanıyor." <sup>3</sup>
 
-##Facebook Hikayeleri nasıl çalışır?
+##Facebook Hikayeleri nasıl çalışır?##
 
 Aynı Instagram’da olduğu gibi üst kısımda yer alan arkadaşlarınızda birini dokunmanız yeterlidir. 
 
@@ -49,7 +49,7 @@ Hikayenle bir yazı paylaştıktan sonra, Snapchat ve Instagram Hikayeleri'nin �
 
 ![Facebook Hikayeleri 24 Saat Sonra Yok Olur](https://ahmetcadirci.com.tr/images/galeri/facebook-hikayeler-24-saat.png "Facebook Hikayeleri 24 Saat Sonra Yok Olur")
 
-###Kaynakça
+###Kaynakça###
 1. Facebook Stories: Everything You Need to Know About Facebook’s Latest Feature. 15 Mart 2017. https://blog.bufferapp.com/facebook-stories.
 2. Instagram. 15 Mart 2017. https://tr.wikipedia.org/wiki/Instagram.
 3. Snapchat. 15 Mart 15. https://tr.wikipedia.org/wiki/Snapchat.
