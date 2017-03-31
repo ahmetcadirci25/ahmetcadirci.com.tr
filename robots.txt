@@ -4,5 +4,7 @@ Disallow: /feed.xml
 Disallow: /ferzan/
 Disallow: /risale-i-nurdan-sohbetler/
 Disallow: /tarihce/
+Disallow: /blaze-orange/
+Disallow: /clean/
 
 Sitemap: https://ahmetcadirci.com.tr/sitemap.xml
