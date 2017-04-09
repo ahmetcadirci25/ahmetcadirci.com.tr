@@ -37,13 +37,13 @@ sudo apt-get install git
 
 ## Gitkraken (GUI Clients) Kurulumu 
 
-[gitkraken.com](https://www.gitkraken.com/)
+[gitkraken.com](https://www.gitkraken.com/){:target="_blank"}
 
 Anasayfada bulunan Download butonuna tıklayarak programın kurulumunu yapabilirsiniz. 
 
 En popüler Windows, Mac ve Linux işletim sistemleri için uygun programları aşağıdaki linkten ulaşabilirsiniz.
 
-[git-scm.com](https://git-scm.com/downloads/guis/)
+[git-scm.com](https://git-scm.com/downloads/guis/){:target="_blank"}
 
 
 ## Node.js Kurulumu
