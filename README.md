@@ -35,6 +35,7 @@ Code licensed under the [MIT License](https://github.com/ahmetcadirci.com.tr/blo
 
 ### Yeni Yazılar
 
+* [Ubuntu Geliştirici Ekletilerinin Kurulumu](https://ahmetcadirci.com.tr/2017/ubuntu-gelistirici-eklentilerinin-kurulumu/)
 * [Facebook Hikayeler: Facebook'un En Son Özelliği Hakkında Bilmeniz Gereken Her Şey](https://ahmetcadirci.com.tr/2017/facebook-hikayeler/)
 * [VMware Workstation Port Değiştirme](https://ahmetcadirci.com.tr/2017/vmware-workstation-port-degistirme/)
 * [MainWP Dashboard ile Tüm Wordpress Sitelerinizi Tek Panelden Yönetme İmkanı](https://ahmetcadirci.com.tr/2017/mainwp-dashboard-ile-tum-sitelerinizi-tek-panelden-yonetme-imkani/)
