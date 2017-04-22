@@ -6553,6 +6553,7 @@ sub {
 #search-box {
     border-radius: 3px 0 0 3px;
     text-indent: 20px;
+    width: 100%;
 }
 
 .gonder {
@@ -6600,6 +6601,5 @@ sub {
 
     #search-box {
         border-radius:3px;
-        width: 100%;
     }
 }
