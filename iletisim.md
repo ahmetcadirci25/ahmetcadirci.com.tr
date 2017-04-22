@@ -29,8 +29,16 @@ Düşüncelerinizi bizimle paylaşabilirsiniz.
 
 <form action="https://formspree.io/ahmetcadirci25@gmail.com"
       method="POST">
+
+    <label for="name">Ad ve Soyad</label>
     <input type="text" name="name">
+
+    <label for="email">Mail Adresi</label>
     <input type="email" name="_replyto">
+
+    <label for="message">Mesajınız</label>
+    <textarea name="message" placeholder="Düşüncelerinizi paylaşın"></textarea>
+
     <input type="submit" value="Gönder">
 </form>
 
