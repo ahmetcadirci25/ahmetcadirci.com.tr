@@ -2,7 +2,8 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
@@ -10,7 +11,13 @@ layout: null
     <atom:link href="{{ "/feed.xml" | prepend: site.url }}" rel="self" type="application/rss+xml" />
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
+    <generator>Jekyll v{{ jekyll.version }}</generator>    
+    <webfeeds:cover image="http://ahmetcadirci.com.tr/images/ahmetcadirci-wallpaper.jpg" />
+    <webfeeds:icon>http://ahmetcadirci.com.tr/images/favicons/safari-pinned-tab.svg</webfeeds:icon>
+    <webfeeds:logo>http://ahmetcadirci.com.tr/images/favicons/safari-pinned-tab.svg</webfeeds:logo>
+    <webfeeds:accentColor>333333</webfeeds:accentColor>
+    <webfeeds:related layout="card" target="browser"/>
+
     {% for post in site.posts limit:50 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
