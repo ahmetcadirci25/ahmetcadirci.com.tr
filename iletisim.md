@@ -26,6 +26,16 @@ Sosyal medya hesaplarımdan bana ulaşabilirsiniz.
 
 Düşüncelerinizi bizimle paylaşabilirsiniz.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSemwowSc38Ycr5u4ob9_5ggz00frKgGi4fKSksBy-qUvIa4rg/viewform?embedded=true" width="100%" height="1100" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor...</iframe>
+
+<form action="https://formspree.io/ahmetcadirci25@gmail.com"
+      method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Gönder">
+</form>
+
+
+
+<!--<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSemwowSc38Ycr5u4ob9_5ggz00frKgGi4fKSksBy-qUvIa4rg/viewform?embedded=true" width="100%" height="1100" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor...</iframe>-->
 
 ** Adres ve telefon numaraları için iletişim formunu doldurarak talepte bulunabilirsiniz. Diğer durumlarda kesinlikle paylaşılmayacaktır. 
