@@ -6594,7 +6594,11 @@ sub {
         margin-bottom: 10px;
     }
 
-    .submit, #search-box {
+    .submit{
+        border-radius:3px;
+    }
+
+    #search-box {
         border-radius:3px;
     }
 }
