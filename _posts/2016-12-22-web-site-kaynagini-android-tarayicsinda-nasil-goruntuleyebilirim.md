@@ -9,6 +9,8 @@ postimg: "web-site-kaynagini-android-tarayicsinda-nasil-goruntuleyebilirim.png"
 
 Kolaylıkla mobil tarayıcıda web sitelerin kaynak kodlarını görüntüleyebilirsiniz. En çok kullanılan 3 tarayıcı üzerinde denendikten sonra sizlerle paylaşıyorum. 
 
+![Web Site Kaynağını Android Tarayıcısında Nasıl Görüntüleyebilirim?](https://ahmetcadirci.com.tr/images/web-site-kaynagini-android-tarayicsinda-nasil-goruntuleyebilirim.png "Web Site Kaynağını Android Tarayıcısında Nasıl Görüntüleyebilirim?")
+
 #### Nasıl Yapılır?
 
 Kaynağını görüntülemek istediğiniz sayfa url'sini `view-source:`'den sonra yazıyoruz.

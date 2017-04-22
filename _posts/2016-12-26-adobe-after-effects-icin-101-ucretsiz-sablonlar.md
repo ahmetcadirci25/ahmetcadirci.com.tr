@@ -9,6 +9,8 @@ postimg: "adobe-after-effects-icin-101-ucretsiz-sablonlar.png"
 
 Bu liste, Logan Kenesis (AEBuster), Hamo Studio, dehannb, Motion Stacks, Sven Van Lathem (Hareket ve Tasarım), Ruanak Chhabra (Editing Corp) ve RocketStock'in ücretsiz kaynaklarından derlenmiştir. Bağlantılı dosyaların yazarları tarafından barındırıldığını ve bu nedenle her zaman mevcut olmayabileceğini unutmayın. Ayrıca, bu ücretsiz şablonlardan bazıları Trapcode Particular (Red Giant tarafından) veya diğer eklentilerin tam olarak çalışmasını gerektirir.
 
+![Adobe After Effects için 101 Ücretsiz Şablonlar](https://ahmetcadirci.com.tr/images/adobe-after-effects-icin-101-ucretsiz-sablonlar.png "Adobe After Effects için 101 Ücretsiz Şablonlar")
+
 1. [http://aebuster.com/Downloads/Bourne.zip](http://aebuster.com/Downloads/Bourne.zip){:target="_blank"}
 2. [http://aebuster.com/Downloads/DataSignals.zip](http://aebuster.com/Downloads/DataSignals.zip){:target="_blank"}
 3. [http://aebuster.com/Downloads/Halloween-Ghouls.zip](http://aebuster.com/Downloads/Halloween-Ghouls.zip){:target="_blank"}

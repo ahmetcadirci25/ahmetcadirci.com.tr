@@ -9,6 +9,8 @@ postimg: "google-chrome-password-import-export.png"
 
 Google'ın Chrome tarayıcısını kullananlar, tarayıcının Otomatik Doldurma özelliği için kullanılabilecek şifre koruma özelliğinin farkında olacaktır. Bununla birlikte, şifrelerini tarayıcının kendisinden içe aktarabileceğinizi veya hatta dışa aktarabileceğinizi biliyor muydunuz?
 
+![Google Chrome Şifreleri Dışa ve İçe Aktarma](https://ahmetcadirci.com.tr/images/google-chrome-password-import-export.png "Google Chrome Şifreleri Dışa ve İçe Aktarma")
+
 ### Nasıl Yapılır?
 
 1. Chrome tarayıcısını açın ve adres çubuğuna `chrome://flags/#password-import-export` yazın. **"Enter"** tuşuna bastığınızda, Chrome bayrakları sayfasına getirileceksiniz.

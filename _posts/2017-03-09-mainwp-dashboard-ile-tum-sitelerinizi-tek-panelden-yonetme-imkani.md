@@ -9,6 +9,8 @@ postimg: "mainwp-dashboard-ile-tum-sitelerinizi-tek-panelden-yonetme-imkani.png"
 
 Wordpress uzun süredir internet dünyasında zirveyi korumaktadır. Birden fazla Wordpress'e sahip olan insanlar bunların yönetimde bazen sıkıntılar yaşamaktadırlar. Güncellemeler, eklentiler vb. işlemleri tüm sitelerde tekrarlamak oldukça zor hale gelebilir. 
 
+![MainWP Dashboard](https://ahmetcadirci.com.tr/images/mainwp-dashboard-ile-tum-sitelerinizi-tek-panelden-yonetme-imkani.png "MainWP Dashboard")
+
 Sizlere bir eklentiyi tanıtmak istiyorum. MainWP Dashboard adlı eklenti birden fazla Wordpress sitenizi tek siteden yönetme imkanı sunmaktadır. 
 
 Örneğin;

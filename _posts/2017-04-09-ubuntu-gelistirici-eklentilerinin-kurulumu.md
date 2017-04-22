@@ -9,6 +9,8 @@ postimg: "ubuntu-gelistirici-eklentilerinin-kurulumu.png"
 
 Ubuntu kullanan geliştirciler için Sublime Text, Git, Gitkraken, Node.js ve Gulp eklentilerinin kurulumunu anlatan rehber niteliğindedir.
 
+![Ubuntu Geliştirici Ekletilerinin Kurulumu](https://ahmetcadirci.com.tr/images/ubuntu-gelistirici-eklentilerinin-kurulumu.png "Ubuntu Geliştirici Ekletilerinin Kurulumu")
+
 ## Sublime Text Kurulumu
 
 **Sublime Text 3 için:**
