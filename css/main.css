@@ -6562,6 +6562,8 @@ sub {
     border-radius: 3px;
     font-size: .9em;
     color: #666;
+    height: 150px;
+    font-family: sans-serif;
 }
 
 .gonder {
@@ -6573,5 +6575,6 @@ sub {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    border-radius: 3px;
 }
 

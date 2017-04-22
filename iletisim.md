@@ -31,17 +31,17 @@ Düşüncelerinizi bizimle paylaşabilirsiniz.
       method="POST">
 
     <p>
-    <label for="name">Ad ve Soyad</label><br>
+    <label for="name">Ad Soyad</label><br>
     <input type="text" name="name">
     </p>
 
     <p>
-    <label for="email">Mail Adresi</label><br>
+    <label for="email">E-Mail</label><br>
     <input type="email" name="_replyto">
     </p>
 
     <p>
-    <label for="message">Mesajınız</label><br>
+    <label for="message">Mesaj</label><br>
     <textarea name="message" class="mesaj" placeholder="Düşüncelerinizi paylaşın"></textarea>
     </p>
 
