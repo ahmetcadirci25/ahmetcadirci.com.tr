@@ -13,7 +13,7 @@
 
       searchResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = '<li>Sonuç bulunamadı.</li>';
+      searchResults.innerHTML = '<li>No Search</li>';
     }
   }
 
