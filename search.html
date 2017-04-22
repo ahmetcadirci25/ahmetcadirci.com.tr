@@ -1,11 +1,12 @@
 ---
 layout: search
 ---
-<form action="/search/" method="get">
-  <input type="text" id="search-box" name="query">
-  <input type="submit" class="submit" value="Ara">
-</form>
-
+<div class="searchform">
+  <form class="sgroup" action="/search/" method="get">
+    <div class="sleft"><input type="text" class="sleft" id="search-box" name="query"></div>
+    <div class="sright"><input type="submit" class="submit" value="Ara"></div>
+  </form>
+</div>
 
 <div class="searchresults">
   <ul id="search-results"></ul>
