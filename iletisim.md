@@ -31,17 +31,17 @@ Düşüncelerinizi bizimle paylaşabilirsiniz.
       method="POST">
 
     <p>
-    <label for="name">Ad ve Soyad</label>
+    <label for="name">Ad ve Soyad</label><br>
     <input type="text" name="name">
     </p>
 
     <p>
-    <label for="email">Mail Adresi</label>
+    <label for="email">Mail Adresi</label><br>
     <input type="email" name="_replyto">
     </p>
 
     <p>
-    <label for="message">Mesajınız</label>
+    <label for="message">Mesajınız</label><br>
     <textarea name="message" class="mesaj" placeholder="Düşüncelerinizi paylaşın"></textarea>
     </p>
 
@@ -51,7 +51,7 @@ Düşüncelerinizi bizimle paylaşabilirsiniz.
 
     <input type="text" name="_gotcha" style="display:none" />
 
-    <p><input type="submit" value="Gönder"></p>
+    <p><input type="submit" class="gonder" value="Gönder"></p>
 </form>
 
 
