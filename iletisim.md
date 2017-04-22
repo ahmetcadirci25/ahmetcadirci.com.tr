@@ -47,6 +47,10 @@ Düşüncelerinizi bizimle paylaşabilirsiniz.
 
     <input type="hidden" name="_next" value="//ahmetcadirci.com.tr/iletisim/" />
 
+    <input type="hidden" name="_format" value="plain" />
+
+    <input type="text" name="_gotcha" style="display:none" />
+
     <p><input type="submit" value="Gönder"></p>
 </form>
 
