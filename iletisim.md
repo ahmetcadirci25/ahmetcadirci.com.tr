@@ -30,16 +30,24 @@ Düşüncelerinizi bizimle paylaşabilirsiniz.
 <form action="https://formspree.io/ahmetcadirci25@gmail.com"
       method="POST">
 
+    <p>
     <label for="name">Ad ve Soyad</label>
     <input type="text" name="name">
+    </p>
 
+    <p>
     <label for="email">Mail Adresi</label>
     <input type="email" name="_replyto">
+    </p>
 
+    <p>
     <label for="message">Mesajınız</label>
-    <textarea name="message" placeholder="Düşüncelerinizi paylaşın"></textarea>
+    <textarea name="message" class="mesaj" placeholder="Düşüncelerinizi paylaşın"></textarea>
+    </p>
 
-    <input type="submit" value="Gönder">
+    <input type="hidden" name="_next" value="//ahmetcadirci.com.tr/iletisim/" />
+
+    <p><input type="submit" value="Gönder"></p>
 </form>
 
 
