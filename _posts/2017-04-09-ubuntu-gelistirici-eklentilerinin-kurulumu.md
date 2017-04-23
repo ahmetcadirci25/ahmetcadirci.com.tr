@@ -68,7 +68,7 @@ Daha fazla bilgi için kaynaklar bölünde yer alan linklerden ulaşabilirsiniz.
 ### Kaynakça
 1. How do I install Sublime Text 2/3?. ‎9 ‎Nisan ‎2017. http://askubuntu.com/questions/172698/how-do-i-install-sublime-text-2-3
 2. How To Install Git on Ubuntu 14.04. ‎9 ‎Nisan ‎2017. https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04
-3. Git GUI for Windows, Mac & Linux | GitKraken. ‎9 ‎Nisan ‎2017. https://www.gitkraken.com/
+3. Git GUI for Windows, Mac & Linux GitKraken. ‎9 ‎Nisan ‎2017. https://www.gitkraken.com/
 4. Git - GUI Clients. ‎9 ‎Nisan ‎2017. https://git-scm.com/downloads/guis/
 5. How To Install Node.js on an Ubuntu 14.04 server. ‎9 ‎Nisan ‎2017. https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server
 6. gulp.js. ‎9 ‎Nisan ‎2017. http://gulpjs.com/
