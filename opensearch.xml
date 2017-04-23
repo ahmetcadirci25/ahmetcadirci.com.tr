@@ -4,8 +4,8 @@ layout: null
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
 <ShortName>Ahmet Çadırcı</ShortName>
 <Description>Ara ahmetcadirci.com.tr</Description>
-<Url type="text/html" method="get" template="{{ site.url }}search/?query={searchTerms}"/>
+<Url type="text/html" method="get" template="{{ site.url }}/search/?query={searchTerms}"/>
 <Image width="16" height="16">{{ "/images/favicons/favicon.ico" | prepend: site.url }}</Image>
 <InputEncoding>UTF-8</InputEncoding>
-<moz:SearchForm>{{ site.url }}search/</moz:SearchForm>
+<moz:SearchForm>{{ site.url }}/search/</moz:SearchForm>
 </OpenSearchDescription>
