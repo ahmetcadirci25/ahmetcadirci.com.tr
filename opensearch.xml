@@ -1,9 +1,11 @@
 ---
 layout: null
 ---
-<?xml version="1.0" encoding="UTF-8"?>
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-	<ShortName>{{ site.title }}</ShortName>
-	<Description>{% if site.google.cse_id %}Search{% else %}Use Google to search{% endif %} {{ site.title }}</Description>
-	<Url type="application/rss+xml" template="{% if site.google.cse_id %}{{ '/search/?' | prepend: site.baseurl | replace: '//', '/' | prepend: site.url }}{% else %}{{ '&amp;' | prepend: site.baseurl | prepend: site.url | prepend: 'https://www.google.com/search?as_sitesearch=' }}{% endif %}q={searchTerms}"/>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Ahmet Çadırcı</ShortName>
+<Description>Ara ahmetcadirci.com.tr</Description>
+<Url type="text/html" method="get" template="{{ site.url }}search/?query={searchTerms}"/>
+<Image width="16" height="16">{{ "/images/favicons/favicon.ico" | prepend: site.url }}</Image>
+<InputEncoding>UTF-8</InputEncoding>
+<moz:SearchForm>{{ site.url }}search/</moz:SearchForm>
 </OpenSearchDescription>
