@@ -1,6 +1,8 @@
 ---
 layout: default
-description: "Ahmet Çadırcı... Kişisel web sitemde yer alan blog, video, podcast, iletişim ve sosyal medya hesaplarımın linkleri yer almaktadır."
+title: Ahmet Çadırcı İletişim Bilgileri
+description: "Ahmet Çadırcı İletişim Bilgileri... Sosyal medya hesapları ve iletişim formu üzerinden ulaşabilirsiniz."
+permalink: /blog/
 postimg: "ahmetcadirci-wallpaper.jpg"
 ---
 <div class="main-post-list">
