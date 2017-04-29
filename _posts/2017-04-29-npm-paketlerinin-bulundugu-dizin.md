@@ -12,7 +12,7 @@ Npm paketlerinin nereye yüklendiğini görmek için `npm list -g` kodunu terimi
 ![Npm Paketlerinin Bulunduğu Dizin By Boris Vacher (derivative work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons](https://ahmetcadirci.com.tr/images/npm-paketlerinin-bulundugu-dizin.png "Npm Paketlerinin Bulunduğu Dizin")
 
 
-## Dosya Dizinleri
+**Dosya Dizinleri**
 
 Windows 7 - 8 - 10
 
