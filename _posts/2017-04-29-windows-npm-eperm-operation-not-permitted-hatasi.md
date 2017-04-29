@@ -1,5 +1,5 @@
 ---
-title: "Windows 'npm - EPERM: operation not permitted on' Hatası"
+title: "Windows npm - EPERM: operation not permitted on Hatası"
 description: "Npm install kodunu çalıştırdığınızda Error: EPERM: operation not permitted, mkdir 'C:\Program Files\Git\usr\local' at Error (native) şekilde hatanın çözümü.."
 date: 2017-04-29 19:20:00
 categories: [genel]
