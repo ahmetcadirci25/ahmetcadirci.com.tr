@@ -22,7 +22,7 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}
-        <hr>
+        <hr/>
         <table>
         <tr>
         <td>
