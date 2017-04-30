@@ -21,7 +21,21 @@ layout: null
     {% for post in site.posts limit:50 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
+        <description>{{ post.content | xml_escape }}
+        <hr>
+        <table>
+        <tr>
+        <td>
+        <img src="https://ahmetcadirci.com.tr/images/favicons/apple-touch-icon-76x76.png">
+        </td>
+        <td>
+        <p style="margin: 0 0 5px 0;"><strong>Ahmet Çadırcı</strong></p>
+        <p style="margin: 0 0 5px 0;"><a href="http://ahmetcadirci.com.tr">Diğer yazılar için tıklayın.</a></p>
+        <p style="margin: 0 0 5px 0;"><a href="https://twitter.com/ahmetcadirci25">Twitter</a> | <a href="https://www.youtube.com/ahmetcadirci25">YouTube</a> | <a href="https://www.instagram.com/ahmetcadirci25/">Instagram</a> | <a href="http://feeds.feedburner.com/ahmetcadirci25">Feed</a></p>
+        </td>
+        </tr>
+        </table>
+        </description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.url }}?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign={{ post.title }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.url }}?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign={{ post.title }}</guid>
