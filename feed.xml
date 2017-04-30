@@ -22,19 +22,19 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}
-        <hr/>
-        <table>
-        <tr>
-        <td>
-        <img src="https://ahmetcadirci.com.tr/images/favicons/apple-touch-icon-76x76.png"/>
-        </td>
-        <td>
-        <p style="margin: 0 0 5px 0;"><strong>Ahmet Çadırcı</strong></p>
-        <p style="margin: 0 0 5px 0;"><a href="http://ahmetcadirci.com.tr">Diğer yazılar için tıklayın.</a></p>
-        <p style="margin: 0 0 5px 0;"><a href="https://twitter.com/ahmetcadirci25">Twitter</a> | <a href="https://www.youtube.com/ahmetcadirci25">YouTube</a> | <a href="https://www.instagram.com/ahmetcadirci25/">Instagram</a> | <a href="http://feeds.feedburner.com/ahmetcadirci25">Feed</a></p>
-        </td>
-        </tr>
-        </table>
+        &lt;hr/&gt;
+        &lt;table&gt;
+        &lt;tr&gt;
+        &lt;td&gt;
+        &lt;img src="https://ahmetcadirci.com.tr/images/favicons/apple-touch-icon-76x76.png"/&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+        &lt;p style="margin: 0 0 5px 0;"&gt;&lt;strong&gt;Ahmet Çadırcı&lt;/strong&gt;&lt;/p&gt;
+        &lt;p style="margin: 0 0 5px 0;"&gt;&lt;a href="http://ahmetcadirci.com.tr"&gt;Diğer yazılar için tıklayın.&lt;/a&gt;&lt;/p&gt;
+        &lt;p style="margin: 0 0 5px 0;"&gt;&lt;a href="https://twitter.com/ahmetcadirci25"&gt;Twitter&lt;/a&gt; | &lt;a href="https://www.youtube.com/ahmetcadirci25"&gt;YouTube&lt;/a&gt; | &lt;a href="https://www.instagram.com/ahmetcadirci25/"&gt;Instagram&lt;/a&gt; | &lt;a href="http://feeds.feedburner.com/ahmetcadirci25"&gt;Feed&lt;/a&gt;&lt;/p&gt;
+        &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/table&gt;
         </description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.url }}?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign={{ post.title }}</link>
