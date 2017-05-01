@@ -48,5 +48,6 @@
 		}
 	],
 	"theme_color": "#252525",
+	"background_color": "#252525",
 	"display": "standalone"
 }
