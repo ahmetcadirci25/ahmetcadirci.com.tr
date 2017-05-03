@@ -35,6 +35,7 @@ Code licensed under the [MIT License](https://github.com/ahmetcadirci.com.tr/blo
 
 ### Yeni Yazılar
 
+* [Google Chrome'da Kullandığım Eklentiler](https://ahmetcadirci.com.tr/2017/google-chrome-da-kullandigim-eklentiler/)
 * [Windows 'npm - EPERM: operation not permitted on' Hatası](https://ahmetcadirci.com.tr/2017/npm-paketlerinin-bulundugu-dizin/)
 * [Npm Paketlerinin Bulunduğu Dizin](https://ahmetcadirci.com.tr/2017/npm-paketlerinin-bulundugu-dizin/)
 * [Ubuntu Geliştirici Ekletilerinin Kurulumu](https://ahmetcadirci.com.tr/2017/ubuntu-gelistirici-eklentilerinin-kurulumu/)
