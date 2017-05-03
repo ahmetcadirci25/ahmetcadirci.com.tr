@@ -5428,7 +5428,7 @@ ol,ul {
 
 ol li,ul li {
     margin: 0 0 .2em;
-    line-height: 1.6em
+    line-height: 1.6em;
     word-wrap: break-word;
 }
 
