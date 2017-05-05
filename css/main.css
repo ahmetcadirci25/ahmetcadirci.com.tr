@@ -5990,7 +5990,6 @@ i {
 
 input[type="text"],input[type="password"],input[type="datetime"],input[type="datetime-local"],input[type="date"],input[type="month"],input[type="time"],input[type="week"],input[type="number"],input[type="email"],input[type="url"],input[type="search"],input[type="tel"] {
     width: 240px;
-    /* padding: 1em; */
     background: #FFF;
     border: 1px solid #ddd;
     border-radius: 3px;
@@ -6590,17 +6589,17 @@ sub {
 }
 
 @media screen and (max-width: 640px) {
-    .sleft, .sright {
-        float: none;
+    .sleft,.sright {
+        float:none;
         width: auto;
         margin-bottom: 10px;
     }
 
-    .submit{
-        border-radius:3px;
+    .submit {
+        border-radius: 3px;
     }
 
     #search-box {
-        border-radius:3px;
+        border-radius: 3px;
     }
 }
