@@ -4158,19 +4158,6 @@ table {
     border-spacing: 0
 }
 
-body {
-    width: 100%;
-    *zoom:1}
-
-body:before,body:after {
-    content: "";
-    display: table
-}
-
-body:after {
-    clear: both
-}
-
 @font-face {
     font-family: "foundation-icons";
     src: url(../fonts/foundation-icons/foundation-icons.eot);
