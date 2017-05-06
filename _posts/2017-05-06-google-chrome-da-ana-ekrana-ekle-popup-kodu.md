@@ -1,5 +1,5 @@
 ---
-title: "Google Chrome'da Ana Ekrana Ekle Popup Kodu"
+title: "Google Chrome'da 'Ana Ekrana Ekle' Popup Kodu"
 description: "Android cihazda Chrome kullanarak ziyaret ettiğiniz web sitelerinde önünüze çıkan Ana Ekrana Ekle popup kodunu sizlerle paylaşıyorum."
 date: 2017-05-06 20:00:00
 categories: [genel]
@@ -11,11 +11,11 @@ Android cihazda Chrome kullanarak ziyaret ettiğiniz web sitelerinde önünüze 
 
 ![Google Chrome'da Ana Ekrana Ekle Popup Kodu](https://ahmetcadirci.com.tr/images/google-chrome-da-ana-ekrana-ekle-popup-kodu.png "Google Chrome'da Ana Ekrana Ekle Popup Kodu")
 
-[Linke](https://github.com/ahmetcadirci25/ana-ekrana-ekle){:target="_blank"} tıklayın ve sizin için hazırlamış olduğum dosyaları indirin.
+**[Linke](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases/tag/v1){:target="_blank"} tıklayın ve sizin için hazırlamış olduğum dosyaları indirin.**
 
 ### 1. Adım Logo Düzenleme
 
-İndirmiş olduğunuz klasör içinde yer alan ve aşağıda listelemiş olduğum logoları kendi logolarınızla değiştirin. 
+İndirmiş olduğunuz klasör içinde yer alan ve aşağıda listelemiş olduğum logoları kendi logonuzla değiştirin. 
 
 1. launcher-icon-0-75x.png
 2. launcher-icon-1x.png
@@ -78,7 +78,7 @@ Android cihazda Chrome kullanarak ziyaret ettiğiniz web sitelerinde önünüze 
 Web sayfamızda yer alan `<head>` etiketi arasına aşağıdaki kodu yapıştırın. 
 
 ```
-<link rel="manifest" href="/manifest.json">
+<link rel="manifest" href="manifest.json">
 <script>
     window.addEventListener('load', function() {
       var outputElement = document.getElementById('output');
