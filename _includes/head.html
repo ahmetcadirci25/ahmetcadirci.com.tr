@@ -47,19 +47,21 @@
 <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="http://feeds.feedburner.com/ahmetcadirci25">
 
-
-<style type="text/css" media="screen">
-#offline {
-    background: #f00;
-    color: #fff;
-    padding: 1em;
-    text-align: center;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-}
-</style>
+<script>
+    window.addEventListener('load', function() {
+      var outputElement = document.getElementById('output');
+      navigator.serviceWorker.register('sw.js', { scope: '/' })
+        .then(function(r) {
+          console.log('registered service worker');
+        })
+        .catch(function(whut) {
+          console.error('uh oh... ');
+          console.error(whut);
+        });
+      window.addEventListener('beforeinstallprompt', function(e) {
+        outputElement.textContent = 'beforeinstallprompt Event fired';
+      });
+    });
+</script>
 
 </head>
