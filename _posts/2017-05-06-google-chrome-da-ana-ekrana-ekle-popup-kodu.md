@@ -1,6 +1,6 @@
 ---
 title: "Google Chrome'da 'Ana Ekrana Ekle' Popup Kodu"
-description: "Android cihazda Chrome kullanarak ziyaret ettiğiniz web sitelerinde önünüze çıkan Ana Ekrana Ekle popup kodunu sizlerle paylaşıyorum."
+description: "Android cihazda Chrome kullanarak ziyaret ettiğiniz web sitelerinde önünüze çıkan 'Ana Ekrana Ekle' popup kodunu sizlerle paylaşıyorum."
 date: 2017-05-06 20:00:00
 categories: [genel]
 tags: [chrome]
@@ -103,7 +103,7 @@ Web sayfanızda yer alan `<head>` etiketleri arasına aşağıdaki kodu yapışt
 
 Şu anda Chrome, yalnızca bir kullanıcı sitenizi en az iki kez ziyaret ederse ve en az 5 dakika ayrılmışsa, afişi otomatik olarak gösterecek şekilde ayarlanmıştır. Birisi, Popupu yok sayarsa, Chrome'daki tarama verilerini silmedikçe tekrar gösterilmez. 
 
-Web siteyi ziyaret ettiğiniz çıkan popup
+Web siteyi ziyaret ettiğinizde çıkan popup
 
 ![Google Chrome'da Ana Ekrana Ekle Popup Kodu](https://ahmetcadirci.com.tr/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-4.png "Google Chrome'da Ana Ekrana Ekle Popup Kodu")
 
@@ -114,9 +114,8 @@ Ana ekrana eklendikten sonra açılış ekranı
 **Popupu test etmek için kullanışlı araçlar:**
 
 1. Adım Android cihazından Google Chrome'mu açın ve web sitenizi ziyaret edin. Eğer yukarıdaki gibi ekran görüntüsü ile karşılaşıyorsanız doğru bir işlem gerçekleştirmişsinizdir.
-2. Popup çalışmıyorsa URL'nizi bu manifest.json doğrulayıcıda test edin: [https://manifest-validator.appspot.com/](https://manifest-validator.appspot.com/){:target="_blank"}
-3. Popup çalışmıyorsa Chrome'daki kullanıcı Geliştirici araçlarını inceleyin ve Uygulamalar sekmesine bakın. Hizmetler ve Manifest'i kontrol edin, bunun gibi görünmelidir.
-
+2. Popup çalışmıyorsa URL'nizi manifest.json doğrulayıcıda test edin: [https://manifest-validator.appspot.com/](https://manifest-validator.appspot.com/){:target="_blank"}
+3. Popup çalışmıyorsa Chrome'daki kullanıcı Geliştirici araçlarını inceleyin ve Uygulamalar sekmesine bakın. Hizmetler ve Manifest'i kontrol edin, aşağıdaki gibi görünmelidir.
 
 ![Google Chrome'da Ana Ekrana Ekle Popup Kodu](https://ahmetcadirci.com.tr/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-1.png "Google Chrome'da Ana Ekrana Ekle Popup Kodu")
 
