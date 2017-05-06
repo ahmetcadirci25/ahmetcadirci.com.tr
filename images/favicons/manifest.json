@@ -1,5 +1,6 @@
 {
-	"name": "Ahmet \u00c7ad\u0131rc\u0131",
+	"name": "Ahmet Çadırcı",
+	"description": "Web Geliştirici",
 	"icons": [
 		{
 			"src": "\/images\/favicons\/android-chrome-36x36.png",
@@ -47,7 +48,9 @@
 			"type": "image\/png"
 		}
 	],
+	"start_url": "./?utm_source=web_app_manifest",
 	"theme_color": "#252525",
 	"background_color": "#252525",
-	"display": "standalone"
+	"display": "standalone",
+	"orientation": "portrait"
 }
