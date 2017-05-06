@@ -1,5 +1,6 @@
 {
-	"name": "Ahmet \u00c7ad\u0131rc\u0131",
+	"short_name": "Ahmet Çadırcı",
+	"name": "Ahmet Çadırcı — Web Geliştirici",
 	"icons": [
 		{
 			"src": "\/images\/favicons\/android-chrome-36x36.png",
@@ -49,5 +50,7 @@
 	],
 	"theme_color": "#252525",
 	"background_color": "#252525",
-	"display": "standalone"
+	"display": "standalone",
+	"start_url": "https://ahmetcadirci.com.tr/?utm_source=webapp",
+	"orientation": "portrait"
 }

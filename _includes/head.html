@@ -46,4 +46,21 @@
 <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.url }}">
 <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="http://feeds.feedburner.com/ahmetcadirci25">
+
+<script>
+    window.addEventListener('load', function() {
+      var outputElement = document.getElementById('output');
+      navigator.serviceWorker.register('sw.js', { scope: '/' })
+        .then(function(r) {
+          console.log('registered service worker');
+        })
+        .catch(function(whut) {
+          console.error('uh oh... ');
+          console.error(whut);
+        });
+      window.addEventListener('beforeinstallprompt', function(e) {
+        outputElement.textContent = 'beforeinstallprompt Event fired';
+      });
+    });
+</script>
 </head>
