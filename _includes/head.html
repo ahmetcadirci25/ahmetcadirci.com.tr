@@ -50,7 +50,7 @@
 <script>
     window.addEventListener('load', function() {
       var outputElement = document.getElementById('output');
-      navigator.serviceWorker.register('sw.js', { scope: '/' })
+      navigator.serviceWorker.register('./sw.js', { scope: '/' })
         .then(function(r) {
           console.log('registered service worker');
         })
