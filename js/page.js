@@ -11,14 +11,14 @@ var Page = (function() {
         vm: new ViewModel(),
         hideOfflineWarning: function() {
             // enable the live data
-            document.querySelector(".panel-cover").classList.remove('loading')
+            document.querySelector(".panel-main__content").classList.remove('loading')
             // remove the offline message
             document.getElementById("offline").remove();
             // load the live data
         },
         showOfflineWarning: function() {
             // disable the live data
-            document.querySelector(".panel-cover").classList.add('loading')
+            document.querySelector(".panel-main__content").classList.add('loading')
                 // load html template informing the user they are offline
             var request = new XMLHttpRequest();
             request.open('GET', './offline.html', true);
