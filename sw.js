@@ -21,6 +21,19 @@ let CURRENT_CACHES = {
 };
 const OFFLINE_URL = 'offline.html';
 
+self.addEventListener('install', function(e) {
+ e.waitUntil(
+   caches.open('airhorner').then(function(cache) {
+     return cache.addAll([
+       '/',
+       '/index.html',
+       '/css/main.css',
+       '/js/main.js'
+     ]);
+   })
+ );
+});
+
 function createCacheBustedRequest(url) {
   let request = new Request(url, {cache: 'reload'});
   // See https://fetch.spec.whatwg.org/#concept-request-mode
