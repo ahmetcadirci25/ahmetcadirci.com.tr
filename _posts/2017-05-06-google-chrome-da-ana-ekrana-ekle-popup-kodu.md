@@ -97,6 +97,8 @@ Web sayfamızda yer alan `<head>` etiketi arasına aşağıdaki kodu yapıştır
 </script>
 ```
 
+**[Index](https://github.com/ahmetcadirci25/ana-ekrana-ekle/blob/gh-pages/index.html) dosyasının son hali bu şekilde olmalıdır.**
+
 ### 4. Adım Test
 
 Şu anda Chrome, yalnızca bir kullanıcı sitenizi en az iki kez ziyaret ederse ve en az 5 dakika ayrılmışsa, afişi otomatik olarak gösterecek şekilde ayarlanmıştır. Birisi, Popupu yok sayarsa, Chrome'daki tarama verilerini silmedikçe tekrar gösterilmez. 
@@ -122,6 +124,11 @@ Ana ekrana eklendikten sonra açılış ekranı
 
 ![Google Chrome'da Ana Ekrana Ekle Popup Kodu](https://ahmetcadirci.com.tr/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-3.png "Google Chrome'da Ana Ekrana Ekle Popup Kodu")
 
+### 5. Dosyalar
+
+1. Repo [https://github.com/ahmetcadirci25/ana-ekrana-ekle](https://github.com/ahmetcadirci25/ana-ekrana-ekle)
+2. Zip [https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases)
+2. Önizleme [http://ahmetcadirci.com.tr/ana-ekrana-ekle/](http://ahmetcadirci.com.tr/ana-ekrana-ekle/)
 
 ### Kaynakça:
 
