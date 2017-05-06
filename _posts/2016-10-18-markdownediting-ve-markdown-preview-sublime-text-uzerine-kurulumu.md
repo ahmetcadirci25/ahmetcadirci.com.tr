@@ -13,7 +13,7 @@ Sublime Text içerisine bir eklenti kurabilmemiz için öncelikler Paket Kontrol
 
 Bunun için Sublime Text editörünün menü kısında yer alan `View > Show Console` menüsüne tıklıyoruz.
 
-Alt kısmında açılan yere [packagecontrol.io](https://packagecontrol.io/installation){:target="_blank"} sayfasında yer alan kodları kopyalıyoruz.
+Alt kısmında açılan yere [packagecontrol.io](https://packagecontrol.io/installation){:target="_blank"}{:rel="noopener"} sayfasında yer alan kodları kopyalıyoruz.
 
 **Sublime Text 3 veya Sublime Text 2 editör kullandığınıza dikkat edin!**
 

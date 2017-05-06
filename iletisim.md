@@ -11,16 +11,16 @@ postimg: "ahmetcadirci-wallpaper.jpg"
 Sosyal medya hesaplarımdan bana ulaşabilirsiniz.
 
 - [Feed](https://ahmetcadirci.com.tr/rss){:target="_blank"}{:rel="noopener"}
-- [Podcast Feed](https://ahmetcadirci.com.tr/podcast){:target="_blank"}
-- [Twitter](https://ahmetcadirci.com.tr/twitter){:target="_blank"}
-- [Instagram](https://ahmetcadirci.com.tr/instagram){:target="_blank"}
-- [YouTube](https://ahmetcadirci.com.tr/youtube){:target="_blank"}
-- [GitHub](https://ahmetcadirci.com.tr/github){:target="_blank"}
-- [Facebook](https://ahmetcadirci.com.tr/facebook){:target="_blank"}
-- [Google Plus](https://ahmetcadirci.com.tr/googleplus){:target="_blank"}
-- [LinkedIn](https://ahmetcadirci.com.tr/linkedin){:target="_blank"}
-- [Gitbook](https://www.gitbook.com/@ahmetcadirci25){:target="_blank"}
-- [Codepen](https://codepen.io/ahmetcadirci25){:target="_blank"}
+- [Podcast Feed](https://ahmetcadirci.com.tr/podcast){:target="_blank"}{:rel="noopener"}
+- [Twitter](https://ahmetcadirci.com.tr/twitter){:target="_blank"}{:rel="noopener"}
+- [Instagram](https://ahmetcadirci.com.tr/instagram){:target="_blank"}{:rel="noopener"}
+- [YouTube](https://ahmetcadirci.com.tr/youtube){:target="_blank"}{:rel="noopener"}
+- [GitHub](https://ahmetcadirci.com.tr/github){:target="_blank"}{:rel="noopener"}
+- [Facebook](https://ahmetcadirci.com.tr/facebook){:target="_blank"}{:rel="noopener"}
+- [Google Plus](https://ahmetcadirci.com.tr/googleplus){:target="_blank"}{:rel="noopener"}
+- [LinkedIn](https://ahmetcadirci.com.tr/linkedin){:target="_blank"}{:rel="noopener"}
+- [Gitbook](https://www.gitbook.com/@ahmetcadirci25){:target="_blank"}{:rel="noopener"}
+- [Codepen](https://codepen.io/ahmetcadirci25){:target="_blank"}{:rel="noopener"}
 
 ### İletişim Formu
 

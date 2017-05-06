@@ -58,7 +58,7 @@ hataları düzeltebilmek
 
 ![Arduino IDE](https://ahmetcadirci.com.tr/images/galeri/arduino-ide.png "Arduino IDE")
 
-* Son sürümüne [www.arduino.cc](http://www.arduino.cc){:target="_blank"} resmi internet sitesinden ulaşabilirsiniz.
+* Son sürümüne [www.arduino.cc](http://www.arduino.cc){:target="_blank"}{:rel="noopener"} resmi internet sitesinden ulaşabilirsiniz.
 * Tamamen ücretsizdir
 
 #### Gömülü Sistem Nedir?

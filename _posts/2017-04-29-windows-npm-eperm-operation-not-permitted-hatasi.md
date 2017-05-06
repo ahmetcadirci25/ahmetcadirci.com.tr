@@ -30,4 +30,4 @@ npm config set prefix /usr/local
 
 Daha farklı hatalar alıyorsanız aşağıdaki linkten yardım alabilirsiniz.
 
-[Npm issues](https://github.com/npm/npm/issues){:target="_blank"}
+[Npm issues](https://github.com/npm/npm/issues){:target="_blank"}{:rel="noopener"}
