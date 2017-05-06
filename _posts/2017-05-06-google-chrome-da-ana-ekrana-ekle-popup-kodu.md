@@ -75,7 +75,7 @@ Android cihazda Chrome kullanarak ziyaret ettiğiniz web sitelerinde önünüze 
 
 ### 3. Adım manifest.json ve serviceWorker.js Dosyasını Çağırma
 
-Web sayfamızda yer alan `<head>` etiketi arasına aşağıdaki kodu yapıştırın. 
+Web sayfanızda yer alan `<head>` etiketleri arasına aşağıdaki kodu yapıştırın. 
 
 ```
 <link rel="manifest" href="manifest.json">
@@ -97,7 +97,7 @@ Web sayfamızda yer alan `<head>` etiketi arasına aşağıdaki kodu yapıştır
 </script>
 ```
 
-**[Index](https://github.com/ahmetcadirci25/ana-ekrana-ekle/blob/gh-pages/index.html) dosyasının son hali bu şekilde olmalıdır.**
+**[Index](https://github.com/ahmetcadirci25/ana-ekrana-ekle/blob/gh-pages/index.html){:target="_blank"} dosyasının son hali bu şekilde olmalıdır.**
 
 ### 4. Adım Test
 
@@ -126,9 +126,9 @@ Ana ekrana eklendikten sonra açılış ekranı
 
 ### 5. Dosyalar
 
-1. Repo [https://github.com/ahmetcadirci25/ana-ekrana-ekle](https://github.com/ahmetcadirci25/ana-ekrana-ekle)
-2. Zip [https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases)
-2. Önizleme [http://ahmetcadirci.com.tr/ana-ekrana-ekle/](http://ahmetcadirci.com.tr/ana-ekrana-ekle/)
+1. Repo [https://github.com/ahmetcadirci25/ana-ekrana-ekle](https://github.com/ahmetcadirci25/ana-ekrana-ekle){:target="_blank"}
+2. Zip [https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases){:target="_blank"}
+2. Önizleme [http://ahmetcadirci.com.tr/ana-ekrana-ekle/](http://ahmetcadirci.com.tr/ana-ekrana-ekle/){:target="_blank"}
 
 ### Kaynakça:
 
