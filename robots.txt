@@ -6,5 +6,6 @@ Disallow: /risale-i-nurdan-sohbetler/
 Disallow: /tarihce/
 Disallow: /blaze-orange/
 Disallow: /clean/
+Disallow: /ana-ekrana-ekle/
 
 Sitemap: https://ahmetcadirci.com.tr/sitemap.xml
