@@ -52,12 +52,5 @@
 	"background_color": "#252525",
 	"display": "standalone",
 	"start_url": "https://ahmetcadirci.com.tr/?utm_source=webapp",
-	"orientation": "portrait",
-	"prefer_related_applications": true,
-	"related_applications": [
-	  {
-	    "platform": "play",
-	    "id": "com.google.samples.apps.iosched"
-	  }
-	]
+	"orientation": "portrait"
 }
