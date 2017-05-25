@@ -11,7 +11,7 @@ Hazreti Şems-i Tebrîzî'nin "Marifet Nedir?" sorusuna verdiği cevapta karşı
 
 ![Marifet Nedir?](https://ahmetcadirci.com.tr/images/marifet-nedir.png "Marifet Nedir? - Henry Ossawa Tanner [Public domain], via Wikimedia Commons")
 
-"Kalbin hak ile hayatlanmasıdır" der Hazret, ve ekler: "Diriyi öldür - yani nefsini. Ölüyü dirilt – yani kalbini. Bulduğunu yitir – yani dünyayı. Yitiğini bul – yani ahireti. Varı yok et – yani hevanı. Yoğu var et – yani niyetini"Eğer cehennemden kaçıyorsan niyetine sadık kal.Eğer Mevlanı arzu ediyorsan, yüzünü ona döndür, çünkü onu hemen bulacaksın..."
+"Kalbin hak ile hayatlanmasıdır" der Hazret, ve ekler: "Diriyi öldür - yani nefsini. Ölüyü dirilt – yani kalbini. Bulduğunu yitir – yani dünyayı. Yitiğini bul – yani ahireti. Varı yok et – yani hevanı. Yoğu var et – yani niyetini. Eğer cehennemden kaçıyorsan niyetine sadık kal. Eğer Mevlanı arzu ediyorsan, yüzünü ona döndür, çünkü onu hemen bulacaksın..."
 
 ### Kaynakça:
 
