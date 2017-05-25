@@ -35,6 +35,7 @@ Code licensed under the [MIT License](https://github.com/ahmetcadirci.com.tr/blo
 
 ### Yeni Yazılar
 
+* [Marifet Nedir?](https://ahmetcadirci.com.tr/2017/marifet-nedir/)
 * [Google Chrome'da 'Ana Ekrana Ekle' Popup Kodu](https://ahmetcadirci.com.tr/2017/google-chrome-da-ana-ekrana-ekle-popup-kodu/)
 * [Google Chrome'da Kullandığım Eklentiler](https://ahmetcadirci.com.tr/2017/google-chrome-da-kullandigim-eklentiler/)
 * [Windows 'npm - EPERM: operation not permitted on' Hatası](https://ahmetcadirci.com.tr/2017/npm-paketlerinin-bulundugu-dizin/)
