@@ -9,7 +9,10 @@ postimg: "cerebro-uygulamasi-her-seyi-ara.jpg"
 
 Cerebro uygulamasıyla bir kaç tıkla her şeyi aramaya başlayın. Açık kaynaklı ve hızlı uygulamayı hemen indirin. 
 
-![Cerebro Uygulaması - Her Şeyi Ara](https://cloud.githubusercontent.com/assets/594298/20180624/858a483a-a75b-11e6-94a1-ef1edc4d95c3.gif "Cerebro Uygulaması - Her Şeyi Ara")
+<blockquote class="twitter-tweet" data-lang="tr"><p lang="tr" dir="ltr">Cerebro Uygulaması - Her Şeyi Ara<a href="https://t.co/eb3nRRL9Xk">https://t.co/eb3nRRL9Xk</a> <a href="https://twitter.com/hashtag/Cerebro?src=hash">#Cerebro</a> <a href="https://t.co/C0q0iRZ92x">pic.twitter.com/C0q0iRZ92x</a></p>&mdash; Ahmet Çadırcı (@ahmetcadirci25) <a href="https://twitter.com/ahmetcadirci25/status/879750875681628160">27 Haziran 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[//]: # (![Cerebro Uygulaması - Her Şeyi Ara](https://cloud.githubusercontent.com/assets/594298/20180624/858a483a-a75b-11e6-94a1-ef1edc4d95c3.gif "Cerebro Uygulaması - Her Şeyi Ara"))
 
 [Cerebro App](https://cerebroapp.com/){:target="_blank"}{:rel="noopener"} web sayfasından işletim sistemize uygun olanı seçerek indirme işlemini başlatın. Kurulumu son derece basit tek tıklamayla otomatik kurulum işlemi gerçekleşiyor. 
 
