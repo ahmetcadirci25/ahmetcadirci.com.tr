@@ -26,7 +26,7 @@ Eklenti listesine aşağıdaki linkten ulaşabilirsiniz.
 
 [https://github.com/lubien/awesome-cerebro](https://github.com/lubien/awesome-cerebro){:target="_blank"}{:rel="noopener"} 
 
-**Bir kaç deneme yapalım**
+**Bir kaç deneme yapalım 🤠**
 
 ![Cerebro Uygulaması - Her Şeyi Ara](https://ahmetcadirci.com.tr/images/cerebro-uygulamasi-her-seyi-ara.jpg "Cerebro Uygulaması - Her Şeyi Ara")
 
@@ -36,3 +36,7 @@ Eklenti listesine aşağıdaki linkten ulaşabilirsiniz.
 4. Yandex Translate eklentisini kurduktan sonra `hayvan hakları` yazdığınızda ekstra bir bölüm `hayvan hakları`'ın ingilizce karşılığını ulabilirsiniz.
 5. Youtube eklentisini kurduktan sonra `yt hayvan hakları` yazdığınızda Youtube yer alan videolara erişebilirsiniz.
 5. Google Maps eklentisini kurduktan sonra `maps istanbul` yazdığınızda Google Maps haritas açılacaktır.
+
+**Syntax Error**
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/yR4xZagT71AAM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/google-search-yR4xZagT71AAM">via GIPHY</a></p>
