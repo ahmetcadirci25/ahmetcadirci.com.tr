@@ -35,6 +35,7 @@ Code licensed under the [MIT License](https://github.com/ahmetcadirci.com.tr/blo
 
 ### Yeni Yazılar
 
+* [Cerebro Uygulaması - Her Şeyi Ara](https://ahmetcadirci.com.tr/2017/cerebro-uygulamasi-her-seyi-ara/)
 * [Marifet Nedir?](https://ahmetcadirci.com.tr/2017/marifet-nedir/)
 * [Google Chrome'da 'Ana Ekrana Ekle' Popup Kodu](https://ahmetcadirci.com.tr/2017/google-chrome-da-ana-ekrana-ekle-popup-kodu/)
 * [Google Chrome'da Kullandığım Eklentiler](https://ahmetcadirci.com.tr/2017/google-chrome-da-kullandigim-eklentiler/)
