@@ -1,6 +1,6 @@
 ---
 title: "Windows 10 Elan Touchpad Çalışmıyorsa Yapmanız Gerekenler"
-description: ""
+description: "Windows kullanıcılarının bir kısmı, Windows 10 yükseltmesinden sonra fare ayarları bölümünde hiçbir Elan touchpad sekmesi görünmüyor olabilir."
 date: 2017-08-26 20:46:00
 categories: [genel]
 tags: [elan touchpad]
@@ -50,16 +50,11 @@ Eski, yanlış yapılandırılmış, eksik ve uyumsuz dokunmatik yüzey sürüc�
 2. Açıklan ekranda arama kutusuna Aygıt Yöneticisi yazın ve çalıştırın.
 3. Görünüm menüsüne tıklayın.
 4. Gizli aygıtları göster'i seçin.
-
 5. Fare ve diğer işaretleme aygıtlarını genişletin veya girişler arasından Elan touchpad cihazını bulun.
 6. Sağ tıklayıp Cihazı kaldırın.
-
 ![Sürücüyü Yeniden Yükleyin](https://ahmetcadirci.com.tr/images/windows-10-elan-touchpad-calismiyorsa-yapmaniz-gerekenler-4.jpg "Sürücüyü Yeniden Yükleyin")
-
 7. Eylem menüsüne gidin.
 8. Donanım değişikliklerini tara'yı seçin.
-
 ![Sürücüyü Yeniden Yükleyin](https://ahmetcadirci.com.tr/images/windows-10-elan-touchpad-calismiyorsa-yapmaniz-gerekenler-5.jpg "Sürücüyü Yeniden Yükleyin")
-
 9. Sonra Windows size sürücüyü güncellemede yardım edecektir. Elan touchpad sürücüsünü yeniden yüklemek için ekrandaki talimatları takip edebilirsiniz.
 10. Sürücü değişikliklerinin etkili olması için bilgisayarı yeniden başlatın.
