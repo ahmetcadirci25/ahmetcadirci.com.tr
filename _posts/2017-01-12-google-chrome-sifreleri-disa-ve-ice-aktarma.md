@@ -1,15 +1,17 @@
 ---
-title: "Google Chrome Şifreleri Dışa ve İçe Aktarma"
-description: "Google'ın Chrome tarayıcısında şifrelerini tarayıcının kendisinden içe aktarabileceğinizi veya hatta dışa aktarabileceğinizi biliyor muydunuz?"
-date: 2017-01-12 22:40:00
-categories: [genel]
-tags: [çözüm]
-postimg: "google-chrome-password-import-export.png"
+title: Google Chrome Şifreleri Dışa ve İçe Aktarma
+layout: post
+description: Google'ın Chrome tarayıcısında şifrelerini tarayıcının kendisinden içe
+  aktarabileceğinizi veya hatta dışa aktarabileceğinizi biliyor muydunuz?
+date: '2017-01-13 01:40:00 +0300'
+categories:
+- genel
+tags:
+- çözüm
+postimg: google-chrome-password-import-export.png
 ---
 
 Google'ın Chrome tarayıcısını kullananlar, tarayıcının Otomatik Doldurma özelliği için kullanılabilecek şifre koruma özelliğinin farkında olacaktır. Bununla birlikte, şifrelerini tarayıcının kendisinden içe aktarabileceğinizi veya hatta dışa aktarabileceğinizi biliyor muydunuz?
-
-![Google Chrome Şifreleri Dışa ve İçe Aktarma](https://ahmetcadirci.com.tr/images/google-chrome-password-import-export.png "Google Chrome Şifreleri Dışa ve İçe Aktarma")
 
 ### Nasıl Yapılır?
 
