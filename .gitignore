@@ -4,3 +4,6 @@ _site
 *.sublime-project
 *.sublime-workspace
 .DS_Store
+_config.yml
+Gemfile
+Gemfile.lock
