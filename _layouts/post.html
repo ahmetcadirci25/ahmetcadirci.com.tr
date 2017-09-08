@@ -4,7 +4,7 @@ layout: default
 <article class="post-container post-container--single">
 	<header class="post-header">
 		<div class="post-meta">
-			<time datetime="{{ page.date | date: "%-d %b %Y" }}" class="post-meta__date date">Tarih: {{ page.date | date: "%-d %b %Y" }}</time> &#8226; <span class="post-meta__tags">Etiket: {% for tag in page.tags %}<a href="{{ site.baseurl }}etiketler/#{{ tag }}">{{ tag }}</a> {% endfor %}</span>
+			<time datetime="{{ page.date | date: "%-d %b %Y" }}" class="post-meta__date date">Tarih: {{ page.date | date: "%-d %b %Y" }}</time> &#8226; <span class="post-meta__tags">Etiket: {% for tag in page.tags %}<a href="{{ site.url }}/etiketler/#{{ tag }}">{{ tag }}</a> {% endfor %}</span>
 		</div>
 		<h2 class="post-title">{{ page.title }}</h2>
 		<div class="share">
