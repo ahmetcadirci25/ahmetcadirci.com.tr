@@ -25,18 +25,18 @@ Dalları, yeni sürümler için yeni özellikler geliştirmek için kullanılır
 
 ### Feature
 
-![GitKraken Feature](https://ahmetcadirci..com.tr/images/galeri/finish-feature.gif "GitKraken Feature")
+![GitKraken Feature](https://ahmetcadirci.com.tr/images/galeri/finish-feature.gif "GitKraken Feature")
 
 <p>Özelliğini geliştirir ve onu temizler.</p>
 
 ### Release 
 
-![GitKraken Release](https://ahmetcadirci..com.tr/images/galeri/finish-release.gif "GitKraken Release")
+![GitKraken Release](https://ahmetcadirci.com.tr/images/galeri/finish-release.gif "GitKraken Release")
 
 Release `master` ve `develop` geliştirir ve birleştirir.
 
 ### Hotfix
 
-![GitKraken Hotfix](https://ahmetcadirci..com.tr/images/galeri/finish-hotfix.gif "GitKraken Hotfix")
+![GitKraken Hotfix](https://ahmetcadirci.com.tr/images/galeri/finish-hotfix.gif "GitKraken Hotfix")
 
 Hotfix `master` ve `develop` hatalarını düzeltir.
