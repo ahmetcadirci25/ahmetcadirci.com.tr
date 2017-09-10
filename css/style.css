@@ -5323,7 +5323,8 @@ h1+h3,h2+h3 {
 .navigation__dropdown>li>a {
     color: #9a9a90;
     display: block;
-    padding: 3px 9px
+    padding: 3px 9px;
+    text-transform: capitalize;
 }
 
 @media (min-width: 992px) {
