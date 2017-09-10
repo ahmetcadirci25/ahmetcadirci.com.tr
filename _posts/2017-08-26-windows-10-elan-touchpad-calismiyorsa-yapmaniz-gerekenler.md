@@ -4,7 +4,7 @@ description: "Windows kullanıcılarının bir kısmı, Windows 10 yükseltmesin
 date: 2017-08-26 20:46:00
 categories: [genel]
 tags: [elan touchpad]
-postimg: "windows-10-elan-touchpad-calismiyorsa-yapmaniz-gerekenler-6.jpg"
+postimg: "windows-10-elan-touchpad-calismiyorsa-yapmaniz-gerekenler.jpg"
 ---
 
 Windows kullanıcılarının bir kısmı, Windows 10 yükseltmesinden sonra fare ayarları bölümünde hiçbir Elan touchpad sekmesi görünmüyor olabilir. Bazıları, Elan dokunmatik yüzey ayarlarını değiştirecekleri zaman Elan sekmesini veya diğer fare ayarları seçeneklerini çalışmayabilir. Windows 10 bilgisayarınızdaki Elan touchpad sekmesi veya ayarları, genellikle, dokunmatik yüzeyle ilgili donanım, yanlış yapılandırılmış aygıt ayarları, uygun olmayan Elan touchpad sürücüsü vb. gibi birçok sorun olabilir.
