@@ -11,7 +11,7 @@ Ankara Üniversitesi Web Programlama Bölümü mezunuyum. 2010’dan bu güne We
  
 Sadece web programlama değil, web tasarım, video, tasarım ve reklam üzerine de çalışıyor. Hayat tüm hızıyla devam ediyor.
  
-Facebook, youtube, twitter,  instagram vb. [sosyal medya](https://ahmetcadirci.com.tr/sosyal-medya/) alanlarda da bana ulaşabilirsiniz. 
+[Facebook](https://ahmetcadirci.com.tr/facebook/), [twitter](https://ahmetcadirci.com.tr/twitter/), [instagram](https://ahmetcadirci.com.tr/instagram/) vb. [sosyal medya](https://ahmetcadirci.com.tr/sosyal-medya/) alanlarda da bana ulaşabilirsiniz. 
 
 <blockquote class="blockquote__alternative">
     "Ey gönül! Gülü seviyorsan dikenini de seveceksin, deryayı seviyorsan dalgalarını da seveceksin, vuslatı seviyorsan firakını da seveceksin, sevgiliyi seviyorsan nazını da seveceksin, hayatı seviyorsan ölümü de seveceksin."
