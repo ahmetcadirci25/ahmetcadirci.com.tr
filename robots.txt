@@ -1,6 +1,4 @@
 User-Agent: *
-Disallow: /js/main.js
-Disallow: /feed.xml
 Disallow: /ferzan/
 Disallow: /risale-i-nurdan-sohbetler/
 Disallow: /tarihce/

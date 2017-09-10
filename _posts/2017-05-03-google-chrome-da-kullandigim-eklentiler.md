@@ -9,9 +9,6 @@ postimg: "google-chrome-da-kullandigim-eklentiler.png"
 
 Sizin içinde yararlı olacağını düşündüğüm ve sıklıkla kullandığım Chrome eklentileri..
 
-![Google Chrome'da Kullandığım Eklentiler](https://ahmetcadirci.com.tr/images/google-chrome-da-kullandigim-eklentiler.png "Google Chrome'da Kullandığım Eklentiler")
-
-
 ### [1. Instant Translate](https://chrome.google.com/webstore/detail/instant-translate-select/ihmgiclibbndffejedjimfjmfoabpcke){:target="_blank"}{:rel="noopener"}
 
 Google Chrome çeviri eklentisi. 104 dil mevcut ve anında çeviri imkanı. Firefox, Safari, Opera ve Edge eklentileri mevcuttur.  

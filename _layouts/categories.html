@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
 ---
+
 <h2>Kategoriler:</h2>
 <div class="categories"> 
 	{% for catitem in site.categories  %} 
-	<a href="#{{ catitem[0] }}">{{  catitem[0] }}</a>
+	<a href="#{{ catitem[0] }}" class="tags__link">{{  catitem[0] }}</a>
 	{% endfor %}
 </div>
 <!-- iterate through all categories on the site --> 

@@ -9,8 +9,6 @@ postimg: "facebook-hikayeler.jpg"
 
 Bilginiz gibi “Snapchat; Akıllı telefonlar için geliştirilmiş, platformlar arası çalışma özelliğine sahip bir anlık mesajlaşma uygulamasıdır.”<sup>1</sup> İlk olan Snapchat paylaşımları 24 saat içinde yok etmesidir.  Çok fazla ilgi görünce bazı büyük sitelerde kurnazlık yapıp aynı özelliği kendi uygulamalarına entegre ettiler.
 
-![Facebook Hikayeler](https://ahmetcadirci.com.tr/images/facebook-hikayeler.jpg "Facebook Hikayeler")
-
 Instagram “Kevin Systrom ve Mike Krieger tarafından kurulan Instagram Nisan 2012 yılında sosyal medya devi Facebook tarafından 1 milyar dolara satın alındı.”<sup>2</sup> Artık Facebook tarafından geliştirlen Instagram, Snapchat en büyük özelliği olan hikayeler kısmını kısa süre önde uygulamasına entegre etti. 
 Bununla yetinmeyen Facebook bir atak yaparak Facebook Hikayeleri çıkarmak üzere...
 
