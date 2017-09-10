@@ -15,17 +15,6 @@
           </div>
         </div>
         <div class="col-xs-12  col-md-3">
-          <div class="tags  widget-tags">
-            <h6>Etiketler</h6>
-            <hr>
-
-              {% for tagitem in site.tags limit:5 %} 
-              <a href="{{ site.url }}/etiketler/#{{ tagitem[0] }}" class="tags__link">{{  tagitem[0] }}</a>
-              {% endfor %}
-
-          </div>
-        </div>
-        <div class="col-xs-12  col-md-3">
           <nav class="widget-navigation  push-down-30">
             <h6>Menü</h6>
             <hr>
@@ -46,12 +35,24 @@
           </nav>
         </div>
         <div class="col-xs-12  col-md-3">
-          <div class="widget-contact  push-down-30">
-            <h6>İletişim</h6>
+          <nav class="widget-navigation  push-down-30">
+            <h6>Kategoriler</h6>
             <hr>
-            <span class="widget-contact__text">
-            <span class="widget-contact__title">İletişim Bilgileri</span> 
-            </span> 
+            <ul class="navigation">          
+               {% for catitem in site.categories limit:5  %} 
+                <li><a href="{{ site.url }}/kategoriler/#{{ catitem[0] }}">{{  catitem[0] }}</a></li>
+               {% endfor %}
+              </li>
+            </ul>
+          </nav>
+        </div>
+        <div class="col-xs-12  col-md-3">
+          <div class="tags  widget-tags">
+            <h6>Etiketler</h6>
+            <hr>
+              {% for tagitem in site.tags limit:5 %} 
+                  <a href="{{ site.url }}/etiketler/#{{ tagitem[0] }}" class="tags__link">{{  tagitem[0] }}</a>
+              {% endfor %}
           </div>
         </div>
       </div>

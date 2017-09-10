@@ -5793,7 +5793,7 @@ body.search-mode .search-panel {
     font-weight: 400;
     color: #51ab6d;
     padding: 5px 0;
-    text-transform: none;
+    text-transform: capitalize;
     border: 0;
     font-family: Lato,sans-serif;
     font-size: 14px
