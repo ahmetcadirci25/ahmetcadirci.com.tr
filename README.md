@@ -35,6 +35,8 @@ Code licensed under the [MIT License](https://github.com/ahmetcadirci.com.tr/blo
 
 ### Yeni Yazılar
 
+* [GitKraken GitFlow Kullanımı ve Özellikleri](https://ahmetcadirci.com.tr/2017/gitkraken-gitflow-kullanimi-ve-ozellikleri/)
+* [Windows 10 Elan Touchpad Çalışmıyorsa Yapmanız Gerekenler](https://ahmetcadirci.com.tr/2017/windows-10-elan-touchpad-calismiyorsa-yapmaniz-gerekenler/)
 * [Cerebro Uygulaması - Her Şeyi Ara](https://ahmetcadirci.com.tr/2017/cerebro-uygulamasi-her-seyi-ara/)
 * [Marifet Nedir?](https://ahmetcadirci.com.tr/2017/marifet-nedir/)
 * [Google Chrome'da 'Ana Ekrana Ekle' Popup Kodu](https://ahmetcadirci.com.tr/2017/google-chrome-da-ana-ekrana-ekle-popup-kodu/)
