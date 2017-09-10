@@ -1,10 +1,10 @@
 ---
-title: "VMware Workstation Port Değiştirme"
+title      : "VMware Workstation Port Değiştirme"
 description: "VMware Workstation'daki port değiştirmek kolaydır. VMware Workstation programını açın ve adımları takip edin."
-date: 2017-03-10 00:30:00
-categories: [genel]
-tags: [çözüm]
-postimg: "vmware-workstation-port-degistirme.webp"
+date       : 2017-03-10 00:30:00
+categories : [genel]
+tags       : [çözüm]
+postimg    : "vmware-workstation-port-degistirme.webp"
 ---
 
 VMware Workstation ile fiziksel bilgisayarlar, laptoplar üzerinde birden fazla sanal işletim sistemi çalıştırmamıza olanak sağlayan sanallaştırma programdır. 

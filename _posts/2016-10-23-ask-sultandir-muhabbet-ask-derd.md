@@ -1,11 +1,11 @@
 ---
-title: "Aşk Sultandır — Muhabbet, Aşk, Derd"
+title      : "Aşk Sultandır — Muhabbet, Aşk, Derd"
 description: "Aşk sultandır. Üç mertebe var derler; muhabbet, aşk, derd. Muhabbet ehli o ki, mahbûbunu görürse memnûn, görmezse kaydında değil..."
-date: 2016-10-23 21:16:20
-categories: [genel]
-tags: [şiir]
-postimg: "ask-sultandir.webp"
-featured: true
+date       : 2016-10-23 21:16:20
+categories : [genel]
+tags       : [şiir]
+postimg    : "ask-sultandir.webp"
+featured   : true
 ---
 
 **Aşk sultandır.**

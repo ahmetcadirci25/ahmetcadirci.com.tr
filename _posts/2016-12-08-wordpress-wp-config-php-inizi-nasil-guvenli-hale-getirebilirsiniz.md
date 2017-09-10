@@ -1,10 +1,10 @@
 ---
-title: "WordPress wp-config.php'inizi Nasıl Güvenli Hale Getirebilirsiniz?"
+title      : "WordPress wp-config.php'inizi Nasıl Güvenli Hale Getirebilirsiniz?"
 description: "wp-config.php dosyası, WordPress siteniz için önemli yapılandırma bilgilerini tutar ve mümkün olduğu kadar davetsiz misafirlerden korumak önemlidir."
-date: 2016-12-08 11:00:00
-categories: [genel]
-tags: [wordpress]
-postimg: "wordpress-wp-config-php-inizi-nasil-guvenli-hale-getirebilirsiniz.webp"
+date       : 2016-12-08 11:00:00
+categories : [genel]
+tags       : [wordpress]
+postimg    : "wordpress-wp-config-php-inizi-nasil-guvenli-hale-getirebilirsiniz.webp"
 ---
 
 WordPress, genel olarak, kurulması ve kısa bir süre içinde üzerinde çalışmaya hazır olan kolay bir sistemdir. Yanlışlıkla sitenizi hackerlara açık hale getirebilir ve hacklenme sonra sıkıntılar yaşayabilirsiniz.

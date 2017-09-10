@@ -1,10 +1,10 @@
 ---
-title: "Ubuntu Geliştirici Ekletilerinin Kurulumu"
+title      : "Ubuntu Geliştirici Ekletilerinin Kurulumu"
 description: "Ubuntu kullanan geliştirciler için Sublime Text, Git, Gitkraken, Node.js ve Gulp eklentilerinin kurulumunu anlatan rehber niteliğindedir."
-date: 2017-04-09 15:40:00
-categories: [genel]
-tags: [ubuntu]
-postimg: "ubuntu-gelistirici-eklentilerinin-kurulumu.webp"
+date       : 2017-04-09 15:40:00
+categories : [genel]
+tags       : [ubuntu]
+postimg    : "ubuntu-gelistirici-eklentilerinin-kurulumu.webp"
 ---
 
 Ubuntu kullanan geliştirciler için Sublime Text, Git, Gitkraken, Node.js ve Gulp eklentilerinin kurulumunu anlatan rehber niteliğindedir.

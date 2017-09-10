@@ -1,10 +1,10 @@
 ---
-title: "Yeni Web Siteme Hoşgeldiniz!"
+title      : "Yeni Web Siteme Hoşgeldiniz!"
 description: "Tüm sosyal medya hesaplarıma tek bir hesaptan ulaşabilirsiniz."
-date: 2016-10-08 23:16:23
-categories: [genel]
-tags: [sosyal medya]
-postimg: "ahmetcadirci-wallpaper.webp"
+date       : 2016-10-08 23:16:23
+categories : [genel]
+tags       : [sosyal medya]
+postimg    : "ahmetcadirci-wallpaper.webp"
 ---
 
 Tüm sosyal medya hesaplarıma tek bir hesaptan ulaşabilirsiniz.

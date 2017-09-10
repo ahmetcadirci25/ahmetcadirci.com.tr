@@ -1,10 +1,10 @@
 ---
-title: "10+ İnsana Mutluluk Veren Ayçiçek Tarlaları"
+title      : "10+ İnsana Mutluluk Veren Ayçiçek Tarlaları"
 description: "İnsana Mutluluk Veren Ayçiçek Tarlaları... Gördüğümüzde bizleri mutlu eden, uçsuz buçaksız dünyalara götürendir ayçiçek tarlaları."
-date: 2016-11-12 19:36:00
-categories: [galeri]
-tags: [fotoğraf]
-postimg: "insana-mutluluk-veren-aycicek-tarlalari.webp"
+date       : 2016-11-12 19:36:00
+categories : [galeri]
+tags       : [fotoğraf]
+postimg    : "insana-mutluluk-veren-aycicek-tarlalari.webp"
 ---
 
 Gördüğümüzde bizleri mutlu eden, uçsuz buçaksız dünyalara götürendir ayçiçek tarlaları. Tarlanın içine girmeden, sadece karşıdan oturup izleyerek dahi o renk cümbüşünün içinde kaybolmak mümkündür ve paha biçilmezdir. Bu manzarayı seyrederken dünyanın en güzel yerinde olduğunu hissedersiniz. İnsana Mutluluk Veren Ayçiçek Tarlalarını sizler için paylaşıyoruz. Fotoğrafları çeken bu güzel insanlara teşekkür ederiz. Bizleri mutlu ettikleri için...

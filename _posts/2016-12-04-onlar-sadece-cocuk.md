@@ -1,10 +1,10 @@
 ---
-title: "Onlar Sadece Çocuk..."
+title      : "Onlar Sadece Çocuk..."
 description: "Suriyeli Çocuklar... Yıllardır Süren Acımasız Savaştan Görüntüler..."
-date: 2016-12-04 21:00:00
-categories: [galeri]
-tags: [fotoğraf]
-postimg: "onlar-sadece-cocuk.webp"
+date       : 2016-12-04 21:00:00
+categories : [galeri]
+tags       : [fotoğraf]
+postimg    : "onlar-sadece-cocuk.webp"
 ---
 
 Suriyeli Çocuklar... Yıllardır Süren Acımasız Savaştan Görüntüler...

@@ -1,10 +1,10 @@
 ---
-title: "MarkdownEditing ve Markdown Preview Eklentilerinin Sublime Text Üzerine Kurulumu"
+title      : "MarkdownEditing ve Markdown Preview Eklentilerinin Sublime Text Üzerine Kurulumu"
 description: "Zengin metinler üretmek için MarkdownEditing ve Markdown Preview Eklentilerinin Sublime Text Üzerine Kurulumu..."
-date: 2016-10-18 16:41:00
-categories: [genel]
-tags: [sublime text]
-postimg: "markdownediting-kurulum.webp"
+date       : 2016-10-18 16:41:00
+categories : [genel]
+tags       : [sublime text]
+postimg    : "markdownediting-kurulum.webp"
 ---
 
 ## Birinci Adım Paket Kontrol (Package Control) Kurulumu

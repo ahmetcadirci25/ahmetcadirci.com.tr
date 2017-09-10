@@ -1,10 +1,10 @@
 ---
-title: "Tasarımcıların El Çantası Niteliğindeki Ücretsiz Kaynaklar (Fotoğraf,  Video, İkon, Yazı Tipi, Renk, Ses)"
+title      : "Tasarımcıların El Çantası Niteliğindeki Ücretsiz Kaynaklar (Fotoğraf,  Video, İkon, Yazı Tipi, Renk, Ses)"
 description: "Ücretsiz stok fotoğraflar, videolar, mockuplar, yazı tipleri, grafikler, araçlar, dokular, sesler, renkler ve ikonların yer aldığı listede bir çok sitenin linki bulunmaktadır."
-date: 2016-11-08 12:57:23
-categories: [genel]
-tags: [tasarım]
-postimg: "tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar.webp"
+date       : 2016-11-08 12:57:23
+categories : [genel]
+tags       : [tasarım]
+postimg    : "tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar.webp"
 ---
 
 Kolay kullanım için hazırlanan el çantası niteliğindeki bu sitelerden ücretsiz olarak yararlanabilirsiniz. Ücretsiz stok fotoğraflar, videolar, mockuplar, yazı tipleri, grafikler, araçlar, dokular, sesler, renkler ve ikonların yer aldığı listede bir çok sitenin linki bulunmaktadır.

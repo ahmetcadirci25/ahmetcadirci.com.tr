@@ -1,10 +1,10 @@
 ---
-title: "5+ Ücretsiz En İyi WordPress Randevu ve Rezervasyon Eklentileri"
+title      : "5+ Ücretsiz En İyi WordPress Randevu ve Rezervasyon Eklentileri"
 description: "Danışman ya da otel randevularını yönetmek için Randevu kullanabilirsiniz. 5 ücretsiz en iyi WordPress randevu ve rezervasyon eklentilerini bulabilirsiniz."
-date: 2016-10-20 09:44:00
-categories: [galeri]
-tags: [wordpress]
-postimg: "appointments.webp"
+date       : 2016-10-20 09:44:00
+categories : [galeri]
+tags       : [wordpress]
+postimg    : "appointments.webp"
 ---
 
 Müşterilerinize doğrudan ulaşmak istiyorsanız WordPress siteniz için randevu eklentisi yükleyebilirsiniz. Diş hekimi, kuaför, danışman, ya da otel randevularını yönetmek için kullanabilirsiniz. Bu makalede, 5 en iyi WordPress randevu ve rezervasyon eklentilerini bulabilirsiniz.

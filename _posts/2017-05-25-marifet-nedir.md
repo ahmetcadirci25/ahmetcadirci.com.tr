@@ -1,10 +1,10 @@
 ---
-title: "Marifet nedir?"
+title      : "Marifet nedir?"
 description: "Hazreti Şems-i Tebrîzî'nin Marifet Nedir? sorusuna verdiği cevapta karşılığını bulur."
-date: 2017-05-25 10:30:00
-categories: [genel]
-tags: [kitap]
-postimg: "marifet-nedir.webp"
+date       : 2017-05-25 10:30:00
+categories : [genel]
+tags       : [kitap]
+postimg    : "marifet-nedir.webp"
 ---
 
 Hazreti Şems-i Tebrîzî'nin "Marifet Nedir?" sorusuna verdiği cevapta karşılığını bulur.

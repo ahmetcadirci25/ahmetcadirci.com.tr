@@ -1,10 +1,10 @@
 ---
-title: "Mikrobilgisayar Sistemleri Örnek Sorular"
+title      : "Mikrobilgisayar Sistemleri Örnek Sorular"
 description: "2016 Mikrobilgisayar Sistemleri ve Arduino Soru Örnekleri..."
-date: 2016-11-19 19:40:00
-categories: [genel]
-tags: [arduino]
-postimg: "mikrobilgisayar-sistemleri-ornek-sorular.webp"
+date       : 2016-11-19 19:40:00
+categories : [genel]
+tags       : [arduino]
+postimg    : "mikrobilgisayar-sistemleri-ornek-sorular.webp"
 ---
 
 Aşağıdaki döngü bittiği zaman hangi pinler lojik 1 yapılmış olur?

@@ -1,10 +1,10 @@
 ---
-title: "5+ Ücretsiz En Çok Kullanılan Kod Editörleri (Windows, Mac ve Lunix)"
+title      : "5+ Ücretsiz En Çok Kullanılan Kod Editörleri (Windows, Mac ve Lunix)"
 description: "Windows, Mac ve Lunix platformlarında kaynak kod düzenleme ve metin düzenleme işlemlerini yapabilirsiniz. "
-date: 2016-10-20 09:44:00
-categories: [galeri]
-tags: [editör]
-postimg: "atom-io-kod-editoru.webp"
+date       : 2016-10-20 09:44:00
+categories : [galeri]
+tags       : [editör]
+postimg    : "atom-io-kod-editoru.webp"
 ---
 
 Listelediğimiz kod editörleri, içinde birçok programlama arayüzünü barındırmaktadır. Windows, Mac ve Lunix platformlarında kaynak kod düzenleme ve metin düzenleme işlemlerini yapabilirsiniz. 
