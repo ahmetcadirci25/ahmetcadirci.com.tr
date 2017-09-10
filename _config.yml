@@ -1,10 +1,11 @@
 # Site settings
 title: Ahmet Çadırcı — Web Geliştirici
 description: 'Ahmet Çadırcı... Kişisel web sitemde yer alan blog, video, podcast, iletişim ve sosyal medya hesaplarımın linkleri yer almaktadır. Ahmet Çadırcı olarak yeni yayına başladığım sitemde yazı, fotoğraf ve eğlenceli içerikler üretmeyi hedefliyorum. İçeriklere hızlı ulaşmak için aşağıda yer alan bağlantılara tıklayarak abone olabilir ve takip edebilirsiniz.'
+short_description: 'Kişisel web sitemde yer alan blog, video, podcast, iletişim ve sosyal medya hesaplarımın linkleri yer almaktadır.'
 url: 'https://ahmetcadirci.com.tr'
 baseurl: '/'
 google_analytics: 'UA-66383788-5'
-disqus_shortname: 'ahmetcadirci25'
+disqus_shortname: 'ahmetcadirci'
 
 author:
   name: 'Ahmet Çadırcı'
@@ -29,7 +30,7 @@ defaults:
 
 # Build settings
 destination: _site
-paginate: 10
+paginate: 5
 permalink: /:year/:title/
 markdown: kramdown
 highlighter: rouge

@@ -1,0 +1,101 @@
+<div class="col-xs-12  col-md-4">
+
+          <!-- Widget author -->
+          <div class="widget-author  boxed  push-down-30">
+            <div class="widget-author__image-container">
+              <div class="widget-author__avatar--blurred">
+                <img src="{{ "/images/dummy/hakkimizda.png" | prepend: site.url }}" alt="{{ site.author.name }}" width="90" height="90">
+              </div>
+              <img class="widget-author__avatar" src="{{ "/images/avatar.png" | prepend: site.url }}" alt="{{ site.author.name }}" width="90" height="90">
+            </div>
+            <div class="row">
+              <div class="col-xs-10  col-xs-offset-1">
+                <h4>{{ site.author.name }}</h4>
+                <p>{{ site.short_description }}</p>
+              </div>
+            </div>
+          </div>
+          <div class="sidebar  boxed  push-down-30">
+            <div class="row">
+              <div class="col-xs-10  col-xs-offset-1">
+
+                <!-- Widget categories -->
+                <div class="widget-categories  push-down-30">
+                  <h6>Kategoriler</h6>
+                  <hr>
+                  <ul>
+                      {% for catitem in site.categories  %} 
+                      <li><a href="{{ site.url }}/kategoriler/#{{ catitem[0] }}">{{  catitem[0] }}</a></li>
+                      {% endfor %}
+                  </ul>
+                </div>
+
+                <!-- Widget featured post -->
+                {% for post in site.posts %}{% if post.featured == true %}{% capture counttwo %}{{ counttwo | plus: '1' }}{% endcapture %}{% if counttwo == '2' or counttwo == '3' %}
+                      <div class="widget-featured-post  push-down-30">
+                        <h6>Popüler Yazı</h6>
+                        <hr>
+                        <img src="{{ site.url }}/images/{{post.postimg}}" alt="{{ post.title }}" height="127">
+                        <h4>
+                          <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}">{{ post.title }}</a> 
+                        </h4>
+                      </div>
+                {% endif %}{% endif %}{% endfor %}
+
+                <!-- Widget posts -->
+                <div class="widget-posts  push-down-30">
+                  <h6>En Son Eklenen Yazılar</h6>
+                  <hr>
+
+                  <!-- Tab panes -->
+                  <div class="tab-content">
+                    <div id="recent-posts">
+                      
+                      {% for post in site.posts limit:5 %}
+                      <div class="push-down-15">
+                        <h5>
+                          <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}">{{ post.title }}</a> 
+                        </h5>
+                        <span class="widget-posts__time">{{ post.date | date: "%-d %b %Y" }}</span> 
+                      </div>
+                      {% endfor %}
+
+                    </div>
+                    
+                  </div>
+                </div>
+                <div class="tags  widget-tags">
+                  <h6>Etiketler</h6>
+                  <hr>
+                  {% for tagitem in site.tags limit:5 %} 
+                  <a href="{{ site.url }}/etiketler/#{{ tagitem[0] }}" class="tags__link">{{  tagitem[0] }}</a>
+                  {% endfor %}
+                </div>
+
+                <!-- Widget Twitter -->
+                <div class="widget-twitter  push-down-30">
+                  <h6>Twitter</h6>
+                  <hr>
+                  <a class="twitter-timeline" data-height="350" href="https://twitter.com/ahmetcadirci25">Tweets by ahmetcadirci25</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+                
+                
+                <div class="social-icons  widget-social-icons  push-down-30">
+                  <h6>Sosyal Medya Hesaplarım</h6>
+                  <hr>
+                  <a href="{{ site.url }}/rss" target="_blank" class="social-icons__container"> <span class="zocial-rss"></span>  </a> 
+                  <a href="{{ site.url }}/podcast" target="_blank" class="social-icons__container"> <span class="zocial-podcast"></span>  </a> 
+                  <a href="{{ site.url }}/facebook" target="_blank" class="social-icons__container"> <span class="zocial-facebook"></span>  </a> 
+                  <a href="{{ site.url }}/twitter" target="_blank" class="social-icons__container"> <span class="zocial-twitter"></span>  </a> 
+                  <a href="{{ site.url }}/instagram" target="_blank" class="social-icons__container"> <span class="zocial-instagram"></span>  </a> 
+                  <a href="{{ site.url }}/youtube" target="_blank" class="social-icons__container"> <span class="zocial-youtube"></span>  </a> 
+                  <a href="{{ site.url }}/googleplus" target="_blank" class="social-icons__container"> <span class="zocial-googleplus"></span>  </a> 
+                  <a href="{{ site.url }}/linkedin" target="_blank" class="social-icons__container"> <span class="zocial-linkedin"></span>  </a> 
+                  <a href="{{ site.url }}/bitbucket" target="_blank" class="social-icons__container"> <span class="zocial-bitbucket"></span>  </a> 
+                  <a href="{{ site.url }}/github" target="_blank" class="social-icons__container"> <span class="zocial-github"></span>  </a>  
+                  <a href="{{ site.url }}/codepen" target="_blank" class="social-icons__container"> <span class="zocial-html5"></span>  </a>  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>

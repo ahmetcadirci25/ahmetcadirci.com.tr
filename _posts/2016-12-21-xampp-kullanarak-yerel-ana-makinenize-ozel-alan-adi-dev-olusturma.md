@@ -9,8 +9,6 @@ postimg: "xampp-kullanarak-yerel-ana-makinenize-ozel-alan-adi-dev-olusturma.png"
 
 Kodlar Windows'u temel alır, ancak 2. adımdan itibaren diğer işletim sistemlerine uygulanabilir.
 
-![XAMPP Kullanarak Yerel Ana Makinenize Özel Alan Adı (.dev) Oluşturma](https://ahmetcadirci.com.tr/images/xampp-kullanarak-yerel-ana-makinenize-ozel-alan-adi-dev-olusturma.png "XAMPP Kullanarak Yerel Ana Makinenize Özel Alan Adı (.dev) Oluşturma")
-
 #### 1. Adım:
 
 ![hosts dosyası](https://ahmetcadirci.com.tr/images/galeri/hosts-dosyasi.png "hosts dosyası")

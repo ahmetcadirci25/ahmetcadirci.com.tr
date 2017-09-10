@@ -1,19 +1,19 @@
 ---
+layout: video
 title: "#1: WordPress Nedir? — WordPress Dersleri Video"
 description: "WordPress, dünyada en çok kullanılan içerik yönetim sistemlerinden biridir."
 date: 2016-10-08 23:36:20
 categories: [podcast]
 tags: [wordpress, video, youtube]
 keywords: podcast, wordpress
-postimg: "ahmetcadirci-wallpaper.jpg"
+postimg: "wordpress-nedir.png"
 duration: "01:17"
 length: 23800000
 mp3: "podsync.net/download/youtube/h-yyH3aaxv8.mp4"
+videoid: 233166808
 ---
 
 WordPress, dünyada en çok kullanılan içerik yönetim sistemlerinden biridir.
-
-<iframe width="100%" height="350" src="http://www.youtube.com/embed/h-yyH3aaxv8" frameborder="0" allowfullscreen></iframe>
 
 * * *
 

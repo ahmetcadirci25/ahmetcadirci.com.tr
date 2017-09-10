@@ -9,8 +9,6 @@ postimg: "google-chrome-da-ana-ekrana-ekle-popup-kodu.png"
 
 Android cihazda Chrome kullanarak ziyaret ettiğiniz web sitelerinde önünüze çıkan "Ana Ekrana Ekle" popup kodunu sizlerle paylaşıyorum. Bunun çalışması için sitenizin https olması gerekir.
 
-![Google Chrome'da Ana Ekrana Ekle Popup Kodu](https://ahmetcadirci.com.tr/images/google-chrome-da-ana-ekrana-ekle-popup-kodu.png "Google Chrome'da Ana Ekrana Ekle Popup Kodu")
-
 **[Linke](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases/tag/v1){:target="_blank"}{:rel="noopener"} tıklayın ve sizin için hazırlamış olduğum dosyaları indirin.**
 
 ### 1. Adım Logo Düzenleme

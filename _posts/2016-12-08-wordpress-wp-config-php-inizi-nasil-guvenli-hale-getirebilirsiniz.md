@@ -9,8 +9,6 @@ postimg: "wordpress-wp-config-php-inizi-nasil-guvenli-hale-getirebilirsiniz.png"
 
 WordPress, genel olarak, kurulması ve kısa bir süre içinde üzerinde çalışmaya hazır olan kolay bir sistemdir. Yanlışlıkla sitenizi hackerlara açık hale getirebilir ve hacklenme sonra sıkıntılar yaşayabilirsiniz.
 
-![WordPress wp-config.php'inizi Nasıl Güvenli Hale Getirebilirsiniz?](https://ahmetcadirci.com.tr/images/wordpress-wp-config-php-inizi-nasil-guvenli-hale-getirebilirsiniz.png "WordPress wp-config.php'inizi Nasıl Güvenli Hale Getirebilirsiniz?")
-
 "wp-config.php" dosyası, WordPress siteniz için önemli yapılandırma bilgilerini tutar ve mümkün olduğu kadar davetsiz misafirlerden korumak önemlidir.
 
 ### wp-config.php'yi Nasıl Güvenli Hale Getirebilirim?

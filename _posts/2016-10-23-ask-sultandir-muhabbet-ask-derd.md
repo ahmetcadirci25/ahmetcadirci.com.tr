@@ -5,6 +5,7 @@ date: 2016-10-23 21:16:20
 categories: [genel]
 tags: [şiir]
 postimg: "ask-sultandir.png"
+featured: true
 ---
 
 **Aşk sultandır.**

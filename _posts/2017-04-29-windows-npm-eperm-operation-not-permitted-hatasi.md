@@ -9,8 +9,6 @@ postimg: "npm-paketlerinin-bulundugu-dizin.png"
 
 Npm install komutunu çalıştırdığınızda aşağıdaki gibi bir hata alıyorsanız. Çözüm kısmında yer alan kodu çalıştırmanı yeterlidir. 
 
-![Windows npm - EPERM: operation not permitted on Hatası By Boris Vacher (derivative work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons](https://ahmetcadirci.com.tr/images/npm-paketlerinin-bulundugu-dizin.png "Windows npm - EPERM: operation not permitted on Hatası")
-
 **Hata**
 
 ```

@@ -9,8 +9,6 @@ postimg: "feedburner.png"
 
 FeedBurner hesabınızdaki beslemeleri nasıl güncel hale getirebilirim. Feed dosyanızda güncelleme yaptıktan sonra FeedBurner'da bulunan beslemenizi hızlı bir şekilde güncelleme yapmak istiyorsanız aşağıdaki adımları takip ederek bu işlemi öğrenebilirsiniz. 
 
-![Ahmet Çadırcı FeedBurner Hesabı](https://ahmetcadirci.com.tr/images/feedburner.png "Ahmet Çadırcı FeedBurner Hesabı")
-
 ### FeedBurner Güncelleme Nasıl Yapılır?
 
 1. FeedBurner hesabınıza giriş yapın.
