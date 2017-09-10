@@ -11,20 +11,20 @@ Müşterilerinize doğrudan ulaşmak istiyorsanız WordPress siteniz için rande
 
 ### [1. BirchPress](https://wordpress.org/plugins/birchschedule/){:target="_blank"}{:rel="noopener"}
 
-![BirchPress](https://ahmetcadirci.com.tr/images/galeri/birchschedule-1.png "BirchPress")
+![BirchPress](https://ahmetcadirci.com.tr/images/galeri/birchschedule-1.webp "BirchPress")
 
 ### [2. Booking Calendar](https://wordpress.org/plugins/booking/){:target="_blank"}{:rel="noopener"}
 
-![Booking Calendar](https://ahmetcadirci.com.tr/images/galeri/booking-2.png "Booking Calendar")
+![Booking Calendar](https://ahmetcadirci.com.tr/images/galeri/booking-2.webp "Booking Calendar")
 
 ### [3. Appointments](https://tr.wordpress.org/plugins/appointments/){:target="_blank"}{:rel="noopener"}
 
-![Appointments](https://ahmetcadirci.com.tr/images/galeri/appointments-3.jpg "Appointments")
+![Appointments](https://ahmetcadirci.com.tr/images/galeri/appointments-3.webp "Appointments")
 
 ### [4. WP Simple Booking Calendar](https://wordpress.org/plugins/wp-simple-booking-calendar/){:target="_blank"}{:rel="noopener"}
 
-![WP Simple Booking Calendar](https://ahmetcadirci.com.tr/images/galeri/wp-simple-booking-calendar-4.png "WP Simple Booking Calendar")
+![WP Simple Booking Calendar](https://ahmetcadirci.com.tr/images/galeri/wp-simple-booking-calendar-4.webp "WP Simple Booking Calendar")
 
 ### [5. Gravity Forms Directory](https://wordpress.org/plugins/gravity-forms-addons/){:target="_blank"}{:rel="noopener"}
 
-![Gravity Forms Directory](https://ahmetcadirci.com.tr/images/galeri/gravity-forms-addons-5.jpg "Gravity Forms Directory")
+![Gravity Forms Directory](https://ahmetcadirci.com.tr/images/galeri/gravity-forms-addons-5.webp "Gravity Forms Directory")

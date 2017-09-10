@@ -17,7 +17,7 @@ postimg: "feedly-ahmet-cadirci-rss.webp"
 
 ### İçe Aktarma (Import)
 
-![Feedly İçe Aktarma (Import)](https://ahmetcadirci.com.tr/images/galeri/feedly-rss-ice-aktarma-import.png "Feedly İçe Aktarma (Import)")
+![Feedly İçe Aktarma (Import)](https://ahmetcadirci.com.tr/images/galeri/feedly-rss-ice-aktarma-import.webp "Feedly İçe Aktarma (Import)")
 
 1. [http://feedly.com/i/cortex](http://feedly.com/i/cortex){:target="_blank"}{:rel="noopener"} bağlantıya tıklayın.
 2. İçe aktarmak isteğiniz **OPML** uzantılı dosyayı açılan sayfadaki **Dosya Seç** kısmından ekleyin.
@@ -27,7 +27,7 @@ postimg: "feedly-ahmet-cadirci-rss.webp"
 
 ### Dışa Aktarma (Export)
 
-![Feedly Dışa Aktarma (Export)](https://ahmetcadirci.com.tr/images/galeri/feedly-rss-disa-aktarma-export.png "Feedly Dışa Aktarma (Export)")
+![Feedly Dışa Aktarma (Export)](https://ahmetcadirci.com.tr/images/galeri/feedly-rss-disa-aktarma-export.webp "Feedly Dışa Aktarma (Export)")
 
 1. [http://feedly.com/i/opml](http://feedly.com/i/opml){:target="_blank"}{:rel="noopener"} bağlantıya tıklayın.
 2. Daha sonra **DOWNLOAD YOUR FEEDLY OPML** tuşuna basın.
@@ -36,7 +36,7 @@ postimg: "feedly-ahmet-cadirci-rss.webp"
 
 ### RSS Organize Etme
 
-![Feedly RSS Organize Etme](https://ahmetcadirci.com.tr/images/galeri/feedly-rss-organize-etme.png "Feedly RSS Organize Etme")
+![Feedly RSS Organize Etme](https://ahmetcadirci.com.tr/images/galeri/feedly-rss-organize-etme.webp "Feedly RSS Organize Etme")
 
 1. [https://feedly.com/i/contents/edit](https://feedly.com/i/contents/edit){:target="_blank"}{:rel="noopener"} bağlantıya tıklayın.
 2. Yeni Koleksiyon ekleyebilirsiniz.
@@ -48,7 +48,7 @@ postimg: "feedly-ahmet-cadirci-rss.webp"
 
 ### Feedly Uygulamaları
 
-![Feedly Android ve iOS Uygulamları](https://ahmetcadirci.com.tr/images/galeri/feedly-android-ios-uygulamalari.png "Feedly Android ve iOS Uygulamları")
+![Feedly Android ve iOS Uygulamları](https://ahmetcadirci.com.tr/images/galeri/feedly-android-ios-uygulamalari.webp "Feedly Android ve iOS Uygulamları")
 
 1. [Web](https://feedly.com){:target="_blank"}{:rel="noopener"}
 2. [Android](https://play.google.com/store/apps/details?id=com.devhd.feedly){:target="_blank"}{:rel="noopener"}
@@ -58,7 +58,7 @@ postimg: "feedly-ahmet-cadirci-rss.webp"
 
 ### Sitene Feedly Düğmesi Ekle
 
-![Sitene Feedly Düğmesi Ekle](https://ahmetcadirci.com.tr/images/galeri/sitene-feedly-dugmesi-ekle.png "Sitene Feedly Düğmesi Ekle")
+![Sitene Feedly Düğmesi Ekle](https://ahmetcadirci.com.tr/images/galeri/sitene-feedly-dugmesi-ekle.webp "Sitene Feedly Düğmesi Ekle")
 
 1. [http://feedly.com/factory.html](http://feedly.com/factory.html){:target="_blank"}{:rel="noopener"} bağlantıya tıklayın.
 2. Birinci adımda tasarımı seçin.

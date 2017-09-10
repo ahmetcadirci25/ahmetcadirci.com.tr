@@ -28,7 +28,7 @@ Eklenti listesine aşağıdaki linkten ulaşabilirsiniz.
 
 **Bir kaç deneme yapalım 🤠**
 
-![Cerebro Uygulaması - Her Şeyi Ara](https://ahmetcadirci.com.tr/images/cerebro-uygulamasi-her-seyi-ara.jpg "Cerebro Uygulaması - Her Şeyi Ara")
+![Cerebro Uygulaması - Her Şeyi Ara](https://ahmetcadirci.com.tr/images/cerebro-uygulamasi-her-seyi-ara.webp "Cerebro Uygulaması - Her Şeyi Ara")
 
 1. `ctrl+space` tıklayın ve `hayvan hakları` yazın ve enter tuşuna basın. Otomatik olarak sizlere Google Chrome'da arama sonuçlarını çıkaracaktır. 
 2. `ctrl+space` tıklayın ve bilgisayarınızda kurulu olan her hangi bir uygulamayı aratın. 
