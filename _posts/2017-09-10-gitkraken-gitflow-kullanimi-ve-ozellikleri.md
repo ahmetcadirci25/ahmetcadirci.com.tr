@@ -1,6 +1,6 @@
 ---
 title      : "GitKraken GitFlow Kullanımı ve Özellikleri"
-description: ""
+description: "GitKraken, GitFlow reponuzu organize etmek için kullanılan kuralların bir listesidir ve hata düzeltmeleri, özellik oluşturma işlemlerini kolaylaştırmak için kullanılır."
 date       : 2017-09-10 10:32:00
 categories : [genel]
 tags       : [gitkraken, gitflow]
