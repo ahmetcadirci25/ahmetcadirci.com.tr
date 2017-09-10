@@ -4,7 +4,7 @@ description: "XAMPP kullanarak localhost'ta .dev uzantılı özel domain oluştu
 date: 2016-12-21 13:45:00
 categories: [genel]
 tags: [xampp, localhost]
-postimg: "xampp-kullanarak-yerel-ana-makinenize-ozel-alan-adi-dev-olusturma.png"
+postimg: "xampp-kullanarak-yerel-ana-makinenize-ozel-alan-adi-dev-olusturma.webp"
 ---
 
 Kodlar Windows'u temel alır, ancak 2. adımdan itibaren diğer işletim sistemlerine uygulanabilir.

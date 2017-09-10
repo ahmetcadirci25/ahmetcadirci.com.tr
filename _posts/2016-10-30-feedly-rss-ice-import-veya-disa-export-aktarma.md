@@ -4,7 +4,7 @@ description: "Feedly ise web sitelerinde yeni eklenen içeriği kolaylıkla taki
 date: 2016-10-30 17:27:20
 categories: [genel]
 tags: [çözüm]
-postimg: "feedly-ahmet-cadirci-rss.png"
+postimg: "feedly-ahmet-cadirci-rss.webp"
 ---
 
 **RSS**, web sitesine yeni eklenen bir içeriği kullanıcıya hızlı bir şekilde ulaşmasını sağlayan web sayfası bildirim araçıdır. Kullandığı dosya uzantısı .rss, .atom ve .xml'dir.

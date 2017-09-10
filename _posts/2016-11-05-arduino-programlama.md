@@ -4,7 +4,7 @@ description: "Arduino Programlama... Hobi uygulamaları için geliştirilmiştir
 date: 2016-11-05 22:53:13
 categories: [genel]
 tags: [arduino]
-postimg: "arduino-uno-r3-usb-kablo.png"
+postimg: "arduino-uno-r3-usb-kablo.webp"
 ---
 
 Arduino Programlama... Hobi uygulamaları için geliştirilmiştir. Açık kaynak ve yazılım / donanım geliştirilebilir.

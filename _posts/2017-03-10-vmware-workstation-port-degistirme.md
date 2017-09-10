@@ -4,7 +4,7 @@ description: "VMware Workstation'daki port değiştirmek kolaydır. VMware Works
 date: 2017-03-10 00:30:00
 categories: [genel]
 tags: [çözüm]
-postimg: "vmware-workstation-port-degistirme.png"
+postimg: "vmware-workstation-port-degistirme.webp"
 ---
 
 VMware Workstation ile fiziksel bilgisayarlar, laptoplar üzerinde birden fazla sanal işletim sistemi çalıştırmamıza olanak sağlayan sanallaştırma programdır. 

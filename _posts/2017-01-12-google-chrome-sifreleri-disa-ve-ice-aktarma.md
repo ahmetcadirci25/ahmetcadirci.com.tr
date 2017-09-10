@@ -8,7 +8,7 @@ categories:
 - genel
 tags:
 - çözüm
-postimg: google-chrome-password-import-export.png
+postimg: google-chrome-password-import-export.webp
 ---
 
 Google'ın Chrome tarayıcısını kullananlar, tarayıcının Otomatik Doldurma özelliği için kullanılabilecek şifre koruma özelliğinin farkında olacaktır. Bununla birlikte, şifrelerini tarayıcının kendisinden içe aktarabileceğinizi veya hatta dışa aktarabileceğinizi biliyor muydunuz?

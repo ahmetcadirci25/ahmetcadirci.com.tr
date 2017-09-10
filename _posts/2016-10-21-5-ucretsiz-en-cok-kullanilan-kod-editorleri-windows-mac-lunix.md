@@ -4,7 +4,7 @@ description: "Windows, Mac ve Lunix platformlarında kaynak kod düzenleme ve me
 date: 2016-10-20 09:44:00
 categories: [galeri]
 tags: [editör]
-postimg: "galeri/atom-io-kod-editoru.png"
+postimg: "atom-io-kod-editoru.webp"
 ---
 
 Listelediğimiz kod editörleri, içinde birçok programlama arayüzünü barındırmaktadır. Windows, Mac ve Lunix platformlarında kaynak kod düzenleme ve metin düzenleme işlemlerini yapabilirsiniz. 

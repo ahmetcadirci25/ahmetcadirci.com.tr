@@ -4,7 +4,7 @@ description: "Aşk sultandır. Üç mertebe var derler; muhabbet, aşk, derd. Mu
 date: 2016-10-23 21:16:20
 categories: [genel]
 tags: [şiir]
-postimg: "ask-sultandir.png"
+postimg: "ask-sultandir.webp"
 featured: true
 ---
 

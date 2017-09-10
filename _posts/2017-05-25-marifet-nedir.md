@@ -4,7 +4,7 @@ description: "Hazreti Şems-i Tebrîzî'nin Marifet Nedir? sorusuna verdiği cev
 date: 2017-05-25 10:30:00
 categories: [genel]
 tags: [kitap]
-postimg: "marifet-nedir.png"
+postimg: "marifet-nedir.webp"
 ---
 
 Hazreti Şems-i Tebrîzî'nin "Marifet Nedir?" sorusuna verdiği cevapta karşılığını bulur.

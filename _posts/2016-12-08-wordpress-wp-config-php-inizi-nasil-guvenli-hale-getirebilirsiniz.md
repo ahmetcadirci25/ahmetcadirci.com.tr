@@ -4,7 +4,7 @@ description: "wp-config.php dosyası, WordPress siteniz için önemli yapıland�
 date: 2016-12-08 11:00:00
 categories: [genel]
 tags: [wordpress]
-postimg: "wordpress-wp-config-php-inizi-nasil-guvenli-hale-getirebilirsiniz.png"
+postimg: "wordpress-wp-config-php-inizi-nasil-guvenli-hale-getirebilirsiniz.webp"
 ---
 
 WordPress, genel olarak, kurulması ve kısa bir süre içinde üzerinde çalışmaya hazır olan kolay bir sistemdir. Yanlışlıkla sitenizi hackerlara açık hale getirebilir ve hacklenme sonra sıkıntılar yaşayabilirsiniz.

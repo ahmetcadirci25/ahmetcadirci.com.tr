@@ -4,7 +4,7 @@ description: "Facebook Hikayeleri olarak bilinen özellik, kullanıcıların eğ
 date: 2017-03-15 00:20:00
 categories: [genel]
 tags: [facebook hikayeler]
-postimg: "facebook-hikayeler.jpg"
+postimg: "facebook-hikayeler.webp"
 ---
 
 Bilginiz gibi “Snapchat; Akıllı telefonlar için geliştirilmiş, platformlar arası çalışma özelliğine sahip bir anlık mesajlaşma uygulamasıdır.”<sup>1</sup> İlk olan Snapchat paylaşımları 24 saat içinde yok etmesidir.  Çok fazla ilgi görünce bazı büyük sitelerde kurnazlık yapıp aynı özelliği kendi uygulamalarına entegre ettiler.

@@ -4,7 +4,7 @@ description: "MainWP Dashboard ile tüm wordpress sitelerinizi tek panelden yön
 date: 2017-03-09 22:50:00
 categories: [wordpress]
 tags: [mainwp dashboard, mainwp child]
-postimg: "mainwp-dashboard-ile-tum-sitelerinizi-tek-panelden-yonetme-imkani.png"
+postimg: "mainwp-dashboard-ile-tum-sitelerinizi-tek-panelden-yonetme-imkani.webp"
 ---
 
 Wordpress uzun süredir internet dünyasında zirveyi korumaktadır. Birden fazla Wordpress'e sahip olan insanlar bunların yönetimde bazen sıkıntılar yaşamaktadırlar. Güncellemeler, eklentiler vb. işlemleri tüm sitelerde tekrarlamak oldukça zor hale gelebilir. 

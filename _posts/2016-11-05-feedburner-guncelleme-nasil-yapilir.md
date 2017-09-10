@@ -4,7 +4,7 @@ description: "FeedBurner hesabınızdaki beslemeleri nasıl güncel hale getireb
 date: 2016-11-01 13:35:13
 categories: [genel]
 tags: [feedburner]
-postimg: "feedburner.png"
+postimg: "feedburner.webp"
 ---
 
 FeedBurner hesabınızdaki beslemeleri nasıl güncel hale getirebilirim. Feed dosyanızda güncelleme yaptıktan sonra FeedBurner'da bulunan beslemenizi hızlı bir şekilde güncelleme yapmak istiyorsanız aşağıdaki adımları takip ederek bu işlemi öğrenebilirsiniz. 

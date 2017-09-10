@@ -4,7 +4,7 @@ description: "Npm install kodunu çalıştırdığınızda Error: EPERM: operati
 date: 2017-04-29 19:20:00
 categories: [genel]
 tags: [npm]
-postimg: "npm-paketlerinin-bulundugu-dizin.png"
+postimg: "npm-paketlerinin-bulundugu-dizin.webp"
 ---
 
 Npm install komutunu çalıştırdığınızda aşağıdaki gibi bir hata alıyorsanız. Çözüm kısmında yer alan kodu çalıştırmanı yeterlidir. 
