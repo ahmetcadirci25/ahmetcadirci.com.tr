@@ -7,7 +7,11 @@ postimg: "ahmetcadirci-wallpaper.jpg"
 
 ## Hakkımda
 
-Kendimi anlatacak kadar ileri gidemem ama sizlere beğendiğim güzel sözleri paylaşıyorum.
+Ankara Üniversitesi Web Programlama Bölümü mezunuyum. 2010’dan bu güne Web Programlama ile ilgilenmekte ve uygulamaları bu yönde geliştiriyorum.
+ 
+Sadece web programlama değil, web tasarım, video, tasarım ve reklam üzerine de çalışıyor. Hayat tüm hızıyla devam ediyor.
+ 
+Facebook, youtube, twitter,  instagram vb. [sosyal medya](https://ahmetcadirci.com.tr/sosyal-medya/) alanlarda da bana ulaşabilirsiniz. 
 
 <blockquote class="blockquote__alternative">
     "Ey gönül! Gülü seviyorsan dikenini de seveceksin, deryayı seviyorsan dalgalarını da seveceksin, vuslatı seviyorsan firakını da seveceksin, sevgiliyi seviyorsan nazını da seveceksin, hayatı seviyorsan ölümü de seveceksin."
