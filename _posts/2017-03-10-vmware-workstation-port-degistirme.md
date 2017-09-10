@@ -5,6 +5,7 @@ date       : 2017-03-10 00:30:00
 categories : [genel]
 tags       : [çözüm]
 postimg    : "vmware-workstation-port-degistirme.webp"
+comments   : true
 ---
 
 VMware Workstation ile fiziksel bilgisayarlar, laptoplar üzerinde birden fazla sanal işletim sistemi çalıştırmamıza olanak sağlayan sanallaştırma programdır. 

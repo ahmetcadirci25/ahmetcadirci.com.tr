@@ -5,6 +5,7 @@ date       : 2017-05-06 20:00:00
 categories : [genel]
 tags       : [chrome]
 postimg    : "google-chrome-da-ana-ekrana-ekle-popup-kodu.webp"
+comments   : true
 ---
 
 Android cihazda Chrome kullanarak ziyaret ettiğiniz web sitelerinde önünüze çıkan "Ana Ekrana Ekle" popup kodunu sizlerle paylaşıyorum. Bunun çalışması için sitenizin https olması gerekir.

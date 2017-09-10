@@ -5,6 +5,7 @@ date       : 2016-12-08 11:00:00
 categories : [genel]
 tags       : [wordpress]
 postimg    : "wordpress-wp-config-php-inizi-nasil-guvenli-hale-getirebilirsiniz.webp"
+comments   : true
 ---
 
 WordPress, genel olarak, kurulması ve kısa bir süre içinde üzerinde çalışmaya hazır olan kolay bir sistemdir. Yanlışlıkla sitenizi hackerlara açık hale getirebilir ve hacklenme sonra sıkıntılar yaşayabilirsiniz.

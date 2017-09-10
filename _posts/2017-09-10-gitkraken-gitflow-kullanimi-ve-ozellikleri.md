@@ -5,6 +5,7 @@ date       : 2017-09-10 10:32:00
 categories : [genel]
 tags       : [gitkraken, gitflow]
 postimg    : "gitkraken-gitflow-kullanimi-ve-ozellikleri.webp"
+comments   : true
 ---
 
 <blockquote>

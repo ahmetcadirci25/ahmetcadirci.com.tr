@@ -5,6 +5,7 @@ date       : 2017-06-27 20:11:00
 categories : [genel]
 tags       : [program]
 postimg    : "cerebro-uygulamasi-her-seyi-ara.webp"
+comments   : true
 ---
 
 Cerebro uygulamasıyla bir kaç tıkla her şeyi aramaya başlayın. Açık kaynaklı ve hızlı uygulamayı hemen indirin. 

@@ -143,7 +143,11 @@ layout: default
               </div>
             </div>
 
-            {% include disqus.html %}
+            
+
+            {% if page.comments %} 
+              {% include disqus.html %}
+            {% endif %}
 
             <!-- Start of related stories -->
             <div class="related-stories">

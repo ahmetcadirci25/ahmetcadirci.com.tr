@@ -5,6 +5,7 @@ date       : 2016-12-22 21:45:00
 categories : [genel]
 tags       : [chrome]
 postimg    : "web-site-kaynagini-android-tarayicsinda-nasil-goruntuleyebilirim.webp"
+comments   : true
 ---
 
 Kolaylıkla mobil tarayıcıda web sitelerin kaynak kodlarını görüntüleyebilirsiniz. En çok kullanılan 3 tarayıcı üzerinde denendikten sonra sizlerle paylaşıyorum. 

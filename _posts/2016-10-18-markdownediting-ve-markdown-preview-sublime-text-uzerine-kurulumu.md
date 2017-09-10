@@ -5,6 +5,7 @@ date       : 2016-10-18 16:41:00
 categories : [genel]
 tags       : [sublime text]
 postimg    : "markdownediting-kurulum.webp"
+comments   : true
 ---
 
 ## Birinci Adım Paket Kontrol (Package Control) Kurulumu

@@ -5,6 +5,7 @@ date       : 2016-10-08 23:16:23
 categories : [genel]
 tags       : [sosyal medya]
 postimg    : "ahmetcadirci-wallpaper.webp"
+comments   : true
 ---
 
 Tüm sosyal medya hesaplarıma tek bir hesaptan ulaşabilirsiniz.

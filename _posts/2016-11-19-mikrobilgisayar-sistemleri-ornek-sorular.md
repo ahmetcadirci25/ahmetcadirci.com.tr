@@ -5,6 +5,7 @@ date       : 2016-11-19 19:40:00
 categories : [genel]
 tags       : [arduino]
 postimg    : "mikrobilgisayar-sistemleri-ornek-sorular.webp"
+comments   : true
 ---
 
 Aşağıdaki döngü bittiği zaman hangi pinler lojik 1 yapılmış olur?

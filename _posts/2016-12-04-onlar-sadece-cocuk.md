@@ -5,6 +5,7 @@ date       : 2016-12-04 21:00:00
 categories : [galeri]
 tags       : [fotoğraf]
 postimg    : "onlar-sadece-cocuk.webp"
+comments   : true
 ---
 
 Suriyeli Çocuklar... Yıllardır Süren Acımasız Savaştan Görüntüler...

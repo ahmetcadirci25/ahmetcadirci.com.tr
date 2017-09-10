@@ -5,6 +5,7 @@ date       : 2016-10-19 13:04:00
 categories : [galeri]
 tags       : [jekyll]
 postimg    : "kisisel-jekyll-temalari-10.webp"
+comments   : true
 ---
 
 Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı özelliklere sahip olan temalar ilgi çekmektedir. Sizin önereceğiniz temalar varsa yorumlar kısmına yazabilirsiniz. Bu sayede yazıya yeni temalar ekleyebiliriz.

@@ -5,6 +5,7 @@ date       : 2017-05-03 22:20:00
 categories : [genel]
 tags       : [chrome]
 postimg    : "google-chrome-da-kullandigim-eklentiler.webp"
+comments   : true
 ---
 
 Sizin içinde yararlı olacağını düşündüğüm ve sıklıkla kullandığım Chrome eklentileri..

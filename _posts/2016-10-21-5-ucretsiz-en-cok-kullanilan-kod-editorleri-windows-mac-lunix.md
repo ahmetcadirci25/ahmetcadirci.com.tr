@@ -5,6 +5,7 @@ date       : 2016-10-20 09:44:00
 categories : [galeri]
 tags       : [editör]
 postimg    : "atom-io-kod-editoru.webp"
+comments   : true
 ---
 
 Listelediğimiz kod editörleri, içinde birçok programlama arayüzünü barındırmaktadır. Windows, Mac ve Lunix platformlarında kaynak kod düzenleme ve metin düzenleme işlemlerini yapabilirsiniz. 

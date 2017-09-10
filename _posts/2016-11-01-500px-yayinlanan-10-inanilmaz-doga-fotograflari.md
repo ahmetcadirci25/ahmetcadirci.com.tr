@@ -5,6 +5,7 @@ date       : 2016-11-01 22:35:13
 categories : [galeri]
 tags       : [fotoğraf]
 postimg    : "500px-yayinlanan-10-inanilmaz-doga-fotograflari.webp"
+comments   : true
 ---
 
 Doğanın görkemini yansıtan bu fotoğraflar birbirinden değerli kişiler tarafından fotoğraflandı. Ronnie Li, Andrea Iorio, Tiger Seo, Jay Bell, Josh Wallace, Isabella Tabacchi, Lorenzo Nadalini ve Marco Calandra fotoğrafları yer almaktadır. Dağ, orman, yeşillik, şimşek, volkan ve daha fazlası 500px'ten derlediğim bu güzel fotoğraflarda bulabilirsiniz. Benin favori fotoğrafım ise Ronnie Li tarafından çekilen Mount Taranaki stratovolkan dağıdır. 

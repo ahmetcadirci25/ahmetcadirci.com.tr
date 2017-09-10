@@ -5,6 +5,7 @@ date       : 2016-10-20 09:44:00
 categories : [galeri]
 tags       : [wordpress]
 postimg    : "appointments.webp"
+comments   : true
 ---
 
 Müşterilerinize doğrudan ulaşmak istiyorsanız WordPress siteniz için randevu eklentisi yükleyebilirsiniz. Diş hekimi, kuaför, danışman, ya da otel randevularını yönetmek için kullanabilirsiniz. Bu makalede, 5 en iyi WordPress randevu ve rezervasyon eklentilerini bulabilirsiniz.
