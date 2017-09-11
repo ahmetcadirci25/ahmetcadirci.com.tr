@@ -8,9 +8,7 @@ postimg    : "gitkraken-gitflow-kullanimi-ve-ozellikleri.webp"
 comments   : true
 ---
 
-<blockquote>
-    GitFlow, reponuzu organize etmek için kullanılan kuralların bir listesidir ve hata düzeltmeleri, özellik oluşturma işlemlerini kolaylaştırmak için kullanılır.
-</blockquote>
+> GitFlow, reponuzu organize etmek için kullanılan kuralların bir listesidir ve hata düzeltmeleri, özellik oluşturma işlemlerini kolaylaştırmak için kullanılır.
 
 ## Yapılandırma
 
