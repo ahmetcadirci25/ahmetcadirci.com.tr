@@ -20,7 +20,7 @@ layout: default
                 <div class="row">
                   <div class="col-xs-12  col-sm-8">
                     <div class="meta__info">
-                  <span class="meta__author"><img src="{{ "/images/avatar.png" | prepend: site.url }}" alt="{{ site.author.name }}" width="30" height="30"> <a href="{{ site.url }}">{{ site.author.name }} </a>   
+                  <span class="meta__author"><img src="{{ "/images/avatar.svg" | prepend: site.url }}" alt="{{ site.author.name }}" width="30" height="30"> <a href="{{ site.url }}">{{ site.author.name }} </a>   
                   </span> 
                   <span class="meta__categories"><span class="glyphicon glyphicon-list"></span>  &nbsp; Kategori : {% for categories in page.categories %}<a href="{{ site.url }}/kategoriler/#{{ categories }}">{{ categories }}</a> {% endfor %} </span>
                   <span class="meta__date"><span class="glyphicon glyphicon-calendar"></span>  &nbsp; {{ page.date | date: "%-d %b %Y" }}</span> 
@@ -128,7 +128,7 @@ layout: default
                 <div class="post-author">
                   <h6>Tarafından Yazılmıştır</h6>
                   <hr>
-                  <img src="{{ "/images/avatar.png" | prepend: site.url }}" alt="{{ site.author.name }}">
+                  <img src="{{ "/images/avatar.svg" | prepend: site.url }}" alt="{{ site.author.name }}">
                   <h5>
                     <a href="{{ site.url }}">{{ site.author.name }}</a> 
                   </h5>
