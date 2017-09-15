@@ -4,7 +4,7 @@ description: "MainWP Dashboard ile tüm wordpress sitelerinizi tek panelden yön
 date       : 2017-03-09 22:50:00
 categories : [wordpress]
 tags       : [mainwp dashboard, mainwp child]
-postimg    : "mainwp-dashboard-ile-tum-sitelerinizi-tek-panelden-yonetme-imkani.webp"
+postimg    : "mainwp-dashboard-ile-tum-sitelerinizi-tek-panelden-yonetme-imkani.png"
 comments   : true
 ---
 

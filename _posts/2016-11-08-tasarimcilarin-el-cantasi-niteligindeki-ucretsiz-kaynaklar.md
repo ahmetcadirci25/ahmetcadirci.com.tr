@@ -4,7 +4,7 @@ description: "Ücretsiz stok fotoğraflar, videolar, mockuplar, yazı tipleri, g
 date       : 2016-11-08 12:57:23
 categories : [genel]
 tags       : [tasarım]
-postimg    : "tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar.webp"
+postimg    : "tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar.png"
 comments   : true
 ---
 

@@ -4,7 +4,7 @@ description: "Sizin içinde yararlı olacağını düşündüğüm ve sıklıkla
 date       : 2017-05-03 22:20:00
 categories : [genel]
 tags       : [chrome]
-postimg    : "google-chrome-da-kullandigim-eklentiler.webp"
+postimg    : "google-chrome-da-kullandigim-eklentiler.png"
 comments   : true
 ---
 

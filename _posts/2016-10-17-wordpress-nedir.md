@@ -6,7 +6,7 @@ date       : 2016-10-08 23:36:20
 categories : [podcast]
 tags       : [wordpress, video, youtube]
 keywords   : podcast, wordpress
-postimg    : "wordpress-nedir.webp"
+postimg    : "wordpress-nedir.png"
 duration   : "01:17"
 length     : 23800000
 mp3        : "podsync.net/download/youtube/h-yyH3aaxv8.mp4"

@@ -4,7 +4,7 @@ description: "Npm paketlerinin nereye yüklendiğini görmek için npm list -g k
 date       : 2017-04-29 18:40:00
 categories : [genel]
 tags       : [npm]
-postimg    : "npm-paketlerinin-bulundugu-dizin.webp"
+postimg    : "npm-paketlerinin-bulundugu-dizin.png"
 comments   : true
 ---
 

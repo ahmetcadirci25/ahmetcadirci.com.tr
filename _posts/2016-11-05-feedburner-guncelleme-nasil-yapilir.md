@@ -4,7 +4,7 @@ description: "FeedBurner hesabınızdaki beslemeleri nasıl güncel hale getireb
 date       : 2016-11-01 13:35:13
 categories : [genel]
 tags       : [feedburner]
-postimg    : "feedburner.webp"
+postimg    : "feedburner.png"
 comments   : true
 ---
 

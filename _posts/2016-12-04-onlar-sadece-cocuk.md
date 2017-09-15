@@ -4,7 +4,7 @@ description: "Suriyeli Çocuklar... Yıllardır Süren Acımasız Savaştan Gör
 date       : 2016-12-04 21:00:00
 categories : [galeri]
 tags       : [fotoğraf]
-postimg    : "onlar-sadece-cocuk.webp"
+postimg    : "onlar-sadece-cocuk.png"
 comments   : true
 ---
 
@@ -14,43 +14,43 @@ Bu acıyı tarif edecek kelime hiçbir dilde yok. Suriyede savaş yapılmıyor, 
 
 **15 Mart 2011-günümüz...**
 
-![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/VU9yNuH.webp "Onlar Sadece Çocuk... - Suriye")
+![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/VU9yNuH.png "Onlar Sadece Çocuk... - Suriye")
 
 * * * 
 
-![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/IBrY4tj.webp "Onlar Sadece Çocuk... - Suriye")
+![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/IBrY4tj.png "Onlar Sadece Çocuk... - Suriye")
 
 * * * 
 
-![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/f1D73fL.webp "Onlar Sadece Çocuk... - Suriye")
+![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/f1D73fL.png "Onlar Sadece Çocuk... - Suriye")
 
 * * * 
 
-![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/IMzaeTA.webp "Onlar Sadece Çocuk... - Suriye")
+![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/IMzaeTA.png "Onlar Sadece Çocuk... - Suriye")
 
 * * * 
 
-![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/YhnTxk0.webp "Onlar Sadece Çocuk... - Suriye")
+![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/YhnTxk0.png "Onlar Sadece Çocuk... - Suriye")
 
 * * * 
 
-![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/7NVkvCy.webp "Onlar Sadece Çocuk... - Suriye")
+![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/7NVkvCy.png "Onlar Sadece Çocuk... - Suriye")
 
 * * * 
 
-![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/dZcp0NL.webp "Onlar Sadece Çocuk... - Suriye")
+![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/dZcp0NL.png "Onlar Sadece Çocuk... - Suriye")
 
 * * * 
 
-![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/kjNd5Tb.webp "Onlar Sadece Çocuk... - Suriye")
+![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/kjNd5Tb.png "Onlar Sadece Çocuk... - Suriye")
 
 * * * 
 
-![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/gBQAXuv.webp "Onlar Sadece Çocuk... - Suriye")
+![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/gBQAXuv.png "Onlar Sadece Çocuk... - Suriye")
 
 * * * 
 
-![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/kfrEy2H.webp "Onlar Sadece Çocuk... - Suriye")
+![Onlar Sadece Çocuk... - Suriye](https://ahmetcadirci.com.tr/images/galeri/kfrEy2H.png "Onlar Sadece Çocuk... - Suriye")
 
 * * * 
 

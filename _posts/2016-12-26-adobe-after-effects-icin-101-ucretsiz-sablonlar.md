@@ -4,7 +4,7 @@ description: "Adobe After Effects için 101 Ücretsiz Şablonlar ücretsiz kayna
 date       : 2016-12-26 11:45:00
 categories : [genel]
 tags       : [adobe after effects]
-postimg    : "adobe-after-effects-icin-101-ucretsiz-sablonlar.webp"
+postimg    : "adobe-after-effects-icin-101-ucretsiz-sablonlar.png"
 comments   : true
 ---
 

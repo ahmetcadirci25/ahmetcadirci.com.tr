@@ -5,7 +5,7 @@ description: ""
 date       : 2017-09-11 21:00:12
 categories : [video]
 tags       : [incir ağacı, ömer tuğrul inançer]
-postimg    : "incir-agacina-karsi-tavrimiz-nasil-olmalidir-omer-tugrul-inancer-acikliyor.webp"
+postimg    : "incir-agacina-karsi-tavrimiz-nasil-olmalidir-omer-tugrul-inancer-acikliyor.png"
 videoid    : 233368655
 comments   : true
 ---

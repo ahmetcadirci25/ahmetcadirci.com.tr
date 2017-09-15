@@ -4,7 +4,7 @@ description: "XAMPP kullanarak localhost'ta .dev uzantılı özel domain oluştu
 date       : 2016-12-21 13:45:00
 categories : [genel]
 tags       : [xampp, localhost]
-postimg    : "xampp-kullanarak-yerel-ana-makinenize-ozel-alan-adi-dev-olusturma.webp"
+postimg    : "xampp-kullanarak-yerel-ana-makinenize-ozel-alan-adi-dev-olusturma.png"
 comments   : true
 ---
 
@@ -12,7 +12,7 @@ Kodlar Windows'u temel alır, ancak 2. adımdan itibaren diğer işletim sisteml
 
 #### 1. Adım:
 
-![hosts dosyası](https://ahmetcadirci.com.tr/images/galeri/hosts-dosyasi.webp "hosts dosyası")
+![hosts dosyası](https://ahmetcadirci.com.tr/images/galeri/hosts-dosyasi.png "hosts dosyası")
 
 Aşağıdaki dosya dizinine gidin.
 
@@ -53,7 +53,7 @@ Dosyanın altına gidin ve bu kodu kopyalayıp yapıştırın:
 
 * `C:/xampp/htdocs/wordpress/` dosyalarınızın bulunduğu klasöre değiştirin.
 
-![httpd-vhosts.conf dosyası](https://ahmetcadirci.com.tr/images/galeri/httpd-vhosts-conf-dosyasi.webp "httpd-vhosts.conf dosyası")
+![httpd-vhosts.conf dosyası](https://ahmetcadirci.com.tr/images/galeri/httpd-vhosts-conf-dosyasi.png "httpd-vhosts.conf dosyası")
 
 #### 4. Adım:
 
@@ -61,7 +61,7 @@ Apache'yi XAMPP'de durdurun, 5 saniye bekleyin, ardından "Başlat" a tıklayara
 
 Her şey iyi giderse tarayıcınıza açın. `wordpress.dev` yazın veya oluşturduğunuz alan adı uzantısını girin.
 
-![wordpress.dev domain uzantısı chrome ekran görüntüsü](https://ahmetcadirci.com.tr/images/xampp-kullanarak-yerel-ana-makinenize-ozel-alan-adi-dev-olusturma.webp "wordpress.dev domain uzantısı chrome ekran görüntüsü")
+![wordpress.dev domain uzantısı chrome ekran görüntüsü](https://ahmetcadirci.com.tr/images/xampp-kullanarak-yerel-ana-makinenize-ozel-alan-adi-dev-olusturma.png "wordpress.dev domain uzantısı chrome ekran görüntüsü")
 
 #### XAMPP Nedir?
 

@@ -4,7 +4,7 @@ description: "Chrome, Firefox ve Yandex.Browser mobil tarayıcılarında web sit
 date       : 2016-12-22 21:45:00
 categories : [genel]
 tags       : [chrome]
-postimg    : "web-site-kaynagini-android-tarayicsinda-nasil-goruntuleyebilirim.webp"
+postimg    : "web-site-kaynagini-android-tarayicsinda-nasil-goruntuleyebilirim.png"
 comments   : true
 ---
 

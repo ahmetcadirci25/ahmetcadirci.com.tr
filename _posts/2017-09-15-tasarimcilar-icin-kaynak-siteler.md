@@ -4,7 +4,7 @@ description: "Tasarımcılar için ücretsiz kaynak siteler, tasarım yaparken b
 date       : 2017-09-15 21:50:11
 categories : [genel]
 tags       : [The Stocks, Sans Francisco, Design Resources, AllTheFreeStock, Makerbook]
-postimg    : "tasarimcilar-icin-kaynak-siteler.webp"
+postimg    : "tasarimcilar-icin-kaynak-siteler.png"
 comments   : true
 ---
 

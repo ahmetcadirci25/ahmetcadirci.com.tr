@@ -4,7 +4,7 @@ description: "AMP HTML tamamen mevcut web teknolojileri üzerine kurulmuştur. H
 date       : 2016-12-19 15:45:00
 categories : [genel]
 tags       : [amp html]
-postimg    : "amp-html-merhaba-dunya.webp"
+postimg    : "amp-html-merhaba-dunya.png"
 comments   : true
 ---
 
