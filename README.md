@@ -35,6 +35,7 @@ Code licensed under the [MIT License](https://github.com/ahmetcadirci.com.tr/blo
 
 ### Yeni Yazılar
 
+* [En İyi WordPress Galeri ve Slayt Eklentileri](https://ahmetcadirci.com.tr/2017/en-iyi-wordpress-galeri-ve-slayt-eklentileri/)
 * [Tasarımcılar İçin Kaynak Siteler](https://ahmetcadirci.com.tr/2017/tasarimcilar-icin-kaynak-siteler/)
 * [Dünyayı Güzel Hale Getirecek Olan Gene İnsanoğlu](https://ahmetcadirci.com.tr/2017/dunyayi-guzel-hale-getirecek-olan-gene-insanoglu/)
 * [GitKraken GitFlow Kullanımı ve Özellikleri](https://ahmetcadirci.com.tr/2017/gitkraken-gitflow-kullanimi-ve-ozellikleri/)
