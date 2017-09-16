@@ -51,6 +51,11 @@
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="http://feeds.feedburner.com/ahmetcadirci25">
 
+    {% if page.prefetch %}
+    <link rel="prefetch" href="{{ page.prefetch }}">
+    <link rel="prerender" href="{{ page.prefetch }}">
+    {% endif %}
+
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.url }}"/>
 
