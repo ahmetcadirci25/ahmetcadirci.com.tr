@@ -2,8 +2,8 @@
 title      : "FeedBurner Güncelleme Nasıl Yapılır?"
 description: "FeedBurner hesabınızdaki beslemeleri nasıl güncel hale getirebilirim. Feed dosyanızda güncelleme yaptıktan sonra FeedBurner..."
 date       : 2016-11-01 13:35:13
-categories : [genel]
-tags       : [feedburner]
+categories : [Nasıl Yapılır, İnternet]
+tags       : [FeedBurner, Feed, RSS]
 postimg    : "feedburner.png"
 comments   : true
 ---

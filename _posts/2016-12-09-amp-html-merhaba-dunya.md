@@ -2,8 +2,8 @@
 title      : "AMP HTML Merhaba Dünya!"
 description: "AMP HTML tamamen mevcut web teknolojileri üzerine kurulmuştur. HTML, CSS ve JavaScript'in bazı bölümlerini kısıtlayarak güvenilir performans elde etmektedir."
 date       : 2016-12-19 15:45:00
-categories : [genel]
-tags       : [amp html]
+categories : [Web Tasarım]
+tags       : [AMP HTML, AMP Validator]
 postimg    : "amp-html-merhaba-dunya.png"
 comments   : true
 ---

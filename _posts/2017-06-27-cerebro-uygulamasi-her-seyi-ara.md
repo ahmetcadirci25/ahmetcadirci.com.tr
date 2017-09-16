@@ -2,8 +2,8 @@
 title      : "Cerebro Uygulaması - Her Şeyi Ara"
 description: "Cerebro uygulamasıyla bir kaç tıkla her şeyi aramaya başlayın. Açık kaynaklı ve hızlı uygulamayı hemen indirin."
 date       : 2017-06-27 20:11:00
-categories : [genel]
-tags       : [program]
+categories : [Teknoloji, Program]
+tags       : [Cerebro, Google, Chrome, GitHub]
 postimg    : "cerebro-uygulamasi-her-seyi-ara.png"
 comments   : true
 ---

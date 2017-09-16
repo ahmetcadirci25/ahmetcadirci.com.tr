@@ -2,8 +2,8 @@
 title      : "20+ Tane Kişisel Jekyll Temaları"
 description: "Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı özelliklere sahip olan temalar ilgi çekmektedir. "
 date       : 2016-10-19 13:04:00
-categories : [galeri]
-tags       : [jekyll]
+categories : [Jekyll]
+tags       : [Jekyll, Tema]
 postimg    : "kisisel-jekyll-temalari-10.png"
 comments   : true
 ---

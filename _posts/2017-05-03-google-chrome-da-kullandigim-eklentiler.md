@@ -2,8 +2,8 @@
 title      : "Google Chrome'da Kullandığım Eklentiler"
 description: "Sizin içinde yararlı olacağını düşündüğüm ve sıklıkla kullandığım Chrome eklentileri.."
 date       : 2017-05-03 22:20:00
-categories : [genel]
-tags       : [chrome]
+categories : [Teknoloji, İnternet]
+tags       : [Chrome, Google, Eklenti]
 postimg    : "google-chrome-da-kullandigim-eklentiler.png"
 comments   : true
 ---

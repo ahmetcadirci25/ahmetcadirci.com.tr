@@ -2,8 +2,8 @@
 title      : "Feedly RSS İçe (Import) veya Dışa (Export) Aktarma"
 description: "Feedly ise web sitelerinde yeni eklenen içeriği kolaylıkla takip etmemizi sağlar. Web tarayıcısı üzerinden, Android veya iOS uygulamaları..."
 date       : 2016-10-30 17:27:20
-categories : [genel]
-tags       : [çözüm]
+categories : [İnternet, Nasıl Yapılır]
+tags       : [Feedly, RSS, Feed]
 postimg    : "feedly-ahmet-cadirci-rss.png"
 comments   : true
 ---

@@ -2,7 +2,7 @@
 title      : "En İyi WordPress Galeri ve Slayt Eklentileri"
 description: "WordPress siteniz için galeri ve slayt eklentisini bulmak zor olabilir. Wordpress'te çok fazla seçenek var - bazılarını diğerlerinden üstün kılan nedir?"
 date       : 2017-09-16 21:50:11
-categories : [genel]
+categories : [Wordpress, Wordpress Eklentiler]
 tags       : [Master Slider, Meta Slider, Meteor Slides, Smart Slider 3]
 postimg    : "en-iyi-wordpress-galeri-ve-slayt-eklentileri.png"
 comments   : true

@@ -3,8 +3,8 @@ layout     : video
 title      : "#2: Windows 10 İşletim Sistemine XAMPP Server Kurulumu"
 description: "WordPress'i herhangi bir sunucuya yüklemeden direk bilgisayarımızda çalıştırmak istiyorsak bilgisayarımızı sunucuya çevirmemiz gerekiyor."
 date       : 2016-10-18 22:04:00
-categories : [podcast]
-tags       : [wordpress, video, youtube]
+categories : [Wordpress, Podcast, Video]
+tags       : [Windows 10, XAMPP, Sanal Server, Local Host]
 keywords   : podcast, windows, xampp
 postimg    : "windows-10-isletim-sistemine-xampp-server-kurulumu.png"
 duration   : "01:48"

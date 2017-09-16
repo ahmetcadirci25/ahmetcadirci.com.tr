@@ -2,8 +2,8 @@
 title      : "VMware Workstation Port Değiştirme"
 description: "VMware Workstation'daki port değiştirmek kolaydır. VMware Workstation programını açın ve adımları takip edin."
 date       : 2017-03-10 00:30:00
-categories : [genel]
-tags       : [çözüm]
+categories : [Teknoloji, Program]
+tags       : [VMware Workstation, Port]
 postimg    : "vmware-workstation-port-degistirme.png"
 comments   : true
 ---

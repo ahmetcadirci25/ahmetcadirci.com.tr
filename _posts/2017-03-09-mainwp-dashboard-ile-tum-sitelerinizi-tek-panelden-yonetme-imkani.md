@@ -2,8 +2,8 @@
 title      : "MainWP Dashboard ile Tüm Wordpress Sitelerinizi Tek Panelden Yönetme İmkanı"
 description: "MainWP Dashboard ile tüm wordpress sitelerinizi tek panelden yönetme imkanı sunmaktadır. Güncellemeleri, eklentileri tek seferde kurabilirsiniz."
 date       : 2017-03-09 22:50:00
-categories : [wordpress]
-tags       : [mainwp dashboard, mainwp child]
+categories : [Wordpress, Wordpress Eklentiler]
+tags       : [MainWP Dashboard, MainWP Child]
 postimg    : "mainwp-dashboard-ile-tum-sitelerinizi-tek-panelden-yonetme-imkani.png"
 comments   : true
 ---

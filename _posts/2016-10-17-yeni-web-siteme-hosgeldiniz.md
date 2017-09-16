@@ -2,8 +2,8 @@
 title      : "Yeni Web Siteme Hoşgeldiniz!"
 description: "Tüm sosyal medya hesaplarıma tek bir hesaptan ulaşabilirsiniz."
 date       : 2016-10-08 23:16:23
-categories : [genel]
-tags       : [sosyal medya]
+categories : [Genel]
+tags       : [Kişisel Web Site, Sosyal Medya]
 postimg    : "ahmetcadirci-wallpaper.png"
 comments   : true
 ---

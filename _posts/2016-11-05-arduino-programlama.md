@@ -2,8 +2,8 @@
 title      : "Arduino Programlama"
 description: "Arduino Programlama... Hobi uygulamaları için geliştirilmiştir. Açık kaynak ve yazılım / donanım geliştirilebilir."
 date       : 2016-11-05 22:53:13
-categories : [genel]
-tags       : [arduino]
+categories : [Teknoloji, Program]
+tags       : [Arduino, Arduino Uno]
 postimg    : "arduino-uno-r3-usb-kablo.png"
 comments   : true
 ---

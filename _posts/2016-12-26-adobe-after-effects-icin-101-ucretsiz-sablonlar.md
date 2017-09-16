@@ -2,8 +2,8 @@
 title      : "Adobe After Effects için 101 Ücretsiz Şablonlar"
 description: "Adobe After Effects için 101 Ücretsiz Şablonlar ücretsiz kaynaklardan derlenmiştir."
 date       : 2016-12-26 11:45:00
-categories : [genel]
-tags       : [adobe after effects]
+categories : [Teknoloji, Program]
+tags       : [Adobe After Effects, AEBuster, Tasarım]
 postimg    : "adobe-after-effects-icin-101-ucretsiz-sablonlar.png"
 comments   : true
 ---

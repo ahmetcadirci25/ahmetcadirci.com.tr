@@ -2,8 +2,8 @@
 title      : "500px'te Yayınlanan 10+ İnanılmaz Doğa Fotoğrafları"
 description: "Doğanın görkemini yansıtan bu fotoğraflar birbirinden değerli kişiler tarafından fotoğraflandı."
 date       : 2016-11-01 22:35:13
-categories : [galeri]
-tags       : [fotoğraf]
+categories : [Galeri]
+tags       : [500px, Fotoğraf, Doğa]
 postimg    : "500px-yayinlanan-10-inanilmaz-doga-fotograflari.png"
 comments   : true
 ---

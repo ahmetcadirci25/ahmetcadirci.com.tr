@@ -2,8 +2,8 @@
 title      : "Google Chrome Şifreleri Dışa ve İçe Aktarma"
 description: "Google'ın Chrome tarayıcısında şifrelerini tarayıcının kendisinden içe aktarabileceğinizi veya hatta dışa aktarabileceğinizi biliyor muydunuz?"
 date       : 2017-01-13 01:40:00"
-categories : [genel]
-tags       : [çözüm]
+categories : [Teknoloji, İnternet]
+tags       : [Chrome, Şifre, Google, Opera]
 postimg    : "google-chrome-password-import-export.png"
 comments   : true
 ---

@@ -2,8 +2,8 @@
 title      : "XAMPP Kullanarak Yerel Ana Makinenize Özel Alan Adı (.dev) Oluşturma"
 description: "XAMPP kullanarak localhost'ta .dev uzantılı özel domain oluşturma. Kodlar Windows'u temel alır, ancak 2. adımdan itibaren diğer işletim sistemlerine uygulanabilir."
 date       : 2016-12-21 13:45:00
-categories : [genel]
-tags       : [xampp, localhost]
+categories : [Web Tasarım, Teknoloji, Program, PHP]
+tags       : [Windows 10, XAMPP, Sanal Server, Local Host]
 postimg    : "xampp-kullanarak-yerel-ana-makinenize-ozel-alan-adi-dev-olusturma.png"
 comments   : true
 ---
