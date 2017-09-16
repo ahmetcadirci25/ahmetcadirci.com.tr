@@ -33,13 +33,9 @@
 # => Tarayıcı önizleme http://localhost:4000
 ```
 
-## License & copyright
+## Diğer Site
 
-Yazı, grafik & tasarım © Ahmet Çadırcı
-
-Code licensed under the [MIT License](https://github.com/ahmetcadirci.com.tr/blob/gh-pages/LICENSE)
-
-[Yolcu Misali](http://www.yolcumisali.com) © [yolcumisali.com](http://www.yolcumisali.com)
+[Yolcu Misali](http://www.yolcumisali.com) [yolcumisali.com](http://www.yolcumisali.com)
 
 ---
 
