@@ -22,7 +22,7 @@ layout: default
                             <span class="meta__author"><img src="{{ "/images/avatar.svg" | prepend: site.url }}" alt="{{ site.author.name }}" width="30" height="30"> <a href="{{ site.url }}">{{ site.author.name }} </a>   
                             </span> 
                             <span class="meta__categories"><span class="glyphicon glyphicon-list"></span>  &nbsp; Kategori : {% for categories in post.categories %}<a href="{{ site.url }}/kategoriler/#{{ categories }}">{{ categories }}</a> {% endfor %} </span>
-                            <span class="meta__date"><span class="glyphicon glyphicon-calendar"></span>  &nbsp; {{ post.date | date: "%-d %b %Y" }}</span> 
+                            <span class="meta__date"><span class="glyphicon glyphicon-calendar"></span>  &nbsp; {{ post.date | date: "%d.%m.%Y" }}</span> 
                           </div>
                         </div>
                         <div class="col-xs-12  col-sm-4">
