@@ -23,6 +23,16 @@
 
 ---
 
+## Kurulum 
+
+```
+~ $ git clone https://github.com/ahmetcadirci25/ahmetcadirci25.github.io.git 
+~ $ gem install jekyll bundler
+~ $ cd ahmetcadirci25.github.io
+~/ahmetcadirci25.github.io $ bundle exec jekyll serve
+# => Tarayıcı önizleme http://localhost:4000
+```
+
 ## License & copyright
 
 Yazı, grafik & tasarım © Ahmet Çadırcı
