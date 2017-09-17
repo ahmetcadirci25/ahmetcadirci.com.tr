@@ -16,13 +16,6 @@ var urlsToCache = [
         
     {% endfor %}
 
-    {% for post in site.posts %}
-        '{{ post.url }}',
-    {% endfor %}
-
-    {% for file in site.static_files %}
-        '{{ file.path }}',
-    {% endfor %}
 ];
 self.addEventListener('install', function(event) {
   event.waitUntil(caches.open(CACHE_NAME).then(function(cache) {
