@@ -41,6 +41,7 @@
 
 ### Yeni Yazılar
 
+* [İlim ve Sanat Öğrenme Hürriyeti](https://ahmetcadirci.com.tr/2017/ilim-ve-sanat-ogrenme-hurriyeti/)
 * [En İyi Adobe Premiere CC Klavye Kısayolları](https://ahmetcadirci.com.tr/2017/en-iyi-adobe-premiere-cc-klavye-kisayollari/)
 * [En İyi WordPress Galeri ve Slayt Eklentileri](https://ahmetcadirci.com.tr/2017/en-iyi-wordpress-galeri-ve-slayt-eklentileri/)
 * [Tasarımcılar İçin Kaynak Siteler](https://ahmetcadirci.com.tr/2017/tasarimcilar-icin-kaynak-siteler/)
