@@ -71,14 +71,19 @@
     </footer>
 
     <script src="{{ "/js/jquery-3.2.1.slim.min.js" | prepend: site.url }}"></script>
+    <script src="{{ "/js/lazyload.min.js" | prepend: site.url }}"></script>
     <script src="{{ "/js/main.js" | prepend: site.url }}"></script>
     <script id="dsq-count-scr" src="//ahmetcadirci.disqus.com/count.js" async></script>
+
     <script>
+        $("img.lazyload").lazyload();
+
         WebFontConfig = {
           google: {
             families: ['Open+Sans:300,400,700:latin', 'Lato:700,900:latin']
           }
         };
+
         (function() {
           var wf = document.createElement('script');
           wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
