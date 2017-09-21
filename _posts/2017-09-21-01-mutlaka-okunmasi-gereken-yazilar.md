@@ -13,6 +13,7 @@ comments   : true
 ### #01 Boğaz'da Bir Huzur Adası: Yahya Efendi Dergahı
 
 **Yazıyı kaleme alan kişi: Nidayi Sevim**
+
 **Yayınlanan Tarih: 07.09.2017**
 
 *"Yahya Efendi Dergahı'nın cümle kapısını geçtikten sonra derin bir sükûnet ve huzur iklimi hemen fark ediliyor. Bu sükûnet ve uhrevi hava insanda ister istemez büyük bir hürmet ve teslimiyet hissi uyandırıyor. Nidayi Sevim tekkenin tarihçesini ve 2014'te başlayan restorasyonda gelinen son durumu yazdı."*
@@ -24,6 +25,7 @@ comments   : true
 ### #02 Olman gerektiği gibi ol
 
 **Yazıyı kaleme alan kişi: Serdar Tuncer**
+
 **Yayınlanan Tarih: 21.09.2017**
 
 *Irak meselesi çok baş ağrıtacağa benziyor. Bugün değilse yarın... Belki şimdilik geri adım atılarak referandum iptal edilir yahut tehir edilir, belki başka bir alternatif çözüm üretilir bilemem ama görünen o ki uzun vadede en az Suriye meselesi kadar Türkiye’yi etkileyecek sonuçları olacak bu işin. Çünkü birileri orada bağımsız bir Kürt devleti istiyor. Hatta bu birileri, bu devleti Kürtlerden daha çok istiyor. O coğrafyayı sözde Arap Baharı adı altında kaosun kucağına atanlar, Suriye’den sonraki domino taşının adını çoktan koymuşlar. Yıkıla yıkıla geliyor hamleler... Nihai hedef ise asla Kürt devleti değil. Kürt devleti, büyük planın küçük bir parçası sadece. Günü geldiğinde en büyük zararı da bugün bağımsızlık hayali kuran Kürtlere verecek parçası hem de. Öyle ya, plan kurucuların taktiği değişse de parolası sabit: Kullan at! Obama’nın, temizlenmesi 20 yıl sürebilir dediği bir DAEŞ vardı, ne oldu sahi?*
@@ -41,6 +43,7 @@ comments   : true
 ### #04 2. Dünya Savaşı’na Ok ve Kılıçla Katılan Asker
 
 **Yazıyı kaleme alan kişi: Liza Demirtaş**
+
 **Yayınlanan Tarih: 04.09.2017**
 
 *Eğer Yüzyıl Savaşları’na gidiyorsanız veya Orta Dünya’da orkları savuşturuyorsanız; savaşa giderken yay, bir sadak dolusu ok ve pala ile silahlanmanız gayet anlaşılır bir durumdur. Ancak 2. Dünya Savaşı’nda zamanın teknolojisi karşısında bu silahlar birer çocuk oyuncağına benzerdi. Kılıç, tüfek ve tanklara karşı en iyi olası savunma değildi huşkusuz. Ancak, “Mad Jack” lakaplı John Malcolm Thorpe Fleming Churchill için, silahlanırken yay ve kılıçtan daha güvenilir hiçbir şey  yoktu.*
@@ -52,6 +55,7 @@ comments   : true
 ### #05 Japonya notları
 
 **Yazıyı kaleme alan kişi: Taha Kılınç**
+
 **Yayınlanan Tarih: 20.09.2017**
 
 *Sabah namazından sonra, Tokyo’nun lüks semtlerinden Shibuya’nın ara sokaklarını dolaşmaya başladık.  Dokuz yıldır Japonya’da yaşayan mimar arkadaşım Abdurrahman Kaç’ın Japonların mimari anlayışları ve şehircilik uygulamalarıyla ilgili anlattıkları gerçekten ilginçti: Binaların yapımında, çevredeki yaşam alanlarının güneş ışığı almasının uzun süre engellenmemesi esasmış örneğin. Farklı bölgelere göre değişmekle birlikte, bir evin ya da sokağın aralıksız dört saat güneşten mahrum kalmaması gerekiyormuş. Komşusunun ışığını kesen, güneşini engelleyen binaların ruhsat alması imkânsızmış. Abdurrahman bunları anlatırken, bir yandan da Shibuya’da Japon mimari hukukuna göre inşa edilmiş, ilginç görünümlü binaları gösteriyordu bana. Sırf yandaki evlerin güneşini engellemesin diye tepesi yarıdan kesilmiş, görünüşleri farklı şekiller almış yapılar dikkat çekiyordu.*
