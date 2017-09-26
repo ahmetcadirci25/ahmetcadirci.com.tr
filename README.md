@@ -41,6 +41,7 @@
 
 ### Yeni Yazılar
 
+* [KeePass ile Şifrelerinizi En İyi Şekilde Yönetim](https://ahmetcadirci.com.tr/2017/keepass-ile-sifrelerinizi-en-iyi-sekilde-yonetin/)
 * [#01 Mutlaka Okunması Gereken Yazılar](https://ahmetcadirci.com.tr/2017/01-mutlaka-okunmasi-gereken-yazilar/)
 * [İlim ve Sanat Öğrenme Hürriyeti](https://ahmetcadirci.com.tr/2017/ilim-ve-sanat-ogrenme-hurriyeti/)
 * [En İyi Adobe Premiere CC Klavye Kısayolları](https://ahmetcadirci.com.tr/2017/en-iyi-adobe-premiere-cc-klavye-kisayollari/)
