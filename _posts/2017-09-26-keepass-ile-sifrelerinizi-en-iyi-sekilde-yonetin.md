@@ -1,5 +1,5 @@
 ---
-title      : "KeePass ile Şifrelerinizi En İyi Şekilde Yönetim"
+title      : "KeePass ile Şifrelerinizi En İyi Şekilde Yönetin"
 description: "Son zamanlarda sıklıkla kullandığım KeePass programını tanıtacağım. KeePass ücretsiz, açık kaynak kodlu, hafif ve kullanımı kolay şifre yöneticisidir."
 date       : 2017-09-26 22:40:00
 categories : [Teknoloji, Program, Mobil, İnternet]
