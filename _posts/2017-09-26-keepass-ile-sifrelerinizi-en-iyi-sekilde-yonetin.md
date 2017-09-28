@@ -20,19 +20,19 @@ Kesinlikle Evet, KeePass gerçekten ücretsiz ve bundan çok daha fazlası: aç�
 
 #### KeePass Windows, Linux ve macOS işletim sistemlerine nasıl kurulur?
 
-1. Windows
+##### #1 Windows
 
 [KeePass Download](http://keepass.info/download.html){:target="_blank"}{:rel="noopener"} sayfasından **Windows** işletim sisteminize uygun olan dosyayı indirip kurulum yapabilirsiniz.
 
-2. Linux (Ubuntu)
+##### #2 Linux (Ubuntu)
 
 [Ubuntu Apps](https://apps.ubuntu.com/cat/applications/keepass2/){:target="_blank"}{:rel="noopener"} sayfasından **Download Ubuntu** butonuna tıklayarak kurulum yapabilirsiniz.
 
-3. macOS
+##### #3 macOS
 
 [KeePass 2.x for Mac OS X](http://keepass.info/%0D/download/p_macosx/index.html){:target="_blank"}{:rel="noopener"} sayfasından **KeePass 2.23** isimli dosyayı indirip kurulum yapabilirsiniz.
 
-4. Diğer 
+##### #4 Diğer 
 
 [KeePass Download](http://keepass.info/download.html){:target="_blank"}{:rel="noopener"} sayfasından **Diğer** işletim sistemlerine uygun olan dosyayı indirip kurulum yapabilirsiniz.
 
