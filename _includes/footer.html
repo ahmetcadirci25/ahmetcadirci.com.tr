@@ -2,7 +2,7 @@
       <div class="container">
         <div class="col-xs-12  col-md-3">
           <div class="widget-about  push-down-30">
-            <img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ "/images/logo.svg" | prepend: site.url }}" alt="{{ site.author.name }}" height="70">
+            <img src="{{ "/images/logo.svg" | prepend: site.url }}" alt="{{ site.author.name }}" height="70">
             <br/>
             <span class="footer__text">{{ site.short_description }}</span> 
             <br/>
@@ -59,7 +59,7 @@
       <div class="copyrights">
         <div class="container">
             <div class="col-xs-12  col-sm-6">
-              <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Lisansı" class="license lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://licensebuttons.net/l/by-nc/4.0/80x15.png"/></a>
+              <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Lisansı" class="license" src="https://licensebuttons.net/l/by-nc/4.0/80x15.png"/></a>
             </div>
             <div class="col-xs-12  col-sm-6">
               <div class="copyrights--right">             
@@ -73,14 +73,9 @@
     <script src="{{ "/js/jquery-3.2.1.slim.min.js" | prepend: site.url }}"></script>
     <script src="{{ "/js/main.js" | prepend: site.url }}"></script>
     <script src="//ahmetcadirci.disqus.com/count.js" id="dsq-count-scr" async></script>
-    <script src="{{ "/js/jquery.lazy.min.js" | prepend: site.url }}"></script>
+    <script src="{{ "/js/lazyload.min.js" | prepend: site.url }}"></script>
     <script type="text/javascript">
-        
-        $('.lazyload').lazy({
-          effect: "fadeIn",
-          effectTime: 500,
-          threshold: 0
-        });
+        $("img.lazyload").lazyload();
 
         WebFontConfig = {
           google: {
@@ -105,6 +100,8 @@
         ga('create', '{{ site.google_analytics }}', 'auto');
         ga('send', 'pageview');
     </script>
+
+
 
     <script type="application/ld+json">
       {
