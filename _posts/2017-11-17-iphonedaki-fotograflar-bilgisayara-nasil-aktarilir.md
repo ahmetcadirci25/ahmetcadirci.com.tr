@@ -1,5 +1,5 @@
 ---
-title      : "iPhone’daki fotoğraflar bilgisayara nasıl aktarılır?"
+title      : "iPhone’daki Fotoğraflar Bilgisayara Nasıl Aktarılır?"
 description: "iPhone’daki fotoğraflar bilgisayara nasıl aktarılır? Bu işlemlerin öncelikle Windows 10’da nasıl gerçekleştiğini anlatacağım."
 date       : 2017-11-17 01:00:00
 categories : [Teknoloji, Program, Mobil, Nasıl Yapılır]
@@ -10,7 +10,7 @@ comments   : true
 
 Bu işlemlerin öncelikle Windows 10’da nasıl gerçekleştiğini anlatacağım.
 
-Windows işletim sisteminde yüklü gelen  **Fotoğraflar** uygulamasını açmamız gerekiyor. **Başlat** > **Arama Kutucuğuna** >**Fotoğraflar** yazmanız  yeterlidir.  Açılan uygulamanın üst panelinde yer alan **İçe aktar** seçeneğindeki tıklıyoruz.  **Usb cihazından** seçeneğindeki seçiyoruz. 
+Windows işletim sisteminde yüklü gelen  **Fotoğraflar** uygulamasını açmamız gerekiyor. **Başlat** > **Arama Kutucuğuna** >**Fotoğraflar** yazmanız  yeterlidir.  Açılan uygulamanın üst panelinde yer alan **İçe aktar** seçeneğine tıklıyoruz.  **Usb cihazından** seçeneğini seçiyoruz. 
 
 *Not: iPhone telefonumuz bilgisayara bağlı olması gerekiyor.*
 
