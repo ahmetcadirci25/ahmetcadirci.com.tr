@@ -43,11 +43,11 @@ sitemap: false
     <link>https://ahmetcadirci.com.tr/</link>
     <guid isPermaLink="true">https://ahmetcadirci.com.tr/</guid>
     <pubDate>Wed, 04 Nov 2015 16:20:38 GMT</pubDate>
-    <enclosure url="https://dl.dropboxusercontent.com/s/3f8mhczxs3hrdl1/01-wordpress-nedir.mp3" length="1739546" type="video/mp3"/>
+    <enclosure url="https://dl.dropboxusercontent.com/s/3f8mhczxs3hrdl1/01-wordpress-nedir.mp3" length="1739546" type="audio/mpeg"/>
     <itunes:subtitle>#01 Wordpress Nedir?</itunes:subtitle>
     <itunes:summary>Wordpress Nedir? WordPress, dünyada en çok kullanılan içerik yönetim sistemlerinden biridir. Ahmet Çadırcı https://ahmetcadirci.com.tr</itunes:summary>
     <itunes:duration>00:01:07</itunes:duration>
-    <media:content url="https://dl.dropboxusercontent.com/s/3f8mhczxs3hrdl1/01-wordpress-nedir.mp3" fileSize="1739546" type="video/mp3"/>
+    <media:content url="https://dl.dropboxusercontent.com/s/3f8mhczxs3hrdl1/01-wordpress-nedir.mp3" fileSize="1739546" type="audio/mpeg"/>
     <itunes:keywords>ahmet çadırcı, wordpress, wordpress nedir</itunes:keywords>
     <itunes:block>no</itunes:block>
   </item>
@@ -58,11 +58,11 @@ sitemap: false
     <link>https://ahmetcadirci.com.tr/</link>
     <guid isPermaLink="true">https://ahmetcadirci.com.tr/</guid>
     <pubDate>Wed, 04 Nov 2015 16:20:38 GMT</pubDate>
-    <enclosure url="https://dl.dropboxusercontent.com/s/rba8typyinmh4dc/02-xampp-server-kurulumu.mp3" length="1739546" type="video/mp3"/>
+    <enclosure url="https://dl.dropboxusercontent.com/s/rba8typyinmh4dc/02-xampp-server-kurulumu.mp3" length="1739546" type="audio/mpeg"/>
     <itunes:subtitle>#02 Windows sisteminde PHP ve MySQL kurulumu (XAMPP Server)</itunes:subtitle>
     <itunes:summary>WordPress'i herhangi bir sunucuya yüklemeden direk bilgisayarımızda çalıştırmak istiyorsak bilgisayarımızı sunucuya çevirmemiz gerekiyor. Ahmet Çadırcı https://ahmetcadirci.com.tr</itunes:summary>
     <itunes:duration>00:01:48</itunes:duration>
-    <media:content url="https://dl.dropboxusercontent.com/s/rba8typyinmh4dc/02-xampp-server-kurulumu.mp3" fileSize="1739546" type="video/mp3"/>
+    <media:content url="https://dl.dropboxusercontent.com/s/rba8typyinmh4dc/02-xampp-server-kurulumu.mp3" fileSize="1739546" type="audio/mpeg"/>
     <itunes:keywords>ahmet çadırcı, wordpress, xampp server kurulumu</itunes:keywords>
     <itunes:block>no</itunes:block>
   </item>
