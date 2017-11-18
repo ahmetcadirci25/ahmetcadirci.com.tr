@@ -1,7 +1,4 @@
 User-Agent: *
-Disallow: /ferzan/
-Disallow: /risale-i-nurdan-sohbetler/
-Disallow: /tarihce/
 Disallow: /blaze-orange/
 Disallow: /clean/
 Disallow: /ana-ekrana-ekle/
