@@ -14,6 +14,6 @@ Windows işletim sisteminde yüklü gelen  **Fotoğraflar** uygulamasını açma
 
 *Not: iPhone telefonumuz bilgisayara bağlı olması gerekiyor.*
 
-Açılan ekranda **iPhone cihazımız** yer alacaktır. Daha sonra cihazınızı seçiyorsunuz. Telefonunuzdaki tüm fotoğraf ve videolar listelenecektir. İsteğiniz fotoğrafları seçip **Devam et** tuşuna tıklıyoruz. 
+Açılan ekranda **iPhone cihazımız** yer alacaktır. Daha sonra cihazınızı seçiyorsunuz. Telefonunuzdaki tüm fotoğraf ve videolar listelenecektir. Aktarmak istediğiniz fotoğrafları seçip **Devam et** tuşuna tıklıyoruz. 
 
-**İçeri aktarma başlatılsın mı?** şeklinde uyarı verecektir. Fotoğrafları çıkarmak için isteğiniz dizini seçebilirsiniz. **İçe aktar** seçeneğini seçtiğinizde işlem tamamlanacaktır. 👍
+**İçeri aktarma başlatılsın mı?** şeklinde uyarı verecektir. Fotoğrafları çıkarmak için dizin seçin. **İçe aktar** seçeneğini seçtiğinizde işlem tamamlanacaktır. 👍
