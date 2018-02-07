@@ -14,7 +14,7 @@ comments   : true
 
 **Follow Tuşuna Basarak RSS'le Abone Olabilirsiniz.**
 
-<a href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fahmetcadirci.com.tr%2Ffeed.xml'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-volume-medium_2x.png' alt='follow us in feedly' style=" width: 75px !important; " width='71' height='28'></a>
+<a href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fhttps%3A%2F%2Ffeeds.feedburner.com%2Fahmetcadirci25'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-volume-medium_2x.png' alt='follow us in feedly' style=" width: 75px !important; " width='71' height='28'></a>
 
 ### İçe Aktarma (Import)
 
