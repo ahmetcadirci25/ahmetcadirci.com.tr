@@ -41,6 +41,7 @@
 
 ### Yeni Yazılar
 
+* [iPhone'a Tüm Sitelerden Ücretsiz Video İndirme Nasıl Yapılır?](https://ahmetcadirci.com.tr/2018/iphone-cihaza-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir/)
 * [KeePass ile Şifrelerinizi En İyi Şekilde Yönetin](https://ahmetcadirci.com.tr/2017/keepass-ile-sifrelerinizi-en-iyi-sekilde-yonetin/)
 * [#01 Mutlaka Okunması Gereken Yazılar](https://ahmetcadirci.com.tr/2017/01-mutlaka-okunmasi-gereken-yazilar/)
 * [İlim ve Sanat Öğrenme Hürriyeti](https://ahmetcadirci.com.tr/2017/ilim-ve-sanat-ogrenme-hurriyeti/)

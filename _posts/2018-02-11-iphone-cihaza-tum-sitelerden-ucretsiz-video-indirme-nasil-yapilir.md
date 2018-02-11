@@ -10,18 +10,18 @@ comments   : true
 
 iPhone cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şekilde video indirebilirsiniz. Uygulamının içinde yer alan özellikle indirdiğiniz videoları ses (mp3) formatına çevirebilirsiniz.
 
-### Nasıl Kurulur?
+## Nasıl Kurulur?
 
 1. App Store'a giriş yapıyoruz.
 2. Arama çubuğuna **Vida** yazıyoruz.
 3. **Vida - Video File Manager for Clouds** uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
 
-#### Kurulum Videosu 
+### Kurulum Videosu 
 
-<iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/255265889" webkitAllowFullScreen width="100%"></iframe>
+<iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/255265889" webkitAllowFullScreen width="640"></iframe>
 
-### YouTube'dan Video İndirme Nasıl Yapılır?
+#### YouTube'dan Video İndirme Nasıl Yapılır?
 
 1. YouTube'dan sayfasında video url'sini kopyalayın.
 2. **Vida** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
@@ -35,14 +35,14 @@ iPhone cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şeki
 
 ![Video İndirme Aşamaları](https://ahmetcadirci.com.tr/images/galeri/iphonea-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir.png "Video İndirme Aşamaları")
 
-### YouTube'dan İndirilen Videoyu Ses (mp3) Formatına Çevirme Nasıl Yapılır?
+#### YouTube'dan İndirilen Videoyu Ses (mp3) Formatına Çevirme Nasıl Yapılır?
 
 1. İndirme işlemi biten videoları **Downloaded Video** kısmında görüntüleyerebilirsiniz.
 2. Video başlığının hemen sağında **+** butonunun üstünde yer alan sonsuz döngü işaretine benzeyen simgeye tıklayın. Otomatik olarak  ses (mp3) formata çevirme işlemi başlayacaktır.
 3. Ses (mp3) formata çevirme işlemi biten videoları **Downloaded MP3** kısmında görüntüleyerebilirsiniz. 
 9. **Share** butonuna tıklayın. Ses dosyasını istediğiniz uygulamada açabilirsiniz.
 
-### Diğer Sitelerden (Facebook, Twitter, Vimeo ve daha fazlası) Video İndirme Nasıl Yapılır?
+#### Diğer Sitelerden (Facebook, Twitter, Vimeo ve daha fazlası) Video İndirme Nasıl Yapılır?
 
 1. Videonun yer aldığı sayfanın url'sini kopyalayın.
 2. **Vida** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
