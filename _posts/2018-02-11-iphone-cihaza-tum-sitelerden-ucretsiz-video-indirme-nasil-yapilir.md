@@ -19,7 +19,7 @@ iPhone cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şeki
 
 ### Kurulum Videosu 
 
-<iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/255265889" webkitAllowFullScreen width="640"></iframe>
+<iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/255265889" webkitAllowFullScreen width="100%"></iframe>
 
 #### YouTube'dan Video İndirme Nasıl Yapılır?
 
