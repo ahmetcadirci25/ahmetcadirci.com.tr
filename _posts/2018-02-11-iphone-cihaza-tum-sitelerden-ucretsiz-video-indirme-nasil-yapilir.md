@@ -19,11 +19,11 @@ iPhone cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şeki
 
 ### Kurulum Videosu 
 
-<iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/255265889" webkitAllowFullScreen width="640"></iframe>
+<iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/255265889" webkitAllowFullScreen width="100%"></iframe>
 
 #### YouTube'dan Video İndirme Nasıl Yapılır?
 
-1. YouTube'dan sayfasında video url'sini kopyalayın.
+1. YouTube sayfasından video url'sini kopyalayın.
 2. **Vida** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
 3. Video oynattığınızda **X** işareti belirecektir. **X** işaretine tıklayın ve reklamı kapatın.
 4. Otomatik olarak videoyu indirmek istediğiniz formatlar çıkacaktır. Örneğin: SD (360p), SD (240p), HD (720p), HD (1080p) ve daha fazla format yer alacaktır.
