@@ -7,13 +7,13 @@
 
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
-        appendString += '<div class="boxed  push-down-30"><div class="row"><div class="col-xs-10  col-xs-offset-1"><div class="post-content--front-page"><h2><a href="' + item.url + '">' + item.title + '</a></h2>';
-        appendString += '<h3 class="search-subtitle">' + item.content.substring(0, 150) + '...</h3></div><a href="' + item.url + '"><div class="read-more">Devamını Oku<div class="read-more__arrow"><span class="glyphicon  glyphicon-chevron-right"></span> </div></div></a></div></div></div>';
+        appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
+        appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
       }
 
       searchResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = '<div>Sonuç bulunamadı</div>';
+      searchResults.innerHTML = '<li>No results found</li>';
     }
   }
 
