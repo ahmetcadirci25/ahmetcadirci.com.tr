@@ -16,7 +16,7 @@ comments   : true
 
 **Yayınlanan Tarih: 21.03.2018**
 
-* BBC'nin yaptığı araştırma, Myanmar'dan Bangladeş'teki mülteci kamplarına kaçan Arakanlı Müslüman kız çocukların seks ticaretine zorlanarak yabancılara satıldığını ortaya çıkardı.*
+*BBC'nin yaptığı araştırma, Myanmar'dan Bangladeş'teki mülteci kamplarına kaçan Arakanlı Müslüman kız çocukların seks ticaretine zorlanarak yabancılara satıldığını ortaya çıkardı.*
 
 *14 yaşındaki Anwara, bu kız çocuklarından biri.*
 
@@ -35,7 +35,7 @@ comments   : true
 
 **Yayınlanan Tarih: 21.03.2018**
 
-* ABD’de yapılan bir araştırmada “Bir zamanlar Müslümandım (Ex-Muslim)” diyenlerin sayısında büyük artış gözlemlenmekte imiş. Bunların çoğu sonradan ihtida ederek Müslüman olanlardan. Diğer bir kesim ise bazı Ortadoğu ülkelerinden Müslüman geçmişiyle Batı’ya gelenlerden. İslam’dan çıkanlardan bazısı ateist oldum derken bazısı da Hristiyanlık gibi başka bir dine girdim diyormuş. Hatta bu eski Müslümanlar İngiltere’de o kadar çoğalmış ki Council of Ex-Muslims of Britain (CEMB) adında bir konsül dahi oluşturmuş*
+*ABD’de yapılan bir araştırmada “Bir zamanlar Müslümandım (Ex-Muslim)” diyenlerin sayısında büyük artış gözlemlenmekte imiş. Bunların çoğu sonradan ihtida ederek Müslüman olanlardan. Diğer bir kesim ise bazı Ortadoğu ülkelerinden Müslüman geçmişiyle Batı’ya gelenlerden. İslam’dan çıkanlardan bazısı ateist oldum derken bazısı da Hristiyanlık gibi başka bir dine girdim diyormuş. Hatta bu eski Müslümanlar İngiltere’de o kadar çoğalmış ki Council of Ex-Muslims of Britain (CEMB) adında bir konsül dahi oluşturmuş*
 
 *Aziz Nesin hafızlık yapmak üzere gönderildiği Kur’ân kursunda yediği dayaklardan sonra dinden soğuduğunu söylemişti. Youtube’ta araştırabilirsiniz İslam dünyasında hâlâ Kur’an kurslarında falakaya yatırılan çocuklar var. Bunlar büyüyünce ve de eğer İslam coğrafyasından dışarı bir yere iltica ederlerse yukarıda bahsettiğim potansiyel birer EX-MUSLIM oluyorlar. Memleketimizde büyük sponsorluklarla kurulan KUR’ÂN merkezi v.b. gibi adlar altında açılan yerler anlamadıkları sahalarda dolaşacaklarına bu Kur’an kursları üzerinde çalışsalar belki İslam’dan kaçışa bir nebze çözüm yolları bulabilirler.*
 
@@ -49,7 +49,7 @@ comments   : true
 
 *“Ben yirmi altı yıldır durmadan üşüyorum. Nerede olursam olayım üşüyorum. Evimde ya da başka yerde, hiç fark etmez, durmadan üşüyorum. Hele hele şubat gelince daha da çok üşüyorum. Üşüyorum çünkü yirmi altı yıl önce Hocalı’da donan o çocuklar aklıma geliyor. O çocuklara iki lokma ekmek verip karnını doyurmak isteyen, yollarda üşüyüp onlarla beraber katledilen anneler aklıma geliyor ve üşüyorum. Onlarla kardeş olduğum için, onların acılarını hissettiğim için üşüyorum. Kardeşlik budur. Kardeşlik, ‘kardeşim’ dediğin kişinin acısını hissetmektir. Ben de onların acısını hissediyorum.”*
 
-* “Peki, acımasızca katledilen bu kadar insanın suçu neydi? Hangi büyük suçu işlediler ki böyle insanlık dışı bir katliama maruz kaldılar? Bazısının gözü oyuldu, bazısının kalbi yerinden çıkarıldı, bazısının kafası koparıldı ama hepsi de acı içinde can verdi sonuçta. Neydi onların suçu? Onların suçunu söyleyeyim: Onların tek suçu Türk olmaktı.”*
+*“Peki, acımasızca katledilen bu kadar insanın suçu neydi? Hangi büyük suçu işlediler ki böyle insanlık dışı bir katliama maruz kaldılar? Bazısının gözü oyuldu, bazısının kalbi yerinden çıkarıldı, bazısının kafası koparıldı ama hepsi de acı içinde can verdi sonuçta. Neydi onların suçu? Onların suçunu söyleyeyim: Onların tek suçu Türk olmaktı.”*
 
 *”Batı, aynı zamanda bu katliama ortaktır. Çünkü Ermenilere o silahları veren Batı’dır. Batı için Ermeniler kardeş, Ermenistan ise Türk dünyasına açılan bir kapıdır. O yüzden böyle davranmaktadırlar. Batı, Müslümanlar söz konusu olduğunda bu ikiyüzlülüğü her zaman ve her yerde yapmaktadır. Bosnalı Müslümanlar katledilirken de gözlerini kapatıp kulaklarını sağır etti Batı dünyası.”*
 
