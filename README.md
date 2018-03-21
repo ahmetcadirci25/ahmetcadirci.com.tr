@@ -10,16 +10,11 @@
 
 [Ahmet Çadırcı](https://ahmetcadirci.com.tr) kişisel web sitem... Developer ve interneti seven kişi...
 
-- [YouTube](https://ahmetcadirci.com.tr/youtube)
-- [Podcast](https://ahmetcadirci.com.tr/podcast)
-- [GitHub](https://ahmetcadirci.com.tr/github)
-- [Instagram](https://ahmetcadirci.com.tr/instagram)
-- [Twitter](https://ahmetcadirci.com.tr/twitter)
-- [Facebook](https://ahmetcadirci.com.tr/facebook)
-- [Google Plus](https://ahmetcadirci.com.tr/googleplus)
-- [LinkedIn](https://ahmetcadirci.com.tr/linkedin)
-- [Feed](http://feeds.feedburner.com/ahmetcadirci25)
-- [Podcast Feed](http://feeds.feedburner.com/ahmetcadirci25-podcast)
+- [RSS](https://ahmetcadirci.com.tr/rss){:target="_blank"}{:rel="noopener"}
+- [Podcast RSS](https://ahmetcadirci.com.tr/podcast){:target="_blank"}{:rel="noopener"}
+- [GitHub](https://ahmetcadirci.com.tr/github){:target="_blank"}{:rel="noopener"}
+- [Codepen](https://ahmetcadirci.com.tr/codepen){:target="_blank"}{:rel="noopener"}
+- [Bitbucket](https://ahmetcadirci.com.tr/bitbucket){:target="_blank"}{:rel="noopener"}
 
 ---
 
@@ -32,10 +27,6 @@
 ~/ahmetcadirci25.github.io $ bundle exec jekyll serve
 # => Tarayıcı önizleme http://localhost:4000
 ```
-
-## Diğer Site
-
-[Yolcu Misali](http://www.yolcumisali.com) [yolcumisali.com](http://www.yolcumisali.com)
 
 ---
 
