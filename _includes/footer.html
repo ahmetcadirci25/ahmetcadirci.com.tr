@@ -72,7 +72,54 @@
       </div>
     </footer>
 
+    <script src="{{ "/js/jquery-3.2.1.slim.min.js" | prepend: site.url }}"></script>
+    <script src="{{ "/js/main.js" | prepend: site.url }}"></script>
+    <script src="{{ "/js/lazyload.min.js" | prepend: site.url }}"></script>
+    <script src="//ahmetcadirci.disqus.com/count.js" id="dsq-count-scr" async></script>
+    <script type="text/javascript">
+        $("img.lazyload").lazyload();
 
-    <script src="/js/lunr.min.js"></script>
-    <script src="/js/search.js"></script>
-    
+        WebFontConfig = {
+          google: {
+            families: ['Open+Sans:300,400,700:latin', 'Lato:700,900:latin']
+          }
+        };
+
+        (function() {
+          var wf = document.createElement('script');
+          wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+            '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+          wf.type = 'text/javascript';
+          wf.async = 'true';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(wf, s);
+        })();
+    </script>
+
+    <script type="application/ld+json">
+     [
+      {
+            "@context": "http://schema.org",
+            "@type": "Person",
+            "name": "Ahmet Çadırcı",
+            "jobTitle": "Web Geliştirici",
+            "url": "https://ahmetcadirci.com.tr",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Şişli",
+              "addressRegion": "İstanbul"
+            }
+          },
+        {
+          "@context" : "http://schema.org",
+          "@type" : "WebSite", 
+          "name" : "Ahmet Çadırcı",
+          "url" : "https://ahmetcadirci.com.tr/",
+          "potentialAction" : {
+            "@type" : "SearchAction",
+            "target" : "https://ahmetcadirci.com.tr/search/?query={searchTerms}",
+            "query-input" : "required name=searchTerms"
+          }                     
+        }
+    ]
+    </script>
