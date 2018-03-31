@@ -7,9 +7,11 @@ postimg: "ahmetcadirci-wallpaper.jpg"
 
 ## Hakkımda
 
-Ankara Üniversitesi Web Programlama Bölümü mezunuyum. 2010’dan bu güne Web Programlama ile ilgilenmekte ve uygulamaları bu yönde geliştiriyorum.
- 
-Web programlama, wordpress, tasarım, video ve reklam üzerine de çalışıyorum. Hayat tüm hızıyla devam ediyor.
+Kıymetli dostum,
+
+Ben Ahmet, Erzurumluyum. Ankara Üniversitesi İnternet Programcılığı önlisans mezunuyum. Şuan Anadolu Üniversitesi Bilişim Yönetim Sistemleri lisans bölümünü okuyorum.  
+
+Blogu açmamın sebebi kişisel yazılarımın derlendiği bir web günlüğü oluşturmak. Blogumda yer alan yazılar kendi öğrendiklerim ve tecrübelerimden ibarettir. Araştırmaktan ve yeni şeyler öğrenmekten her zaman haz almışımdır.
  
 [İletişim](https://ahmetcadirci.com.tr/iletisim/) sayfasından bana ulaşabilirsiniz. 
 
