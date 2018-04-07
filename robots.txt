@@ -1,6 +1,0 @@
-User-Agent: *
-Disallow: /blaze-orange/
-Disallow: /clean/
-Disallow: /ana-ekrana-ekle/
-
-Sitemap: https://ahmetcadirci.com.tr/sitemap.xml
