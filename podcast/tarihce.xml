@@ -20,8 +20,8 @@ sitemap: false
 <itunes:category text="History"/>
 <itunes:explicit>no</itunes:explicit>
 <language>tr</language>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
-<media:thumbnail url="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
+<media:thumbnail url="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 
 
 <item>
@@ -35,7 +35,7 @@ sitemap: false
 <itunes:duration>49:40</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 18 Jan 2016 18:30:59 +0100</pubDate>
@@ -53,7 +53,7 @@ sitemap: false
 <itunes:duration>45:03</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 18 Jan 2016 18:30:59 +0100</pubDate>
@@ -71,7 +71,7 @@ sitemap: false
 <itunes:duration>47:47</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 11 Jan 2016 18:30:59 +0100</pubDate>
@@ -88,7 +88,7 @@ sitemap: false
 <itunes:duration>45:50</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 04 Jan 2016 18:30:59 +0100</pubDate>
@@ -105,7 +105,7 @@ sitemap: false
 <itunes:duration>45:21</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 07 Dec 2016 18:30:59 +0100</pubDate>
@@ -122,7 +122,7 @@ sitemap: false
 <itunes:duration>47:37</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 23 Now 2016 18:30:59 +0100</pubDate>
@@ -139,7 +139,7 @@ sitemap: false
 <itunes:duration>39:13</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 16 Now 2016 18:30:59 +0100</pubDate>
@@ -156,7 +156,7 @@ sitemap: false
 <itunes:duration>43:16</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 09 Now 2016 18:30:59 +0100</pubDate>
@@ -173,7 +173,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 26 Oct 2016 18:30:59 +0100</pubDate>
@@ -190,7 +190,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 19 Oct 2016 18:30:59 +0100</pubDate>
@@ -207,7 +207,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 12 Oct 2016 18:30:59 +0100</pubDate>
@@ -224,7 +224,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 05 Oct 2016 18:30:59 +0100</pubDate>
@@ -241,7 +241,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 28 Sep 2016 18:30:59 +0100</pubDate>
@@ -258,7 +258,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 21 Sep 2016 18:30:59 +0100</pubDate>
@@ -275,7 +275,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 27 Jul 2016 18:30:59 +0100</pubDate>
@@ -292,7 +292,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 23 Jul 2016 18:30:59 +0100</pubDate>
@@ -309,7 +309,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 06 Jul 2016 18:30:59 +0100</pubDate>
@@ -326,7 +326,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 29 Jun 2016 18:30:59 +0100</pubDate>
@@ -343,7 +343,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 22 Jun 2016 18:30:59 +0100</pubDate>
@@ -360,7 +360,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 15 Jun 2016 18:30:59 +0100</pubDate>
@@ -377,7 +377,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 08 Jun 2016 18:30:59 +0100</pubDate>
@@ -394,7 +394,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 01 Jun 2016 18:30:59 +0100</pubDate>
@@ -411,7 +411,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 25 May 2016 18:30:59 +0100</pubDate>
@@ -428,7 +428,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 18 May 2016 18:30:59 +0100</pubDate>
@@ -445,7 +445,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 11 May 2016 18:30:59 +0100</pubDate>
@@ -462,7 +462,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 04 May 2016 18:30:59 +0100</pubDate>
@@ -479,7 +479,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 27 Apr 2016 18:30:59 +0100</pubDate>
@@ -496,7 +496,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 20 Apr 2016 18:30:59 +0100</pubDate>
@@ -513,7 +513,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 06 Apr 2016 18:30:59 +0100</pubDate>
@@ -530,7 +530,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 02 Mar 2016 18:30:59 +0100</pubDate>
@@ -547,7 +547,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 10 Feb 2016 18:30:59 +0100</pubDate>
@@ -564,7 +564,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 27 Jan 2016 18:30:59 +0100</pubDate>
@@ -581,7 +581,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 20 Jan 2016 18:30:59 +0100</pubDate>
@@ -598,7 +598,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 13 Jan 2016 18:30:59 +0100</pubDate>
@@ -615,7 +615,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 06 Jan 2016 18:30:59 +0100</pubDate>
@@ -632,7 +632,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 30 Dec 2015 18:30:59 +0100</pubDate>
@@ -649,7 +649,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 23 Dec 2015 18:30:59 +0100</pubDate>
@@ -666,7 +666,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 09 Dec 2015 18:30:59 +0100</pubDate>
@@ -683,7 +683,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 02 Dec 2015 18:30:59 +0100</pubDate>
@@ -700,7 +700,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 25 Nov 2015 18:30:59 +0100</pubDate>
@@ -717,7 +717,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 11 Nov 2015 18:30:59 +0100</pubDate>
@@ -734,7 +734,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 04 Nov 2015 18:30:59 +0100</pubDate>
@@ -751,7 +751,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 28 Oct 2015 18:30:59 +0100</pubDate>
@@ -768,7 +768,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 21 Oct 2015 18:30:59 +0100</pubDate>
@@ -785,7 +785,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 14 Oct 2015 18:30:59 +0100</pubDate>
@@ -802,7 +802,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 07 Oct 2015 18:30:59 +0100</pubDate>
@@ -819,7 +819,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 30 Sep 2015 18:30:59 +0100</pubDate>
@@ -836,7 +836,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 16 Sep 2015 18:30:59 +0100</pubDate>
@@ -853,7 +853,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 10 Sep 2015 18:30:59 +0100</pubDate>
@@ -870,7 +870,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 10 Jun 2015 18:30:59 +0100</pubDate>
@@ -887,7 +887,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 03 Jun 2015 18:30:59 +0100</pubDate>
@@ -904,7 +904,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 27 May 2015 18:30:59 +0100</pubDate>
@@ -921,7 +921,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 20 May 2015 18:30:59 +0100</pubDate>
@@ -938,7 +938,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 06 May 2015 18:30:59 +0100</pubDate>
@@ -955,7 +955,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 29 Apr 2015 18:30:59 +0100</pubDate>
@@ -972,7 +972,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 22 Apr 2015 18:30:59 +0100</pubDate>
@@ -989,7 +989,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 15 Apr 2015 18:30:59 +0100</pubDate>
@@ -1006,7 +1006,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 08 Apr 2015 18:30:59 +0100</pubDate>
@@ -1023,7 +1023,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 25 Mar 2015 18:30:59 +0100</pubDate>
@@ -1040,7 +1040,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 18 Mar 2015 18:30:59 +0100</pubDate>
@@ -1057,7 +1057,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 11 Mar 2015 18:30:59 +0100</pubDate>
@@ -1074,7 +1074,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 04 Mar 2015 18:30:59 +0100</pubDate>
@@ -1091,7 +1091,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 25 Feb 2015 18:30:59 +0100</pubDate>
@@ -1108,7 +1108,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 18 Feb 2015 18:30:59 +0100</pubDate>
@@ -1125,7 +1125,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 11 Feb 2015 18:30:59 +0100</pubDate>
@@ -1142,7 +1142,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 04 Feb 2015 18:30:59 +0100</pubDate>
@@ -1159,7 +1159,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 28 Jan 2015 18:30:59 +0100</pubDate>
@@ -1176,7 +1176,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 28 Jan 2015 10:30:59 +0100</pubDate>
@@ -1193,7 +1193,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 21 Jan 2015 18:30:59 +0100</pubDate>
@@ -1210,7 +1210,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 21 Jan 2015 18:30:59 +0100</pubDate>
@@ -1227,7 +1227,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 14 Jan 2015 18:30:59 +0100</pubDate>
@@ -1244,7 +1244,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 07 Jan 2015 18:30:59 +0100</pubDate>
@@ -1261,7 +1261,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 31 Dec 2014 18:30:59 +0100</pubDate>
@@ -1278,7 +1278,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 24 Dec 2014 18:30:59 +0100</pubDate>
@@ -1295,7 +1295,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 17 Dec 2014 18:30:59 +0100</pubDate>
@@ -1312,7 +1312,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 10 Dec 2014 18:30:59 +0100</pubDate>
@@ -1329,7 +1329,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 03 Dec 2014 18:30:59 +0100</pubDate>
@@ -1346,7 +1346,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 26 Nov 2014 18:30:59 +0100</pubDate>
@@ -1363,7 +1363,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 19 Nov 2014 18:30:59 +0100</pubDate>
@@ -1380,7 +1380,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 12 Nov 2014 18:30:59 +0100</pubDate>
@@ -1397,7 +1397,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 05 Nov 2014 18:30:59 +0100</pubDate>
@@ -1414,7 +1414,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 29 Oct 2014 18:30:59 +0100</pubDate>
@@ -1431,7 +1431,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 22 Oct 2014 18:30:59 +0100</pubDate>
@@ -1448,7 +1448,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 01 Oct 2014 18:30:59 +0100</pubDate>
@@ -1465,7 +1465,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 17 Sep 2014 18:30:59 +0100</pubDate>
@@ -1482,7 +1482,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 25 Jun 2014 18:30:59 +0100</pubDate>
@@ -1499,7 +1499,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 18 Jun 2014 18:30:59 +0100</pubDate>
@@ -1516,7 +1516,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 11 Jun 2014 18:30:59 +0100</pubDate>
@@ -1533,7 +1533,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 04 Jun 2014 18:30:59 +0100</pubDate>
@@ -1550,7 +1550,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 28 May 2014 18:30:59 +0100</pubDate>
@@ -1567,7 +1567,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 21 May 2014 18:30:59 +0100</pubDate>
@@ -1584,7 +1584,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 14 May 2014 18:30:59 +0100</pubDate>
@@ -1601,7 +1601,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 07 May 2014 18:30:59 +0100</pubDate>
@@ -1618,7 +1618,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 30 Apr 2014 18:30:59 +0100</pubDate>
@@ -1635,7 +1635,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 16 Apr 2014 18:30:59 +0100</pubDate>
@@ -1652,7 +1652,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 09 Apr 2014 18:30:59 +0100</pubDate>
@@ -1669,7 +1669,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 02 Apr 2014 18:30:59 +0100</pubDate>
@@ -1686,7 +1686,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 26 Mar 2014 18:30:59 +0100</pubDate>
@@ -1703,7 +1703,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 19 Mar 2014 18:30:59 +0100</pubDate>
@@ -1720,7 +1720,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 12 Mar 2014 18:30:59 +0100</pubDate>
@@ -1737,7 +1737,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 26 Feb 2014 18:30:59 +0100</pubDate>
@@ -1754,7 +1754,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 19 Feb 2014 18:30:59 +0100</pubDate>
@@ -1771,7 +1771,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 12 Feb 2014 18:30:59 +0100</pubDate>
@@ -1788,7 +1788,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 05 Feb 2014 18:30:59 +0100</pubDate>
@@ -1805,7 +1805,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 29 Jan 2014 18:30:59 +0100</pubDate>
@@ -1822,7 +1822,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 22 Jan 2014 18:30:59 +0100</pubDate>
@@ -1839,7 +1839,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 15 Jan 2014 18:30:59 +0100</pubDate>
@@ -1856,7 +1856,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 08 Jan 2014 18:30:59 +0100</pubDate>
@@ -1873,7 +1873,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 01 Jan 2014 18:30:59 +0100</pubDate>
@@ -1890,7 +1890,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 25 Dec 2013 18:30:59 +0100</pubDate>
@@ -1907,7 +1907,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 18 Dec 2013 18:30:59 +0100</pubDate>
@@ -1924,7 +1924,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 11 Dec 2013 18:30:59 +0100</pubDate>
@@ -1941,7 +1941,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 04 Dec 2013 18:30:59 +0100</pubDate>
@@ -1958,7 +1958,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 27 Nov 2013 18:30:59 +0100</pubDate>
@@ -1975,7 +1975,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 20 Nov 2013 18:30:59 +0100</pubDate>
@@ -1992,7 +1992,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 13 Nov 2013 18:30:59 +0100</pubDate>
@@ -2009,7 +2009,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 06 Nov 2013 18:30:59 +0100</pubDate>
@@ -2026,7 +2026,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 30 Oct 2013 18:30:59 +0100</pubDate>
@@ -2043,7 +2043,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 23 Oct 2013 18:30:59 +0100</pubDate>
@@ -2060,7 +2060,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 16 Oct 2013 18:30:59 +0100</pubDate>
@@ -2077,7 +2077,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 09 Oct 2013 18:30:59 +0100</pubDate>
@@ -2094,7 +2094,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 02 Oct 2013 18:30:59 +0100</pubDate>
@@ -2111,7 +2111,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 25 Sep 2013 18:30:59 +0100</pubDate>
@@ -2128,7 +2128,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 18 Sep 2013 18:30:59 +0100</pubDate>
@@ -2145,7 +2145,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 14 Aug 2013 18:30:59 +0100</pubDate>
@@ -2162,7 +2162,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 07 Aug 2013 18:30:59 +0100</pubDate>
@@ -2179,7 +2179,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 24 Jul 2013 18:30:59 +0100</pubDate>
@@ -2196,7 +2196,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 17 Jul 2013 18:30:59 +0100</pubDate>
@@ -2213,7 +2213,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 10 Jul 2013 18:30:59 +0100</pubDate>
@@ -2230,7 +2230,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 26 Jun 2013 18:30:59 +0100</pubDate>
@@ -2247,7 +2247,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 19 Jun 2013 18:30:59 +0100</pubDate>
@@ -2264,7 +2264,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 12 Jun 2013 18:30:59 +0100</pubDate>
@@ -2281,7 +2281,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 05 Jun 2013 18:30:59 +0100</pubDate>
@@ -2298,7 +2298,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 08 May 2013 18:30:59 +0100</pubDate>
@@ -2315,7 +2315,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 17 Apr 2013 18:30:59 +0100</pubDate>
@@ -2332,7 +2332,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 10 Apr 2013 18:30:59 +0100</pubDate>
@@ -2349,7 +2349,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 03 Apr 2013 18:30:59 +0100</pubDate>
@@ -2366,7 +2366,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 06 Mar 2013 18:30:59 +0100</pubDate>
@@ -2383,7 +2383,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 20 Feb 2013 18:30:59 +0100</pubDate>
@@ -2400,7 +2400,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 13 Feb 2013 18:30:59 +0100</pubDate>
@@ -2417,7 +2417,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 06 Feb 2013 18:30:59 +0100</pubDate>
@@ -2434,7 +2434,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 23 Jan 2013 18:30:59 +0100</pubDate>
@@ -2451,7 +2451,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 16 Jan 2013 18:30:59 +0100</pubDate>
@@ -2468,7 +2468,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 09 Jan 2013 18:30:59 +0100</pubDate>
@@ -2485,7 +2485,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 02 Jan 2013 18:30:59 +0100</pubDate>
@@ -2502,7 +2502,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 26 Dec 2012 18:30:59 +0100</pubDate>
@@ -2519,7 +2519,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 19 Dec 2012 18:30:59 +0100</pubDate>
@@ -2536,7 +2536,7 @@ sitemap: false
 <itunes:duration>59:59</itunes:duration>
 <author>ahmetcadirci25@gmail.com (Ahmet Çadırcı)</author>
 <itunes:author>Ahmet Çadırcı</itunes:author>
-<itunes:image href="https://ahmetcadirci.com.tr/images/yavuz-bahadiroglu.jpg"/>
+<itunes:image href="https://ahmetcadirci.com.tr/assets/images/yavuz-bahadiroglu.jpg"/>
 <itunes:keywords>tarih, history, yavuz bahadıroğlu, ahmet çadırcı, osmanlı tarihi, cumhuriyet tarihi, ottoman, güncel</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <pubDate>Wed, 05 Dec 2012 18:30:59 +0100</pubDate>

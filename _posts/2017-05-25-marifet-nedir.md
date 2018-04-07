@@ -1,11 +1,15 @@
 ---
+layout: post
+current: post
+navigation: True
 title      : "Marifet nedir?"
 description: "Hazreti Şems-i Tebrîzî'nin Marifet Nedir? sorusuna verdiği cevapta karşılığını bulur."
 date       : 2017-05-25 10:30:00
-categories : [İslam]
-tags       : [Kitap, Prof. Muhyiddin Şekûr, Hazreti Şems-i Tebrîzî]
-postimg    : "marifet-nedir.png"
-comments   : true
+tags : [Islam]
+cover: "assets/images/marifet-nedir.png"
+class: post-template
+subclass: 'post'
+author: ahmet
 ---
 
 Hazreti Şems-i Tebrîzî'nin "Marifet Nedir?" sorusuna verdiği cevapta karşılığını bulur.

@@ -1,11 +1,15 @@
 ---
+layout     : post
+current    : post
+navigation : True
 title      : "İlim ve Sanat Öğrenme Hürriyeti"
 description: "İnsanların ilim ve sanat öğrenmeleri bir haktır. Nitekim Kur'an-ı kerim ve Hazret-i Peygamber, ilim ve sanat sahiplerini över."
 date       : 2017-09-17 13:16:00
-categories : [İslam]
-tags       : [İlim, Sanat, Hürriyet, Kitap]
-postimg    : "ilim-ve-sanat-ogrenme-hurriyeti.png"
-comments   : true
+tags       : [Islam]
+cover      : "assets/images/ilim-ve-sanat-ogrenme-hurriyeti.png"
+class      : post-template
+subclass   : 'post'
+author     : ahmet
 ---
 
 İnsanların ilim ve sanat öğrenmeleri bir haktır. Nitekim Kur'an-ı kerim ve Hazret-i Peygamber, ilim ve sanat sahiplerini över. İslâmiyet, hükümdara, her şehirde insanların bilemediklerini soracakları bir alim bulundurma vazifesini yüklemiştir. 

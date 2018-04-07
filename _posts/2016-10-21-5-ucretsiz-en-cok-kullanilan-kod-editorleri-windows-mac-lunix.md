@@ -1,11 +1,15 @@
 ---
+layout: post
+current: post
+navigation: True
 title      : "5+ Ücretsiz En Çok Kullanılan Kod Editörleri (Windows, Mac ve Linux)"
 description: "Windows, Mac ve Linux platformlarında kaynak kod düzenleme ve metin düzenleme işlemlerini yapabilirsiniz. "
 date       : 2016-10-20 09:44:00
-categories : [Teknoloji, Program]
-tags       : [Kod Editör, Sublime Text, Atom, Brackets, Brackets, Visual Studio Code, Notepad++]
-postimg    : "atom-io-kod-editoru.png"
-comments   : true
+tags : [Teknoloji, Program]
+cover: "assets/images/atom-io-kod-editoru.png"
+class: post-template
+subclass: 'post'
+author: ahmet
 ---
 
 Listelediğimiz kod editörleri, içinde birçok programlama arayüzünü barındırmaktadır. Windows, Mac ve Linux platformlarında kaynak kod düzenleme ve metin düzenleme işlemlerini yapabilirsiniz. 
@@ -18,7 +22,7 @@ Sublime Text editörüne Markdown eklentisi yüklemesinin nasıl yapıldığın�
 
 ### [1. Sublime Text](https://www.sublimetext.com){:target="_blank"}{:rel="noopener"}
 
-![Sublime Text](https://ahmetcadirci.com.tr/images/galeri/sublime-text-kod-editoru.png "Sublime Text")
+![Sublime Text](https://ahmetcadirci.com.tr/assets/images/galeri/sublime-text-kod-editoru.png "Sublime Text")
 
 **Geliştirici:**
 
@@ -32,7 +36,7 @@ Sublime Text editörüne Markdown eklentisi yüklemesinin nasıl yapıldığın�
 
 ### [2. Atom](https://atom.io/){:target="_blank"}{:rel="noopener"}
 
-![Atom](https://ahmetcadirci.com.tr/images/galeri/atom-io-kod-editoru.png "Atom")
+![Atom](https://ahmetcadirci.com.tr/assets/images/galeri/atom-io-kod-editoru.png "Atom")
 
 **Geliştirici:**
 
@@ -46,7 +50,7 @@ Sublime Text editörüne Markdown eklentisi yüklemesinin nasıl yapıldığın�
 
 ### [3. Brackets](http://brackets.io/){:target="_blank"}{:rel="noopener"}
 
-![Brackets](https://ahmetcadirci.com.tr/images/galeri/brackets-kod-editoru.png "Brackets")
+![Brackets](https://ahmetcadirci.com.tr/assets/images/galeri/brackets-kod-editoru.png "Brackets")
 
 **Geliştirici:**
 
@@ -60,7 +64,7 @@ Sublime Text editörüne Markdown eklentisi yüklemesinin nasıl yapıldığın�
 
 ### [4. Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}{:rel="noopener"}
 
-![Visual Studio Code](https://ahmetcadirci.com.tr/images/galeri/visual-studio-kod-editoru.png "Visual Studio Code")
+![Visual Studio Code](https://ahmetcadirci.com.tr/assets/images/galeri/visual-studio-kod-editoru.png "Visual Studio Code")
 
 **Geliştirici:**
 
@@ -74,7 +78,7 @@ Sublime Text editörüne Markdown eklentisi yüklemesinin nasıl yapıldığın�
 
 ### [5. Notepad++](https://notepad-plus-plus.org/){:target="_blank"}{:rel="noopener"}
 
-![Notepad++](https://ahmetcadirci.com.tr/images/galeri/notepad-kod-editoru.png "Notepad++")
+![Notepad++](https://ahmetcadirci.com.tr/assets/images/galeri/notepad-kod-editoru.png "Notepad++")
 
 **Geliştirici:**
 

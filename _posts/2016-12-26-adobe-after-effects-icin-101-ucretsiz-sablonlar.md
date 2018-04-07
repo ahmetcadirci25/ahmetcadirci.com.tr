@@ -1,11 +1,15 @@
 ---
+layout: post
+current: post
+navigation: True
 title      : "Adobe After Effects için 101 Ücretsiz Şablonlar"
 description: "Adobe After Effects için 101 Ücretsiz Şablonlar ücretsiz kaynaklardan derlenmiştir."
 date       : 2016-12-26 11:45:00
-categories : [Teknoloji, Program]
-tags       : [Adobe After Effects, AEBuster, Tasarım]
-postimg    : "adobe-after-effects-icin-101-ucretsiz-sablonlar.png"
-comments   : true
+tags : [Teknoloji, Program]
+cover: "assets/images/adobe-after-effects-icin-101-ucretsiz-sablonlar.png"
+class: post-template
+subclass: 'post'
+author: ahmet
 ---
 
 Bu liste, Logan Kenesis (AEBuster), Hamo Studio, dehannb, Motion Stacks, Sven Van Lathem (Hareket ve Tasarım), Ruanak Chhabra (Editing Corp) ve RocketStock'in ücretsiz kaynaklarından derlenmiştir. Bağlantılı dosyaların yazarları tarafından barındırıldığını ve bu nedenle her zaman mevcut olmayabileceğini unutmayın. Ayrıca, bu ücretsiz şablonlardan bazıları Trapcode Particular (Red Giant tarafından) veya diğer eklentilerin tam olarak çalışmasını gerektirir.

@@ -1,10 +1,12 @@
 ---
+layout: post
+current: post
+navigation: True
 title      : "Aşk Sultandır — Muhabbet, Aşk, Derd"
 description: "Aşk sultandır. Üç mertebe var derler; muhabbet, aşk, derd. Muhabbet ehli o ki, mahbûbunu görürse memnûn, görmezse kaydında değil..."
 date       : 2016-10-23 21:16:20
-categories : [Genel]
-tags       : [Şiir, Aşk, Av. Hayati İnanç]
-postimg    : "ask-sultandir.png"
+tags : [Genel]
+cover: "assets/images/ask-sultandir.png"
 featured   : true
 ---
 

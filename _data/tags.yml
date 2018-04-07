@@ -1,0 +1,132 @@
+video:
+  name: Video
+  description: False
+  cover: assets/images/speeches.jpg
+galeri:
+  name: Galeri
+  description: False
+  cover: False
+podcast:
+  name: Podcast
+  description: False
+  cover: False
+nasil-yapilir:
+  name: Nasıl Yapılır
+  description: False
+  cover: False
+genel:
+  name: Genel
+  description: False
+  cover: False
+jekyll:
+  name: Jekyll
+  description: False
+  cover: False
+sosyal-medya:
+  name: Sosyal Medya
+  description: False
+  cover: False
+eglence:
+  name: Eğlence
+  description: False
+  cover: False
+islam:
+  name: İslam
+  description: False
+  cover: False
+internet:
+  name: İnternet
+  description: False
+  cover: False
+makale:
+  name: Makale
+  description: False
+  cover: False
+wordpress:
+  name: Wordpress
+  description: False
+  cover: False
+wordpress-temalar:
+  name: Wordpress Temalar
+  description: False
+  cover: False
+wordpress-eklentiler:
+  name: Wordpress Eklentiler
+  description: False
+  cover: False
+wordpress-seo:
+  name: Wordpress Seo
+  description: False
+  cover: False
+wordpress-optimizasyon:
+  name: Wordpress Optimizasyon
+  description: False
+  cover: False
+web-tasarim:
+  name: Web Tasarım
+  description: False
+  cover: False
+html5:
+  name: HTML5
+  description: False
+  cover: False
+css:
+  name: CSS
+  description: False
+  cover: False
+js:
+  name: JS
+  description: False
+  cover: False
+php:
+  name: PHP
+  description: False
+  cover: False
+webmaster-araclari:
+  name: Webmaster Araçları
+  description: False
+  cover: False
+grafik-tasarim:
+  name: Grafik Tasarım
+  description: False
+  cover: False
+photoshop:
+  name: Photoshop
+  description: False
+  cover: False
+vektor:
+  name: Vektör
+  description: False
+  cover: False
+ikon:
+  name: İkon
+  description: False
+  cover: False
+mockup:
+  name: Mockup
+  description: False
+  cover: False
+ui-ux:
+  name: UI/UX
+  description: False
+  cover: False
+wallpaper:
+  name: Wallpaper
+  description: False
+  cover: False
+fotograf:
+  name: Fotoğraf
+  description: False
+  cover: False
+teknoloji:
+  name: Teknoloji
+  description: False
+  cover: False
+mobil:
+  name: Mobil
+  description: False
+  cover: False
+program:
+  name: Program
+  description: False
+  cover: False
