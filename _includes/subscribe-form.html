@@ -1,9 +1,12 @@
-<form method="post" action="/subscribe/" class="">
-    <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  />
+<form action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=ahmetcadirci25', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
 
     <div class="form-group">
         <input class="subscribe-email" type="email" name="email"  placeholder="Mail Adresinizi Buraya Girin" />
+	 	
+	 	<input type="hidden" value="ahmetcadirci25" name="uri"/>
+        <input type="hidden" name="loc" value="tr_TR"/>
     </div>
-    <button class="" type="submit" {% unless site.subscribe %}disabled{% endunless %}><span>Abone Ol</span></button>
-    <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script>
+
+    <button type="submit" value="Subscribe" name="subscribe" class="subscribe-button" {% unless site.subscribe %}disabled{% endunless %}><span>Abone Ol</span></button>
+
 </form>
