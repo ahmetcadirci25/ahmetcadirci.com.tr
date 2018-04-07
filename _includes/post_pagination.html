@@ -1,13 +1,13 @@
 <nav class="pagination" role="pagination">
     {% if paginator.previous_page %}
         {% if paginator.previous_page == 1 %}
-            <a class="newer-posts" href="{{ site.baseurl }}" title="Önceki Sayfa">&laquo; Yeni Yazılar</a>
+            <a class="newer-posts" href="{{ site.url }}{{ site.baseurl }}" title="Önceki Sayfa">&laquo; Yeni Yazılar</a>
         {% else %}
-            <a class="newer-posts" href="{{ site.baseurl }}page{{ paginator.previous_page }}/" title="Önceki Sayfa">&laquo; Yeni Yazılar</a>
+            <a class="newer-posts" href="{{ site.url }}{{ site.baseurl }}page{{ paginator.previous_page }}/" title="Önceki Sayfa">&laquo; Yeni Yazılar</a>
       {% endif %}
     {% endif %}
     <span class="page-number"> Page {{ paginator.page }} of {{ paginator.total_pages }} </span>
     {% if paginator.next_page %} 
-        <a class="older-posts" href="{{ site.baseurl }}page{{ paginator.next_page }}/" title="Yeni Sayfa">Eski Yazılar &raquo;</a>
+        <a class="older-posts" href="{{ site.url }}{{ site.baseurl }}page{{ paginator.next_page }}/" title="Yeni Sayfa">Eski Yazılar &raquo;</a>
     {% endif %} 
 </nav>
