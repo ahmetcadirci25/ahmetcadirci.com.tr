@@ -1,16 +1,20 @@
 ---
+layout: post
+current: post
+navigation: True
 title      : "HTC ONE M8 Ekran Otomatik Döndürme Sorunu — Mutlu Son!"
 description: "HTC ONE M8 Ekran döndürme kapalı olmasına rağmen tekrar dönüyordu. İnternette araştırmalar yapmama rağmen sorunu çözmedim."
 date       : 2016-10-25 11:13:00
-categories : [Teknoloji, Mobil, Nasıl Yapılır]
-tags       : [HTC One M8, Dokunmatik, Ekran]
-postimg    : "htc-one-m8-factory-reset.png"
-comments   : true
+tags : [Teknoloji, Mobil, Nasil Yapilir]
+cover: "assets/images/htc-one-m8-factory-reset.png"
+class: post-template
+subclass: 'post'
+author: ahmet
 ---
 
 HTC ONE M8 telefonumda ekranın alt kısmındaki dokunmatiğinde ve ekran döndürme sorunlarıyla karşılaşıyordum. Ekran döndürme kapalı olmasına rağmen tekrar dönüyordu. İnternette araştırmalar yapmama rağmen sorunu çözmedim. Deneme ve yanınma ile sorunu çözdüm. Bunlar benim kendi deneyimlerim. 
 
-![HTC ONE M8 FACTORY RESET EKRANI](https://ahmetcadirci.com.tr/images/htc-one-m8-factory-reset.png "HTC ONE M8 FACTORY RESET EKRANI")
+![HTC ONE M8 FACTORY RESET EKRANI](https://ahmetcadirci.com.tr/assets/images/htc-one-m8-factory-reset.png "HTC ONE M8 FACTORY RESET EKRANI")
 
 ### Çözüm
 

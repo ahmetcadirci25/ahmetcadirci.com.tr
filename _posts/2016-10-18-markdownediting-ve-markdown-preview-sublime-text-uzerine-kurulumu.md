@@ -1,11 +1,15 @@
 ---
+layout: post
+current: post
+navigation: True
 title      : "MarkdownEditing ve Markdown Preview Eklentilerinin Sublime Text Üzerine Kurulumu"
 description: "Zengin metinler üretmek için MarkdownEditing ve Markdown Preview Eklentilerinin Sublime Text Üzerine Kurulumu..."
 date       : 2016-10-18 16:41:00
-categories : [Web Tasarım]
-tags       : [Sublime Text 3, Markdown, MarkdownEditing, Markdown Preview]
-postimg    : "markdownediting-kurulum.png"
-comments   : true
+tags : [Web Tasarim]
+cover: "assets/images/markdownediting-kurulum.png"
+class: post-template
+subclass: 'post'
+author: ahmet
 ---
 
 ## Birinci Adım Paket Kontrol (Package Control) Kurulumu
@@ -24,7 +28,7 @@ Paket Kontrol kurulumu tamamlandı. Şimdi eklentiyi kurabiliriz.
 
 ### 1. MarkdownEditing Kurulumu
 
-![MarkdownEditing Kurulum Ekranı](https://ahmetcadirci.com.tr/images/galeri/markdownediting-kurulum.png "MarkdownEditing Kurulum Ekranı")
+![MarkdownEditing Kurulum Ekranı](https://ahmetcadirci.com.tr/assets/images/galeri/markdownediting-kurulum.png "MarkdownEditing Kurulum Ekranı")
 
 **Windows** ve **Lunix** için `CTRL+SHIFT+P` tuşuna, 
 **MAC** için `CMD+SHIFT+P` tuşana basın daha sonra açılan pencereye **MarkdownEditing** yazın ve üzerine tıklayın.
@@ -33,7 +37,7 @@ Sublime Text'i tekrar kapatın ve açın.
 
 ### 2. Markdown Preview Kurulumu
 
-![MarkdownEditing Kurulum Ekranı](https://ahmetcadirci.com.tr/images/galeri/markdown-preview-kurulum.png "Markdown Preview Kurulum Ekranı")
+![MarkdownEditing Kurulum Ekranı](https://ahmetcadirci.com.tr/assets/images/galeri/markdown-preview-kurulum.png "Markdown Preview Kurulum Ekranı")
 
 **Windows** ve **Lunix** için `CTRL+SHIFT+P` tuşuna, 
 **MAC** için `CMD+SHIFT+P` tuşana basın daha sonra açılan pencereye **Markdown Preview** yazın ve üzerine tıklayın.
@@ -42,4 +46,4 @@ Sublime Text'i tekrar kapatın ve açın.
 
 Markdown metin düzenledikten sonra önizleme yapmak için `CTRL+SHIFT+P` tuşana basın ve `Markdown Preview` yazın ve `Enter` tuşana basın. Bu sayede önizlemeyi görebilirsiniz. 
 
-![Markdown Preview Önizleme Ekranı](https://ahmetcadirci.com.tr/images/galeri/markdown-preview-onizleme-ekrani.png "Markdown Preview Önizleme Ekranı")
+![Markdown Preview Önizleme Ekranı](https://ahmetcadirci.com.tr/assets/images/galeri/markdown-preview-onizleme-ekrani.png "Markdown Preview Önizleme Ekranı")

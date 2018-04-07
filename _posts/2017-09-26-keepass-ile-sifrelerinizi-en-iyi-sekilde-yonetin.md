@@ -1,11 +1,15 @@
 ---
+layout     : post
+current    : post
+navigation : True
 title      : "KeePass ile Şifrelerinizi En İyi Şekilde Yönetin"
 description: "Son zamanlarda sıklıkla kullandığım KeePass programını tanıtacağım. KeePass ücretsiz, açık kaynak kodlu, hafif ve kullanımı kolay şifre yöneticisidir."
 date       : 2017-09-26 22:40:00
-categories : [Teknoloji, Program, Mobil, İnternet]
-tags       : [KeePass, Şifre, Windows, macOS, Ubuntu]
-postimg    : "keepass-ile-sifrelerinizi-en-iyi-sekilde-yonetin.png"
-comments   : true
+tags       : [Teknoloji, Program, Mobil, Internet]
+cover      : "assets/images/keepass-ile-sifrelerinizi-en-iyi-sekilde-yonetin.png"
+class      : post-template
+subclass   : 'post'
+author     : ahmet
 ---
 
 Son zamanlarda sıklıkla kullandığım KeePass programını tanıtacağım. KeePass ücretsiz, açık kaynak kodlu, hafif ve kullanımı kolay şifre yöneticisidir.

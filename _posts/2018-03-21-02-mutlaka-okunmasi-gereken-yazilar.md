@@ -1,11 +1,15 @@
 ---
+layout: post
+current: post
+navigation: True
 title      : "#02 Mutlaka Okunması Gereken Yazılar"
 description: "Mutlaka Okunması Gereken Yazılar serisinin ikincisi olan yazıda 5 tane yazıyı sizinle paylaşıyorum. Umarım beğenirsiniz. İyi okumalar."
 date       : 2018-03-21 09:00:00
-categories : [Makale]
-tags       : [Mahmud Erol Kılıç]
-postimg    : "mutlaka-okunmasi-gereken-yazilar.png"
-comments   : true
+tags       : [Makale]
+cover: "assets/images/mutlaka-okunmasi-gereken-yazilar.png"
+class: post-template
+subclass: 'post'
+author: ahmet
 ---
 
 "Mutlaka Okunması Gereken Yazılar" serisinin ikincisi olan yazıda 5 tane yazıyı sizinle paylaşıyorum. Umarım beğenirsiniz. İyi okumalar.

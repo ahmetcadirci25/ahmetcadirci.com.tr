@@ -1,13 +1,15 @@
 ---
-layout     : video
+layout     : post
+current    : post
+navigation : True
 title      : "İncir Ağacına Karşı Tavrımız Nasıl Olmalıdır? Ömer Tuğrul İnançer Açıklıyor"
 description: ""
 date       : 2017-09-11 21:00:12
-categories : [Video, İslam]
-tags       : [Ömer Tuğrul İnançer, İncir Ağacı]
-postimg    : "incir-agacina-karsi-tavrimiz-nasil-olmalidir-omer-tugrul-inancer-acikliyor.png"
-videoid    : 233368655
-comments   : true
+tags       : [Video, Islam]
+cover      : "assets/images/incir-agacina-karsi-tavrimiz-nasil-olmalidir-omer-tugrul-inancer-acikliyor.png"
+class      : post-template
+subclass   : 'post'
+author     : ahmet
 ---
 
 Ömer Tuğrul İnançer'in bir konferansta incir ağacına karşı tavrımız nasıl olmalıdır sorusunun yanıtını veriyor. 

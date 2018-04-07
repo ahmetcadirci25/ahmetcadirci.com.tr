@@ -1,11 +1,15 @@
 ---
+layout: post
+current: post
+navigation: True
 title      : "MainWP Dashboard ile Tüm Wordpress Sitelerinizi Tek Panelden Yönetme İmkanı"
 description: "MainWP Dashboard ile tüm wordpress sitelerinizi tek panelden yönetme imkanı sunmaktadır. Güncellemeleri, eklentileri tek seferde kurabilirsiniz."
 date       : 2017-03-09 22:50:00
-categories : [Wordpress, Wordpress Eklentiler]
-tags       : [MainWP Dashboard, MainWP Child]
-postimg    : "mainwp-dashboard-ile-tum-sitelerinizi-tek-panelden-yonetme-imkani.png"
-comments   : true
+tags : [Wordpress, Wordpress Eklentiler]
+cover: "assets/images/mainwp-dashboard-ile-tum-sitelerinizi-tek-panelden-yonetme-imkani.png"
+class: post-template
+subclass: 'post'
+author: ahmet
 ---
 
 Wordpress uzun süredir internet dünyasında zirveyi korumaktadır. Birden fazla Wordpress'e sahip olan insanlar bunların yönetimde bazen sıkıntılar yaşamaktadırlar. Güncellemeler, eklentiler vb. işlemleri tüm sitelerde tekrarlamak oldukça zor hale gelebilir. 

@@ -1,11 +1,15 @@
 ---
+layout: post
+current: post
+navigation: True
 title      : "Cerebro Uygulaması - Her Şeyi Ara"
 description: "Cerebro uygulamasıyla bir kaç tıkla her şeyi aramaya başlayın. Açık kaynaklı ve hızlı uygulamayı hemen indirin."
 date       : 2017-06-27 20:11:00
-categories : [Teknoloji, Program]
-tags       : [Cerebro, Google, Chrome, GitHub]
-postimg    : "cerebro-uygulamasi-her-seyi-ara.png"
-comments   : true
+tags : [Teknoloji, Program]
+cover: "assets/images/cerebro-uygulamasi-her-seyi-ara.png"
+class: post-template
+subclass: 'post'
+author: ahmet
 ---
 
 Cerebro uygulamasıyla bir kaç tıkla her şeyi aramaya başlayın. Açık kaynaklı ve hızlı uygulamayı hemen indirin. 
@@ -29,7 +33,7 @@ Eklenti listesine aşağıdaki linkten ulaşabilirsiniz.
 
 **Bir kaç deneme yapalım 🤠**
 
-![Cerebro Uygulaması - Her Şeyi Ara](https://ahmetcadirci.com.tr/images/cerebro-uygulamasi-her-seyi-ara.png "Cerebro Uygulaması - Her Şeyi Ara")
+![Cerebro Uygulaması - Her Şeyi Ara](https://ahmetcadirci.com.tr/assets/images/cerebro-uygulamasi-her-seyi-ara.png "Cerebro Uygulaması - Her Şeyi Ara")
 
 1. `ctrl+space` tıklayın ve `hayvan hakları` yazın ve enter tuşuna basın. Otomatik olarak sizlere Google Chrome'da arama sonuçlarını çıkaracaktır. 
 2. `ctrl+space` tıklayın ve bilgisayarınızda kurulu olan her hangi bir uygulamayı aratın. 
