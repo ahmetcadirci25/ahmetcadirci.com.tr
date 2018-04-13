@@ -1,15 +1,11 @@
 ---
-layout: post
-current: post
-navigation: True
 title      : "Feedly RSS İçe (Import) veya Dışa (Export) Aktarma"
 description: "Feedly ise web sitelerinde yeni eklenen içeriği kolaylıkla takip etmemizi sağlar. Web tarayıcısı üzerinden, Android veya iOS uygulamaları..."
 date       : 2016-10-30 17:27:20
-tags : [Internet, Nasil Yapilir]
-cover: "assets/images/feedly-ahmet-cadirci-rss.png"
-class: post-template
-subclass: 'post'
-author: ahmet
+categories : [İnternet, Nasıl Yapılır]
+tags       : [Feedly, RSS, Feed]
+postimg    : "feedly-ahmet-cadirci-rss.png"
+comments   : true
 ---
 
 **RSS**, web sitesine yeni eklenen bir içeriği kullanıcıya hızlı bir şekilde ulaşmasını sağlayan web sayfası bildirim araçıdır. Kullandığı dosya uzantısı .rss, .atom ve .xml'dir.
@@ -22,7 +18,7 @@ author: ahmet
 
 ### İçe Aktarma (Import)
 
-![Feedly İçe Aktarma (Import)](https://ahmetcadirci.com.tr/assets/images/galeri/feedly-rss-ice-aktarma-import.png "Feedly İçe Aktarma (Import)")
+![Feedly İçe Aktarma (Import)](https://ahmetcadirci.com.tr/images/galeri/feedly-rss-ice-aktarma-import.png "Feedly İçe Aktarma (Import)")
 
 1. [http://feedly.com/i/cortex](http://feedly.com/i/cortex){:target="_blank"}{:rel="noopener"} bağlantıya tıklayın.
 2. İçe aktarmak isteğiniz **OPML** uzantılı dosyayı açılan sayfadaki **Dosya Seç** kısmından ekleyin.
@@ -32,7 +28,7 @@ author: ahmet
 
 ### Dışa Aktarma (Export)
 
-![Feedly Dışa Aktarma (Export)](https://ahmetcadirci.com.tr/assets/images/galeri/feedly-rss-disa-aktarma-export.png "Feedly Dışa Aktarma (Export)")
+![Feedly Dışa Aktarma (Export)](https://ahmetcadirci.com.tr/images/galeri/feedly-rss-disa-aktarma-export.png "Feedly Dışa Aktarma (Export)")
 
 1. [http://feedly.com/i/opml](http://feedly.com/i/opml){:target="_blank"}{:rel="noopener"} bağlantıya tıklayın.
 2. Daha sonra **DOWNLOAD YOUR FEEDLY OPML** tuşuna basın.
@@ -41,7 +37,7 @@ author: ahmet
 
 ### RSS Organize Etme
 
-![Feedly RSS Organize Etme](https://ahmetcadirci.com.tr/assets/images/galeri/feedly-rss-organize-etme.png "Feedly RSS Organize Etme")
+![Feedly RSS Organize Etme](https://ahmetcadirci.com.tr/images/galeri/feedly-rss-organize-etme.png "Feedly RSS Organize Etme")
 
 1. [https://feedly.com/i/contents/edit](https://feedly.com/i/contents/edit){:target="_blank"}{:rel="noopener"} bağlantıya tıklayın.
 2. Yeni Koleksiyon ekleyebilirsiniz.
@@ -53,7 +49,7 @@ author: ahmet
 
 ### Feedly Uygulamaları
 
-![Feedly Android ve iOS Uygulamları](https://ahmetcadirci.com.tr/assets/images/galeri/feedly-android-ios-uygulamalari.png "Feedly Android ve iOS Uygulamları")
+![Feedly Android ve iOS Uygulamları](https://ahmetcadirci.com.tr/images/galeri/feedly-android-ios-uygulamalari.png "Feedly Android ve iOS Uygulamları")
 
 1. [Web](https://feedly.com){:target="_blank"}{:rel="noopener"}
 2. [Android](https://play.google.com/store/apps/details?id=com.devhd.feedly){:target="_blank"}{:rel="noopener"}
@@ -63,7 +59,7 @@ author: ahmet
 
 ### Sitene Feedly Düğmesi Ekle
 
-![Sitene Feedly Düğmesi Ekle](https://ahmetcadirci.com.tr/assets/images/galeri/sitene-feedly-dugmesi-ekle.png "Sitene Feedly Düğmesi Ekle")
+![Sitene Feedly Düğmesi Ekle](https://ahmetcadirci.com.tr/images/galeri/sitene-feedly-dugmesi-ekle.png "Sitene Feedly Düğmesi Ekle")
 
 1. [http://feedly.com/factory.html](http://feedly.com/factory.html){:target="_blank"}{:rel="noopener"} bağlantıya tıklayın.
 2. Birinci adımda tasarımı seçin.

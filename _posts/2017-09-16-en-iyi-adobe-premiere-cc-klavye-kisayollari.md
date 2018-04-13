@@ -1,15 +1,11 @@
 ---
-layout     : post
-current    : post
-navigation : True
 title      : "En İyi Adobe Premiere CC Klavye Kısayolları"
 description: "Adobe Premiere CC kullanırken daha verimli çalışmak için klavye kısayollarını kullanın."
 date       : 2017-09-16 20:30:00
-tags       : [Teknoloji, Program]
-cover      : "assets/images/en-iyi-adobe-premiere-cc-klavye-kisayollari.png"
-class      : post-template
-subclass   : 'post'
-author     : ahmet
+categories : [Teknoloji, Program]
+tags       : [Adobe Premiere CC, Klavye Kısayolları]
+postimg    : "en-iyi-adobe-premiere-cc-klavye-kisayollari.png"
+comments   : true
 ---
 
 > Adobe Premiere CC kullanırken daha verimli çalışmak için klavye kısayollarını kullanın.

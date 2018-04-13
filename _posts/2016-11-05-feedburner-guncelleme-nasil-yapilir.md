@@ -1,20 +1,16 @@
 ---
-layout: post
-current: post
-navigation: True
-title      : "FeedBurner Güncelleme Nasil Yapilir?"
+title      : "FeedBurner Güncelleme Nasıl Yapılır?"
 description: "FeedBurner hesabınızdaki beslemeleri nasıl güncel hale getirebilirim. Feed dosyanızda güncelleme yaptıktan sonra FeedBurner..."
 date       : 2016-11-01 13:35:13
-tags : [Nasil Yapilir, Internet]
-cover: "assets/images/feedburner.png"
-class: post-template
-subclass: 'post'
-author: ahmet
+categories : [Nasıl Yapılır, İnternet]
+tags       : [FeedBurner, Feed, RSS]
+postimg    : "feedburner.png"
+comments   : true
 ---
 
 FeedBurner hesabınızdaki beslemeleri nasıl güncel hale getirebilirim. Feed dosyanızda güncelleme yaptıktan sonra FeedBurner'da bulunan beslemenizi hızlı bir şekilde güncelleme yapmak istiyorsanız aşağıdaki adımları takip ederek bu işlemi öğrenebilirsiniz. 
 
-### FeedBurner Güncelleme Nasil Yapilir?
+### FeedBurner Güncelleme Nasıl Yapılır?
 
 1. FeedBurner hesabınıza giriş yapın.
 
@@ -24,7 +20,7 @@ FeedBurner hesabınızdaki beslemeleri nasıl güncel hale getirebilirim. Feed d
 
 4. İşlem tamamlandı.
 
-### FeedBurner Ping Nasil Yapilir?
+### FeedBurner Ping Nasıl Yapılır?
 
 1. [https://feedburner.google.com/fb/a/ping](https://feedburner.google.com/fb/a/ping){:target="_blank"}{:rel="noopener"} linke tıklayın
 

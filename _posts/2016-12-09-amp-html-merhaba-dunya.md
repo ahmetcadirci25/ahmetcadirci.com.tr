@@ -1,15 +1,11 @@
 ---
-layout: post
-current: post
-navigation: True
 title      : "AMP HTML Merhaba Dünya!"
 description: "AMP HTML tamamen mevcut web teknolojileri üzerine kurulmuştur. HTML, CSS ve JavaScript'in bazı bölümlerini kısıtlayarak güvenilir performans elde etmektedir."
 date       : 2016-12-19 15:45:00
-tags : [Web Tasarim]
-cover: "assets/images/amp-html-merhaba-dunya.png"
-class: post-template
-subclass: 'post'
-author: ahmet
+categories : [Web Tasarım]
+tags       : [AMP HTML, AMP Validator]
+postimg    : "amp-html-merhaba-dunya.png"
+comments   : true
 ---
 
 AMP HTML tamamen mevcut web teknolojileri üzerine kurulmuştur. HTML, CSS ve JavaScript'in bazı bölümlerini kısıtlayarak güvenilir performans elde etmektedir. Bu sınırlamaları telafi etmek için AMP HTML, zengin içerik için temel HTML'nin ötesinde bir dizi özel öğe tanımlar. Bu örnekler, geçerli bir AMP HTML dosyası oluşturmak için neyin gerekli olduğunu gösterir.

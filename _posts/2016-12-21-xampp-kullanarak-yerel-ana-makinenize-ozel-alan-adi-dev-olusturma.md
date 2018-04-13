@@ -1,22 +1,18 @@
 ---
-layout: post
-current: post
-navigation: True
 title      : "XAMPP Kullanarak Yerel Ana Makinenize Özel Alan Adı (.dev) Oluşturma"
 description: "XAMPP kullanarak localhost'ta .dev uzantılı özel domain oluşturma. Kodlar Windows'u temel alır, ancak 2. adımdan itibaren diğer işletim sistemlerine uygulanabilir."
 date       : 2016-12-21 13:45:00
-tags : [Web Tasarim, Teknoloji, Program, PHP]
-cover: "assets/images/xampp-kullanarak-yerel-ana-makinenize-ozel-alan-adi-dev-olusturma.png"
-class: post-template
-subclass: 'post'
-author: ahmet
+categories : [Web Tasarım, Teknoloji, Program, PHP]
+tags       : [Windows 10, XAMPP, Sanal Server, Local Host]
+postimg    : "xampp-kullanarak-yerel-ana-makinenize-ozel-alan-adi-dev-olusturma.png"
+comments   : true
 ---
 
 Kodlar Windows'u temel alır, ancak 2. adımdan itibaren diğer işletim sistemlerine uygulanabilir.
 
 #### 1. Adım:
 
-![hosts dosyası](https://ahmetcadirci.com.tr/assets/images/galeri/hosts-dosyasi.png "hosts dosyası")
+![hosts dosyası](https://ahmetcadirci.com.tr/images/galeri/hosts-dosyasi.png "hosts dosyası")
 
 Aşağıdaki dosya dizinine gidin.
 
@@ -57,7 +53,7 @@ Dosyanın altına gidin ve bu kodu kopyalayıp yapıştırın:
 
 * `C:/xampp/htdocs/wordpress/` dosyalarınızın bulunduğu klasöre değiştirin.
 
-![httpd-vhosts.conf dosyası](https://ahmetcadirci.com.tr/assets/images/galeri/httpd-vhosts-conf-dosyasi.png "httpd-vhosts.conf dosyası")
+![httpd-vhosts.conf dosyası](https://ahmetcadirci.com.tr/images/galeri/httpd-vhosts-conf-dosyasi.png "httpd-vhosts.conf dosyası")
 
 #### 4. Adım:
 
@@ -65,7 +61,7 @@ Apache'yi XAMPP'de durdurun, 5 saniye bekleyin, ardından "Başlat" a tıklayara
 
 Her şey iyi giderse tarayıcınıza açın. `wordpress.dev` yazın veya oluşturduğunuz alan adı uzantısını girin.
 
-![wordpress.dev domain uzantısı chrome ekran görüntüsü](https://ahmetcadirci.com.tr/assets/images/xampp-kullanarak-yerel-ana-makinenize-ozel-alan-adi-dev-olusturma.png "wordpress.dev domain uzantısı chrome ekran görüntüsü")
+![wordpress.dev domain uzantısı chrome ekran görüntüsü](https://ahmetcadirci.com.tr/images/xampp-kullanarak-yerel-ana-makinenize-ozel-alan-adi-dev-olusturma.png "wordpress.dev domain uzantısı chrome ekran görüntüsü")
 
 #### XAMPP Nedir?
 

@@ -1,15 +1,11 @@
 ---
-layout     : post
-current    : post
-navigation : True
 title      : "Mutlu Olmayı Öğrenmek"
 description: "Batılı bir araştırmacı sevmek ve mutlu olmak üzerine uzun araştırmalar yapmış. Çıkış noktası, varmak istediği hedef çok başka. Şu fani dünyada hani nasıl daha çok eğleşiriz, patırtısız yaşarız, yıpranmadan ve zevk duyarak vakit geçiririz gibi konular etrafında dönüp duruyor."
 date       : 2018-03-18 19:35:00
-tags       : [Kitap]
-cover      : "assets/images/marifet-nedir.png"
-class      : post-template
-subclass   : 'post'
-author     : ahmet
+categories : [Kitap]
+tags       : [Cahit Zarifoğlu]
+postimg    : "marifet-nedir.png"
+comments   : true
 ---
 
 Batılı bir araştırmacı sevmek ve mutlu olmak üzerine uzun araştırmalar yapmış. Çıkış noktası, varmak istediği hedef çok başka. Şu fani dünyada hani nasıl daha çok eğleşiriz, patırtısız yaşarız, yıpranmadan ve zevk duyarak vakit geçiririz gibi konular etrafında dönüp duruyor.

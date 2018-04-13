@@ -1,15 +1,11 @@
 ---
-layout: post
-current: post
-navigation: True
 title      : "Yeni Web Siteme Hoşgeldiniz!"
 description: "Tüm sosyal medya hesaplarıma tek bir hesaptan ulaşabilirsiniz."
 date       : 2016-10-08 23:16:23
-tags : [Genel]
-cover: "assets/images/ahmetcadirci-wallpaper.png"
-class: post-template
-subclass: 'post'
-author: ahmet
+categories : [Genel]
+tags       : [Kişisel Web Site, Sosyal Medya]
+postimg    : "ahmetcadirci-wallpaper.png"
+comments   : true
 ---
 
 Tüm sosyal medya hesaplarıma tek bir hesaptan ulaşabilirsiniz.

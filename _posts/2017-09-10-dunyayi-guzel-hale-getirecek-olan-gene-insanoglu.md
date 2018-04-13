@@ -1,15 +1,11 @@
 ---
-layout: post
-current: post
-navigation: True
 title      : "Dünyayı Güzel Hale Getirecek Olan Gene İnsanoğlu"
 description: "Yüksek bir yere yuva yapan ördek ve 11 yavrusunu yere düşmekten kurtaran güzel adam."
 date       : 2017-09-10 12:12:00
-tags : [Eğlence, Sosyal Medya, Internet]
-cover: "assets/images/dunyayi-guzel-hale-getirecek-olan-gene-insanoglu.png"
-class: post-template
-subclass: 'post'
-author: ahmet
+categories : [Eğlence, Sosyal Medya, İnternet]
+tags       : [Hayvan, Ördek, Twitter]
+postimg    : "dunyayi-guzel-hale-getirecek-olan-gene-insanoglu.png"
+comments   : true
 ---
 
 Yüksek bir yere yuva yapan ördek ve 11 yavrusunu yere düşmekten kurtaran güzel adam. 

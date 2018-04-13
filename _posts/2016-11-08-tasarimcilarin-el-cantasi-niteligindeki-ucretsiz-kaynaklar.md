@@ -1,15 +1,11 @@
 ---
-layout: post
-current: post
-navigation: True
 title      : "Tasarımcıların El Çantası Niteliğindeki Ücretsiz Kaynaklar (Fotoğraf,  Video, İkon, Yazı Tipi, Renk, Ses)"
 description: "Ücretsiz stok fotoğraflar, videolar, mockuplar, yazı tipleri, grafikler, araçlar, dokular, sesler, renkler ve ikonların yer aldığı listede bir çok sitenin linki bulunmaktadır."
 date       : 2016-11-08 12:57:23
-tags : [Grafik Tasarim, Photoshop, Vektor, Ikon, Mockup, UI/UX, Wallpaper, Fotograf]
-cover: "assets/images/tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar.png"
-class: post-template
-subclass: 'post'
-author: ahmet
+categories : [Grafik Tasarım, Photoshop, Vektör, İkon, Mockup, UI/UX, Wallpaper, Fotoğraf]
+tags       : [Tasarım, Visual Hunt, Pexels, StockSnap]
+postimg    : "tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar.png"
+comments   : true
 ---
 
 Kolay kullanım için hazırlanan el çantası niteliğindeki bu sitelerden ücretsiz olarak yararlanabilirsiniz. Ücretsiz stok fotoğraflar, videolar, mockuplar, yazı tipleri, grafikler, araçlar, dokular, sesler, renkler ve ikonların yer aldığı listede bir çok sitenin linki bulunmaktadır.

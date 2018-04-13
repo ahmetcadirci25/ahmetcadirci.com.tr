@@ -1,0 +1,521 @@
+---
+sitemap: false
+---
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>Ahmet Çadırcı — Web Geliştirici</title>
+<meta name="author" content="Ahmet Çadırcı">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+@import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700";
+
+body {
+font-family:'Source Sans Pro',sans-serif;
+font-size:1em;
+color:#fff;
+margin:0;
+padding:0;
+background:url(cover.jpg) top left no-repeat #666;
+background-size:cover;
+background-position:center center
+}
+
+.dropbtn img {
+width:100%
+}
+
+.post_results {
+width:450px;
+float:left;
+margin-top:50px;
+margin-bottom:20px
+}
+
+.post_results ul {
+list-style:none;
+text-align:left;
+padding:0;
+margin:0
+}
+
+.post_results ul li {
+border-bottom:1px solid rgba(255,255,255,0.13);
+padding:10px
+}
+
+.post_results ul li:hover {
+background:#343434
+}
+
+.post_results ul li a {
+color:#fff;
+display:block;
+font-size:15px;
+font-weight:700;
+text-align:left;
+text-decoration:none;
+margin-bottom:5px
+}
+
+.post_results ul li a:hover {
+color:#eee
+}
+
+.post_results ul li p {
+color:#ddd;
+font-size:13px;
+margin:0
+}
+
+.blob {
+width:2rem;
+height:2rem;
+background:#E5E5E5;
+border-radius:50%;
+position:absolute;
+left:calc(50% - 1rem);
+top:calc(50% - 1rem);
+box-shadow:0 0 1rem rgba(255,255,255,0.15)
+}
+
+.blob-2 {
+animation:animate-to-2 1.5s infinite
+}
+
+.blob-3 {
+animation:animate-to-3 1.5s infinite
+}
+
+.blob-1 {
+animation:animate-to-1 1.5s infinite
+}
+
+.blob-4 {
+animation:animate-to-4 1.5s infinite
+}
+
+.blob-0 {
+animation:animate-to-0 1.5s infinite
+}
+
+.blob-5 {
+animation:animate-to-5 1.5s infinite
+}
+
+@keyframes animate-to-2 {
+25%,75% {
+transform:translateX(-1.5rem) scale(0.75)
+}
+
+95% {
+transform:translateX(0rem) scale(1)
+}
+}
+
+@keyframes animate-to-3 {
+25%,75% {
+transform:translateX(1.5rem) scale(0.75)
+}
+
+95% {
+transform:translateX(0rem) scale(1)
+}
+}
+
+@keyframes animate-to-1 {
+25% {
+transform:translateX(-1.5rem) scale(0.75)
+}
+
+50%,75% {
+transform:translateX(-4.5rem) scale(0.6)
+}
+
+95% {
+transform:translateX(0rem) scale(1)
+}
+}
+
+@keyframes animate-to-4 {
+25% {
+transform:translateX(1.5rem) scale(0.75)
+}
+
+50%,75% {
+transform:translateX(4.5rem) scale(0.6)
+}
+
+95% {
+transform:translateX(0rem) scale(1)
+}
+}
+
+@keyframes animate-to-0 {
+25% {
+transform:translateX(-1.5rem) scale(0.75)
+}
+
+50% {
+transform:translateX(-4.5rem) scale(0.6)
+}
+
+75% {
+transform:translateX(-7.5rem) scale(0.5)
+}
+
+95% {
+transform:translateX(0rem) scale(1)
+}
+}
+
+@keyframes animate-to-5 {
+25% {
+transform:translateX(1.5rem) scale(0.75)
+}
+
+50% {
+transform:translateX(4.5rem) scale(0.6)
+}
+
+75% {
+transform:translateX(7.5rem) scale(0.5)
+}
+
+95% {
+transform:translateX(0rem) scale(1)
+}
+}
+
+.flex-center {
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-align:center;
+-webkit-align-items:center;
+-ms-flex-align:center;
+align-items:center;
+-webkit-box-pack:center;
+-webkit-justify-content:center;
+-ms-flex-pack:center;
+justify-content:center
+}
+
+* {
+box-sizing:border-box
+}
+
+a,a:visited,a:hover,a:active {
+color:inherit;
+text-decoration:none
+}
+
+.outer-menu {
+position:fixed;
+left:0;
+z-index:1;
+width:100%
+}
+
+.outer-menu .checkbox-toggle {
+position:absolute;
+top:0;
+left:42%;
+z-index:2;
+cursor:pointer;
+width:60px;
+height:60px;
+opacity:0
+}
+
+.outer-menu .checkbox-toggle:checked + .hamburger > div {
+-webkit-transform:rotate(135deg);
+transform:rotate(135deg)
+}
+
+.outer-menu .checkbox-toggle:checked + .hamburger > div:before,.outer-menu .checkbox-toggle:checked + .hamburger > div:after {
+top:0;
+-webkit-transform:rotate(90deg);
+transform:rotate(90deg)
+}
+
+.outer-menu .checkbox-toggle:checked + .hamburger > div:after {
+opacity:0
+}
+
+.outer-menu .checkbox-toggle:checked ~ .menu {
+pointer-events:auto;
+visibility:visible
+}
+
+.outer-menu .checkbox-toggle:checked ~ .menu > div {
+-webkit-transform:scale(1);
+transform:scale(1);
+-webkit-transition-duration:.75s;
+transition-duration:.75s
+}
+
+.outer-menu .checkbox-toggle:checked ~ .menu > div > div {
+opacity:1;
+-webkit-transition:opacity .4s ease .4s;
+transition:opacity .4s ease .4s
+}
+
+.outer-menu .checkbox-toggle:hover + .hamburger {
+box-shadow:inset 0 0 10px rgba(0,0,0,0.1)
+}
+
+.outer-menu .checkbox-toggle:checked:hover + .hamburger > div {
+-webkit-transform:rotate(225deg);
+transform:rotate(225deg)
+}
+
+.outer-menu .hamburger {
+position:absolute;
+top:0;
+left:43%;
+z-index:1;
+width:60px;
+height:55px;
+padding:.5em 1em;
+border-radius:0 .12em .12em 0;
+cursor:pointer;
+-webkit-transition:box-shadow .4s ease;
+transition:box-shadow .4s ease;
+-webkit-backface-visibility:hidden;
+backface-visibility:hidden;
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-align:center;
+-webkit-align-items:center;
+-ms-flex-align:center;
+align-items:center;
+-webkit-box-pack:center;
+-webkit-justify-content:center;
+-ms-flex-pack:center;
+justify-content:center
+}
+
+.outer-menu .hamburger > div {
+position:relative;
+-webkit-box-flex:0;
+-webkit-flex:none;
+-ms-flex:none;
+flex:none;
+width:100%;
+height:2px;
+background:#fefefe;
+-webkit-transition:all .4s ease;
+transition:all .4s ease;
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-align:center;
+-webkit-align-items:center;
+-ms-flex-align:center;
+align-items:center;
+-webkit-box-pack:center;
+-webkit-justify-content:center;
+-ms-flex-pack:center;
+justify-content:center
+}
+
+.outer-menu .hamburger > div:before,.outer-menu .hamburger > div:after {
+content:'';
+position:absolute;
+z-index:1;
+top:-10px;
+left:0;
+width:100%;
+height:2px;
+background:inherit;
+-webkit-transition:all .4s ease;
+transition:all .4s ease
+}
+
+.outer-menu .hamburger > div:after {
+top:10px
+}
+
+.outer-menu .menu {
+position:fixed;
+top:0;
+left:0;
+width:100%;
+height:100%;
+pointer-events:none;
+visibility:hidden;
+overflow:hidden;
+-webkit-backface-visibility:hidden;
+backface-visibility:hidden;
+outline:1px solid transparent;
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-align:center;
+-webkit-align-items:center;
+-ms-flex-align:center;
+align-items:center;
+-webkit-box-pack:center;
+-webkit-justify-content:center;
+-ms-flex-pack:center;
+justify-content:center
+}
+
+.outer-menu .menu > div {
+width:200vw;
+height:200vw;
+color:#fefefe;
+background:rgba(0,0,0,0.97);
+border-radius:50%;
+-webkit-transition:all .4s ease;
+transition:all .4s ease;
+-webkit-box-flex:0;
+-webkit-flex:none;
+-ms-flex:none;
+flex:none;
+-webkit-transform:scale(0);
+transform:scale(0);
+-webkit-backface-visibility:hidden;
+backface-visibility:hidden;
+overflow:hidden;
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-align:center;
+-webkit-align-items:center;
+-ms-flex-align:center;
+align-items:center;
+-webkit-box-pack:center;
+-webkit-justify-content:center;
+-ms-flex-pack:center;
+justify-content:center
+}
+
+.outer-menu .menu > div > div {
+text-align:center;
+max-width:90vw;
+max-height:100vh;
+opacity:0;
+-webkit-transition:opacity .4s ease;
+transition:opacity .4s ease;
+overflow-y:auto;
+-webkit-box-flex:0;
+-webkit-flex:none;
+-ms-flex:none;
+flex:none;
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-align:center;
+-webkit-align-items:center;
+-ms-flex-align:center;
+align-items:center;
+-webkit-box-pack:center;
+-webkit-justify-content:center;
+-ms-flex-pack:center;
+justify-content:center
+}
+
+.outer-menu .menu > div > div > ul {
+list-style:none;
+padding:0 1em;
+margin:0;
+display:block;
+max-height:100vh
+}
+
+.outer-menu .menu > div > div > ul > li {
+padding:0;
+margin:.7em;
+font-size:20px;
+display:block
+}
+
+.outer-menu .menu > div > div > ul > li > a {
+position:relative;
+display:inline;
+cursor:pointer;
+-webkit-transition:color .4s ease;
+transition:color .4s ease
+}
+
+.outer-menu .menu > div > div > ul > li > a:hover {
+color:#e5e5e5
+}
+
+.outer-menu .menu > div > div > ul > li > a:hover:after {
+width:100%
+}
+
+.outer-menu .menu > div > div > ul > li > a:after {
+content:'';
+position:absolute;
+z-index:1;
+bottom:-.15em;
+left:0;
+width:0;
+height:2px;
+background:#e5e5e5;
+-webkit-transition:width .4s ease;
+transition:width .4s ease
+}
+</style>
+<script src="main.js" type="text/javascript"></script>
+</head>
+ <body>
+    
+<div class="outer-menu">
+<input class="checkbox-toggle" type="checkbox" />
+<div class="hamburger">
+<div></div>
+</div>
+<div class="menu">
+<div>
+<div>
+<ul>
+<li><a href="https://ahmetcadirci.com.tr/" title="" target="_blank" rel="noopener">Web Site</a></li>
+<li><a href="https://ahmetcadirci.com.tr/youtube/" title="" target="_blank" rel="noopener">YouTube</a></li>
+<li><a href="https://ahmetcadirci.com.tr/instagram/" title="" target="_blank" rel="noopener">Instagram</a></li>
+<li><a href="https://ahmetcadirci.com.tr/twitter/" title="" target="_blank" rel="noopener">Twitter</a></li>
+<li><a href="https://ahmetcadirci.com.tr/facebook/" title="" target="_blank" rel="noopener">Facebook</a></li>
+<li><a href="https://ahmetcadirci.com.tr/googleplus/" title="" target="_blank" rel="noopener">Google +</a></li>
+<li><a href="https://ahmetcadirci.com.tr/linkedin/" title="" target="_blank" rel="noopener">LinkedIn</a></li>
+<li><a href="https://ahmetcadirci.com.tr/github/" title="" target="_blank" rel="noopener">GitHub</a></li>
+<li><a href="https://ahmetcadirci.com.tr/podcast/" title="" target="_blank" rel="noopener">Podcast</a></li>
+<li><a href="https://ahmetcadirci.com.tr/rss/" title="" target="_blank" rel="noopener">RSS</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="post_results" id="post_results1" rss_num="5" rss_url="http://feeds.feedburner.com/ahmetcadirci25">
+<div class="loading_rss">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+<defs>
+<filter id="gooey">
+<feGaussianBlur in="SourceGraphic" stdDeviation="10" result="blur"></feGaussianBlur>
+<feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7" result="goo"></feColorMatrix>
+<feBlend in="SourceGraphic" in2="goo"></feBlend>
+</filter>
+</defs>
+</svg>
+<div class="blob blob-0"></div>
+<div class="blob blob-1"></div>
+<div class="blob blob-2"></div>
+<div class="blob blob-3"></div>
+<div class="blob blob-4"></div>
+<div class="blob blob-5"></div>
+</div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+</body>
+</html>

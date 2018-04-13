@@ -1,15 +1,11 @@
 ---
-layout     : post
-current    : post
-navigation : True
 title      : "Tasarımcılar İçin Ücretsiz Kaynak Siteler"
 description: "Tasarımcılar için ücretsiz kaynak siteler, tasarım yaparken bazen içerikler lazım olur. Stok fotoğraflar, renk kodları vb. şeylere ihtiyaç duyarız. "
 date       : 2017-09-15 21:50:11
-tags       : [Grafik Tasarım, Photoshop, Vektör, İkon, Mockup, UI/UX, Wallpaper, Fotoğraf]
-cover      : "assets/images/tasarimcilar-icin-kaynak-siteler.png"
-class      : post-template
-subclass   : 'post'
-author     : ahmet
+categories : [Grafik Tasarım, Photoshop, Vektör, İkon, Mockup, UI/UX, Wallpaper, Fotoğraf]
+tags       : [The Stocks, Sans Francisco, Design Resources, AllTheFreeStock, Makerbook]
+postimg    : "tasarimcilar-icin-kaynak-siteler.png"
+comments   : true
 ---
 
 Tasarım yaparken bazen içerikler lazım olur. Stok fotoğraflar, renk kodları vb. şeylere ihtiyaç duyarız. Sizler için birkaç kaynak site paylaşmak isterim. Hepsi tamamen ücretsiz kaynaklardır.

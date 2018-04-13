@@ -1,15 +1,16 @@
 ---
-layout: post
-current: post
-navigation: True
+layout     : video
 title      : "#1: WordPress Nedir? — WordPress Dersleri Video"
 description: "WordPress, dünyada en çok kullanılan içerik yönetim sistemlerinden biridir."
 date       : 2016-10-08 23:36:20
-tags : [Wordpress, Podcast, Video]
-cover: "assets/images/wordpress-nedir.png"
-class: post-template
-subclass: 'post'
-author: ahmet
+categories : [Wordpress, Podcast, Video]
+tags       : [Wordpress Nedir, iTunes, PHP]
+keywords   : podcast, wordpress
+postimg    : "wordpress-nedir.png"
+duration   : "01:17"
+length     : 23800000
+mp3        : "podsync.net/download/youtube/h-yyH3aaxv8.mp4"
+videoid    : 233166808
 ---
 
 WordPress, dünyada en çok kullanılan içerik yönetim sistemlerinden biridir.

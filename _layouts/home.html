@@ -1,0 +1,86 @@
+---
+layout : default
+---
+
+
+    <div class="container">
+      <div class="row">
+        
+      	<div class="col-xs-12  col-md-8">
+        	{% for post in paginator.posts %}
+
+                <!-- Post with featured image -->
+                <div class="boxed sticky push-down-45">
+
+                  <!-- Featured image and meta start -->
+                  <div class="meta">
+                    <img class="wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ site.url }}/images/{{post.postimg}}" alt="{{ post.title }}">                    
+                    <div class="meta__container">
+                      <div class="row">
+                        <div class="col-xs-12  col-sm-10">
+                          <div class="meta__info">
+                            <span class="meta__author"><img src="{{ "/images/avatar.svg" | prepend: site.url }}" alt="{{ site.author.name }}" width="30" height="30"> <a href="{{ site.url }}">{{ site.author.name }} </a>   
+                            </span> 
+                            <span class="meta__categories"><span class="glyphicon glyphicon-list"></span>  &nbsp; {% for categories in post.categories limit:1 %}<a href="{{ site.url }}/kategoriler/#{{ categories }}">{{ categories }}</a> {% endfor %} </span>
+                            <span class="meta__date"><span class="glyphicon glyphicon-calendar"></span>  &nbsp; {{ post.date | date: "%d.%m.%Y" }}</span> 
+                          </div>
+                        </div>
+                        <div class="col-xs-12  col-sm-2">
+                          <div class="meta__comments">
+                            <span class="glyphicon glyphicon-comment"></span>  &nbsp;
+                            <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}#disqus_thread"></a> 
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="sticky__box">
+                    <span class="sticky__circle"></span> 
+                    <span class="sticky__circle"></span> 
+                    <span class="sticky__circle"></span> 
+                    <span class="sticky__circle"></span> 
+                  </div>
+
+                  <!-- Featured image and meta end -->
+
+                  <!-- Start of the blogpost -->
+                  <div class="row">
+                    <div class="col-xs-10  col-xs-offset-1">
+
+                      <!-- Start of the content -->
+                      <div class="post-content--front-page">
+                        <h2 class="front-page-title">
+                          <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}">{{ post.title }}</a> 
+                        </h2>
+                        <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+                      </div>
+
+                      <!-- End of the content -->
+                      <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}">
+                        <div class="read-more">
+                          Devamını Oku
+                          <div class="read-more__arrow">
+                            <span class="glyphicon  glyphicon-chevron-right"></span> 
+                          </div>
+                        </div>
+                      </a> 
+                    </div>
+                  </div>
+                </div>
+                 <!-- End Post with featured image -->
+                 {% endfor %}
+
+
+              {% if paginator.previous_page or paginator.next_page %}
+              {% include pagination.html %}
+              {% endif %}
+        </div>
+
+
+      <!-- start sidebar -->
+      {% include sidebar.html %}
+      <!-- end sidebar -->
+        
+
+    </div>
+  </div>

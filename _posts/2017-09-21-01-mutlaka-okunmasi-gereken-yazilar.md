@@ -1,15 +1,11 @@
 ---
-layout     : post
-current    : post
-navigation : True
 title      : "#01 Mutlaka Okunması Gereken Yazılar"
 description: "Mutlaka Okunması Gereken Yazılar serisinin ilki olan yazıda 5 tane yazıyı sizinle paylaşıyorum. Umarım beğenirsiniz. İyi okumalar."
 date       : 2017-09-17 13:16:00
-tags       : [Makale]
-cover      : "assets/images/mutlaka-okunmasi-gereken-yazilar.png"
-class      : post-template
-subclass   : 'post'
-author     : ahmet
+categories : [Makale]
+tags       : [Serdar Tuncer, Charlie Chaplin]
+postimg    : "mutlaka-okunmasi-gereken-yazilar.png"
+comments   : true
 ---
 
 "Mutlaka Okunması Gereken Yazılar" serisinin ilki olan yazıda 5 tane yazıyı sizinle paylaşıyorum. Umarım beğenirsiniz. İyi okumalar.
