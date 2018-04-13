@@ -1,11 +1,15 @@
 ---
+layout     : post
+current    : post
+navigation : True
 title      : "GitKraken GitFlow Kullanımı ve Özellikleri"
 description: "GitKraken, GitFlow reponuzu organize etmek için kullanılan kuralların bir listesidir ve hata düzeltmeleri, özellik oluşturma işlemlerini kolaylaştırmak için kullanılır."
 date       : 2017-09-10 10:32:00
-categories : [Teknoloji, Program]
-tags       : [GitKraken, GitFlow, Git]
-postimg    : "gitkraken-gitflow-kullanimi-ve-ozellikleri.png"
-comments   : true
+tags       : [Teknoloji, Program]
+cover      : "assets/images/gitkraken-gitflow-kullanimi-ve-ozellikleri.png"
+class      : post-template
+subclass   : 'post'
+author     : ahmet
 ---
 
 > GitFlow, reponuzu organize etmek için kullanılan kuralların bir listesidir ve hata düzeltmeleri, özellik oluşturma işlemlerini kolaylaştırmak için kullanılır.
@@ -24,18 +28,18 @@ Dalları, yeni sürümler için yeni özellikler geliştirmek için kullanılır
 
 ### Feature
 
-![GitKraken Feature](https://ahmetcadirci.com.tr/images/galeri/finish-feature.gif "GitKraken Feature")
+![GitKraken Feature](https://ahmetcadirci.com.tr/assets/images/galeri/finish-feature.gif "GitKraken Feature")
 
 <p>Özelliğini geliştirir ve onu temizler.</p>
 
 ### Release 
 
-![GitKraken Release](https://ahmetcadirci.com.tr/images/galeri/finish-release.gif "GitKraken Release")
+![GitKraken Release](https://ahmetcadirci.com.tr/assets/images/galeri/finish-release.gif "GitKraken Release")
 
 Release `master` ve `develop` geliştirir ve birleştirir.
 
 ### Hotfix
 
-![GitKraken Hotfix](https://ahmetcadirci.com.tr/images/galeri/finish-hotfix.gif "GitKraken Hotfix")
+![GitKraken Hotfix](https://ahmetcadirci.com.tr/assets/images/galeri/finish-hotfix.gif "GitKraken Hotfix")
 
 Hotfix `master` ve `develop` hatalarını düzeltir.

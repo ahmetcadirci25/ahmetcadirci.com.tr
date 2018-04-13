@@ -1,11 +1,15 @@
 ---
-title      : "iPhone'a Tüm Sitelerden Ücretsiz Video İndirme Nasıl Yapılır?"
+layout     : post
+current    : post
+navigation : True
+title      : "iPhone'a Tüm Sitelerden Ücretsiz Video İndirme Nasil Yapilir?"
 description: "iPhone cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şekilde video indirebilirsiniz. Uygulamının içinde yer alan özellikle indirdiğiniz videoları ses (mp3) formatına çevirebilirsiniz."
 date       : 2018-02-11 19:35:00
-categories : [Teknoloji, Mobil, Nasıl Yapılır]
-tags       : [iPhone, iPad]
-postimg    : "iphonea-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir.png"
-comments   : true
+tags       : [Teknoloji, Mobil, Nasil Yapilir]
+cover      : "assets/images/iphonea-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir.png"
+class      : post-template
+subclass   : 'post'
+author     : ahmet
 ---
 
 iPhone cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şekilde video indirebilirsiniz. Uygulamının içinde yer alan özellikle indirdiğiniz videoları ses (mp3) formatına çevirebilirsiniz.
@@ -21,7 +25,7 @@ iPhone cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şeki
 
 <iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/255265889" webkitAllowFullScreen width="100%"></iframe>
 
-#### YouTube'dan Video İndirme Nasıl Yapılır?
+#### YouTube'dan Video İndirme Nasil Yapilir?
 
 1. YouTube sayfasından video url'sini kopyalayın.
 2. **Vida** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
@@ -33,16 +37,16 @@ iPhone cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şeki
 8. İndirme işlemi biten videoları **Downloaded Video** kısmında görüntüleyerebilirsiniz. 
 9. **Share** butonuna tıklayın. Videoyu fotoğraflara kaydetmek için **Save Video** butonuna tıklayın.
 
-![Video İndirme Aşamaları](https://ahmetcadirci.com.tr/images/galeri/iphonea-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir.png "Video İndirme Aşamaları")
+![Video İndirme Aşamaları](https://ahmetcadirci.com.tr/assets/images/galeri/iphonea-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir.png "Video İndirme Aşamaları")
 
-#### YouTube'dan İndirilen Videoyu Ses (mp3) Formatına Çevirme Nasıl Yapılır?
+#### YouTube'dan İndirilen Videoyu Ses (mp3) Formatına Çevirme Nasil Yapilir?
 
 1. İndirme işlemi biten videoları **Downloaded Video** kısmında görüntüleyerebilirsiniz.
 2. Video başlığının hemen sağında **+** butonunun üstünde yer alan sonsuz döngü işaretine benzeyen simgeye tıklayın. Otomatik olarak  ses (mp3) formata çevirme işlemi başlayacaktır.
 3. Ses (mp3) formata çevirme işlemi biten videoları **Downloaded MP3** kısmında görüntüleyerebilirsiniz. 
 9. **Share** butonuna tıklayın. Ses dosyasını istediğiniz uygulamada açabilirsiniz.
 
-#### Diğer Sitelerden (Facebook, Twitter, Vimeo ve daha fazlası) Video İndirme Nasıl Yapılır?
+#### Diğer Sitelerden (Facebook, Twitter, Vimeo ve daha fazlası) Video İndirme Nasil Yapilir?
 
 1. Videonun yer aldığı sayfanın url'sini kopyalayın.
 2. **Vida** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
