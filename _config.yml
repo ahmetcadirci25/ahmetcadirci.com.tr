@@ -5,7 +5,7 @@ short_description: 'Kişisel web sitemde blog yazıları, video, podcast vb. iç
 url: 'https://ahmetcadirci.com.tr'
 baseurl: '/'
 google_analytics: 'UA-66383788-5'
-disqus_shortname: 'ahmetcadirci'
+disqus_shortname: 'ahmetcadirci25'
 
 author:
   name: 'Ahmet Çadırcı'
