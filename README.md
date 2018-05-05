@@ -30,6 +30,42 @@
 
 ---
 
+### Kategoriler
+
+* Video
+* Galeri
+* Podcast
+* Nasıl Yapılır
+* Genel
+* Jekyll
+* Sosyal Medya
+* Eğlence
+* İslam
+* İnternet
+* Makale
+* Wordpress
+	* Wordpress Temalar
+	* Wordpress Eklentiler
+	* Wordpress Seo
+	* Wordpress Optimizasyon
+* Web Tasarım
+	* HTML5
+	* CSS
+	* JS
+	* PHP
+	* Webmaster Araçları
+* Grafik Tasarım
+	* Photoshop
+	* Vektör
+	* İkon
+	* Mockup
+	* UI/UX
+	* Wallpaper
+	* Fotoğraf
+* Teknoloji
+	* Mobil
+	* Program
+
 ### Yeni Yazılar
 
 * [#02 Mutlaka Okunması Gereken Yazılar](https://ahmetcadirci.com.tr/2018/02-mutlaka-okunmasi-gereken-yazilar/)
