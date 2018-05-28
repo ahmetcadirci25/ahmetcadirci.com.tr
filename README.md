@@ -68,6 +68,7 @@
 
 ### Yeni Yazılar
 
+* [Muhammed Ali](https://ahmetcadirci.com.tr/2018/muhammed-ali/)
 * [#02 Mutlaka Okunması Gereken Yazılar](https://ahmetcadirci.com.tr/2018/02-mutlaka-okunmasi-gereken-yazilar/)
 * [Mutlu Olmayı Öğrenmek](https://ahmetcadirci.com.tr/2018/mutlu-olmayi-ogrenmek/)
 * [iPhone'a Tüm Sitelerden Ücretsiz Video İndirme Nasıl Yapılır?](https://ahmetcadirci.com.tr/2018/iphone-cihaza-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir/)
