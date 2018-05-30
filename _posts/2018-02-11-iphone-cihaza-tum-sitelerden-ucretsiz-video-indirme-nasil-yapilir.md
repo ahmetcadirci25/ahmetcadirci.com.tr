@@ -8,7 +8,7 @@ postimg    : "iphonea-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir.png"
 comments   : true
 ---
 
-iPhone cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şekilde video indirebilirsiniz. Uygulamının içinde yer alan özellikle indirdiğiniz videoları ses (mp3) formatına çevirebilirsiniz.
+iPhone cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şekilde video indirebilirsiniz. Uygulamanın içinde yer alan özellikle indirdiğiniz videoları ses (mp3) formatına çevirebilirsiniz.
 
 ## Nasıl Kurulur?
 
