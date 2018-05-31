@@ -14,7 +14,7 @@ iPhone cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şeki
 
 1. App Store'a giriş yapıyoruz.
 2. Arama çubuğuna **Vida** yazıyoruz.
-3. **Vida - Video File Manager for Clouds** uygulamasını indiriyoruz.
+3. **[Vida - Video File Manager for Clouds](https://itunes.apple.com/us/app/vida-video-file-manager-for-clouds/id1186154808?mt=8){:target="_blank"}{:rel="noopener"}** uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
 
 ### Kurulum Videosu 
