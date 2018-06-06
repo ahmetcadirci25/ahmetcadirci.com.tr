@@ -21,6 +21,12 @@ iPhone cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şeki
 
 <iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/255265889" webkitAllowFullScreen width="100%"></iframe>
 
+### İndirme Videosu
+
+[Gelen yorumlara](https://ahmetcadirci.com.tr/2018/iphone-cihaza-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir/#comment-3931533922) istinaden daha açıklayıcı olması için video eklenmiştir. Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhone film rulosuna video indirme** ve kaydetme işlemi yer almaktadır. Ekstra olarak (ses) mp3 formatına çevirme işlemi gösterilmiştir.
+
+<iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/273730466" webkitAllowFullScreen width="100%"></iframe>
+
 #### YouTube'dan Video İndirme Nasıl Yapılır?
 
 1. YouTube sayfasından video url'sini kopyalayın.
