@@ -14,10 +14,12 @@ iPhone cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şeki
 
 1. App Store'a giriş yapıyoruz.
 2. Arama çubuğuna **DoDa+** yazıyoruz.
-3. **[DoDa+](https://itunes.apple.com/app/id1378071560){:target="_blank"}{:rel="noopener"}** ~~[Vida - Video File Manager for Clouds](https://itunes.apple.com/us/app/vida-video-file-manager-for-clouds/id1186154808?mt=8){:target="_blank"}{:rel="noopener"}~~ uygulamasını indiriyoruz.
+3. **[DoDa+](https://itunes.apple.com/app/id1378071560){:target="_blank"}{:rel="noopener"}** ~~[Vida](https://itunes.apple.com/us/app/vida-video-file-manager-for-clouds/id1186154808?mt=8){:target="_blank"}{:rel="noopener"}~~ uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
 
 ### Kurulum Videosu 
+
+Kurulum videosunda AppStore arama kutucuğuna Vida yerine **DoDa+** yazmayı unutmayın.
 
 <iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/255265889" webkitAllowFullScreen width="100%"></iframe>
 
