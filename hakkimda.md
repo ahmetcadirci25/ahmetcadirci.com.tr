@@ -9,8 +9,6 @@ postimg: "ahmetcadirci-wallpaper.jpg"
 
 Kıymetli dostum,
 
-Ben Ahmet, Erzurumluyum. Ankara Üniversitesi İnternet Programcılığı önlisans mezunuyum. Şuan Anadolu Üniversitesi Bilişim Yönetim Sistemleri lisans bölümünü okuyorum.  
-
 Blogu açmamın sebebi kişisel yazılarımın derlendiği bir web günlüğü oluşturmak. Blogumda yer alan yazılar kendi öğrendiklerim ve tecrübelerimden ibarettir. Araştırmaktan ve yeni şeyler öğrenmekten her zaman haz almışımdır.
 
 Sosyal blog görüntüsü kazanmak için yorum ve yorumculara büyük önem veriyorum. Bu doğrultuda, yorumlanmayı hak eden yayınları sunabilmek için tüm şartları yerine getirmeye çalışıyorum.
