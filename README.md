@@ -68,6 +68,7 @@
 
 ### Yeni Yazılar
 
+* [Sublime Text 3 Eklenti Kurulum ve Kullanım Rehberi](https://ahmetcadirci.com.tr/2018/sublime-text-3-eklenti-kurulum-ve-kullanim-rehberi/)
 * [Muhammed Ali](https://ahmetcadirci.com.tr/2018/muhammed-ali/)
 * [#02 Mutlaka Okunması Gereken Yazılar](https://ahmetcadirci.com.tr/2018/02-mutlaka-okunmasi-gereken-yazilar/)
 * [Mutlu Olmayı Öğrenmek](https://ahmetcadirci.com.tr/2018/mutlu-olmayi-ogrenmek/)
