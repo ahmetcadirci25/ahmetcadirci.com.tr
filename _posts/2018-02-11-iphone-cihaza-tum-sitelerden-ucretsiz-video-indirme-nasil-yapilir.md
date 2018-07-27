@@ -14,7 +14,7 @@ iPhone cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şeki
 
 1. App Store'a giriş yapıyoruz.
 2. Arama çubuğuna **DoDa+** yazıyoruz.
-3. **[DoDa+](https://itunes.apple.com/app/id1378071560){:target="_blank"}{:rel="noopener"}** ~~[Vida](https://itunes.apple.com/us/app/vida-video-file-manager-for-clouds/id1186154808?mt=8){:target="_blank"}{:rel="noopener"}~~ uygulamasını indiriyoruz.
+3. **[DoDa+](https://itunes.apple.com/app/id1378071560){:target="_blank"}{:rel="noopener"}** uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
 
 ### Kurulum Videosu 
@@ -32,7 +32,7 @@ Kurulum videosunda AppStore arama kutucuğuna Vida yerine **DoDa+** yazmayı unu
 #### YouTube'dan Video İndirme Nasıl Yapılır?
 
 1. YouTube sayfasından video url'sini kopyalayın.
-2. **DoDa+** ~~Vida~~ uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
+2. **DoDa+** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
 3. Video oynattığınızda **X** işareti belirecektir. **X** işaretine tıklayın ve reklamı kapatın.
 4. Otomatik olarak videoyu indirmek istediğiniz formatlar çıkacaktır. Örneğin: SD (360p), SD (240p), HD (720p), HD (1080p) ve daha fazla format yer alacaktır.
 5. Çıkan formatlardan size uygun olanı seçtiğinizde indirme işlemi başlayacaktır.
@@ -53,7 +53,7 @@ Kurulum videosunda AppStore arama kutucuğuna Vida yerine **DoDa+** yazmayı unu
 #### Diğer Sitelerden (Facebook, Twitter, Vimeo ve daha fazlası) Video İndirme Nasıl Yapılır?
 
 1. Videonun yer aldığı sayfanın url'sini kopyalayın.
-2. **DoDa+** ~~Vida~~ uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
+2. **DoDa+** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
 3. Video oynattığınızda **X** işareti belirecektir. **X** işaretine tıklayın ve reklamı kapatın.
 4. Otomatik olarak videoyu indirmek istediğiniz formatlar çıkacaktır.
 5. Çıkan formatlardan size uygun olanı seçtiğinizde indirme işlemi başlayacaktır.
