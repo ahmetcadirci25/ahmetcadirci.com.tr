@@ -12,13 +12,13 @@ Kolay kullanım için hazırlanan el çantası niteliğindeki bu sitelerden ücr
 
 ### İçindekiler
 
-1. [Fotoğraf](#fotoraf)
+1. [Fotoğraf](#fotoğraf)
 2. [Mockup](#mockup)
 3. [Video](#video)
-4. [İkon](#kon)
+4. [İkon](#i̇kon)
 5. [Grafik](#grafik)
-6. [Araçlar](#aralar)
-7. [Yazı Tipi](#yaz-tipi)
+6. [Araçlar](#araçlar)
+7. [Yazı Tipi](#yazı-tipi)
 8. [Doku](#doku)
 9. [Renk](#renk)
 10. [Ses](#ses)
