@@ -68,6 +68,7 @@
 
 ### Yeni Yazılar
 
+* [iPhone'a E-Kitap (EPUB) Nasıl Yüklenir?](https://ahmetcadirci.com.tr/2018/iphonea-e-kitap-epub-nasil-yuklenir/)
 * [Sublime Text 3 Eklenti Kurulum ve Kullanım Rehberi](https://ahmetcadirci.com.tr/2018/sublime-text-3-eklenti-kurulum-ve-kullanim-rehberi/)
 * [Muhammed Ali](https://ahmetcadirci.com.tr/2018/muhammed-ali/)
 * [#02 Mutlaka Okunması Gereken Yazılar](https://ahmetcadirci.com.tr/2018/02-mutlaka-okunmasi-gereken-yazilar/)
