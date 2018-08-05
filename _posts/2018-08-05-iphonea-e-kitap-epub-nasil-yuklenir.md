@@ -14,7 +14,7 @@ iPhone, iPad ve iPod cihazımıza herhangi bir e-kitap uygulaması kurmadan mevu
 
 1. [https://drive.google.com/](https://drive.google.com/) adresine giriş yapın.
 2. **EPUB** uzantılı kitabı **Google Drive**'a yükleyin.
-3. [https://itunes.apple.com/us/app/google-drive/id507874739?mt=8](Google Drive) uygulamasını telefonunuza indirin.
+3. [Google Drive](https://itunes.apple.com/us/app/google-drive/id507874739?mt=8) uygulamasını telefonunuza indirin.
 4. Google Hesabınızla giriş yapın. 
 
 ## **EPUB** Uzantılı Kitabı **Kitaplar** (Books) Uygulamasına Nasıl Aktarılır?
@@ -36,7 +36,7 @@ Adımları aşağıda yer alan resme tıklayarak detaylı bir şekilde görebili
 
 1. [https://drive.google.com/](https://drive.google.com/) adresine giriş yapın.
 2. **PDF** uzantılı kitabı **Google Drive**'a yükleyin.
-3. [https://itunes.apple.com/us/app/google-drive/id507874739?mt=8](Google Drive) uygulamasını telefonunuza indirin.
+3. [Google Drive](https://itunes.apple.com/us/app/google-drive/id507874739?mt=8) uygulamasını telefonunuza indirin.
 4. Google Hesabınızla giriş yapın. 
 
 ## **PDF** Uzantılı Dosya **Kitaplar** (Books) Uygulamasına Nasıl Aktarılır?
