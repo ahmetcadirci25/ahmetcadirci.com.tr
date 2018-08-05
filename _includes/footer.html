@@ -77,7 +77,10 @@
     <script src="{{ "/js/lazyload.min.js" | prepend: site.url }}"></script>
     <script src="//ahmetcadirci25.disqus.com/count.js" id="dsq-count-scr" async></script>
     <script type="text/javascript">
+
         $("img.lazyload").lazyload();
+
+        $("#disqus_thread html").remove();
 
         WebFontConfig = {
           google: {
@@ -85,8 +88,6 @@
           }
         };
         
-        // $("#disqus_thread html").remove();
-
         (function() {
           var wf = document.createElement('script');
           wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
@@ -96,6 +97,7 @@
           var s = document.getElementsByTagName('script')[0];
           s.parentNode.insertBefore(wf, s);
         })();
+        
     </script>
 
     <script type="application/ld+json">
