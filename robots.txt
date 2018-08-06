@@ -1,3 +1,4 @@
-User-Agent: *
+User-agent: *
+Allow: /
 
 Sitemap: https://ahmetcadirci.com.tr/sitemap.xml
