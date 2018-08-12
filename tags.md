@@ -2,5 +2,5 @@
 layout: tags
 title: Etiketler
 permalink: /etiketler/
-postimg: "ahmetcadirci-wallpaper.jpg"
+image: "ahmetcadirci-wallpaper.jpg"
 ---

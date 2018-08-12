@@ -4,7 +4,7 @@ description: "WordPress siteniz için galeri ve slayt eklentisini bulmak zor ola
 date       : 2017-09-16 12:20:11
 categories : [Wordpress, Wordpress Eklentiler]
 tags       : [Master Slider, Meta Slider, Meteor Slides, Smart Slider 3]
-postimg    : "en-iyi-wordpress-galeri-ve-slayt-eklentileri.png"
+image    : "/images/en-iyi-wordpress-galeri-ve-slayt-eklentileri.png"
 comments   : true
 ---
 

@@ -4,7 +4,7 @@ description: "Ubuntu kullanan geliştirciler için Sublime Text, Git, Gitkraken,
 date       : 2017-04-09 15:40:00
 categories : [Teknoloji, Program]
 tags       : [Ubuntu, Sublime Text 3, Git, GitKraken, Node.js, Gulp]
-postimg    : "ubuntu-gelistirici-eklentilerinin-kurulumu.png"
+image    : "/images/ubuntu-gelistirici-eklentilerinin-kurulumu.png"
 comments   : true
 ---
 

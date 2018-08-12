@@ -4,7 +4,7 @@ description: "iPhone, iPad ve iPod cihazımıza herhangi bir e-kitap uygulaması
 date       : 2018-08-05 22:20:00
 categories : [Teknoloji, Mobil, Nasıl Yapılır]
 tags       : [iPhone, iPad]
-postimg    : "iphonea-e-kitap-epub-nasil-yuklenir.png"
+image    : "/images/iphonea-e-kitap-epub-nasil-yuklenir.png"
 comments   : true
 ---
 

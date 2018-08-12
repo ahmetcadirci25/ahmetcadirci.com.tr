@@ -2,7 +2,7 @@
 layout: page
 title: Sosyal Medya
 permalink: /sosyal-medya/
-postimg: "ahmetcadirci-wallpaper.jpg"
+image: "ahmetcadirci-wallpaper.jpg"
 ---
 
 ## Sosyal Medya Hesapları

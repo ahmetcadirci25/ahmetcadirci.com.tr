@@ -4,7 +4,7 @@ description: "Mutlaka Okunması Gereken Yazılar serisinin ilki olan yazıda 5 t
 date       : 2017-09-17 13:16:00
 categories : [Makale]
 tags       : [Serdar Tuncer, Charlie Chaplin]
-postimg    : "mutlaka-okunmasi-gereken-yazilar.png"
+image    : "/images/mutlaka-okunmasi-gereken-yazilar.png"
 comments   : true
 ---
 

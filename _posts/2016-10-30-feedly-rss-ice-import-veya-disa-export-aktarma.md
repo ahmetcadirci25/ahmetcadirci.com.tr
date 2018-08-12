@@ -4,7 +4,7 @@ description: "Feedly ise web sitelerinde yeni eklenen içeriği kolaylıkla taki
 date       : 2016-10-30 17:27:20
 categories : [İnternet, Nasıl Yapılır]
 tags       : [Feedly, RSS, Feed]
-postimg    : "feedly-ahmet-cadirci-rss.png"
+image    : "/images/feedly-ahmet-cadirci-rss.png"
 comments   : true
 ---
 

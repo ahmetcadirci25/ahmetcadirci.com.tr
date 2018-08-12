@@ -4,7 +4,7 @@ description: "Adobe Premiere CC kullanırken daha verimli çalışmak için klav
 date       : 2017-09-16 20:30:00
 categories : [Teknoloji, Program]
 tags       : [Adobe Premiere CC, Klavye Kısayolları]
-postimg    : "en-iyi-adobe-premiere-cc-klavye-kisayollari.png"
+image    : "/images/en-iyi-adobe-premiere-cc-klavye-kisayollari.png"
 comments   : true
 ---
 

@@ -4,7 +4,7 @@ description: "Facebook Hikayeleri olarak bilinen özellik, kullanıcıların eğ
 date       : 2017-03-15 00:20:00
 categories : [İnternet, Mobil, Teknoloji, Sosyal Medya]
 tags       : [Facebook, İnstagram, Snapchat]
-postimg    : "facebook-hikayeler.png"
+image    : "/images/facebook-hikayeler.png"
 comments   : true
 ---
 

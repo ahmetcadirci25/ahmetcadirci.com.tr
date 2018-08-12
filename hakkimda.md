@@ -2,7 +2,7 @@
 layout: page
 title: Hakkımda
 permalink: /hakkimda/
-postimg: "ahmetcadirci-wallpaper.jpg"
+image: "ahmetcadirci-wallpaper.jpg"
 ---
 
 ## Hakkımda

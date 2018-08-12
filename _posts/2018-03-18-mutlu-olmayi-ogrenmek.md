@@ -4,7 +4,7 @@ description: "Batılı bir araştırmacı sevmek ve mutlu olmak üzerine uzun ar
 date       : 2018-03-18 19:35:00
 categories : [Kitap]
 tags       : [Cahit Zarifoğlu]
-postimg    : "marifet-nedir.png"
+image    : "/images/marifet-nedir.png"
 comments   : true
 ---
 

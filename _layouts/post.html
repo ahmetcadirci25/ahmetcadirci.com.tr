@@ -7,7 +7,7 @@ layout: default
 
         <!-- Featured image and meta start -->
         <div class="meta">
-          <img class="wp-post-image lazyload" src="{{ site.url }}/images/loading.gif" data-src="{{ site.url }}/images/{{ page.postimg }}" alt="{{ page.title }}">
+          <img class="wp-post-image lazyload" src="{{ site.url }}/images/loading.gif" data-src="{{ site.url }}/{{ page.image }}" alt="{{ page.title }}">
           <div class="meta__container">
             <div class="row">
               <div class="col-xs-12  col-sm-10">
@@ -146,7 +146,7 @@ layout: default
                   <h5>
                     <a href="{{ site.url }}">{{ site.author.name }}</a> 
                   </h5>
-                  <span class="post-author__text">{{ site.short_description }}</span> 
+                  <span class="post-author__text">{{ site.description }}</span> 
                 </div>
 
                 <!-- End of post author -->

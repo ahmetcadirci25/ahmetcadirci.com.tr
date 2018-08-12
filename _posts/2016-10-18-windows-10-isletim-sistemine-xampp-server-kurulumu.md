@@ -6,7 +6,7 @@ date       : 2016-10-18 22:04:00
 categories : [Wordpress, Podcast, Video]
 tags       : [Windows 10, XAMPP, Sanal Server, Local Host]
 keywords   : podcast, windows, xampp
-postimg    : "windows-10-isletim-sistemine-xampp-server-kurulumu.png"
+image    : "/images/windows-10-isletim-sistemine-xampp-server-kurulumu.png"
 duration   : "01:48"
 length     : 38150000
 mp3        : "podsync.net/download/youtube/5ETAdRINalE.mp4"

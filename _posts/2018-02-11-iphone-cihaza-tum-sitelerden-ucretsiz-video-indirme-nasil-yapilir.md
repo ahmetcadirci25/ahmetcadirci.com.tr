@@ -4,7 +4,7 @@ description: "iPhone cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 date       : 2018-02-11 19:35:00
 categories : [Teknoloji, Mobil, Nasıl Yapılır]
 tags       : [iPhone, iPad]
-postimg    : "iphonea-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir.png"
+image    : "/images/iphonea-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir.png"
 comments   : true
 ---
 

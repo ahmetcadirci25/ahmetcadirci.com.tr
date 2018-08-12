@@ -4,7 +4,7 @@ description: "Npm install kodunu çalıştırdığınızda Error: EPERM: operati
 date       : 2017-04-29 19:20:00
 categories : [Teknoloji, Program]
 tags       : [Npm, Windows 10, Unix]
-postimg    : "npm-paketlerinin-bulundugu-dizin.png"
+image    : "/images/npm-paketlerinin-bulundugu-dizin.png"
 comments   : true
 ---
 

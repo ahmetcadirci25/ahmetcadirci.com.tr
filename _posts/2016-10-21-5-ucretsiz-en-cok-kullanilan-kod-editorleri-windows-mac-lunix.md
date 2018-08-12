@@ -4,7 +4,7 @@ description: "Windows, Mac ve Linux platformlarında kaynak kod düzenleme ve me
 date       : 2016-10-20 09:44:00
 categories : [Teknoloji, Program]
 tags       : [Kod Editör, Sublime Text, Atom, Brackets, Brackets, Visual Studio Code, Notepad++]
-postimg    : "atom-io-kod-editoru.png"
+image    : "/images/atom-io-kod-editoru.png"
 comments   : true
 ---
 

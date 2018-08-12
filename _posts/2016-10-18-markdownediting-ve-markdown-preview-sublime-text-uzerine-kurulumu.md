@@ -4,7 +4,7 @@ description: "Zengin metinler üretmek için MarkdownEditing ve Markdown Preview
 date       : 2016-10-18 16:41:00
 categories : [Web Tasarım]
 tags       : [Sublime Text 3, Markdown, MarkdownEditing, Markdown Preview]
-postimg    : "markdownediting-kurulum.png"
+image    : "/images/markdownediting-kurulum.png"
 comments   : true
 ---
 
