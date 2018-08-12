@@ -8,7 +8,7 @@ postimg    : "android-cihazlarda-ana-ekrana-ekle-popup-kodu.png"
 comments   : true
 ---
 
-Android cihazdaki Chrome ve Mozilla tarayıcılarında ziyaret ettiğiniz web sitelerinde önünüze çıkan "Ana Ekrana Ekle" popup kodunun nasıl eklendiğini sizlerle paylaşıyorum. 
+Ana ekrana ekle (veya kısaca A2HS), akıllı telefon tarayıcılarında bulunan geliştiricilerin, favori web uygulamalarını (ya da siteyi) temsil eden ana ekranlarına bir kısayolu daha kolay ve rahat bir şekilde eklemelerine olanak tanıyan bir özelliktir. Bu kılavuz, A2HS'nin nasıl kullanıldığını ve kullanıcılarınızın bundan faydalanmasını sağlamak için bir geliştirici olarak yapmanız gerekenleri açıklamaktadır.
 
 **Bu kodun çalışabilmesi için sitenizin HTTPS'li olması gerekir.**
 
@@ -18,7 +18,7 @@ Android cihazdaki Chrome ve Mozilla tarayıcılarında ziyaret ettiğiniz web si
 
 - [Logo Düzenleme](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#1-adım-logo-düzenleme)
 - [manifest.json Dosyasını Düzenleme](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#2-adım-manifestjson-dosyasını-düzenleme)
-- [manifest.json ve sw.js Dosyasını Çağırma](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#3-adım-manifestjson-ve-swjs-dosyasını-Çağırma)
+- [manifest.json ve sw.js Dosyasını Çağırma](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#3-adım-manifestjson-ve-swjs-dosyasını-çağırma)
 - [server.js Adlı Dosya Oluşturun](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#4-adım-serverjs-adlı-dosya-oluşturun)
 - [sw.js Adlı Dosya Oluşturun](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#5-adım-swjs-adlı-dosya-oluşturun)
 - [Test ve Önizleme Videosu](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#6-adım-test)
@@ -155,14 +155,14 @@ Yukarıdaki adımları tamamladıkta sonra dosyaları sunucunuza yükleyin. Daha
 
 ### 7. Dosyalar
 
-1. Repo [https://github.com/ahmetcadirci25/ana-ekrana-ekle](https://github.com/ahmetcadirci25/ana-ekrana-ekle){:target="_blank"}{:rel="noopener"}
 2. Zip [https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases/tag/v2](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases/tag/v2){:target="_blank"}{:rel="noopener"}
+1. Repo [https://github.com/ahmetcadirci25/ana-ekrana-ekle](https://github.com/ahmetcadirci25/ana-ekrana-ekle){:target="_blank"}{:rel="noopener"}
 2. Önizleme [http://ahmetcadirci.com.tr/](http://ahmetcadirci.com.tr/){:target="_blank"}{:rel="noopener"}
 
 #### Fikir
 - iOS şu anda A2HS ve servis çalışanını desteklememektedir, css kullanarak öğretici animasyonları sağlayabilir
 - sw.js en az bir getirme işlevi gerektirir
-- Desteklenen Chrome versiyonu >= 39
+- A2HS, sürüm 31'den bu yana Android cihazlarda Chrome versiyonu >= 39 , Firefox versiyonu >=32 desteklenmektedir.
 - App Banners'ı aktif etmek için Chrome url satırına `chrome://flags/#enable-app-banners` linkini kopyalayın. Daha sonra `Enable` yapın ve Chrome yeniden başlatın.
 
 #### Kaynakça
