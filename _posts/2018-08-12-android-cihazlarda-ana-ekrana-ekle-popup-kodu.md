@@ -1,7 +1,7 @@
 ---
 title      : "Android Cihazlarda 'Ana Ekrana Ekle' Popup Kodu"
 description: "Ana ekrana ekle (veya kısaca A2HS), akıllı telefon tarayıcılarında bulunan geliştiricilerin, favori web uygulamalarını (ya da siteyi) temsil eden ana ekranlarına bir kısayolu daha kolay ve rahat bir şekilde eklemelerine olanak tanıyan bir özelliktir."
-date       : 2018-08-11 14:00:00
+date       : 2018-08-12 14:00:00
 categories : [Web Tasarım, HTML5, JS]
 tags       : [Chrome, Google, Mozilla, Firefox]
 postimg    : "android-cihazlarda-ana-ekrana-ekle-popup-kodu.png"
