@@ -68,6 +68,7 @@
 
 ### Yeni Yazılar
 
+* [Android Cihazlarda 'Ana Ekrana Ekle' Popup Kodu](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/)
 * [iPhone'a E-Kitap (EPUB) Nasıl Yüklenir?](https://ahmetcadirci.com.tr/2018/iphonea-e-kitap-epub-nasil-yuklenir/)
 * [Sublime Text 3 Eklenti Kurulum ve Kullanım Rehberi](https://ahmetcadirci.com.tr/2018/sublime-text-3-eklenti-kurulum-ve-kullanim-rehberi/)
 * [Muhammed Ali](https://ahmetcadirci.com.tr/2018/muhammed-ali/)
