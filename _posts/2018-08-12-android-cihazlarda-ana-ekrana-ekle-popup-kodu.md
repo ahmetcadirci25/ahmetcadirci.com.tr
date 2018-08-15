@@ -4,7 +4,7 @@ description: "Ana ekrana ekle (veya kısaca A2HS), akıllı telefon tarayıcıla
 date       : 2018-08-12 14:00:00
 categories : [Web Tasarım, HTML5, JS]
 tags       : [Chrome, Google, Mozilla, Firefox]
-postimg    : "android-cihazlarda-ana-ekrana-ekle-popup-kodu.png"
+postimg    : "https://lh3.googleusercontent.com/yB1xGrDOacpE5ZmVdqB4qiYzemIX9ZMKCKseXOVI96jbR6HheknjYEiJHez-gXlWZW9y4NWiAXy4JKK1mDkMrSonhON50YQ08tt_ZKut05jkAyVBZLmGdbvdP3ebWDeZby-cjNJkuD5omabaaODQzi2-EjhYd8_CLdYoZbW6AXuqWxcf0922O4MGdDjb44QWNFh14h0JT3_5dhajhrN6PYW_-YI36dgNH3j-zpqoIkb00akdeP295Hbj6m0uOcuilg1sN-1JkS9aj0M6ON8m3e-xfxFs2Twp4nHumcFrD2Kme2iVwc2rmlKF7Q1TR5CR9CIYKtxVAKvWz-uJUPKh1sQJVe0DQLDodNX55hH-_ACmon-VRiiQnAVkUwRa5WutBEl9b93XUgKtMTPjNBHY2GwTi-X5z4k7bWaM8PpXr2v1tHSZ2DHvzI5usbk2L94I2ckF6HJ-ul66HlXRPWfCkEzj_xjUNjV-tlO6ZLbYOSFpXwxGPWKc4HSHos8yw8wT7eCufx6lJiK457gQO4jRPy-KBdutPHyioqn8zyGpllk4h3fRCCJpdXg_bGtNFk8w8QCFru6hrG1e9nWmx_nBnNnqsvstbR1susruOWYd4db9ApZsFzpEH80WeM5zOOBg-DmrjlPpSbiWNmAl0-vdGpip4o7cwJ71"
 comments   : true
 ---
 
