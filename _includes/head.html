@@ -84,6 +84,8 @@
     <link rel="dns-prefetch" href="//player.vimeo.com">
     <link rel="dns-prefetch" href="//i.vimeocdn.com">
     <link rel="dns-prefetch" href="//f.vimeocdn.com">
+    <link rel="dns-prefetch" href="//cdn.onesignal.com">
+    <link rel="dns-prefetch" href="//onesignal.com">
 
     <link rel="preconnect" href="//ahmetcadirci.com.tr">
     <link rel="preconnect" href="//licensebuttons.net">
@@ -112,6 +114,8 @@
     <link rel="preconnect" href="//player.vimeo.com">
     <link rel="preconnect" href="//i.vimeocdn.com">
     <link rel="preconnect" href="//f.vimeocdn.com">
+    <link rel="preconnect" href="//cdn.onesignal.com">
+    <link rel="preconnect" href="//onesignal.com">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 
@@ -159,18 +163,18 @@
                 showCredit: false,
                 /* Hide the OneSignal logo */
                 text: {
-                    'tip.state.unsubscribed': 'Subscribe to notifications',
-                    'tip.state.subscribed': "You're subscribed to notifications",
-                    'tip.state.blocked': "You've blocked notifications",
-                    'message.prenotify': 'Click to subscribe to notifications',
-                    'message.action.subscribed': "Thanks for subscribing!",
-                    'message.action.resubscribed': "You're subscribed to notifications",
-                    'message.action.unsubscribed': "You won't receive notifications again",
-                    'dialog.main.title': 'Manage Site Notifications',
-                    'dialog.main.button.subscribe': 'SUBSCRIBE',
-                    'dialog.main.button.unsubscribe': 'UNSUBSCRIBE',
-                    'dialog.blocked.title': 'Unblock Notifications',
-                    'dialog.blocked.message': "Follow these instructions to allow notifications:"
+                    'tip.state.unsubscribed': 'Bildirimlere Abone Ol!',
+                    'tip.state.subscribed': "Bildirimlere abone oldunuz",
+                    'tip.state.blocked': "Bildirimleri engellediniz",
+                    'message.prenotify': 'Bildirimlere abone olmak için tıklayın',
+                    'message.action.subscribed': "Abone olduğunuz için teşekkürler!",
+                    'message.action.resubscribed': "Bildirimlere abone oldunuz",
+                    'message.action.unsubscribed': "Bildirimleri tekrar almayacaksınız",
+                    'dialog.main.title': 'Site Bildirimlerini Yönet',
+                    'dialog.main.button.subscribe': 'ABONE OL',
+                    'dialog.main.button.unsubscribe': 'ABONELİKTEN ÇIK',
+                    'dialog.blocked.title': 'Bildirimlerin Engellemesini Kaldır',
+                    'dialog.blocked.message': "Bildirimlere izin vermek için şu talimatları:"
                 },
                 colors: { // Customize the colors of the main button and dialog popup button
                     'circle.background': 'rgb(84,110,123)',
@@ -193,17 +197,17 @@
                 }
             },
             welcomeNotification: {
-                "title": "My Custom Title",
-                "message": "Thanks for subscribing!",
+                "title": "Ahmet Çadırcı",
+                "message": "🖖 Abone olduğun için teşekkürler!",
                 // "url": "" /* Leave commented for the notification to not open a window on Chrome and Firefox (on Safari, it opens to your webpage) */
             },
             promptOptions: {
                 /* actionMessage limited to 90 characters */
-                actionMessage: "We'd like to show you notifications for the latest news and updates.",
+                actionMessage: "En son yazılardan ve içeriklerden bildirimler almak istiyor musun?",
                 /* acceptButtonText limited to 15 characters */
-                acceptButtonText: "ALLOW",
+                acceptButtonText: "EVET!",
                 /* cancelButtonText limited to 15 characters */
-                cancelButtonText: "NO THANKS"
+                cancelButtonText: "HAYIR"
             }
         }]);
         OneSignal.push(function() {
