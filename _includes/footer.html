@@ -76,12 +76,15 @@
     <script type="text/javascript" src="{{ "/js/jquery-3.2.1.slim.min.js" | prepend: site.url }}"></script>
     <script type="text/javascript" src="{{ "/js/main.js" | prepend: site.url }}"></script>
     <script type="text/javascript" src="{{ "/js/lazyload.min.js" | prepend: site.url }}"></script>
+    <script type="text/javascript" src="{{ "/js/addtohomescreen.min.js" | prepend: site.url }}"></script>
     <script type="text/javascript" src="//ahmetcadirci25.disqus.com/count.js" id="dsq-count-scr"></script>
 
     <script type="text/javascript">
       $("img.lazyload").lazyload();
       
       $("#disqus_thread html").remove();
+
+      addToHomescreen();
 
       // Google Fonts
       WebFontConfig = {
