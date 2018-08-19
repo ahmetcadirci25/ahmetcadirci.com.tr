@@ -12,37 +12,21 @@
       {% seo %}
     {% endif %}
 
-    <link rel="publisher" href="https://plus.google.com/+{{ site.author.googleplus_username }}">
-    <link rel="search" type="application/opensearchdescription+xml" title="{{ site.title }}" href="{{ "/opensearch.xml" | prepend: site.url }}">
-    <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/nbodekgjbangnjgljilfmnckkjlliaab">
-    <link rel="apple-touch-icon" sizes="57x57" href="{{ "/images/favicons/apple-touch-icon-57x57.png" | prepend: site.url }}">
-    <link rel="apple-touch-icon" sizes="60x60" href="{{ "/images/favicons/apple-touch-icon-60x60.png" | prepend: site.url }}">
-    <link rel="apple-touch-icon" sizes="72x72" href="{{ "/images/favicons/apple-touch-icon-72x72.png" | prepend: site.url }}">
-    <link rel="apple-touch-icon" sizes="76x76" href="{{ "/images/favicons/apple-touch-icon-76x76.png" | prepend: site.url }}">
-    <link rel="apple-touch-icon" sizes="114x114" href="{{ "/images/favicons/apple-touch-icon-114x114.png" | prepend: site.url }}">
-    <link rel="apple-touch-icon" sizes="120x120" href="{{ "/images/favicons/apple-touch-icon-120x120.png" | prepend: site.url }}">
-    <link rel="apple-touch-icon" sizes="144x144" href="{{ "/images/favicons/apple-touch-icon-144x144.png" | prepend: site.url }}">
-    <link rel="apple-touch-icon" sizes="152x152" href="{{ "/images/favicons/apple-touch-icon-152x152.png" | prepend: site.url }}">
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ "/images/favicons/apple-touch-icon-180x180.png" | prepend: site.url }}">
-    <link rel="icon" type="image/png" href="{{ "/images/favicons/favicon-32x32.png" | prepend: site.url }}" sizes="32x32">
-    <link rel="icon" type="image/png" href="{{ "/images/favicons/favicon-194x194.png" | prepend: site.url }}" sizes="194x194">
-    <link rel="icon" type="image/png" href="{{ "/images/favicons/favicon-96x96.png" | prepend: site.url }}" sizes="96x96">
-    <link rel="icon" type="image/png" href="{{ "/images/favicons/android-chrome-192x192.png" | prepend: site.url }}" sizes="192x192">
-    <link rel="icon" type="image/png" href="{{ "/images/favicons/android-chrome-256x256.png" | prepend: site.url }}" sizes="256x256">
-    <link rel="icon" type="image/png" href="{{ "/images/favicons/android-chrome-384x384.png" | prepend: site.url }}" sizes="384x384">
-    <link rel="icon" type="image/png" href="{{ "/images/favicons/android-chrome-512x512.png" | prepend: site.url }}" sizes="512x512">
-    <link rel="icon" type="image/png" href="{{ "/images/favicons/favicon-16x16.png" | prepend: site.url }}" sizes="16x16">
-    <link rel="manifest" href="{{ "/images/favicons/manifest.json" | prepend: site.url }}">
-    <link rel="shortcut icon" href="{{ "/images/favicons/favicon.ico" | prepend: site.url }}">
     <meta name="msapplication-TileColor" content="#51ab6d">
     <meta name="msapplication-TileImage" content="{{ "/images/favicons/mstile-144x144.png" | prepend: site.url }}">
     <meta name="theme-color" content="#51ab6d">
-    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="http://feeds.feedburner.com/ahmetcadirci25">
+    
+    <link rel="manifest" href="{{ "/images/favicons/manifest.json" | prepend: site.url }}">
+    <link rel="shortcut icon" href="{{ "/images/favicons/favicon.ico" | prepend: site.url }}">
+    <link rel="apple-touch-icon" href="{{ "/images/favicons/apple-touch-icon-180x180.png" | prepend: site.url }}">
 
-    <!-- Custom styles for this template -->
     <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.url }}" async>
-
+    <link rel="search" type="application/opensearchdescription+xml" title="{{ site.title }}" href="{{ "/opensearch.xml" | prepend: site.url }}">    
+    <link rel="publisher" href="https://plus.google.com/+{{ site.author.googleplus_username }}">
+    <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/nbodekgjbangnjgljilfmnckkjlliaab">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="http://feeds.feedburner.com/ahmetcadirci25">
+   
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
     <link rel="prerender" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 
     <link rel="dns-prefetch" href="//ahmetcadirci.com.tr">
@@ -76,37 +60,7 @@
     <link rel="dns-prefetch" href="//f.vimeocdn.com">
     <link rel="dns-prefetch" href="//cdn.onesignal.com">
     <link rel="dns-prefetch" href="//onesignal.com">
-
-    <link rel="preconnect" href="//ahmetcadirci.com.tr">
-    <link rel="preconnect" href="//licensebuttons.net">
-    <link rel="preconnect" href="//ahmetcadirci25.disqus.com">
-    <link rel="preconnect" href="//www.googletagmanager.com">
-    <link rel="preconnect" href="//ajax.googleapis.com">
-    <link rel="preconnect" href="//fonts.googleapis.com">
-    <link rel="preconnect" href="//www.google-analytics.com">
-    <link rel="preconnect" href="//ssl.google-analytics.com">
-    <link rel="preconnect" href="//static.hotjar.com">
-    <link rel="preconnect" href="//script.hotjar.com">
-    <link rel="preconnect" href="//vars.hotjar.com">
-    <link rel="preconnect" href="//in.hotjar.com">
-    <link rel="preconnect" href="//pagead2.googlesyndication.com">
-    <link rel="preconnect" href="//googleads.g.doubleclick.net">
-    <link rel="preconnect" href="//tpc.googlesyndication.com">
-    <link rel="preconnect" href="//stats.g.doubleclick.net">
-    <link rel="preconnect" href="//www.gstatic.com">
-    <link rel="preconnect" href="//rudy.adsnative.com">
-    <link rel="preconnect" href="//in.hotjar.com">
-    <link rel="preconnect" href="//x.bidswitch.net">
-    <link rel="preconnect" href="//rudy-eu-west-1.adsnative.com">
-    <link rel="preconnect" href="//static.adsnative.com">
-    <link rel="preconnect" href="//c.disquscdn.com">
-    <link rel="preconnect" href="//static.openguid.org">
-    <link rel="preconnect" href="//player.vimeo.com">
-    <link rel="preconnect" href="//i.vimeocdn.com">
-    <link rel="preconnect" href="//f.vimeocdn.com">
-    <link rel="preconnect" href="//cdn.onesignal.com">
-    <link rel="preconnect" href="//onesignal.com">
-
+    
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 
     <!--[if lt IE 9]>

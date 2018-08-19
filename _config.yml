@@ -40,10 +40,10 @@ author:
   instagram_username : ahmetcadirci25
   twitter_username   : ahmetcadirci25
   facebook_username  : ahmetcadirci25
-  github_username    :  ahmetcadirci25
-  linkedin_username  :  ahmetcadirci25
-  googleplus_username:  ahmetcadirci25
-  feedburner_username:  rss
+  github_username    : ahmetcadirci25
+  linkedin_username  : ahmetcadirci25
+  googleplus_username: ahmetcadirci25
+  feedburner_username: rss
   podcast_username   : podcast
 
 defaults:
@@ -92,4 +92,4 @@ podcast:
     En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzerinden ulaşabilirsiniz.
         
 plugins: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-seo-tag']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
