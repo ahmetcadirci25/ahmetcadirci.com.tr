@@ -1,8 +1,8 @@
 ---
-layout: page
-title: Hakkımda
+layout   : page
+title    : Hakkımda
 permalink: /hakkimda/
-postimg: "ahmetcadirci-wallpaper.jpg"
+image    : "/images/ahmetcadirci-wallpaper.jpg"
 ---
 
 ## Hakkımda

@@ -4,7 +4,7 @@ description: "Android cihazda Chrome kullanarak ziyaret ettiğiniz web sitelerin
 date       : 2017-05-06 20:00:00
 categories : [Web Tasarım, HTML5, JS]
 tags       : [Chrome, Google]
-postimg    : "google-chrome-da-ana-ekrana-ekle-popup-kodu.png"
+image      : "/images/google-chrome-da-ana-ekrana-ekle-popup-kodu.png"
 comments   : true
 ---
 

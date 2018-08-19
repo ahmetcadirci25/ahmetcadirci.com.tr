@@ -1,5 +1,6 @@
 ---
-layout: null
+layout : null
+sitemap: false
 ---
 
 console.log("sw loaded")

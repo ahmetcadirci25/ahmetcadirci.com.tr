@@ -4,7 +4,7 @@ description: "GitKraken, GitFlow reponuzu organize etmek için kullanılan kural
 date       : 2017-09-10 10:32:00
 categories : [Teknoloji, Program]
 tags       : [GitKraken, GitFlow, Git]
-postimg    : "gitkraken-gitflow-kullanimi-ve-ozellikleri.png"
+image      : "/images/gitkraken-gitflow-kullanimi-ve-ozellikleri.png"
 comments   : true
 ---
 

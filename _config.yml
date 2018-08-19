@@ -1,25 +1,51 @@
 # Site settings
-title: Ahmet Çadırcı — Web Geliştirici
-description: 'Ahmet Çadırcı... Kişisel web sitemde blog yazıları, video, podcast vb. içerikler yer almaktadır.Yeni yayına başladığım sitemde yazı, fotoğraf ve eğlenceli içerikler üretmeyi hedefliyorum. İçeriklere hızlı ulaşmak için sosyal medya hesaplarından abone olabilir ve takip edebilirsiniz.'
-short_description: 'Kişisel web sitemde blog yazıları, video, podcast vb. içerikler yer almaktadır.'
-url: 'https://ahmetcadirci.com.tr'
-baseurl: '/'
+url             : 'https://ahmetcadirci.com.tr'
+baseurl         : '/'
 google_analytics: 'UA-66383788-5'
 disqus_shortname: 'ahmetcadirci25'
 
+
+# Seo settings
+title      : 'Ahmet Çadırcı'
+description: 'Ahmet Çadırcı kişisel web sitemde blog yazıları, video, podcast vb. içerikler yer almaktadır. İletişim sayfasından bana ulaşabilirsiniz.'
+author     : 'Ahmet Çadırcı'
+lang       : 'tr-TR'
+twitter:
+  username: 'ahmetcadirci25'
+  card    : summary
+  creator : 'ahmetcadirci25'
+
+facebook:
+  app_id   : 
+  publisher: 
+  admins   : 
+
+logo: '/images/favicons/android-chrome-192x192.png'
+
+webmaster_verifications:
+  google: googlee1d9e8be546db6a6
+  bing  : B18BB06649951959C184378221769A58
+  yandex: c6dc9bb3d73c2602
+  alexa : 
+  baidu : 
+
+social:
+  name: Ahmet Çadırcı
+  links:
+    - https://github.com/ahmetcadirci25
+
 author:
-  name: 'Ahmet Çadırcı'
-  email: ahmetcadirci25@gmail.com
-  youtube_username: ahmetcadirci25
-  vimeo_username: ahmetcadirci25
-  instagram_username: ahmetcadirci25
-  twitter_username: ahmetcadirci25
-  facebook_username: ahmetcadirci25
-  github_username:  ahmetcadirci25
-  linkedin_username:  ahmetcadirci25
+  name               : 'Ahmet Çadırcı'
+  email              : ahmetcadirci25@gmail.com
+  youtube_username   : ahmetcadirci25
+  instagram_username : ahmetcadirci25
+  twitter_username   : ahmetcadirci25
+  facebook_username  : ahmetcadirci25
+  github_username    :  ahmetcadirci25
+  linkedin_username  :  ahmetcadirci25
   googleplus_username:  ahmetcadirci25
   feedburner_username:  rss
-  podcast_username: podcast
+  podcast_username   : podcast
 
 defaults:
   -
@@ -31,9 +57,9 @@ defaults:
 
 # Build settings
 destination: _site
-paginate: 5
-permalink: /:year/:title/
-markdown: kramdown
+paginate   : 5
+permalink  : /:year/:title/
+markdown   : kramdown
 highlighter: rouge
 
 kramdown:
@@ -42,13 +68,23 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
+# Compress settings
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [img]
+
 # Podcast
 podcast:
-  title: Ahmet Çadırcı
-  link: https://ahmetcadirci.com.tr
-  email: ahmetcadirci25@gmail.com
+  title   : Ahmet Çadırcı
+  link    : https://ahmetcadirci.com.tr
+  email   : ahmetcadirci25@gmail.com
   keywords: wordpress, teknoloji
-  art: https://ahmetcadirci.com.tr/images/ahmetcadirci-1400x1400.jpg
+  art     : https://ahmetcadirci.com.tr/images/ahmetcadirci-1400x1400.jpg
   category: Technology
   subcategories:
   - Podcasting
@@ -56,5 +92,5 @@ podcast:
   summary: >
     En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzerinden ulaşabilirsiniz.
         
-plugins: ['jekyll-paginate', 'jekyll-sitemap']
+plugins: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-seo-tag']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

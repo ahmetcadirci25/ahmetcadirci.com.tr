@@ -4,7 +4,7 @@ description: "Ücretsiz stok fotoğraflar, videolar, mockuplar, yazı tipleri, g
 date       : 2016-11-08 12:57:23
 categories : [Grafik Tasarım, Photoshop, Vektör, İkon, Mockup, UI/UX, Wallpaper, Fotoğraf]
 tags       : [Tasarım, Visual Hunt, Pexels, StockSnap]
-postimg    : "tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar.png"
+image      : "/images/tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar.png"
 comments   : true
 ---
 

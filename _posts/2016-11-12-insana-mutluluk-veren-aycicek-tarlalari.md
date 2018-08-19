@@ -4,7 +4,7 @@ description: "İnsana Mutluluk Veren Ayçiçek Tarlaları... Gördüğümüzde b
 date       : 2016-11-12 19:36:00
 categories : [Galeri]
 tags       : [Fotoğraf, Doğa, Ayçiçek]
-postimg    : "insana-mutluluk-veren-aycicek-tarlalari.png"
+image      : "/images/insana-mutluluk-veren-aycicek-tarlalari.png"
 comments   : true
 ---
 

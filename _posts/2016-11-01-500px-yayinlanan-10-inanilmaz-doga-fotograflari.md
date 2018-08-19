@@ -4,7 +4,7 @@ description: "Doğanın görkemini yansıtan bu fotoğraflar birbirinden değerl
 date       : 2016-11-01 22:35:13
 categories : [Galeri]
 tags       : [500px, Fotoğraf, Doğa]
-postimg    : "500px-yayinlanan-10-inanilmaz-doga-fotograflari.png"
+image      : "/images/500px-yayinlanan-10-inanilmaz-doga-fotograflari.png"
 comments   : true
 ---
 

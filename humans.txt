@@ -1,10 +1,8 @@
 /* TEAM */
 Developer & Designer: Ahmet Çadırcı
-Twitter: @ahmetcadirci25
-Site: https://ahmetcadirci.com.tr
+Site                : https://ahmetcadirci.com.tr
                         
 /* SITE */
-Last update: 2017/09/10
-Standards: HTML5, CSS3
-Components: Jekyll
-Software: Sublime Text, Photoshop
+Standards  : HTML5, CSS3
+Components : Jekyll
+Software   : Sublime Text, Photoshop

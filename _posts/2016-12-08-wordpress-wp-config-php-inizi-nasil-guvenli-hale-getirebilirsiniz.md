@@ -4,7 +4,7 @@ description: "wp-config.php dosyası, WordPress siteniz için önemli yapıland�
 date       : 2016-12-08 11:00:00
 categories : [Wordpress, Wordpress Optimizasyon]
 tags       : [wp-config.php, Wordpress Güvenlik]
-postimg    : "wordpress-wp-config-php-inizi-nasil-guvenli-hale-getirebilirsiniz.png"
+image      : "/images/wordpress-wp-config-php-inizi-nasil-guvenli-hale-getirebilirsiniz.png"
 comments   : true
 ---
 

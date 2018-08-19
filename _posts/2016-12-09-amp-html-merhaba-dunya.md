@@ -4,7 +4,7 @@ description: "AMP HTML tamamen mevcut web teknolojileri üzerine kurulmuştur. H
 date       : 2016-12-19 15:45:00
 categories : [Web Tasarım]
 tags       : [AMP HTML, AMP Validator]
-postimg    : "amp-html-merhaba-dunya.png"
+image      : "/images/amp-html-merhaba-dunya.png"
 comments   : true
 ---
 

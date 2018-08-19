@@ -4,7 +4,7 @@ description: "Sizin içinde yararlı olacağını düşündüğüm ve sıklıkla
 date       : 2017-05-03 22:20:00
 categories : [Teknoloji, İnternet]
 tags       : [Chrome, Google, Eklenti]
-postimg    : "google-chrome-da-kullandigim-eklentiler.png"
+image      : "/images/google-chrome-da-kullandigim-eklentiler.png"
 comments   : true
 ---
 

@@ -1,5 +1,6 @@
 ---
-layout: null
+layout : null
+sitemap: false
 ---
 
 APP.get('/images/favicons/manifest.json', function(req, res) {

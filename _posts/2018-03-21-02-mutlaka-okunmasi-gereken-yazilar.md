@@ -4,7 +4,7 @@ description: "Mutlaka Okunması Gereken Yazılar serisinin ikincisi olan yazıda
 date       : 2018-03-21 09:00:00
 categories : [Makale]
 tags       : [Mahmud Erol Kılıç]
-postimg    : "mutlaka-okunmasi-gereken-yazilar.png"
+image      : "/images/mutlaka-okunmasi-gereken-yazilar.png"
 comments   : true
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout: page
-title: Ahmet Çadırcı İletişim Bilgileri
+layout     : page
+title      : Ahmet Çadırcı İletişim Bilgileri
 description: "Ahmet Çadırcı İletişim Bilgileri... Sosyal medya hesapları ve iletişim formu üzerinden ulaşabilirsiniz."
-permalink: /iletisim/
-postimg: "ahmetcadirci-wallpaper.jpg"
+permalink  : /iletisim/
+image      : "/images/ahmetcadirci-wallpaper.jpg"
 ---
 
 <div class="contact">
@@ -30,7 +30,7 @@ postimg: "ahmetcadirci-wallpaper.jpg"
 
        <input type="hidden" name="_format" value="plain" />
 
-        <input type="text" name="_gotcha" style="display:none" />
+       <input type="text" name="_gotcha" style="display:none" />
 
         
     </div>

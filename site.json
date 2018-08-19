@@ -1,5 +1,6 @@
 ---
-layout: null
+layout : null
+sitemap: false
 ---
 
 [
@@ -7,7 +8,7 @@ layout: null
     {
       "title"    : "{{ post.title }}",
       "url"     : "{{ site.url }}{{ post.url }}",
-      "image"     : "{{ site.url }}/images/{{ post.postimg }}",
+      "image"     : "{{ site.url }}/images/{{ post.image }}",
       "date"     : "{{ post.date | date: "%B %d, %Y" }}"
     } {% if forloop.last %}{% else %},{% endif %}
 {% endfor %}
