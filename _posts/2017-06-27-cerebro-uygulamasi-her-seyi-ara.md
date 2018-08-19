@@ -4,7 +4,7 @@ description: "Cerebro uygulamasıyla bir kaç tıkla her şeyi aramaya başlayı
 date       : 2017-06-27 20:11:00
 categories : [Teknoloji, Program]
 tags       : [Cerebro, Google, Chrome, GitHub]
-image    : "/images/cerebro-uygulamasi-her-seyi-ara.png"
+image      : "/images/cerebro-uygulamasi-her-seyi-ara.png"
 comments   : true
 ---
 

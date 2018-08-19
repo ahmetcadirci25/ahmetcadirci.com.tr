@@ -1,8 +1,8 @@
 ---
-layout: page
-title: Sosyal Medya
+layout   : page
+title    : Sosyal Medya
 permalink: /sosyal-medya/
-image: "ahmetcadirci-wallpaper.jpg"
+image    : "/images/ahmetcadirci-wallpaper.jpg"
 ---
 
 ## Sosyal Medya Hesapları

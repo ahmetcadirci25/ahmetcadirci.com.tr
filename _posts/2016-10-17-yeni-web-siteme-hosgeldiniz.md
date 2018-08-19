@@ -4,7 +4,7 @@ description: "Tüm sosyal medya hesaplarıma tek bir hesaptan ulaşabilirsiniz."
 date       : 2016-10-08 23:16:23
 categories : [Genel]
 tags       : [Kişisel Web Site, Sosyal Medya]
-image    : "/images/ahmetcadirci-wallpaper.png"
+image      : "/images/ahmetcadirci-wallpaper.png"
 comments   : true
 ---
 

@@ -4,7 +4,7 @@ description: "Suriyeli Çocuklar... Yıllardır Süren Acımasız Savaştan Gör
 date       : 2016-12-04 21:00:00
 categories : [Galeri]
 tags       : [Fotoğraf, Savaş, Çocuk, Suriye]
-image    : "/images/onlar-sadece-cocuk.png"
+image      : "/images/onlar-sadece-cocuk.png"
 comments   : true
 ---
 

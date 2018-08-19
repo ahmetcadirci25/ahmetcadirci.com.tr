@@ -4,7 +4,7 @@ description: "Müslüman olmadan evvelki adı Cassius Marcellus Clay Jr. olan Mu
 date       : 2018-05-28 19:30:00
 categories : [Makale, İslam]
 tags       : [Muhammed Ali, Müslüman, Boks]
-image    : "/images/muhammed-ali.png"
+image      : "/images/muhammed-ali.png"
 comments   : true
 ---
 

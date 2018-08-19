@@ -4,7 +4,7 @@ description: "Ana ekrana ekle (veya kısaca A2HS), akıllı telefon tarayıcıla
 date       : 2018-08-12 14:00:00
 categories : [Web Tasarım, HTML5, JS]
 tags       : [Chrome, Google, Mozilla, Firefox]
-postimg    : "android-cihazlarda-ana-ekrana-ekle-popup-kodu.png"
+image      : "/images/android-cihazlarda-ana-ekrana-ekle-popup-kodu.png"
 comments   : true
 ---
 

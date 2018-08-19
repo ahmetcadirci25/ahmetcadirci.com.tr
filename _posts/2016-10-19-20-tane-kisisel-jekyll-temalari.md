@@ -4,7 +4,7 @@ description: "Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her b
 date       : 2016-10-19 13:04:00
 categories : [Jekyll]
 tags       : [Jekyll, Tema]
-image    : "/images/kisisel-jekyll-temalari-10.png"
+image      : "/images/kisisel-jekyll-temalari-10.png"
 comments   : true
 ---
 

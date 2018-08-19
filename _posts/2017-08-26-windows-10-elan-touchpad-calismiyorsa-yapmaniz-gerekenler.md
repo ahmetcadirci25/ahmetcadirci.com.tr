@@ -4,7 +4,7 @@ description: "Windows kullanıcılarının bir kısmı, Windows 10 yükseltmesin
 date       : 2017-08-26 20:46:00
 categories : [Teknoloji, Program]
 tags       : [Elan Touchpad, Windows 10, BIOS]
-image    : "/images/windows-10-elan-touchpad-calismiyorsa-yapmaniz-gerekenler.png"
+image      : "/images/windows-10-elan-touchpad-calismiyorsa-yapmaniz-gerekenler.png"
 comments   : true
 ---
 

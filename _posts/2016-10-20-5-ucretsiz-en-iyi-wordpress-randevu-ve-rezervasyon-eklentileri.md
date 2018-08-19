@@ -4,7 +4,7 @@ description: "Danışman ya da otel randevularını yönetmek için Randevu kull
 date       : 2016-10-20 09:44:00
 categories : [Wordpress, Wordpress Eklentiler]
 tags       : [Randevu, Rezervasyon]
-image    : "/images/appointments.png"
+image      : "/images/appointments.png"
 comments   : true
 ---
 

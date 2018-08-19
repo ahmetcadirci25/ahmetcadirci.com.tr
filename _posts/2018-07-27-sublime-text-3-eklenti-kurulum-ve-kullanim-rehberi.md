@@ -4,7 +4,7 @@ description: "Metin editörü olan Sublime Text 3 programını daha verimli kull
 date       : 2018-07-27 19:15:00
 categories : [Web Tasarım]
 tags       : [Sublime Text 3, Eklenti]
-image    : "/images/sublime-text-3-eklenti-kurulum-ve-kullanim-rehberi.png"
+image      : "/images/sublime-text-3-eklenti-kurulum-ve-kullanim-rehberi.png"
 comments   : true
 ---
 

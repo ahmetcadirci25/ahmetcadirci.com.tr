@@ -4,7 +4,7 @@ description: "HTC ONE M8 Ekran döndürme kapalı olmasına rağmen tekrar dön�
 date       : 2016-10-25 11:13:00
 categories : [Teknoloji, Mobil, Nasıl Yapılır]
 tags       : [HTC One M8, Dokunmatik, Ekran]
-image    : "/images/htc-one-m8-factory-reset.png"
+image      : "/images/htc-one-m8-factory-reset.png"
 comments   : true
 ---
 

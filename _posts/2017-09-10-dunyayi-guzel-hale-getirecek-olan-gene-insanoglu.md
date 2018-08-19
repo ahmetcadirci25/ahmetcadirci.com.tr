@@ -4,7 +4,7 @@ description: "Yüksek bir yere yuva yapan ördek ve 11 yavrusunu yere düşmekte
 date       : 2017-09-10 12:12:00
 categories : [Eğlence, Sosyal Medya, İnternet]
 tags       : [Hayvan, Ördek, Twitter]
-image    : "/images/dunyayi-guzel-hale-getirecek-olan-gene-insanoglu.png"
+image      : "/images/dunyayi-guzel-hale-getirecek-olan-gene-insanoglu.png"
 comments   : true
 ---
 

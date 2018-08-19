@@ -1,6 +1,6 @@
 ---
-layout: categories
-title: Kategoriler
+layout   : categories
+title    : Kategoriler
 permalink: /kategoriler/
-image: "ahmetcadirci-wallpaper.jpg"
+image    : "/images/ahmetcadirci-wallpaper.jpg"
 ---

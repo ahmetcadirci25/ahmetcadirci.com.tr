@@ -4,7 +4,7 @@ description: "İnsanların ilim ve sanat öğrenmeleri bir haktır. Nitekim Kur'
 date       : 2017-09-17 13:16:00
 categories : [İslam]
 tags       : [İlim, Sanat, Hürriyet, Kitap]
-image    : "/images/ilim-ve-sanat-ogrenme-hurriyeti.png"
+image      : "/images/ilim-ve-sanat-ogrenme-hurriyeti.png"
 comments   : true
 ---
 

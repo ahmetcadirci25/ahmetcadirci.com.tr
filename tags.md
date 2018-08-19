@@ -1,6 +1,6 @@
 ---
-layout: tags
-title: Etiketler
+layout   : tags
+title    : Etiketler
 permalink: /etiketler/
-image: "ahmetcadirci-wallpaper.jpg"
+image    : "/images/ahmetcadirci-wallpaper.jpg"
 ---

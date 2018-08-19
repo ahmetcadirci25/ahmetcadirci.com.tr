@@ -4,7 +4,7 @@ description: "Google'ın Chrome tarayıcısında şifrelerini tarayıcının ken
 date       : 2017-01-13 01:40:00"
 categories : [Teknoloji, İnternet]
 tags       : [Chrome, Şifre, Google, Opera]
-image    : "/images/google-chrome-password-import-export.png"
+image      : "/images/google-chrome-password-import-export.png"
 comments   : true
 ---
 

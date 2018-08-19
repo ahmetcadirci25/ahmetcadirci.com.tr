@@ -4,7 +4,7 @@ description: "Hazreti Şems-i Tebrîzî'nin Marifet Nedir? sorusuna verdiği cev
 date       : 2017-05-25 10:30:00
 categories : [İslam]
 tags       : [Kitap, Prof. Muhyiddin Şekûr, Hazreti Şems-i Tebrîzî]
-image    : "/images/marifet-nedir.png"
+image      : "/images/marifet-nedir.png"
 comments   : true
 ---
 
