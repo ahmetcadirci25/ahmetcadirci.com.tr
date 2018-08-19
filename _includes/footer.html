@@ -80,10 +80,9 @@
 
     <script type="text/javascript">
       $("img.lazyload").lazyload();
+      
       $("#disqus_thread html").remove();
-    </script>
 
-    <script type="text/javascript">
       // Google Fonts
       WebFontConfig = {
         google: {
@@ -100,10 +99,8 @@
         var s = document.getElementsByTagName('script')[0];
         s.parentNode.insertBefore(wf, s);
       })();
-    </script>
 
-    <script type="text/javascript">
-      // serviceWorker
+      // Service Worker
       if ('serviceWorker' in navigator) {
           navigator.serviceWorker.register('/sw.js?v3', {
               scope: '.' // THIS IS REQUIRED FOR RUNNING A PROGRESSIVE WEB APP FROM A NON_ROOT PATH
