@@ -3,6 +3,7 @@ layout : null
 sitemap: false
 ---
 
+
 'use strict';
 
 const CACHE_VERSION = 1;
@@ -51,6 +52,8 @@ self.addEventListener('activate', event => {
   );
 });
 
+
+
 self.addEventListener('fetch', event => {
   if (event.request.mode === 'navigate' ||
       (event.request.method === 'GET' &&
@@ -63,4 +66,10 @@ self.addEventListener('fetch', event => {
       })
     );
   }
+});
+
+
+console.log("ServiceWorker registration successful")
+self.addEventListener('fetch', function(event) {
+  // Perform some task
 });
