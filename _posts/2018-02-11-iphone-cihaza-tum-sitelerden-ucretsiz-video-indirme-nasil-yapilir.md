@@ -1,5 +1,5 @@
 ---
-title      : "iPhone'a Tüm Sitelerden Ücretsiz Video İndirme Nasıl Yapılır?"
+title      : "🔥 👍 iPhone'a Tüm Sitelerden Ücretsiz Video İndirme Nasıl Yapılır?"
 description: "iPhone cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şekilde video indirebilirsiniz. Uygulamının içinde yer alan özellikle indirdiğiniz videoları ses (mp3) formatına çevirebilirsiniz."
 date       : 2018-02-11 19:35:00
 categories : [Teknoloji, Mobil, Nasıl Yapılır]
