@@ -77,6 +77,14 @@ compress_html:
   ignore:
     envs: [img]
 
+algolia:
+  application_id: 'M6ES4ZDTC4'
+  index_name: 'ahmetcadirci'
+  read_only_api_key: '79e67c4dfcf5910ff2325035d7b1d524'
+  excluded_files:
+    - 404.html
+    - index.html
+
 # Podcast
 podcast:
   title   : Ahmet Çadırcı
