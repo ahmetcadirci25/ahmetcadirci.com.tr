@@ -67,16 +67,6 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-# Compress settings
-compress_html:
-  clippings: all
-  comments: [""]
-  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
-  profile: false
-  blanklines: false
-  ignore:
-    envs: [img]
-
 # Podcast
 podcast:
   title   : Ahmet Çadırcı
