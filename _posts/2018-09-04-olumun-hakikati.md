@@ -1,7 +1,7 @@
 ---
 title      : "Ölümün Hakikati"
 description: "Ölümün Hakikati... Biz bu dünyada doğumları ve ölümleri sürekli bir yenilenme ve tazelenme şeklinde seyrederiz. Bir bahar mevsiminde yeryüzü canlanıverir. İskeletler gibi cansız ve kuru ağaçlar çiçeklere bürünür."
-date       : 2018-04-09 23:30:00
+date       : 2018-09-04 23:30:00
 categories : [İslam]
 tags       : [Ölüm, Hakikat]
 image      : "/images/olumun-hakikati.png"
