@@ -86,9 +86,6 @@ Ana ekrana ekle (veya kısaca A2HS), akıllı telefon tarayıcılarında bulunan
 }
 ```
 
-{% include ads03.html %}
-
-
 ### 3. Adım manifest.json ve sw.js Dosyasını Çağırma
 
 Web sayfanızda yer alan `<head>` etiketleri arasına aşağıdaki kodu yapıştırın.  `<body>` etiketleri arasına `<script>` kodlarını kopyalayın.
