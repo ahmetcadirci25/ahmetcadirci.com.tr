@@ -69,19 +69,9 @@ layout : default
                 </div>
                  <!-- End Post with featured image -->
                  {% endfor %}
+              
 
-
-              <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-              <ins class="adsbygoogle"
-                   style="display:block"
-                   data-ad-format="fluid"
-                   data-ad-layout-key="-4z+cj+37-ie+jj"
-                   data-ad-client="ca-pub-1520578717247025"
-                   data-ad-slot="9320512868"></ins>
-              <script>
-                   (adsbygoogle = window.adsbygoogle || []).push({});
-              </script>
-
+              {% include ads02.html %}
 
               {% if paginator.previous_page or paginator.next_page %}
               {% include pagination.html %}
