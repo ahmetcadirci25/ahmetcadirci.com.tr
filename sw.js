@@ -69,3 +69,24 @@ console.log("ServiceWorker registration successful")
 self.addEventListener('fetch', function(event) {
   // Perform some task
 });
+
+
+const filesToCache = [
+  '/',
+  'css/style.css',
+  'index.html',
+  'offline.html',
+  '404/'
+];
+
+const staticCacheName = 'pages-cache-v1';
+
+self.addEventListener('install', event => {
+  console.log('Attempting to install service worker and cache static assets');
+  event.waitUntil(
+    caches.open(staticCacheName)
+    .then(cache => {
+      return cache.addAll(filesToCache);
+    })
+  );
+});
