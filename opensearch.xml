@@ -5,8 +5,8 @@ sitemap: false
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
 <ShortName>Ahmet Çadırcı</ShortName>
 <Description>Ara ahmetcadirci.com.tr</Description>
-<Url type="text/html" method="get" template="{{ site.url }}/search/?q={searchTerms}"/>
-<Image width="16" height="16">{{ "/images/favicons/favicon.ico" | prepend: site.url }}</Image>
 <InputEncoding>UTF-8</InputEncoding>
-<moz:SearchForm>{{ site.url }}/search/</moz:SearchForm>
+<Image width="16" height="16">https://ahmetcadirci.com.tr/images/favicons/favicon.ico</Image>
+<Url type="text/html" method="get" template="https://ahmetcadirci.com.tr/search/?q={searchTerms}"/>
+<moz:SearchForm>https://ahmetcadirci.com.tr/search/</moz:SearchForm>
 </OpenSearchDescription>
