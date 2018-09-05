@@ -236,7 +236,7 @@
       lazyload(document.querySelectorAll("img.lazyload"));
 
       // $("#disqus_thread html").remove();
-      var disRemove = document.querySelectorAll('#disqus_thread html');
+      var disRemove = document.querySelectorAll('#disqus_thread html')[0];
       if( typeof disRemove != 'undefined')
       disRemove.remove(disRemove.selectedIndex);
 
