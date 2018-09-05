@@ -236,8 +236,9 @@
       lazyload(document.querySelectorAll("img.lazyload"));
 
       // $("#disqus_thread html").remove();
-      // var disqusRemove = document.querySelectorAll('#disqus_thread html');
-      // disqusRemove.remove(disqusRemove.selectedIndex);
+      var disRemove = document.querySelectorAll('#disqus_thread html');
+      if( typeof disRemove != 'undefined')
+      disRemove.remove(disRemove.selectedIndex);
 
       // Google Fonts
       WebFontConfig = {
