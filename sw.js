@@ -9,7 +9,14 @@ const CACHE_VERSION = 1;
 let CURRENT_CACHES = {
   offline: 'offline-v' + CACHE_VERSION
 };
-const OFFLINE_URL = 'offline.html';
+
+const OFFLINE_URL = [
+  '/',
+  'css/style.css',
+  'index.html',
+  'offline.html',
+  '404/'
+];
 
 function createCacheBustedRequest(url) {
   let request = new Request(url, {cache: 'reload'});
@@ -69,14 +76,3 @@ console.log("ServiceWorker registration successful")
 self.addEventListener('fetch', function(event) {
   // Perform some task
 });
-
-
-const filesToCache = [
-  '/',
-  'css/style.css',
-  'index.html',
-  'offline.html',
-  '404/'
-];
-
-const staticCacheName = 'pages-cache-v1';
