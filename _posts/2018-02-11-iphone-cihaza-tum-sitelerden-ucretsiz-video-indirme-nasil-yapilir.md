@@ -1,6 +1,6 @@
 ---
 title      : "🔥 👍 iPhone'a Tüm Sitelerden Ücretsiz Video İndirme Nasıl Yapılır?"
-description: "iPhone cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şekilde video indirebilirsiniz. Uygulamının içinde yer alan özellikle indirdiğiniz videoları ses (mp3) formatına çevirebilirsiniz."
+description: "Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şekilde video indirebilirsiniz. Uygulamanın içinde yer alan özellikle indirdiğiniz videoları ses (mp3) formatına çevirebilirsiniz."
 date       : 2018-02-11 19:35:00
 categories : [Teknoloji, Mobil, Nasıl Yapılır]
 tags       : [iPhone, iPad]
@@ -8,7 +8,7 @@ image      : "/images/iphonea-tum-sitelerden-ucretsiz-video-indirme-nasil-yapili
 comments   : true
 ---
 
-iPhone cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şekilde video indirebilirsiniz. Uygulamanın içinde yer alan özellikle indirdiğiniz videoları ses (mp3) formatına çevirebilirsiniz.
+Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şekilde video indirebilirsiniz. Uygulamanın içinde yer alan özellikle indirdiğiniz videoları ses (mp3) formatına çevirebilirsiniz.
 
 ## Nasıl Kurulur?
 
@@ -61,3 +61,8 @@ Kurulum videosunda AppStore arama kutucuğuna Vida yerine **DoDa+** yazmayı unu
 7. Açılan menüde **Download Queue** tıklayarak tüm indirme işlemlerini takip edebilirsiniz.
 8. İndirme işlemi biten videoları **Downloaded Video** kısmında görüntüleyerebilirsiniz. 
 9. **Share** butonuna tıklayın. Videoyu fotoğraflara kaydetmek için **Save Video** butonuna tıklayın.
+
+
+**İpucu**
+
+Uygulamayı kullanarak iPad'e film indirme işlemi yapabilirsiniz. Aynı işlemler iPhone cihazlarınızda da geçerlidir. iPad film indirme işlemi için <a href="#nasıl-kurulur">nasıl kurulur</a> kısmında adım adım takip etmeniz gerekir.
