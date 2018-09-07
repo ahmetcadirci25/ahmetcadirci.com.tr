@@ -154,6 +154,27 @@ layout: default
 
                 <!-- End of post tags -->
               </div>
+              <div class="col-xs-12">
+                <ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+                  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                    <a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site.url }}/kategoriler/">
+                        <span itemprop="name">Kategori</span></a>
+                    <meta itemprop="position" content="1" />
+                  </li>
+                  {% for categories in page.categories limit:1 %}
+                  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                    <a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site.url }}/kategoriler/#{{ categories }}">
+                      <span itemprop="name">{{ categories }}</a></span></a>
+                    <meta itemprop="position" content="2" />
+                  </li>
+                  {% endfor %}
+                  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                    <a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site.url }}/{{ page.url }}">
+                      <span itemprop="name">{{ page.title }}</span></a>
+                    <meta itemprop="position" content="3" />
+                  </li>
+                </ol>
+              </div>
             </div>
 
             {% include disqus.html %}

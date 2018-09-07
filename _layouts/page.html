@@ -4,11 +4,24 @@ layout: default
 
 
     <div class="container">
+      <ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+        <li>
+          <a href="{{ site.url }}">
+              <span>Ana Sayfa</span>
+          </a>
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site.url }}/{{ page.url }}">
+            <span itemprop="name">{{ page.title }}</span></a>
+          <meta itemprop="position" content="1" />
+        </li>
+      </ol>
       <div class="boxed  push-down-60">
         <!-- Featured image and meta end -->
 
         <!-- Start of the blogpost -->
         <div class="row">
+
           <div class="col-xs-10  col-xs-offset-1  col-md-8  col-md-offset-2">
 
             <!-- Start of the content -->
