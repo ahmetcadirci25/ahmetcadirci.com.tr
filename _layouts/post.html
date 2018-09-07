@@ -35,14 +35,32 @@ layout: default
           <div class="col-xs-10  col-xs-offset-1  col-md-8  col-md-offset-2  push-down-60">
 
             <!-- Start of the content -->
-            <div class="post-content">
-              <h1>
+            <div class="post-content" itemscope itemtype="http://schema.org/Article">
+              <meta itemprop="inLanguage" content="tr-TR" />
+              <meta itemprop="mainEntityOfPage" content="{{ site.url }}/{{ page.url | remove_first: '/' }}">
+              <meta itemprop="dateModified" content="{{ page.date }}"/>
+              <meta itemprop="author" content="{{ site.author.name }}">
+              <meta itemprop="image" content="{{ site.url }}{{ page.image }}" />  
+
+              <h1 itemprop="headline">
                 <a href="{{ site.url }}/{{ page.url | remove_first: '/' }}">{{ page.title }}</a> 
               </h1>
 
               {% include ads01.html %}
              
-              {{ content }}
+              <div itemprop="articleBody">
+                {{ content }}
+              </div>
+
+              <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+                  <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+                      <meta itemprop="url" content="{{ "/images/favicons/apple-touch-icon-180x180.png" | prepend: site.url }}" />
+                      <meta itemprop="width" content="180" />
+                      <meta itemprop="height" content="180" />
+                  </div>
+                  <meta itemprop="name" content="{{ site.author.name }}" />
+                  <meta itemprop="sameAs" content="{{ site.url }}/github" />
+              </div>
 
             </div>
 
