@@ -177,7 +177,7 @@ layout: default
                 <ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
                   <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                     <a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site.url }}/kategoriler/">
-                        <span itemprop="name">Kategori</span></a>
+                        <span itemprop="name">Kategoriler</span></a>
                     <meta itemprop="position" content="1" />
                   </li>
                   {% for categories in page.categories limit:1 %}
@@ -188,7 +188,7 @@ layout: default
                   </li>
                   {% endfor %}
                   <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                    <a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site.url }}/{{ page.url }}">
+                    <a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site.url }}/{{ page.url | remove_first: '/' }}">
                       <span itemprop="name">{{ page.title }}</span></a>
                     <meta itemprop="position" content="3" />
                   </li>
