@@ -1,6 +1,6 @@
 # Site settings
 url             : 'https://ahmetcadirci.com.tr'
-baseurl         : '/'
+baseurl         : '/amp'
 google_analytics: 'UA-66383788-5'
 disqus_shortname: 'ahmetcadirci25'
 
