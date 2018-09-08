@@ -1,6 +1,6 @@
 ---
 layout     : page
-title      : Ahmet Çadırcı İletişim Bilgileri
+title      : İletişim Bilgileri
 description: "Ahmet Çadırcı İletişim Bilgileri... Sosyal medya hesapları ve iletişim formu üzerinden ulaşabilirsiniz."
 permalink  : /iletisim/
 image      : "/images/ahmetcadirci-wallpaper.jpg"
@@ -11,13 +11,13 @@ image      : "/images/ahmetcadirci-wallpaper.jpg"
   <p class="contact__text">Düşüncelerinizi bizimle paylaşabilirsiniz.</p>
   <form action="https://formspree.io/ahmetcadirci25@gmail.com" method="POST">
     <div class="row">
-      <div class="col-xs-6">
+      <div class="col-md-6 col-xs-12">
         <input type="text" name="name" placeholder="Adınız *">
       </div>
-      <div class="col-xs-6">
+      <div class="col-md-6 col-xs-12">
         <input type="email" name="_replyto" placeholder="E-mail Adresiniz *">
       </div>
-      <div class="col-xs-12">
+      <div class="col-md-12">
         <textarea rows="6" type="text" name="message" placeholder="Mesajınız *"></textarea>
 
         <input type="submit" value="Gönder">
