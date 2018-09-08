@@ -3,13 +3,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     {% if page.url == '/' %}
-      <title>Ahmet Çadırcı — Web Geliştirici</title>
-      {% seo title=false %}
+        <title>Ahmet Çadırcı — Web Geliştirici</title>
+        {% seo title=false %}
     {% elsif paginator %}
-      <title> Sayfa {{ paginator.page }} | {{ site.title }}</title>
-      {% seo title=false %}
+        <title> Sayfa {{ paginator.page }} | {{ site.title }}</title>
+        {% seo title=false %}
     {% else %}
-      {% seo %}
+        {% seo %}
     {% endif %}
 
     <meta name="pocket-site-verification" content="fd0c278295dacecd7347a8c323ba9e" />
