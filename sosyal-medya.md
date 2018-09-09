@@ -1,6 +1,7 @@
 ---
 layout   : page
 title    : Sosyal Medya
+description: "Sosyal medya hesapları ve iletişim formu üzerinden ulaşabilirsiniz."
 permalink: /sosyal-medya/
 image    : "/images/ahmetcadirci-wallpaper.jpg"
 ---

@@ -31,7 +31,6 @@ image      : "/images/ahmetcadirci-wallpaper.jpg"
        <input type="hidden" name="_format" value="plain" />
 
        <input type="text" name="_gotcha" style="display:none" />
-
         
     </div>
   </form>
