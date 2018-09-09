@@ -7681,6 +7681,11 @@ input#gsc-i-id1.gsc-input:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 480px) {
+
+    #onesignal-bell-container.onesignal-reset .onesignal-bell-launcher.onesignal-bell-launcher-bottom-right {
+        bottom: 50px!important;
+    }
+
     .social-fixed-bar {
         background: #ffffff;
         box-shadow: 1px 0 5px #dcdddd;
