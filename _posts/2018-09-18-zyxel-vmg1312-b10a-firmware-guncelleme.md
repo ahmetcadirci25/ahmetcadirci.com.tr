@@ -12,10 +12,10 @@ ZyXEL VMG1312-B10A firmware güncellemesi için aşağıda belirtilen yazılım 
 
 ## İçindekiler
 
-- [Yazılım Güncelleme](https://ahmetcadirci.com.tr/2018/zyxel-vmg1312-b10a-firmware-guncelleme/#1-yazilim-güncelleme)
+- [Yazılım Güncelleme](https://ahmetcadirci.com.tr/2018/zyxel-vmg1312-b10a-firmware-guncelleme/#1-yazılım-güncelleme)
 - [Modem Resetleme](https://ahmetcadirci.com.tr/2018/zyxel-vmg1312-b10a-firmware-guncelleme/#2-modem-resetleme)
-- [Modemin Kablosuz Ağ Ayarları](https://ahmetcadirci.com.tr/2018/zyxel-vmg1312-b10a-firmware-guncelleme/#3-modemi̇n-kablosuz-ağ-ayarlari)
-- [Manuel Kurulum İçin](https://ahmetcadirci.com.tr/2018/zyxel-vmg1312-b10a-firmware-guncelleme/#4-manuel-kurulum-i̇çi̇n)
+- [Modemin Kablosuz Ağ Ayarları](https://ahmetcadirci.com.tr/2018/zyxel-vmg1312-b10a-firmware-guncelleme/#3-modemin-kablosuz-ağ-ayarları)
+- [Manuel Kurulum İçin](https://ahmetcadirci.com.tr/2018/zyxel-vmg1312-b10a-firmware-guncelleme/#4-manuel-kurulum-i̇çin)
 
 ### 1. Yazılım Güncelleme
 
