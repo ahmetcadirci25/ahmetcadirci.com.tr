@@ -17,6 +17,8 @@ ZyXEL VMG1312-B10A firmware güncellemesi için aşağıda belirtilen yazılım 
 - [Modemin Kablosuz Ağ Ayarları](https://ahmetcadirci.com.tr/2018/zyxel-vmg1312-b10a-firmware-guncelleme/#3-modemi̇n-kablosuz-ağ-ayarlari)
 - [Manuel Kurulum İçin](https://ahmetcadirci.com.tr/2018/zyxel-vmg1312-b10a-firmware-guncelleme/#4-manuel-kurulum-i̇çi̇n)
 
+### 1. Yazılım Güncelleme
+
 1. İnternet sayfası açılır. Adres çubuğuna **192.168.1.1** yazılarak modemin arayüzüne erişilir.
 2. Karşımıza gelen şifre ekranındaki kullanıcı adı kısmına **"admin"**, şifre kısmına ise **"1234"** yazıp modeme erişim sağlanır. Sonra ki sayfa da **"Atla"** düğmesine tıklanılır.
 
@@ -26,14 +28,12 @@ Aşağıdaki linkte cihazının güncel yazılımı bulunmaktadır. Aşağıdaki
 
 [👉 YAZILIM LİNKİ](ftp://ftp.zyxel.com.tr/ZyXEL_URUNLERI/MODEMLER/VDSL_MODEMLER/VMG1312-B10A/Firmware/V100AASU3C0.bin){:target="_blank"}{:rel="noopener"}{:class="tags__link"}
 
-### 1. YAZILIM GÜNCELLEME
-
 Modem arayüzüne giriş yapılır.
 
 **Bakım** - **Yazılım Güncelleme** - **Göz At** düğmesine tıklanır ve masaüstünden daha önceden indirmiş olduğunuz .bin uzantılı yazılım dosyası seçilir ve **Yükle** düğmesine basılarak yazılım güncelleme başlatılır. Yükleme işlemi başarılı bir şekilde gerçekleştikten sonra resetleme işlemine geçilir.
 
 
-### 2. MODEM RESETLEME
+### 2. Modem Resetleme
 
 **Resetleme işlemi sırasıyla şöyledir:**
 
@@ -44,14 +44,14 @@ Modem arayüzüne giriş yapılır.
 
 Modeminizin fabrika ayarlarındaki kablosuz ağ adı ve ağ şifresi modeminizin arkasında veya altındaki etikette **SSID** ve **Wireless key** şeklinde yer almaktadır.
 
-### 3. MODEMİN KABLOSUZ AĞ AYARLARI
+### 3. Modemin Kablosuz Ağ Ayarları
 
 **Ağ Ayarları** - **Kablosuz** kısmından; Kanal otomatik;den 1 veya 6 yapılır, yan tarafta daha fazla yazısına tıklanılır.Bant genişliği otomatikten 40 MHZ yapılır.
 
 Ağ isminize daha önce kullanmadığınız Türkçe karakter olmayan kablosuz ağ ismi yazılır. Onun altındaki 4 kutucuk boş bırakılır.En aşağıda Otomatik şifre oluştur kutusunun işareti kaldırılır ve oraya en az 8 karakterli Türkçe karakter olmayan kablosuz şifre yazılır (bu şifreyi unutmamak adına bir yere kaydetmenizi öneririz) ve uygula düğmesine basılır önümüze yükleniyor yazısı gelecektir.
 
 
-### 4. MANUEL KURULUM İÇİN;
+### 4. Manuel Kurulum İçin;
 
 Modem arayüzüne giriş yapılır.
 
