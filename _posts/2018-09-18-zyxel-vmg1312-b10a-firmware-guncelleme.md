@@ -10,6 +10,13 @@ comments   : true
 
 ZyXEL VMG1312-B10A firmware güncellemesi için aşağıda belirtilen yazılım güncelleme prosedürünü uygulayabilirsiniz. 
 
+## İçindekiler
+
+- [Yazılım Güncelleme](https://ahmetcadirci.com.tr/2018/zyxel-vmg1312-b10a-firmware-guncelleme/#1-yazilim-güncelleme)
+- [Modem Resetleme](https://ahmetcadirci.com.tr/2018/zyxel-vmg1312-b10a-firmware-guncelleme/#2-modem-resetleme)
+- [Modemin Kablosuz Ağ Ayarları](https://ahmetcadirci.com.tr/2018/zyxel-vmg1312-b10a-firmware-guncelleme/#3-modemi̇n-kablosuz-ağ-ayarlari)
+- [Manuel Kurulum İçin](https://ahmetcadirci.com.tr/2018/zyxel-vmg1312-b10a-firmware-guncelleme/#4-manuel-kurulum-i̇çi̇n)
+
 1. İnternet sayfası açılır. Adres çubuğuna **192.168.1.1** yazılarak modemin arayüzüne erişilir.
 2. Karşımıza gelen şifre ekranındaki kullanıcı adı kısmına **"admin"**, şifre kısmına ise **"1234"** yazıp modeme erişim sağlanır. Sonra ki sayfa da **"Atla"** düğmesine tıklanılır.
 
