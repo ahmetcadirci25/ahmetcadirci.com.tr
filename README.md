@@ -32,6 +32,7 @@
 
 ### Yeni Yazılar
 
+* [ZyXEL VMG1312-B10A Firmware Güncelleme](https://ahmetcadirci.com.tr/2018/zyxel-vmg1312-b10a-firmware-guncelleme/)
 * [Ölümün Hakikati](https://ahmetcadirci.com.tr/2018/olumun-hakikati/)
 * [Android Cihazlarda 'Ana Ekrana Ekle' Popup Kodu](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/)
 * [iPhone'a E-Kitap (EPUB) Nasıl Yüklenir?](https://ahmetcadirci.com.tr/2018/iphonea-e-kitap-epub-nasil-yuklenir/)
