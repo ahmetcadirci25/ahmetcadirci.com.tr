@@ -10,7 +10,7 @@ comments   : true
 
 Android cihazda Chrome kullanarak ziyaret ettiğiniz web sitelerinde önünüze çıkan "Ana Ekrana Ekle" popup kodunu sizlerle paylaşıyorum. Bunun çalışması için sitenizin https olması gerekir.
 
-<p style="background: red;padding: 2rem; border-radius: .5rem;"><a href="https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/" style="color: white;"> UYARI!!! BURADA YAPACAĞIN İŞLEMLER ÇALIŞMAYACAKTIR! <br> YENİ YAZIYA GÖZ ATMAK İÇİ TIKLAYIN.</a></p>
+<p style="background: red;padding: 2rem; border-radius: .5rem;"><a href="https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/" style="color: white;"> UYARI!!! <br> <br BURADA YAPACAĞIN İŞLEMLER ÇALIŞMAYACAKTIR! <br> YENİ YAZIYA GÖZ ATMAK İÇİ TIKLAYIN.</a></p>
 
 **[Linke](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases/tag/v1){:target="_blank"}{:rel="noopener"} tıklayın ve sizin için hazırlamış olduğum dosyaları indirin.**
 
