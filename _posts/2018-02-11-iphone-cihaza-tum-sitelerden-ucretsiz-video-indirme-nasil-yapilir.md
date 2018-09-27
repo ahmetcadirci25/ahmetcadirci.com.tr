@@ -10,14 +10,18 @@ comments   : true
 
 Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şekilde video indirebilirsiniz. Uygulamanın içinde yer alan özellikle indirdiğiniz videoları ses (mp3) formatına çevirebilirsiniz.
 
-## Nasıl Kurulur?
+## Uygulamalar
+- [Total Files](#user-content-total-files-nasıl-kurulur)
+- [Vida](#user-content-vida-nasıl-kurulur)
+
+### Total Files Nasıl Kurulur?
 
 1. App Store'a giriş yapıyoruz.
 2. Arama çubuğuna **Total Files** yazıyoruz.
 3. **[Total Files](https://itunes.apple.com/tr/app/total-files/id557285579){:target="_blank"}{:rel="noopener"}** uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
 
-#### Video İndirme Nasıl Yapılır?
+#### Video İndirme (Total Files) Nasıl Yapılır?
 
 1. Videonun yer aldığı sayfanın url'sini kopyalayın.
 2. **Total** uygulamasını açın. Sağ kısımda yer alan dünya simgesi tıklayın ve url'yi üst tarafta bulunan url satırına yapıştırın.
@@ -31,14 +35,22 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 10. İndirme işlemi biten videoları birinci sırada yer alan **Folder** ikonuna tıklayarak görüntüleyerebilirsiniz.
 11. Biten videonun sağında yer alan üç nokta ikona tıkladıktan sonra **Share** butonuna basın. Videoyu fotoğraflara kaydetmek için **Save Video** butonuna tıklayın.
 
+---
+
+### Vida Nasıl Kurulur?
+
+1. App Store'a giriş yapıyoruz.
+2. Arama çubuğuna **Vida** yazıyoruz.
+3. **[Vida](https://itunes.apple.com/tr/app/total-files/id1378071560){:target="_blank"}{:rel="noopener"}** uygulamasını indiriyoruz.
+4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
+
 ### Kurulum Videosu 
 
-<details>
-<summary>Kurulum videosunda AppStore arama kutucuğuna <b>Vida</b> yerine <b>DoDa+</b>yazmayı unutmayın.</summary>
-<iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/255265889" webkitAllowFullScreen width="100%"></iframe>
-</details>
+Kurulum videosunda AppStore arama kutucuğuna~~**Vida**~~ yerine **DoDa+** yazmayı unutmayın.
 
-### İndirme Videosu
+<iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/255265889" webkitAllowFullScreen width="100%"></iframe>
+
+#### İndirme Videosu
 
 [Gelen yorumlara](https://ahmetcadirci.com.tr/2018/iphone-cihaza-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir/#comment-3931533922) istinaden daha açıklayıcı olması için video eklenmiştir. Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhone film rulosuna video indirme** ve kaydetme işlemi yer almaktadır. Ekstra olarak (ses) mp3 formatına çevirme işlemi gösterilmiştir.
 
