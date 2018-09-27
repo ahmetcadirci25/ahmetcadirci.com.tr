@@ -25,11 +25,11 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 4. Yeşil renkli **Ok** tuşuna basın.
 5. Çıkan ekranda sağ üst köşedeki **Done** tuşuna basın.
 6. Otomatik olarak videoyu indirmek istediğiniz formatlar çıkacaktır.
-5. Çıkan formatlardan size uygun olanı seçtiğinizde indirme işlemi başlayacaktır.
-6. İndirme işlemini takip etmek için ikinci sırada yer alan **Transfer** ikonuna tıklayın.
-7. Açılan menüde **Downloads** kısmında tüm indirme işlemlerini takip edebilirsiniz.
-8. İndirme işlemi biten videoları birinci sırada yer alan **Folder** ikonuna tıklayarak görüntüleyerebilirsiniz.
-9. Biten videonun sağında yer alan üç nokta ikona tıkladıktan sonra **Share** butonuna basın. Videoyu fotoğraflara kaydetmek için **Save Video** butonuna tıklayın.
+7. Çıkan formatlardan size uygun olanı seçtiğinizde indirme işlemi başlayacaktır.
+8. İndirme işlemini takip etmek için ikinci sırada yer alan **Transfer** ikonuna tıklayın.
+9. Açılan menüde **Downloads** kısmında tüm indirme işlemlerini takip edebilirsiniz.
+10. İndirme işlemi biten videoları birinci sırada yer alan **Folder** ikonuna tıklayarak görüntüleyerebilirsiniz.
+11. Biten videonun sağında yer alan üç nokta ikona tıkladıktan sonra **Share** butonuna basın. Videoyu fotoğraflara kaydetmek için **Save Video** butonuna tıklayın.
 
 ### Kurulum Videosu 
 
