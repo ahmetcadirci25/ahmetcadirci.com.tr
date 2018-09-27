@@ -13,7 +13,7 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 ## Uygulamalar
 
 - [Total Files](#total-files-nasıl-kurulur)
-- [Vida](#vida-nasıl-kurulur)
+- [Doda+](#vida-nasıl-kurulur)
 
 ### Total Files Nasıl Kurulur?
 
@@ -38,16 +38,16 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 
 ---
 
-### Vida Nasıl Kurulur?
+### Doda+ Nasıl Kurulur?
 
 1. App Store'a giriş yapıyoruz.
-2. Arama çubuğuna **Vida** yazıyoruz.
-3. **[Vida](https://itunes.apple.com/tr/app/total-files/id1378071560){:target="_blank"}{:rel="noopener"}** uygulamasını indiriyoruz.
+2. Arama çubuğuna **Doda+** yazıyoruz.
+3. **[Doda+](https://itunes.apple.com/tr/app/total-files/id1378071560){:target="_blank"}{:rel="noopener"}** uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
 
 #### Kurulum Videosu 
 
-Kurulum videosunda AppStore arama kutucuğuna~~**Vida**~~ yerine **DoDa+** yazmayı unutmayın.
+Kurulum videosunda AppStore arama kutucuğuna ~~**Vida**~~ yerine **DoDa+** yazmayı unutmayın.
 
 <iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/255265889" webkitAllowFullScreen width="100%"></iframe>
 
