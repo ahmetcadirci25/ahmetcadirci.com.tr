@@ -12,7 +12,7 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 
 ## Uygulamalar
 
-- [Total Files](#total-files-nasıl-kurulur) **Önerilen**
+- [Total Files](#total-files-nasıl-kurulur)
 - [Vida](#vida-nasıl-kurulur)
 
 ### Total Files Nasıl Kurulur?
