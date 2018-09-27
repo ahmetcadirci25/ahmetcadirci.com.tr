@@ -34,7 +34,7 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 ### Kurulum Videosu 
 
 <details>
-<summary>Kurulum videosunda AppStore arama kutucuğuna Vida yerine ~~**DoDa+**~~ yazmayı unutmayın.</summary>
+<summary>Kurulum videosunda AppStore arama kutucuğuna <b>Vida</b> yerine <b>DoDa+</b>yazmayı unutmayın.</summary>
 <iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/255265889" webkitAllowFullScreen width="100%"></iframe>
 </details>
 
