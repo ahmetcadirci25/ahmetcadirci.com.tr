@@ -13,13 +13,27 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 ## Nasıl Kurulur?
 
 1. App Store'a giriş yapıyoruz.
-2. Arama çubuğuna **DoDa+** yazıyoruz.
-3. **[DoDa+](https://itunes.apple.com/app/id1378071560){:target="_blank"}{:rel="noopener"}** uygulamasını indiriyoruz.
+2. Arama çubuğuna **Total Files** yazıyoruz.
+3. **[Total Files](https://itunes.apple.com/tr/app/total-files/id557285579){:target="_blank"}{:rel="noopener"}** uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
+
+#### Video İndirme Nasıl Yapılır?
+
+1. Videonun yer aldığı sayfanın url'sini kopyalayın.
+2. **Total** uygulamasını açın. Sağ kısımda yer alan dünya simgesi tıklayın ve url'yi üst tarafta bulunan url satırına yapıştırın.
+3. Video oynattığınızda **Do you want to download this content?** şekilden bir uyarı çıkacaktır. 
+4. Yeşil renkli **Ok** tuşuna basın.
+5. Çıkan ekranda sağ üst köşedeki **Done** tuşuna basın.
+6. Otomatik olarak videoyu indirmek istediğiniz formatlar çıkacaktır.
+5. Çıkan formatlardan size uygun olanı seçtiğinizde indirme işlemi başlayacaktır.
+6. İndirme işlemini takip etmek için ikinci sırada yer alan **Transfer** ikonuna tıklayın.
+7. Açılan menüde **Downloads** kısmında tüm indirme işlemlerini takip edebilirsiniz.
+8. İndirme işlemi biten videoları birinci sırada yer alan **Folder** ikonuna tıklayarak görüntüleyerebilirsiniz.
+9. Biten videonun sağında yer alan üç nokta ikona tıkladıktan sonra **Share** butonuna basın. Videoyu fotoğraflara kaydetmek için **Save Video** butonuna tıklayın.
 
 ### Kurulum Videosu 
 
-Kurulum videosunda AppStore arama kutucuğuna Vida yerine **DoDa+** yazmayı unutmayın.
+Kurulum videosunda AppStore arama kutucuğuna Vida yerine ~~**DoDa+**~~ yazmayı unutmayın.
 
 <iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/255265889" webkitAllowFullScreen width="100%"></iframe>
 
