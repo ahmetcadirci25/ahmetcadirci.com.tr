@@ -22,6 +22,12 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 3. **[Total Files](https://itunes.apple.com/tr/app/total-files/id557285579){:target="_blank"}{:rel="noopener"}** uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
 
+#### İndirme Videosu
+
+Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhone film rulosuna video indirme** ve kaydetme işlemi yer almaktadır.
+
+<iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/292187171" webkitAllowFullScreen width="100%"></iframe>
+
 #### Video İndirme (Total Files) Nasıl Yapılır?
 
 1. Videonun yer aldığı sayfanın url'sini kopyalayın.
