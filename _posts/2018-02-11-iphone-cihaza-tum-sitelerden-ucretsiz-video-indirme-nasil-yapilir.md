@@ -13,7 +13,7 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 ## Uygulamalar
 
 - [Total Files](#total-files-nasıl-kurulur)
-- [Doda+](#vida-nasıl-kurulur)
+- [Doda+](#doda-nasıl-kurulur)
 
 ### Total Files Nasıl Kurulur?
 
@@ -35,6 +35,10 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 9. Açılan menüde **Downloads** kısmında tüm indirme işlemlerini takip edebilirsiniz.
 10. İndirme işlemi biten videoları birinci sırada yer alan **Folder** ikonuna tıklayarak görüntüleyerebilirsiniz.
 11. Biten videonun sağında yer alan üç nokta ikona tıkladıktan sonra **Share** butonuna basın. Videoyu fotoğraflara kaydetmek için **Save Video** butonuna tıklayın.
+
+**Not**
+
+Uygulama YouTube videolarında telif bulunduğundan dolay indirme gerçekleştiremiyor. Diğer tüm sitelerden video indirebilirsiniz.
 
 ---
 
