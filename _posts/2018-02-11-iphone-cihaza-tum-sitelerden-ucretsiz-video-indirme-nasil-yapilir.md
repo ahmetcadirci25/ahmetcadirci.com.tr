@@ -11,8 +11,8 @@ comments   : true
 Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücretsiz bir şekilde video indirebilirsiniz. Uygulamanın içinde yer alan özellikle indirdiğiniz videoları ses (mp3) formatına çevirebilirsiniz.
 
 ## Uygulamalar
-- [Total Files](#user-content-total-files-nasıl-kurulur)
-- [Vida](#user-content-vida-nasıl-kurulur)
+- [Total Files](#total-files-nasıl-kurulur)
+- [Vida](#vida-nasıl-kurulur)
 
 ### Total Files Nasıl Kurulur?
 
