@@ -528,4 +528,4 @@ input#gsc-i-id1.gsc-input::-moz-placeholder{color:transparent}input#gsc-i-id1.gs
 .search-button .glyphicon-search{color:#fff}.search-widget{padding:30px 0 30px 0}.social-fixed-bar{display:none}@media only screen and (max-width:480px){#onesignal-bell-container.onesignal-reset .onesignal-bell-launcher.onesignal-bell-launcher-bottom-right{bottom:50px!important}
 .social-fixed-bar{background:#fff;box-shadow:1px 0 5px #dcdddd;position:fixed;bottom:0;width:100%;display:initial;z-index:9999;font-family:open sans,sans-serif}
 .social-fixed-bar ul{padding:0;margin:0;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-pack:distribute;justify-content:space-around}.social-fixed-bar ul li{display:block;line-height:40px;height:40px;text-align:center;font-size:15px}
-}#disqus_thread{position:relative}#disqus_thread:after{content:"";display:block;height:55px;width:100%;position:absolute;bottom:0;background:white}
+}#disqus_thread{position:relative;overflow:hidden;margin-bottom:-50px}#disqus_thread:after{content:"";display:block;height:55px;width:100%;position:absolute;bottom:0;background:white}

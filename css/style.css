@@ -7716,8 +7716,10 @@ input#gsc-i-id1.gsc-input:-ms-input-placeholder {
     }
 }
 
-#disqus_thread{
-     position: relative;
+#disqus_thread {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: -50px;
 }
 
 #disqus_thread:after{
