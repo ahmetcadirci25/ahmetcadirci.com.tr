@@ -17,7 +17,7 @@ Bu girişimin amacını, siteyi ziyaret eden değerli okuyuculara, yerli kaynakl
 
 Yukarıda söylediğim gibi, bu blogu açmanın en büyük sebebi; Yazmak ve faydalı şeyler sunmaktan hoşlanırım. İnternette çok fazla araştırma yapan ve yeni bilgi edinmeyi seven bir kişiyim.
 
-Benimle ilgili ve blogumla ilgili merak ettiğiniz her şey için [iletişim](https://ahmetcadirci.com.tr/iletisim/) sayfasından bana ulaşabilirsiniz. Hepinize iyi günler diliyorum.
+Benimle ilgili ve blogumla ilgili merak ettiğiniz her şey için [iletişim]({{site.url}}/iletisim/) sayfasından bana ulaşabilirsiniz. Hepinize iyi günler diliyorum.
 
 <blockquote class="blockquote__alternative">
     "Ey gönül! Gülü seviyorsan dikenini de seveceksin, deryayı seviyorsan dalgalarını da seveceksin, vuslatı seviyorsan firakını da seveceksin, sevgiliyi seviyorsan nazını da seveceksin, hayatı seviyorsan ölümü de seveceksin."

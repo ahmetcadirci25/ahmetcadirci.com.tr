@@ -9,7 +9,7 @@ image      : "/images/ahmetcadirci-wallpaper.jpg"
 <div class="contact">
   <h2>İletişim Formu</h2>
   <p class="contact__text">Düşüncelerinizi bizimle paylaşabilirsiniz.</p>
-  <form action="https://formspree.io/ahmetcadirci25@gmail.com" method="POST">
+  <form action="https://formspree.io/{{site.author.email}}" method="POST">
     <div class="row">
       <div class="col-md-6 col-xs-12">
         <input type="text" name="name" placeholder="Adınız *">
