@@ -5,7 +5,7 @@ sitemap: false
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Ahmet Çadırcı</title>
-  <link>https://ahmetcadirci.com.tr</link>
+  <link>{{site.url}}</link>
   <language>tr-tr</language>
   <copyright>Ahmet Çadırcı</copyright>
   <itunes:subtitle>
@@ -22,7 +22,7 @@ sitemap: false
   <itunes:name>Ahmet Çadırcı</itunes:name>
   <itunes:email>ahmetcadirci25@gmail.com</itunes:email>
   </itunes:owner>
-  <itunes:image href="https://ahmetcadirci.com.tr/images/ahmetcadirci-1400x1400.jpg"/>
+  <itunes:image href="{{site.url}}/images/ahmetcadirci-1400x1400.jpg"/>
   <itunes:category text="Technology">
   <itunes:category text="Podcasting"/>
   </itunes:category>
@@ -37,13 +37,13 @@ sitemap: false
   
   <item>
     <title><![CDATA[#01 Wordpress Nedir?]]></title>
-    <description><![CDATA[Wordpress Nedir? WordPress, dünyada en çok kullanılan içerik yönetim sistemlerinden biridir.Ahmet Çadırcı https://ahmetcadirci.com.tr]]></description>
-    <link>https://ahmetcadirci.com.tr/</link>
-    <guid isPermaLink="true">https://ahmetcadirci.com.tr/</guid>
+    <description><![CDATA[Wordpress Nedir? WordPress, dünyada en çok kullanılan içerik yönetim sistemlerinden biridir.Ahmet Çadırcı {{site.url}}/]]></description>
+    <link>{{site.url}}/</link>
+    <guid isPermaLink="true">{{site.url}}/</guid>
     <pubDate>Wed, 04 Nov 2015 16:20:38 GMT</pubDate>
     <enclosure url="https://dl.dropboxusercontent.com/s/3f8mhczxs3hrdl1/01-wordpress-nedir.mp3" length="1739546" type="audio/mpeg"/>
     <itunes:subtitle>#01 Wordpress Nedir?</itunes:subtitle>
-    <itunes:summary>Wordpress Nedir? WordPress, dünyada en çok kullanılan içerik yönetim sistemlerinden biridir. Ahmet Çadırcı https://ahmetcadirci.com.tr</itunes:summary>
+    <itunes:summary>Wordpress Nedir? WordPress, dünyada en çok kullanılan içerik yönetim sistemlerinden biridir. Ahmet Çadırcı {{site.url}}/</itunes:summary>
     <itunes:duration>00:01:07</itunes:duration>
     <media:content url="https://dl.dropboxusercontent.com/s/3f8mhczxs3hrdl1/01-wordpress-nedir.mp3" fileSize="1739546" type="audio/mpeg"/>
     <itunes:keywords>ahmet çadırcı, wordpress, wordpress nedir</itunes:keywords>
@@ -52,13 +52,13 @@ sitemap: false
 
     <item>
     <title><![CDATA[#02 Windows sisteminde PHP ve MySQL kurulumu (XAMPP Server)]]></title>
-    <description><![CDATA[WordPress'i herhangi bir sunucuya yüklemeden direk bilgisayarımızda çalıştırmak istiyorsak bilgisayarımızı sunucuya çevirmemiz gerekiyor. https://ahmetcadirci.com.tr]]></description>
-    <link>https://ahmetcadirci.com.tr/</link>
-    <guid isPermaLink="true">https://ahmetcadirci.com.tr/</guid>
+    <description><![CDATA[WordPress'i herhangi bir sunucuya yüklemeden direk bilgisayarımızda çalıştırmak istiyorsak bilgisayarımızı sunucuya çevirmemiz gerekiyor. {{site.url}}/]]></description>
+    <link>{{site.url}}/</link>
+    <guid isPermaLink="true">{{site.url}}/</guid>
     <pubDate>Wed, 04 Nov 2015 16:20:38 GMT</pubDate>
     <enclosure url="https://dl.dropboxusercontent.com/s/rba8typyinmh4dc/02-xampp-server-kurulumu.mp3" length="1739546" type="audio/mpeg"/>
     <itunes:subtitle>#02 Windows sisteminde PHP ve MySQL kurulumu (XAMPP Server)</itunes:subtitle>
-    <itunes:summary>WordPress'i herhangi bir sunucuya yüklemeden direk bilgisayarımızda çalıştırmak istiyorsak bilgisayarımızı sunucuya çevirmemiz gerekiyor. Ahmet Çadırcı https://ahmetcadirci.com.tr</itunes:summary>
+    <itunes:summary>WordPress'i herhangi bir sunucuya yüklemeden direk bilgisayarımızda çalıştırmak istiyorsak bilgisayarımızı sunucuya çevirmemiz gerekiyor. Ahmet Çadırcı {{site.url}}/</itunes:summary>
     <itunes:duration>00:01:48</itunes:duration>
     <media:content url="https://dl.dropboxusercontent.com/s/rba8typyinmh4dc/02-xampp-server-kurulumu.mp3" fileSize="1739546" type="audio/mpeg"/>
     <itunes:keywords>ahmet çadırcı, wordpress, xampp server kurulumu</itunes:keywords>
