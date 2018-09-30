@@ -13,9 +13,9 @@ sitemap: false
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>    
-    <webfeeds:cover image="http://ahmetcadirci.com.tr/images/ahmetcadirci-wallpaper.jpg" />
-    <webfeeds:icon>http://ahmetcadirci.com.tr/images/favicons/safari-pinned-tab.svg</webfeeds:icon>
-    <webfeeds:logo>http://ahmetcadirci.com.tr/images/favicons/safari-pinned-tab.svg</webfeeds:logo>
+    <webfeeds:cover image="{{site.url}}/images/ahmetcadirci-wallpaper.jpg" />
+    <webfeeds:icon>{{site.url}}/images/favicons/safari-pinned-tab.svg</webfeeds:icon>
+    <webfeeds:logo>{{site.url}}/images/favicons/safari-pinned-tab.svg</webfeeds:logo>
     <webfeeds:accentColor>252525</webfeeds:accentColor>
     <webfeeds:related layout="card" target="browser"/>
 
@@ -27,12 +27,12 @@ sitemap: false
         &lt;table&gt;
         &lt;tr&gt;
         &lt;td&gt;
-        &lt;img src="https://ahmetcadirci.com.tr/images/favicons/apple-touch-icon-76x76.png"/&gt;
+        &lt;img src="{{site.url}}/images/favicons/apple-touch-icon-76x76.png"/&gt;
         &lt;/td&gt;
         &lt;td&gt;
         &lt;p style="margin: 0 0 5px 0;"&gt;&lt;strong&gt;Ahmet Çadırcı&lt;/strong&gt;&lt;/p&gt;
-        &lt;p style="margin: 0 0 5px 0;"&gt;&lt;a href="http://ahmetcadirci.com.tr"&gt;Diğer yazılar için tıklayın.&lt;/a&gt;&lt;/p&gt;
-        &lt;p style="margin: 0 0 5px 0;"&gt;&lt;a href="https://ahmetcadirci.com.tr/rss"&gt;RSS&lt;/a&gt; | &lt;a href="https://ahmetcadirci.com.tr/podcast"&gt;Podcast&lt;/a&gt; | &lt;a href="https://ahmetcadirci.com.tr/github"&gt;Github&lt;/a&gt; | &lt;a href="https://ahmetcadirci.com.tr/codepen"&gt;Codepen&lt;/a&gt;&lt;/p&gt;
+        &lt;p style="margin: 0 0 5px 0;"&gt;&lt;a href="{{site.url}}"&gt;Diğer yazılar için tıklayın.&lt;/a&gt;&lt;/p&gt;
+        &lt;p style="margin: 0 0 5px 0;"&gt;&lt;a href="{{site.url}}/rss"&gt;RSS&lt;/a&gt; | &lt;a href="{{site.url}}/podcast"&gt;Podcast&lt;/a&gt; | &lt;a href="{{site.url}}/github"&gt;Github&lt;/a&gt; | &lt;a href="{{site.url}}/codepen"&gt;Codepen&lt;/a&gt;&lt;/p&gt;
         &lt;/td&gt;
         &lt;/tr&gt;
         &lt;/table&gt;
