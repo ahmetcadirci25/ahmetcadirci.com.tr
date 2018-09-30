@@ -12,6 +12,7 @@ Sosyal medya hesaplarımdan bana ulaşabilirsiniz. Web sitemde yayınlanan en g�
 - [RSS](https://ahmetcadirci.com.tr/rss){:target="_blank"}{:rel="noopener"}
 - [Podcast RSS](https://ahmetcadirci.com.tr/podcast){:target="_blank"}{:rel="noopener"}
 - [E-Bülten](https://ahmetcadirci.com.tr/ebulten){:target="_blank"}{:rel="noopener"}
+- [Feedly](https://ahmetcadirci.com.tr/feedly){:target="_blank"}{:rel="noopener"}
 
 Kod paylaşımlarımı takip etmek için:
 - [GitHub](https://ahmetcadirci.com.tr/github){:target="_blank"}{:rel="noopener"}
