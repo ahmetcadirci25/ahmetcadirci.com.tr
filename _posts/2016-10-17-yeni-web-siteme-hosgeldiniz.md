@@ -1,6 +1,6 @@
 ---
 title      : "Yeni Web Siteme Hoşgeldiniz!"
-description: "Tüm sosyal medya hesaplarıma tek bir hesaptan ulaşabilirsiniz."
+description: "Sosyal medya hesaplarımdan bana ulaşabilirsiniz. Web sitemde yayınlanan en güncel yazıları RSS ve E-Bülten ile takip edebilirsiniz."
 date       : 2016-10-08 23:16:23
 categories : [Genel]
 tags       : [Kişisel Web Site, Sosyal Medya]
@@ -8,10 +8,8 @@ image      : "/images/ahmetcadirci-wallpaper.png"
 comments   : true
 ---
 
-Tüm sosyal medya hesaplarıma tek bir hesaptan ulaşabilirsiniz.
+Tüm sosyal medya hesaplarıma ulaşmak için [sosyal medya](https://ahmetcadirci.com.tr/sosyal-medya/){:target="_blank"}{:rel="noopener"} sayfasını takip edin.
 
+Web sitemde yayınlanan en güncel yazıları RSS ve E-Bülten ile takip edebilirsiniz:
 - [RSS](https://ahmetcadirci.com.tr/rss){:target="_blank"}{:rel="noopener"}
 - [Podcast RSS](https://ahmetcadirci.com.tr/podcast){:target="_blank"}{:rel="noopener"}
-- [GitHub](https://ahmetcadirci.com.tr/github){:target="_blank"}{:rel="noopener"}
-- [Codepen](https://ahmetcadirci.com.tr/codepen){:target="_blank"}{:rel="noopener"}
-- [Bitbucket](https://ahmetcadirci.com.tr/bitbucket){:target="_blank"}{:rel="noopener"}
