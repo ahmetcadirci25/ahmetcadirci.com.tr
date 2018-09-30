@@ -6,7 +6,7 @@ sitemap: false
 <ShortName>Ahmet Çadırcı</ShortName>
 <Description>Ara ahmetcadirci.com.tr</Description>
 <InputEncoding>UTF-8</InputEncoding>
-<Image width="16" height="16">https://ahmetcadirci.com.tr/images/favicons/favicon.ico</Image>
-<Url type="text/html" method="get" template="https://ahmetcadirci.com.tr/search/?q={searchTerms}"/>
-<moz:SearchForm>https://ahmetcadirci.com.tr/search/</moz:SearchForm>
+<Image width="16" height="16">{{site.url}}/images/favicons/favicon.ico</Image>
+<Url type="text/html" method="get" template="{{site.url}}/search/?q={searchTerms}"/>
+<moz:SearchForm>{{site.url}}/search/</moz:SearchForm>
 </OpenSearchDescription>
