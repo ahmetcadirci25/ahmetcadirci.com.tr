@@ -32,6 +32,6 @@ Aradığımız şeylerden daha fazlası!
 
 İlham veren yüzlerce içeriğin yer aladığı ücretsiz stock sitesi.
 
-### [BONUS - Tasarımcıların El Çantası Niteliğindeki Ücretsiz Kaynaklar](http://ahmetcadirci.com.tr/2016/tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar/)
+### [BONUS - Tasarımcıların El Çantası Niteliğindeki Ücretsiz Kaynaklar]({{site.url}}/2016/tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar/)
 
 > Kolay kullanım için hazırlanan el çantası niteliğindeki bu sitelerden ücretsiz olarak yararlanabilirsiniz. Ücretsiz stok fotoğraflar, videolar, mockuplar, yazı tipleri, grafikler, araçlar, dokular, sesler, renkler ve ikonların yer aldığı listede bir çok sitenin linki bulunmaktadır.

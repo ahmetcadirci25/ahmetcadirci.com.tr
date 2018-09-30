@@ -10,7 +10,7 @@ comments   : true
 
 HTC ONE M8 telefonumda ekranın alt kısmındaki dokunmatiğinde ve ekran döndürme sorunlarıyla karşılaşıyordum. Ekran döndürme kapalı olmasına rağmen tekrar dönüyordu. İnternette araştırmalar yapmama rağmen sorunu çözmedim. Deneme ve yanınma ile sorunu çözdüm. Bunlar benim kendi deneyimlerim. 
 
-![HTC ONE M8 FACTORY RESET EKRANI](https://ahmetcadirci.com.tr/images/htc-one-m8-factory-reset.png "HTC ONE M8 FACTORY RESET EKRANI")
+![HTC ONE M8 FACTORY RESET EKRANI]({{site.url}}/images/htc-one-m8-factory-reset.png "HTC ONE M8 FACTORY RESET EKRANI")
 
 ### Çözüm
 

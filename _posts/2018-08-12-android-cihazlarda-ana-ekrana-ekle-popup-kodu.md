@@ -16,15 +16,15 @@ Ana ekrana ekle (veya kısaca A2HS), akıllı telefon tarayıcılarında bulunan
 
 ## İçindekiler
 
-- [Logo Düzenleme](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#1-adım-logo-düzenleme)
-- [manifest.json Dosyasını Düzenleme](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#2-adım-manifestjson-dosyasını-düzenleme)
-- [manifest.json ve sw.js Dosyasını Çağırma](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#3-adım-manifestjson-ve-swjs-dosyasını-çağırma)
-- [server.js Adlı Dosya Oluşturun](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#4-adım-serverjs-adlı-dosya-oluşturun)
-- [sw.js Adlı Dosya Oluşturun](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#5-adım-swjs-adlı-dosya-oluşturun)
-- [Test ve Önizleme Videosu](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#6-adım-test)
-- [Dosyalar](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#7-dosyalar)
-- [Fikir](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#fikir)
-- [Kaynakça](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#kaynakça)
+- [Logo Düzenleme]({{site.url}}/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#1-adım-logo-düzenleme)
+- [manifest.json Dosyasını Düzenleme]({{site.url}}/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#2-adım-manifestjson-dosyasını-düzenleme)
+- [manifest.json ve sw.js Dosyasını Çağırma]({{site.url}}/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#3-adım-manifestjson-ve-swjs-dosyasını-çağırma)
+- [server.js Adlı Dosya Oluşturun]({{site.url}}/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#4-adım-serverjs-adlı-dosya-oluşturun)
+- [sw.js Adlı Dosya Oluşturun]({{site.url}}/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#5-adım-swjs-adlı-dosya-oluşturun)
+- [Test ve Önizleme Videosu]({{site.url}}/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#6-adım-test)
+- [Dosyalar]({{site.url}}/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#7-dosyalar)
+- [Fikir]({{site.url}}/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#fikir)
+- [Kaynakça]({{site.url}}/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/#kaynakça)
 
 ### 1. Adım Logo Düzenleme
 
@@ -78,7 +78,7 @@ Ana ekrana ekle (veya kısaca A2HS), akıllı telefon tarayıcılarında bulunan
       "type": "image/png"
     }
   ],
-  "start_url": "/?utm_source=webapp",
+  "start_url": "{{site.url}}/?utm_source=webapp",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "display": "standalone",
@@ -157,7 +157,7 @@ Yukarıdaki adımları tamamladıkta sonra dosyaları sunucunuza yükleyin. Daha
 
 2. Zip [https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases/tag/v2](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases/tag/v2){:target="_blank"}{:rel="noopener"}
 1. Repo [https://github.com/ahmetcadirci25/ana-ekrana-ekle](https://github.com/ahmetcadirci25/ana-ekrana-ekle){:target="_blank"}{:rel="noopener"}
-2. Önizleme [http://ahmetcadirci.com.tr/](http://ahmetcadirci.com.tr/){:target="_blank"}{:rel="noopener"}
+2. Önizleme [{{site.url}}]({{site.url}}){:target="_blank"}{:rel="noopener"}
 
 #### Fikir
 - iOS şu anda A2HS ve servis çalışanını desteklememektedir, css kullanarak öğretici animasyonları sağlayabilir

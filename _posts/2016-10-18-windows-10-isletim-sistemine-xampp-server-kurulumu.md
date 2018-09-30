@@ -19,7 +19,7 @@ WordPress'i herhangi bir sunucuya yüklemeden direk bilgisayarımızda çalışt
 
 **iTunes**
 
-[Podcast’imizi iTunes üzerinden dinlemek **ücretsiz** üye abone olmak için tıklayın!](https://ahmetcadirci.com.tr/podcast/){:target="_blank"}{:rel="noopener"}
+[Podcast’imizi iTunes üzerinden dinlemek **ücretsiz** üye abone olmak için tıklayın!]({{site.url}}/podcast/){:target="_blank"}{:rel="noopener"}
 
 * * *
 

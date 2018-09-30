@@ -63,7 +63,7 @@ Kurulum videosunda AppStore arama kutucuğuna ~~**Vida**~~ yerine **DoDa+** yazm
 
 #### İndirme Videosu
 
-[Gelen yorumlara](https://ahmetcadirci.com.tr/2018/iphone-cihaza-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir/#comment-3931533922) istinaden daha açıklayıcı olması için video eklenmiştir. Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhone film rulosuna video indirme** ve kaydetme işlemi yer almaktadır. Ekstra olarak (ses) mp3 formatına çevirme işlemi gösterilmiştir.
+[Gelen yorumlara]({{site.url}}/2018/iphone-cihaza-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir/#comment-3931533922) istinaden daha açıklayıcı olması için video eklenmiştir. Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhone film rulosuna video indirme** ve kaydetme işlemi yer almaktadır. Ekstra olarak (ses) mp3 formatına çevirme işlemi gösterilmiştir.
 
 <iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/273730466" webkitAllowFullScreen width="100%"></iframe>
 
@@ -79,7 +79,7 @@ Kurulum videosunda AppStore arama kutucuğuna ~~**Vida**~~ yerine **DoDa+** yazm
 8. İndirme işlemi biten videoları **Downloaded Video** kısmında görüntüleyerebilirsiniz. 
 9. **Share** butonuna tıklayın. Videoyu fotoğraflara kaydetmek için **Save Video** butonuna tıklayın.
 
-![Video İndirme Aşamaları](https://ahmetcadirci.com.tr/images/galeri/iphonea-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir.png "Video İndirme Aşamaları")
+![Video İndirme Aşamaları]({{site.url}}/images/galeri/iphonea-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir.png "Video İndirme Aşamaları")
 
 #### YouTube'dan İndirilen Videoyu Ses (mp3) Formatına Çevirme Nasıl Yapılır?
 

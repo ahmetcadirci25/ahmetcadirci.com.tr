@@ -21,8 +21,8 @@ iPhone, iPad ve iPod cihazımıza herhangi bir e-kitap uygulaması kurmadan mevu
 
 Adımları aşağıda yer alan resme tıklayarak detaylı bir şekilde görebilirsiniz.
 
-[![EPUB Uzantılı Kitabı Kitaplar Books Uygulamasına Nasıl Aktarılır?](https://ahmetcadirci.com.tr/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png)](https://ahmetcadirci.com.tr/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png){:target="_blank"}{:rel="noopener"}
-*Resmi büyütmek için [tıklayın](https://ahmetcadirci.com.tr/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png){:target="_blank"}{:rel="noopener"}*
+[![EPUB Uzantılı Kitabı Kitaplar Books Uygulamasına Nasıl Aktarılır?]({{site.url}}/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png)]({{site.url}}/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png){:target="_blank"}{:rel="noopener"}
+*Resmi büyütmek için [tıklayın]({{site.url}}/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png){:target="_blank"}{:rel="noopener"}*
 
 1. **Google Drive** uygulamasını açın.
 2. Yüklediğiniz **EPUB** uzantılı kitabın sağında yer alan **üç noktaya** tıklayın.

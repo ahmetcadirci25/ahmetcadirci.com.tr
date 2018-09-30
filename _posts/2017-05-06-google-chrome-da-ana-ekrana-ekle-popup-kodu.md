@@ -10,7 +10,7 @@ comments   : true
 
 Android cihazda Chrome kullanarak ziyaret ettiğiniz web sitelerinde önünüze çıkan "Ana Ekrana Ekle" popup kodunu sizlerle paylaşıyorum. Bunun çalışması için sitenizin https olması gerekir.
 
-<p style="background: red;padding: 2rem; border-radius: .5rem;"><a href="https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/" style="color: white;"> UYARI!!! <br> BURADA YAPACAĞIN İŞLEMLER ÇALIŞMAYACAKTIR! <br> YENİ YAZIYA GÖZ ATMAK İÇİ TIKLAYIN.</a></p>
+<p style="background: red;padding: 2rem; border-radius: .5rem;"><a href="{{site.url}}/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/" style="color: white;"> UYARI!!! <br> BURADA YAPACAĞIN İŞLEMLER ÇALIŞMAYACAKTIR! <br> YENİ YAZIYA GÖZ ATMAK İÇİ TIKLAYIN.</a></p>
 
 **[Linke](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases/tag/v1){:target="_blank"}{:rel="noopener"} tıklayın ve sizin için hazırlamış olduğum dosyaları indirin.**
 
@@ -66,7 +66,7 @@ Android cihazda Chrome kullanarak ziyaret ettiğiniz web sitelerinde önünüze 
       "type": "image/png"
     }
   ],
-  "start_url": "https://ahmetcadirci.com.tr/?utm_source=webapp",
+  "start_url": "{{site.url}}/?utm_source=webapp",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "display": "standalone",
@@ -106,11 +106,11 @@ Web sayfanızda yer alan `<head>` etiketleri arasına aşağıdaki kodu yapışt
 
 Web siteyi ziyaret ettiğinizde çıkan popup
 
-![Google Chrome'da Ana Ekrana Ekle Popup Kodu](https://ahmetcadirci.com.tr/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-4.png "Google Chrome'da Ana Ekrana Ekle Popup Kodu")
+![Google Chrome'da Ana Ekrana Ekle Popup Kodu]({{site.url}}/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-4.png "Google Chrome'da Ana Ekrana Ekle Popup Kodu")
 
 Ana ekrana eklendikten sonra açılış ekranı
 
-![Google Chrome'da Ana Ekrana Ekle Popup Kodu](https://ahmetcadirci.com.tr/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-5.png "Google Chrome'da Ana Ekrana Ekle Popup Kodu")
+![Google Chrome'da Ana Ekrana Ekle Popup Kodu]({{site.url}}/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-5.png "Google Chrome'da Ana Ekrana Ekle Popup Kodu")
 
 **Popupu test etmek için kullanışlı araçlar:**
 
@@ -118,17 +118,17 @@ Ana ekrana eklendikten sonra açılış ekranı
 2. Popup çalışmıyorsa URL'nizi manifest.json doğrulayıcıda test edin: [https://manifest-validator.appspot.com/](https://manifest-validator.appspot.com/){:target="_blank"}{:rel="noopener"}
 3. Popup çalışmıyorsa Chrome'daki kullanıcı Geliştirici araçlarını inceleyin ve Uygulamalar sekmesine bakın. Hizmetler ve Manifest'i kontrol edin, aşağıdaki gibi görünmelidir.
 
-![Google Chrome'da Ana Ekrana Ekle Popup Kodu](https://ahmetcadirci.com.tr/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-1.png "Google Chrome'da Ana Ekrana Ekle Popup Kodu")
+![Google Chrome'da Ana Ekrana Ekle Popup Kodu]({{site.url}}/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-1.png "Google Chrome'da Ana Ekrana Ekle Popup Kodu")
 
-![Google Chrome'da Ana Ekrana Ekle Popup Kodu](https://ahmetcadirci.com.tr/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-2.png "Google Chrome'da Ana Ekrana Ekle Popup Kodu")
+![Google Chrome'da Ana Ekrana Ekle Popup Kodu]({{site.url}}/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-2.png "Google Chrome'da Ana Ekrana Ekle Popup Kodu")
 
-![Google Chrome'da Ana Ekrana Ekle Popup Kodu](https://ahmetcadirci.com.tr/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-3.png "Google Chrome'da Ana Ekrana Ekle Popup Kodu")
+![Google Chrome'da Ana Ekrana Ekle Popup Kodu]({{site.url}}/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-3.png "Google Chrome'da Ana Ekrana Ekle Popup Kodu")
 
 ### 5. Dosyalar
 
 1. Repo [https://github.com/ahmetcadirci25/ana-ekrana-ekle](https://github.com/ahmetcadirci25/ana-ekrana-ekle){:target="_blank"}{:rel="noopener"}
 2. Zip [https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases){:target="_blank"}{:rel="noopener"}
-2. Önizleme [http://ahmetcadirci.com.tr/ana-ekrana-ekle/](http://ahmetcadirci.com.tr/ana-ekrana-ekle/){:target="_blank"}{:rel="noopener"}
+2. Önizleme [{{site.url}}/ana-ekrana-ekle/]({{site.url}}/ana-ekrana-ekle/){:target="_blank"}{:rel="noopener"}
 
 #### Kaynakça:
 

@@ -24,7 +24,7 @@ FeedBurner hesabınızdaki beslemeleri nasıl güncel hale getirebilirim. Feed d
 
 1. [https://feedburner.google.com/fb/a/ping](https://feedburner.google.com/fb/a/ping){:target="_blank"}{:rel="noopener"} linke tıklayın
 
-2. **Web site address:** kısmına [https://ahmetcadirci.com.tr](https://ahmetcadirci.com.tr){:target="_blank"}{:rel="noopener"} gibi domain (alan adı) adresinizi yazın.
+2. **Web site address:** kısmına [{{site.url}}]({{site.url}}){:target="_blank"}{:rel="noopener"} gibi domain (alan adı) adresinizi yazın.
 
 3. 30 dakika içinde otomatik olarak pingleme yapılacaktır.
 
@@ -35,8 +35,8 @@ FeedBurner hesabınızdaki beslemeleri nasıl güncel hale getirebilirim. Feed d
 
 Web sitenin güncel yazılarını takip edebilirsiniz.
 
-[http://feeds.feedburner.com/ahmetcadirci25](http://feeds.feedburner.com/ahmetcadirci25){:target="_blank"}{:rel="noopener"}
+[{{site.url}}/rss]({{site.url}}/rss){:target="_blank"}{:rel="noopener"}
 
 Web sitenin güncel podcast ve video yayınlarını takip edebilirsiniz.
 
-[http://feeds.feedburner.com/ahmetcadirci25-podcast](http://feeds.feedburner.com/ahmetcadirci25-podcast){:target="_blank"}{:rel="noopener"}
+[{{site.url}}/podcast]({{site.url}}/podcast){:target="_blank"}{:rel="noopener"}

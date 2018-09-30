@@ -10,9 +10,6 @@ comments   : true
 
 Cerebro uygulamasıyla bir kaç tıkla her şeyi aramaya başlayın. Açık kaynaklı ve hızlı uygulamayı hemen indirin. 
 
-<blockquote class="twitter-tweet" data-lang="tr"><p lang="tr" dir="ltr">Cerebro Uygulaması - Her Şeyi Ara<a href="https://t.co/eb3nRRL9Xk">https://t.co/eb3nRRL9Xk</a> <a href="https://twitter.com/hashtag/Cerebro?src=hash">#Cerebro</a> <a href="https://t.co/C0q0iRZ92x">pic.twitter.com/C0q0iRZ92x</a></p>&mdash; Ahmet Çadırcı (@ahmetcadirci25) <a href="https://twitter.com/ahmetcadirci25/status/879750875681628160">27 Haziran 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 [Cerebro App](https://cerebroapp.com/){:target="_blank"}{:rel="noopener"} web sayfasından işletim sistemize uygun olanı seçerek indirme işlemini başlatın. Kurulumu son derece basit tek tıklamayla otomatik kurulum işlemi gerçekleşiyor. 
 
 Kurulum tamamlandıktan sonra ufak bir testle başlayalım. Klavyeden `ctrl+space` tuşlarına basın. Karşınıza arama ekranı çıkacak. Menü çubuğundaki → preferences'a tıklayarak bu kısayolu özelleştirebilirsiniz. 
@@ -29,7 +26,7 @@ Eklenti listesine aşağıdaki linkten ulaşabilirsiniz.
 
 **Bir kaç deneme yapalım 🤠**
 
-![Cerebro Uygulaması - Her Şeyi Ara](https://ahmetcadirci.com.tr/images/cerebro-uygulamasi-her-seyi-ara.png "Cerebro Uygulaması - Her Şeyi Ara")
+![Cerebro Uygulaması - Her Şeyi Ara]({{site.url}}/images/cerebro-uygulamasi-her-seyi-ara.png "Cerebro Uygulaması - Her Şeyi Ara")
 
 1. `ctrl+space` tıklayın ve `hayvan hakları` yazın ve enter tuşuna basın. Otomatik olarak sizlere Google Chrome'da arama sonuçlarını çıkaracaktır. 
 2. `ctrl+space` tıklayın ve bilgisayarınızda kurulu olan her hangi bir uygulamayı aratın. 

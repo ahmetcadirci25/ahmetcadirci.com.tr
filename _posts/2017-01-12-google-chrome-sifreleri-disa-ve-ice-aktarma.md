@@ -15,11 +15,11 @@ Google'ın Chrome tarayıcısını kullananlar, tarayıcının Otomatik Doldurma
 1. Chrome tarayıcısını açın ve adres çubuğuna `chrome://flags/#password-import-export` yazın. **"Enter"** tuşuna bastığınızda, Chrome bayrakları sayfasına getirileceksiniz.
 2. Açılan menüden **"Etkinleştir"** seçeneğini seçin. Bunu yaptıktan sonra, Chrome tarayıcıyı yeniden başlatmanızı ister. Tarayıcıyı yeniden başlatmak için **"Şimdi Yeniden Başlat"** ı tıklayın.
 
-![Google Chrome Şifre İçe ve Dışa Aktarma](https://ahmetcadirci.com.tr/images/galeri/google-chrome-password-import-export.png "Google Chrome Şifre İçe ve Dışa Aktarma")
+![Google Chrome Şifre İçe ve Dışa Aktarma]({{site.url}}/images/galeri/google-chrome-password-import-export.png "Google Chrome Şifre İçe ve Dışa Aktarma")
 
 3. Chrome'un şifre yöneticisini, `chrome://settings/passwords` girerek açın veya **"Ayarlar"** menüsüne gidin ve Gelişmiş Ayarlar'da bulunan **"Şifreleri Yönet"** seçeneğini tıklayın.
 
-![Chrome Şifreleri Yönet](https://ahmetcadirci.com.tr/images/galeri/chrome-sifreler.png "Chrome Şifreleri Yönet")
+![Chrome Şifreleri Yönet]({{site.url}}/images/galeri/chrome-sifreler.png "Chrome Şifreleri Yönet")
 
 4. Parola listenizi dışa aktarmak için **"Dışa Aktar"** düğmesine tıklamanız yeterlidir. Kullanıcı hesabı şifrenizi girmenizi isteyecek bir pencere açılır. Parolanızı girdikten sonra, bir **"Kaydet"** penceresi açılır.
 5. Tarayıcı otomatik olarak şifrelerinizi düz bir **"Metin CSV"** dosyası olarak kaydeder. Oradan tüm şifreleri **"CSV"** ithalatını destekleyen bir şifre yöneticisine alabilirsiniz.
@@ -31,4 +31,4 @@ Bu yöntemi kullanarak şifreleri dışarı aktarmayla ilgili önemli bir nokta,
 
 Yukarıdaki tüm işlemleri aynı şekilde Opera tarayısında yaptıktan sonra `opera://settings/passwords` kısmından **"Al"** diyerek tüm kayıtlı şifreleri içeri aktarmış olursunuz.
 
-![Opera Şifreleri Yönet](https://ahmetcadirci.com.tr/images/galeri/opera-sifreler.png "Opera Şifreleri Yönet")
+![Opera Şifreleri Yönet]({{site.url}}/images/galeri/opera-sifreler.png "Opera Şifreleri Yönet")
