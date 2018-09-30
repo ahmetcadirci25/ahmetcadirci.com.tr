@@ -36,15 +36,6 @@ social:
 author:
   name               : 'Ahmet Çadırcı'
   email              : ahmetcadirci25@gmail.com
-  youtube_username   : ahmetcadirci25
-  instagram_username : ahmetcadirci25
-  twitter_username   : ahmetcadirci25
-  facebook_username  : ahmetcadirci25
-  github_username    : ahmetcadirci25
-  linkedin_username  : ahmetcadirci25
-  googleplus_username: ahmetcadirci25
-  feedburner_username: rss
-  podcast_username   : podcast
 
 defaults:
   -
