@@ -10,24 +10,24 @@
 
 [Ahmet Çadırcı](https://ahmetcadirci.com.tr) kişisel web sitem... Web geliştirici ve interneti seven kişi...
 
-Web sitemde yayınlanan en güncel yazıları [RSS](https://ahmetcadirci.com.tr/rss){:target="_blank"}{:rel="noopener"} ve [E-Bülten](https://ahmetcadirci.com.tr/ebulten){:target="_blank"}{:rel="noopener"} ile takip edebilirsiniz:
-- [RSS](https://ahmetcadirci.com.tr/rss){:target="_blank"}{:rel="noopener"}
-- [Podcast RSS](https://ahmetcadirci.com.tr/podcast){:target="_blank"}{:rel="noopener"}
-- [E-Bülten](https://ahmetcadirci.com.tr/ebulten){:target="_blank"}{:rel="noopener"}
+Web sitemde yayınlanan en güncel yazıları [RSS](https://ahmetcadirci.com.tr/rss) ve [E-Bülten](https://ahmetcadirci.com.tr/ebulten) ile takip edebilirsiniz:
+- [RSS](https://ahmetcadirci.com.tr/rss)
+- [Podcast RSS](https://ahmetcadirci.com.tr/podcast)
+- [E-Bülten](https://ahmetcadirci.com.tr/ebulten)
 
 Kod paylaşımlarımı için etmek için:
-- [GitHub](https://ahmetcadirci.com.tr/github){:target="_blank"}{:rel="noopener"}
-- [Codepen](https://ahmetcadirci.com.tr/codepen){:target="_blank"}{:rel="noopener"}
-- [Dev.to](https://ahmetcadirci.com.tr/devto){:target="_blank"}{:rel="noopener"}
+- [GitHub](https://ahmetcadirci.com.tr/github)
+- [Codepen](https://ahmetcadirci.com.tr/codepen)
+- [Dev.to](https://ahmetcadirci.com.tr/devto)
 
 Video ve Fotoğrafları takip etmek için:
-- [Vimeo](https://ahmetcadirci.com.tr/vimeo){:target="_blank"}{:rel="noopener"}
-- [Flickr](https://ahmetcadirci.com.tr/flickr){:target="_blank"}{:rel="noopener"}
-- [Unsplash](https://ahmetcadirci.com.tr/unsplash){:target="_blank"}{:rel="noopener"}
-- [Unsplash](https://ahmetcadirci.com.tr/pinterest){:target="_blank"}{:rel="noopener"}
+- [Vimeo](https://ahmetcadirci.com.tr/vimeo)
+- [Flickr](https://ahmetcadirci.com.tr/flickr)
+- [Unsplash](https://ahmetcadirci.com.tr/unsplash)
+- [Unsplash](https://ahmetcadirci.com.tr/pinterest)
 
 Sosyal paylaşımlarımı takip etmek için:
-- [Reddit](https://ahmetcadirci.com.tr/reddit){:target="_blank"}{:rel="noopener"}
+- [Reddit](https://ahmetcadirci.com.tr/reddit)
 
 ---
 
