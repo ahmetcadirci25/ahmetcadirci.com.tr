@@ -1,9 +1,9 @@
 ---
-layout   : page
-title    : Sosyal Medya
-description: "Sosyal medya hesapları ve iletişim formu üzerinden ulaşabilirsiniz."
-permalink: /sosyal-medya/
-image    : "/images/ahmetcadirci-wallpaper.jpg"
+layout     : page
+title      : Sosyal Medya
+description: "Sosyal medya hesaplarımdan bana ulaşabilirsiniz. Web sitemde yayınlanan en güncel yazıları RSS ve E-Bülten ile takip edebilirsiniz."
+permalink  : /sosyal-medya/
+image      : "/images/ahmetcadirci-wallpaper.jpg"
 ---
 
 ## Sosyal Medya Hesapları
