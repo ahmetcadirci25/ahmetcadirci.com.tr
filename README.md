@@ -1,10 +1,6 @@
-# ahmetcadirci.com.tr
+# Ahmet Çadırcı
 
 **Kişisel web sitem — bağlantıya tıklayarak ziyaret edebilirsiniz.**
-
----
-
-## Ahmet Çadırcı
 
 #### [☛ ahmetcadirci.com.tr](https://ahmetcadirci.com.tr)
 
