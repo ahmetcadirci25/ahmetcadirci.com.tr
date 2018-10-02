@@ -24,7 +24,7 @@ Video ve Fotoğrafları takip etmek için:
 - [Vimeo](https://ahmetcadirci.com.tr/vimeo)
 - [Flickr](https://ahmetcadirci.com.tr/flickr)
 - [Unsplash](https://ahmetcadirci.com.tr/unsplash)
-- [Unsplash](https://ahmetcadirci.com.tr/pinterest)
+- [Pinterest](https://ahmetcadirci.com.tr/pinterest)
 
 Sosyal paylaşımlarımı takip etmek için:
 - [Reddit](https://ahmetcadirci.com.tr/reddit)
