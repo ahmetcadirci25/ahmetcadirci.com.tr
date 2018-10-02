@@ -19,6 +19,10 @@ Kod paylaşımlarımı takip etmek için:
 - [Codepen]({{ site.url }}/r/codepen){:target="_blank"}{:rel="noopener"}
 - [Dev.to]({{ site.url }}/r/devto){:target="_blank"}{:rel="noopener"}
 
+Soru & Cevap'ları görüntülemek için:
+- [Quora]({{ site.url }}/r/quora){:target="_blank"}{:rel="noopener"}
+- [Stackoverflow]({{ site.url }}/r/stackoverflow){:target="_blank"}{:rel="noopener"}
+
 Video ve Fotoğrafları takip etmek için:
 - [Vimeo]({{ site.url }}/r/vimeo){:target="_blank"}{:rel="noopener"}
 - [Flickr]({{ site.url }}/r/flickr){:target="_blank"}{:rel="noopener"}
