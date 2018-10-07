@@ -83,16 +83,11 @@
       </div>
     </footer>
 
-    
-    <noscript>
-      <link rel="stylesheet" href="{{ "/css/style.min.css" | prepend: site.url }}" async>
-    <script type="text/javascript" src="//{{ site.disqus_shortname }}.disqus.com/count.js" id="dsq-count-scr" async></script>
-    <script type="text/javascript" src="//cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
-    </noscript>
-
     <!--<script type="text/javascript" src="{{ "/js/jquery-3.2.1.slim.min.js" | prepend: site.url }}"></script>
     <script type="text/javascript" src="{{ "/js/main.js" | prepend: site.url }}"></script>
     <script type="text/javascript" src="{{ "/js/lazyload.min.js" | prepend: site.url }}"></script>-->
+    <script type="text/javascript" src="//{{ site.disqus_shortname }}.disqus.com/count.js" id="dsq-count-scr" async></script>
+    <script type="text/javascript" src="//cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
 
     <script type="text/javascript">
 
@@ -113,38 +108,6 @@
 		  iframe[0].remove(iframe[0].selectedIndex);
 		  }
 	  }, 3000);*/
-
-
-      /* First CSS File */
-      var cssdef = document.createElement('link');
-      cssdef.rel = 'stylesheet';
-      cssdef.href = '{{ "/css/style.min.css" | prepend: site.url }}';
-      cssdef.type = 'text/css';
-      var cssdefer = document.getElementsByTagName('link')[0];
-      cssdefer.parentNode.insertBefore(cssdef, cssdefer);
-
-      function downloadJSAtOnload() {
-      var element = document.createElement("script");
-      element.src = "//{{ site.disqus_shortname }}.disqus.com/count.js";
-      document.body.appendChild(element);
-      }
-      if (window.addEventListener)
-      window.addEventListener("load", downloadJSAtOnload, false);
-      else if (window.attachEvent)
-      window.attachEvent("onload", downloadJSAtOnload);
-      else window.onload = downloadJSAtOnload;
-
-
-      function downloadJSAtOnload() {
-      var element = document.createElement("script");
-      element.src = "//cdn.onesignal.com/sdks/OneSignalSDK.js";
-      document.body.appendChild(element);
-      }
-      if (window.addEventListener)
-      window.addEventListener("load", downloadJSAtOnload, false);
-      else if (window.attachEvent)
-      window.attachEvent("onload", downloadJSAtOnload);
-      else window.onload = downloadJSAtOnload;
 
       // Menu
       document.querySelectorAll(".navbar-toggle")[0].addEventListener("click", function() {
