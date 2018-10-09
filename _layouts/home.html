@@ -19,16 +19,16 @@ layout : default
                       <div class="row">
                         <div class="col-xs-12  col-sm-10">
                           <div class="meta__info">
-                            <span class="meta__author"><img src="{{ "/images/avatar.svg" | prepend: site.url }}" alt="{{ site.author.name }}" width="30" height="30"> <a href="{{ site.url }}">{{ site.author.name }} </a>   
+                            <span class="meta__author"><svg class="icon icon-user"><use xlink:href="#icon-user"></use></svg> <a href="{{ site.url }}" title="{{ site.author.name }}">{{ site.author.name }} </a>   
                             </span> 
-                            <span class="meta__categories"><span class="glyphicon glyphicon-list"></span>  &nbsp; {% for categories in post.categories limit:1 %}<a href="{{ site.url }}/kategoriler/#{{ categories }}">{{ categories }}</a> {% endfor %} </span>
-                            <span class="meta__date"><span class="glyphicon glyphicon-calendar"></span>  &nbsp; {{ post.date | date: "%d.%m.%Y" }}</span> 
+                            <span class="meta__categories"><svg class="icon icon-list"><use xlink:href="#icon-list"></use></svg>  &nbsp; {% for categories in post.categories limit:1 %}<a href="{{ site.url }}/kategoriler/#{{ categories }}">{{ categories }}</a> {% endfor %} </span>
+                            <span class="meta__date"><svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>   &nbsp; {{ post.date | date: "%d.%m.%Y" }}</span> 
                           </div>
                         </div>
                         <div class="col-xs-12  col-sm-2">
                           <div class="meta__comments">
-                            <span class="glyphicon glyphicon-comment"></span>  &nbsp;
-                            <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}#disqus_thread"></a> 
+                            <svg class="icon icon-comment"><use xlink:href="#icon-comment"></use></svg>  &nbsp;
+                            <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}#disqus_thread" title="Yorumlar"></a> 
                           </div>
                         </div>
                       </div>
@@ -60,7 +60,7 @@ layout : default
                         <div class="read-more">
                           Devamını Oku
                           <div class="read-more__arrow">
-                            <span class="glyphicon  glyphicon-chevron-right"></span> 
+                            <svg class="icon icon-chevron-right"><use xlink:href="#icon-chevron-right"></use></svg>
                           </div>
                         </div>
                       </a> 

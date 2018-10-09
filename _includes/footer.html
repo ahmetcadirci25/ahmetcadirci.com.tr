@@ -1,15 +1,5 @@
    {% include email.html %}
 
-    <div class="social-fixed-bar"> 
-      <ul> 
-          <li><strong>Paylaş</strong></li> 
-          <li> <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}?utm_source=Facebook" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"> <span class="zocial-facebook"></span></a> </li> 
-          <li> <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}?utm_source=Twitter" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"> <span class="zocial-twitter"></span> </a></li> 
-          <li> <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}?utm_source=GooglePlus" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"> <span class="zocial-googleplus"></span> </a> </li> 
-          <li> <a href="http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}?utm_source=Reddit&title={{ page.title }}" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"> <span class="zocial-reddit"></span> </a> </li> 
-      </ul> 
-    </div>
-
     <footer class="footer">
       <div class="container">
         <div class="col-xs-12  col-md-3">
@@ -20,10 +10,10 @@
             <br/>
             <br/>
             <div class="social-icons  widget-social-icons">
-              <a href="{{ site.url }}/r/rss" target="_blank" class="social-icons__container"> <span class="zocial-rss"></span>  </a> 
-              <a href="{{ site.url }}/r/github" target="_blank" class="social-icons__container"> <span class="zocial-github"></span>  </a>  
-              <a href="{{ site.url }}/r/flickr" target="_blank" class="social-icons__container"> <span class="zocial-flickr"></span>  </a> 
-              <a href="{{ site.url }}/r/vimeo" target="_blank" class="social-icons__container"> <span class="zocial-vimeo"></span>  </a>  
+              <a href="{{ site.url }}/r/rss" target="_blank" class="social-icons__container" title="RSS"> <svg class="icon icon-feed"><use xlink:href="#icon-feed"></use></svg>   </a> 
+              <a href="{{ site.url }}/r/github" target="_blank" class="social-icons__container" title="Github"> <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>   </a>  
+              <a href="{{ site.url }}/r/flickr" target="_blank" class="social-icons__container" title="Flickr"> <svg class="icon icon-flickr"><use xlink:href="#icon-flickr"></use></svg>   </a> 
+              <a href="{{ site.url }}/r/vimeo" target="_blank" class="social-icons__container" title="Vimeo"> <svg class="icon icon-vimeo"><use xlink:href="#icon-vimeo"></use></svg>   </a>  
             </div>
           </div>
         </div>
@@ -85,11 +75,17 @@
 
     <!--<script type="text/javascript" src="{{ "/js/jquery-3.2.1.slim.min.js" | prepend: site.url }}"></script>
     <script type="text/javascript" src="{{ "/js/main.js" | prepend: site.url }}"></script>
-    <script type="text/javascript" src="{{ "/js/lazyload.min.js" | prepend: site.url }}"></script>-->
-    <script type="text/javascript" src="//{{ site.disqus_shortname }}.disqus.com/count.js" id="dsq-count-scr" async></script>
-    <script type="text/javascript" src="//cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+    <script type="text/javascript" src="{{ "/js/lazyload.min.js" | prepend: site.url }}"></script>
+    <script type="text/javascript" src="https://{{ site.disqus_shortname }}.disqus.com/count.js" id="dsq-count-scr" async></script>
+    <script type="text/javascript" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>-->
 
     <script type="text/javascript">
+
+      // Disqus
+      var DISQUSWIDGETS,disqus_domain,disqus_shortname;
+      typeof DISQUSWIDGETS==="undefined"&&(DISQUSWIDGETS=function(){var f=document,a=f.getElementById("dsq-count-scr"),a=a&&a.src.match(/(https?:)?\/\/(?:www\.)?([\w_\-]+)\.((?:dev\.)?disqus\.(?:com|org)(?::\d+)?)/i),e={},s=f.head||f.body,j={},q={identifier:1,url:2};e.domain=a&&a[3]||disqus_domain||"disqus.com";e.forum=a&&a[2]||disqus_shortname;e.proto=a&&a[1]||"";e.getCount=function(b){var c;c=encodeURIComponent;var a=e.proto+"//"+e.forum+"."+e.domain+"/count-data.js?",d=[],k=0,l=10,r="",b=b||{};b.reset&&
+      (j={},r="&_="+ +new Date);for(var b=[f.getElementsByTagName("A"),f.getElementsByClassName&&f.getElementsByClassName("disqus-comment-count")||[]],m,i,g,h,n=0;n<b.length;n++){m=b[n];for(var o=0;o<m.length;o++){i=m[o];g=i.getAttribute("data-disqus-identifier");h=i.hash==="#disqus_thread"&&i.href.replace("#disqus_thread","")||i.getAttribute("data-disqus-url");if(g)h=q.identifier;else if(h)g=h,h=q.url;else continue;var p;j.hasOwnProperty(g)?p=j[g]:(p=j[g]={elements:[],type:h},d.push(c(h)+"="+c(g)));p.elements.push(i)}}d.sort();
+      for(c=d.slice(k,l);c.length;)b=f.createElement("script"),b.src=a+c.join("&")+r,s.appendChild(b),k+=10,l+=10,c=d.slice(k,l)};e.displayCount=function(b){for(var c,a,d,e=b.counts,b=b.text.comments;c=e.shift();)if(a=j[c.id]){switch(c.comments){case 0:d=b.zero;break;case 1:d=b.one;break;default:d=b.multiple}c=d.replace("{num}",c.comments);a=a.elements;for(d=a.length-1;d>=0;d--)a[d].innerHTML=c}};return e}());DISQUSWIDGETS.getCount();
 
       // Lazy Load
       (function(root,factory){if(typeof exports==="object"){module.exports=factory(root)}else if(typeof define==="function"&&define.amd){define([],factory(root))}else{root.LazyLoad=factory(root)}})(typeof global!=="undefined"?global:this.window||this.global,function(root){"use strict";const defaults={src:"data-src",srcset:"data-srcset",selector:".lazyload"};const extend=function(){let extended={};let deep=false;let i=0;let length=arguments.length;if(Object.prototype.toString.call(arguments[0])==="[object Boolean]"){deep=arguments[0];i++}let merge=function(obj){for(let prop in obj){if(Object.prototype.hasOwnProperty.call(obj,prop)){if(deep&&Object.prototype.toString.call(obj[prop])==="[object Object]"){extended[prop]=extend(true,extended[prop],obj[prop])}else{extended[prop]=obj[prop]}}}};for(;i<length;i++){let obj=arguments[i];merge(obj)}return extended};function LazyLoad(images,options){this.settings=extend(defaults,options||{});this.images=images||document.querySelectorAll(this.settings.selector);this.observer=null;this.init()}LazyLoad.prototype={init:function(){if(!root.IntersectionObserver){this.loadImages();return}let self=this;let observerConfig={root:null,rootMargin:"0px",threshold:[0]};this.observer=new IntersectionObserver(function(entries){entries.forEach(function(entry){if(entry.intersectionRatio>0){self.observer.unobserve(entry.target);let src=entry.target.getAttribute(self.settings.src);let srcset=entry.target.getAttribute(self.settings.srcset);if("img"===entry.target.tagName.toLowerCase()){if(src){entry.target.src=src}if(srcset){entry.target.srcset=srcset}}else{entry.target.style.backgroundImage="url("+src+")"}}})},observerConfig);Array.prototype.forEach.call(this.images,function(image){self.observer.observe(image)})},loadAndDestroy:function(){if(!this.settings){return}this.loadImages();this.destroy()},loadImages:function(){if(!this.settings){return}let self=this;Array.prototype.forEach.call(this.images,function(image){let src=image.getAttribute(self.settings.src);let srcset=image.getAttribute(self.settings.srcset);if("img"===image.tagName.toLowerCase()){if(src){image.src=src}if(srcset){image.srcset=srcset}}else{image.style.backgroundImage="url("+src+")"}})},destroy:function(){if(!this.settings){return}this.observer.disconnect();this.settings=null}};root.lazyload=function(images,options){return new LazyLoad(images,options)};if(root.jQuery){const $=root.jQuery;$.fn.lazyload=function(options){options=options||{};options.attribute=options.attribute||"data-src";new LazyLoad($.makeArray(this),options);return this}}return LazyLoad});
@@ -114,7 +110,7 @@
         document.querySelectorAll(".navbar-collapse")[0].classList.toggle("in");
       });
 
-      // Google Fonts
+      /* Google Fonts
       WebFontConfig = {
         google: {
           families: ['Open+Sans:300,400,700:latin', 'Lato:700,900:latin']
@@ -130,6 +126,7 @@
         var s = document.getElementsByTagName('script')[0];
         s.parentNode.insertBefore(wf, s);
       })();
+      */
 
       /**
       function shareinsocialmedia(e) {
@@ -151,7 +148,7 @@
       };
       
       // OneSignal
-      var OneSignal = window.OneSignal || [];
+      /*var OneSignal = window.OneSignal || [];
       OneSignal.push(["init", {
         appId: "6d7dfc85-e98b-4a4f-b055-b7d4c4815ee5",
         safari_web_id: "web.onesignal.auto.2c5a7aa8-83b4-45ba-8e8f-e5cd6a2881a0",
@@ -161,24 +158,11 @@
         },
         notifyButton: {
           enable: true,
-          /* Required to use the Subscription Bell */
-          /* SUBSCRIPTION BELL CUSTOMIZATIONS START HERE */
           size: 'small',
-          /* One of 'small', 'medium', or 'large' */
           theme: 'default',
-          /* One of 'default' (red-white) or 'inverse" (white-red) */
           position: 'bottom-right',
-          /* Either 'bottom-left' or 'bottom-right' */
-          /* 
-            offset: {
-              bottom: '15px',
-              left: '5px'
-            },
-          */
           prenotify: true,
-          /* Show an icon with 1 unread message for first-time site visitors */
           showCredit: false,
-          /* Hide the OneSignal logo */
           text: {
             'tip.state.unsubscribed': 'Bildirimlere Abone Ol!',
             'tip.state.subscribed': "Bildirimlere abone oldunuz",
@@ -193,7 +177,7 @@
             'dialog.blocked.title': 'Bildirimlerin Engellemesini Kaldır',
             'dialog.blocked.message': "Bildirimlere izin vermek için şu talimatları:"
           },
-          colors: { // Customize the colors of the main button and dialog popup button
+          colors: {
             'circle.background': 'rgb(81,171,109)',
             'circle.foreground': 'white',
             'badge.background': 'rgb(81,171,109)',
@@ -205,7 +189,6 @@
             'dialog.button.background': 'rgb(81,171,109)',
             'dialog.button.foreground': 'white'
           },
-          /* HIDE SUBSCRIPTION BELL WHEN USER SUBSCRIBED */
           displayPredicate: function() {
             return OneSignal.isPushNotificationsEnabled()
               .then(function(isPushEnabled) {
@@ -216,20 +199,16 @@
         welcomeNotification: {
           "title": "Ahmet Çadırcı",
           "message": "Abone olduğun için teşekkürler!",
-          // "url": "" /* Leave commented for the notification to not open a window on Chrome and Firefox (on Safari, it opens to your webpage) */
         },
         promptOptions: {
-          /* actionMessage limited to 90 characters */
           actionMessage: "En son yazılardan ve içeriklerden bildirim almak istiyor musun?",
-          /* acceptButtonText limited to 15 characters */
           acceptButtonText: "EVET!",
-          /* cancelButtonText limited to 15 characters */
           cancelButtonText: "Hayır"
         }
       }]);
       OneSignal.push(function() {
         OneSignal.showHttpPrompt();
-      });
+      });*/
     </script>
 
     <!-- Google Tag Manager (noscript) -->
