@@ -106,11 +106,11 @@ Web sayfanızda yer alan `<head>` etiketleri arasına aşağıdaki kodu yapışt
 
 Web siteyi ziyaret ettiğinizde çıkan popup
 
-{% include picture.html image="/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-4.png" imagealt="Google Chrome'da Ana Ekrana Ekle Popup Kodu" %}
+{% include picture.html i_image="/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-4.png" imagealt="Google Chrome'da Ana Ekrana Ekle Popup Kodu" %}
 
 Ana ekrana eklendikten sonra açılış ekranı
 
-{% include picture.html image="/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-5.png" imagealt="Google Chrome'da Ana Ekrana Ekle Popup Kodu" %}
+{% include picture.html i_image="/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-5.png" imagealt="Google Chrome'da Ana Ekrana Ekle Popup Kodu" %}
 
 **Popupu test etmek için kullanışlı araçlar:**
 
@@ -118,11 +118,11 @@ Ana ekrana eklendikten sonra açılış ekranı
 2. Popup çalışmıyorsa URL'nizi manifest.json doğrulayıcıda test edin: [https://manifest-validator.appspot.com/](https://manifest-validator.appspot.com/){:target="_blank"}{:rel="noopener"}
 3. Popup çalışmıyorsa Chrome'daki kullanıcı Geliştirici araçlarını inceleyin ve Uygulamalar sekmesine bakın. Hizmetler ve Manifest'i kontrol edin, aşağıdaki gibi görünmelidir.
 
-{% include picture.html image="/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-1.png" imagealt="Google Chrome'da Ana Ekrana Ekle Popup Kodu" %}
+{% include picture.html i_image="/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-1.png" imagealt="Google Chrome'da Ana Ekrana Ekle Popup Kodu" %}
 
-{% include picture.html image="/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-2.png" imagealt="Google Chrome'da Ana Ekrana Ekle Popup Kodu" %}
+{% include picture.html i_image="/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-2.png" imagealt="Google Chrome'da Ana Ekrana Ekle Popup Kodu" %}
 
-{% include picture.html image="/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-3.png" imagealt="Google Chrome'da Ana Ekrana Ekle Popup Kodu" %}
+{% include picture.html i_image="/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-3.png" imagealt="Google Chrome'da Ana Ekrana Ekle Popup Kodu" %}
 
 ### 5. Dosyalar
 

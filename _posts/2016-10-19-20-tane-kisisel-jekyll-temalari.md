@@ -12,7 +12,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 1. { Personal } Jekyll Teması 
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-1.png" imagealt="Personal Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-1.png" imagealt="Personal Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/PanosSakkos/personal-jekyll-theme){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](https://panossakkos.github.io/personal-jekyll-theme/){:target="_blank"}{:rel="noopener"}
 
@@ -20,7 +20,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 2. Compass Jekyll Teması 
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-2.png" imagealt="Compass Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-2.png" imagealt="Compass Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/excentris/compass){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](https://excentris.github.io/compass/){:target="_blank"}{:rel="noopener"}
 
@@ -28,7 +28,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 3. Minimal Mistakes Jekyll Teması
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-3.png" imagealt="Minimal Mistakes Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-3.png" imagealt="Minimal Mistakes Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/mmistakes/minimal-mistakes){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](https://mmistakes.github.io/minimal-mistakes/){:target="_blank"}{:rel="noopener"}
 
@@ -36,7 +36,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 4. MCaptain’s log Jekyll Teması
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-4.png" imagealt="MCaptain’s log Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-4.png" imagealt="MCaptain’s log Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/mashlo/captains-log){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](http://mashlo.github.io/captains-log/){:target="_blank"}{:rel="noopener"}
 
@@ -44,7 +44,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 5. Hyde Jekyll Teması
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-5.png" imagealt="Hyde Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-5.png" imagealt="Hyde Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/hymerman/hymerman.github.io){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](http://hymerman.github.io/){:target="_blank"}{:rel="noopener"}
 
@@ -52,7 +52,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 6. HPSTR Jekyll Teması
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-6.png" imagealt="HPSTR Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-6.png" imagealt="HPSTR Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/joshbeard/hpstr-jekyll-theme-mod){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](https://mmistakes.github.io/hpstr-jekyll-theme/){:target="_blank"}{:rel="noopener"}
 
@@ -60,7 +60,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 7. HPSTR Jekyll Teması
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-7.png" imagealt="HPSTR Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-7.png" imagealt="HPSTR Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/camporez/Thinny){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](http://camporez.github.io/){:target="_blank"}{:rel="noopener"}
 
@@ -68,7 +68,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 8. Lora Jekyll Teması
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-8.png" imagealt="Lora Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-8.png" imagealt="Lora Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/nandomoreirame/lora){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](https://nandomoreira.me/lora/){:target="_blank"}{:rel="noopener"}
 
@@ -76,7 +76,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 9. Front Cover Jekyll Teması
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-9.png" imagealt="Front Cover Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-9.png" imagealt="Front Cover Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/dashingcode/front-cover/){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](https://dashingcode.github.io/front-cover/){:target="_blank"}{:rel="noopener"}
 
@@ -84,7 +84,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 10. Front Cover Jekyll Teması
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-10.png" imagealt="Front Cover Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-10.png" imagealt="Front Cover Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/volny/creative-theme-jekyll/){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](https://volny.github.io/creative-theme-jekyll/){:target="_blank"}{:rel="noopener"}
 
@@ -92,7 +92,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 11. HMFAYSAL Omega Jekyll Teması
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-11.png" imagealt="HMFAYSAL Omega Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-11.png" imagealt="HMFAYSAL Omega Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/hmfaysal/hmfaysal-omega-theme){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](http://hmfaysal.github.io/hmfaysal-omega-theme/){:target="_blank"}{:rel="noopener"}
 
@@ -100,7 +100,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 12. Freelancer Jekyll Teması
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-12.png" imagealt="Freelancer Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-12.png" imagealt="Freelancer Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/jeromelachaud/freelancer-theme){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](https://jeromelachaud.github.io/freelancer-theme/){:target="_blank"}{:rel="noopener"}
 
@@ -108,7 +108,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 13. So Simple Jekyll Teması
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-13.png" imagealt="So Simple Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-13.png" imagealt="So Simple Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/mmistakes/so-simple-theme/){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](https://mmistakes.github.io/so-simple-theme){:target="_blank"}{:rel="noopener"}
 
@@ -116,7 +116,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 14. Skinny Bones Jekyll Teması
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-14.png" imagealt="Skinny Bones Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-14.png" imagealt="Skinny Bones Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/mmistakes/skinny-bones-jekyll/){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](https://mmistakes.github.io/skinny-bones-jekyll/){:target="_blank"}{:rel="noopener"}
 
@@ -124,7 +124,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 15. Thomasjbradley Jekyll Teması
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-15.png" imagealt="Thomasjbradley Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-15.png" imagealt="Thomasjbradley Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/thomasjbradley/thomasjbradley.ca){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](https://thomasjbradley.ca/){:target="_blank"}{:rel="noopener"}
 
@@ -132,7 +132,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 16. Jalpc Jekyll Teması
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-16.png" imagealt="Jalpc Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-16.png" imagealt="Jalpc Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/Jack614/jalpc_jekyll_theme){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](http://www.jack003.com/){:target="_blank"}{:rel="noopener"}
 
@@ -140,7 +140,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 17. Pixyll Jekyll Teması
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-17.png" imagealt="Pixyll Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-17.png" imagealt="Pixyll Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/johnotander/pixyll){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](http://pixyll.com/){:target="_blank"}{:rel="noopener"}
 
@@ -148,7 +148,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 18. Notepad Jekyll Teması
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-18.png" imagealt="Notepad Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-18.png" imagealt="Notepad Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/hmfaysal/Notepad){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](http://hmfaysal.me/Notepad/){:target="_blank"}{:rel="noopener"}
 
@@ -156,7 +156,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 19. Labrador Jekyll Teması
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-19.png" imagealt="Labrador Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-19.png" imagealt="Labrador Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/donini/labrador-jekyll-theme){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](https://donini.github.io/labrador-jekyll-theme/){:target="_blank"}{:rel="noopener"}
 
@@ -164,6 +164,6 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 ### 20. Jackal Jekyll Teması
 
-{% include picture.html image="/images/galeri/kisisel-jekyll-temalari-20.png" imagealt="Jackal Jekyll Teması" %}
+{% include picture.html i_image="/images/galeri/kisisel-jekyll-temalari-20.png" imagealt="Jackal Jekyll Teması" %}
 
 [👍 Kaynak](https://github.com/clenemt/jackal){:target="_blank"}{:rel="noopener"} | [⚡️ Demo](https://clenemt.github.io/jackal/){:target="_blank"}{:rel="noopener"}

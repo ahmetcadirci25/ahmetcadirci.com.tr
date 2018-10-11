@@ -12,7 +12,7 @@ Kodlar Windows'u temel alır, ancak 2. adımdan itibaren diğer işletim sisteml
 
 #### 1. Adım:
 
-{% include picture.html image="/images/galeri/hosts-dosyasi.png" imagealt="hosts dosyası" %}
+{% include picture.html i_image="/images/galeri/hosts-dosyasi.png" imagealt="hosts dosyası" %}
 
 
 Aşağıdaki dosya dizinine gidin.
@@ -54,7 +54,7 @@ Dosyanın altına gidin ve bu kodu kopyalayıp yapıştırın:
 
 * `C:/xampp/htdocs/wordpress/` dosyalarınızın bulunduğu klasöre değiştirin.
 
-{% include picture.html image="/images/galeri/httpd-vhosts-conf-dosyasi.png" imagealt="httpd-vhosts.conf dosyası" %}
+{% include picture.html i_image="/images/galeri/httpd-vhosts-conf-dosyasi.png" imagealt="httpd-vhosts.conf dosyası" %}
 
 #### 4. Adım:
 
@@ -62,7 +62,7 @@ Apache'yi XAMPP'de durdurun, 5 saniye bekleyin, ardından "Başlat" a tıklayara
 
 Her şey iyi giderse tarayıcınıza açın. `wordpress.dev` yazın veya oluşturduğunuz alan adı uzantısını girin.
 
-{% include picture.html image="/images/xampp-kullanarak-yerel-ana-makinenize-ozel-alan-adi-dev-olusturma.png" imagealt="wordpress.dev domain uzantısı chrome ekran görüntüsü" %}
+{% include picture.html i_image="/images/xampp-kullanarak-yerel-ana-makinenize-ozel-alan-adi-dev-olusturma.png" imagealt="wordpress.dev domain uzantısı chrome ekran görüntüsü" %}
 
 #### XAMPP Nedir?
 

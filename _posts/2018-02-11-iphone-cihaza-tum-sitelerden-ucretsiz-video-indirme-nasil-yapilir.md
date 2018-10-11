@@ -79,7 +79,7 @@ Kurulum videosunda AppStore arama kutucuğuna ~~**Vida**~~ yerine **DoDa+** yazm
 8. İndirme işlemi biten videoları **Downloaded Video** kısmında görüntüleyerebilirsiniz. 
 9. **Share** butonuna tıklayın. Videoyu fotoğraflara kaydetmek için **Save Video** butonuna tıklayın.
 
-{% include picture.html image="/images/galeri/iphonea-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir.png" imagealt="Video İndirme Aşamaları" %}
+{% include picture.html i_image="/images/galeri/iphonea-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir.png" imagealt="Video İndirme Aşamaları" %}
 
 #### YouTube'dan İndirilen Videoyu Ses (mp3) Formatına Çevirme Nasıl Yapılır?
 

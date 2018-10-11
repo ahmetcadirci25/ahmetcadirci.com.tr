@@ -24,7 +24,7 @@ Paket Kontrol kurulumu tamamlandı. Şimdi eklentiyi kurabiliriz.
 
 ### 1. MarkdownEditing Kurulumu
 
-{% include picture.html image="/images/markdownediting-kurulum.png" imagealt="MarkdownEditing Kurulum Ekranı" %}
+{% include picture.html i_image="/images/markdownediting-kurulum.png" imagealt="MarkdownEditing Kurulum Ekranı" %}
 
 **Windows** ve **Lunix** için `CTRL+SHIFT+P` tuşuna, 
 **MAC** için `CMD+SHIFT+P` tuşana basın daha sonra açılan pencereye **MarkdownEditing** yazın ve üzerine tıklayın.
@@ -33,7 +33,7 @@ Sublime Text'i tekrar kapatın ve açın.
 
 ### 2. Markdown Preview Kurulumu
 
-{% include picture.html image="/images/galeri/markdown-preview-kurulum.png" imagealt="Markdown Preview Kurulum Ekranı" %}
+{% include picture.html i_image="/images/galeri/markdown-preview-kurulum.png" imagealt="Markdown Preview Kurulum Ekranı" %}
 
 **Windows** ve **Lunix** için `CTRL+SHIFT+P` tuşuna, 
 **MAC** için `CMD+SHIFT+P` tuşana basın daha sonra açılan pencereye **Markdown Preview** yazın ve üzerine tıklayın.
@@ -42,4 +42,4 @@ Sublime Text'i tekrar kapatın ve açın.
 
 Markdown metin düzenledikten sonra önizleme yapmak için `CTRL+SHIFT+P` tuşana basın ve `Markdown Preview` yazın ve `Enter` tuşana basın. Bu sayede önizlemeyi görebilirsiniz. 
 
-{% include picture.html image="/images/galeri/markdown-preview-onizleme-ekrani.png" imagealt="Markdown Preview Önizleme Ekranı" %}
+{% include picture.html i_image="/images/galeri/markdown-preview-onizleme-ekrani.png" imagealt="Markdown Preview Önizleme Ekranı" %}

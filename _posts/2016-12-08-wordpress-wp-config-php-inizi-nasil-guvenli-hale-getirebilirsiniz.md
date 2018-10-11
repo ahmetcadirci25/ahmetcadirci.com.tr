@@ -20,19 +20,19 @@ Wp-config.php dosyasını açarsak ve içeriğe bakarsak, bazı hassas bilgiler 
 
 Birincisi, kurulum sırasında girdiğiniz veritabanınıza erişim sağlayan tüm bilgileri içerir.
 
-{% include picture.html image="/images/galeri/wordpress-wp-config-php.png" imagealt="wp-config.php'nin İçeriği" %}
+{% include picture.html i_image="/images/galeri/wordpress-wp-config-php.png" imagealt="wp-config.php'nin İçeriği" %}
 
 Veritabanı adını, kullanıcı adını, parolayı tutar; bu veritabanına erişebilmek için ihtiyacınız olan her şey. Tahayyül edebileceğiniz gibi, bu dosyayı korumak çok önemlidir, çünkü birisi bu dosyanın içeriğini okuyabiliyorsa, veritabanınıza girip istedikleri her şeyi yapabilir.
 
 Aşağıda, bir dizi gizli anahtar var.
 
-{% include picture.html image="/images/galeri/wordpress-secret-key-salt.png" imagealt="WordPress Secret Key Salt" %}
+{% include picture.html i_image="/images/galeri/wordpress-secret-key-salt.png" imagealt="WordPress Secret Key Salt" %}
 
 Bu anahtar web sitenizi güvenli hale getirmeye yardımcı olmak için çeşitli şekillerde çalışır. 
 
 Aşağıda, güvenlikle ilgili çok önemli bilgilerin bir başka parçası olan tablo öneki bulunmaktadır.
 
-{% include picture.html image="/images/galeri/wordpress-tablo-on-eki.png" imagealt="WordPress Tablo Ön Eki" %}
+{% include picture.html i_image="/images/galeri/wordpress-tablo-on-eki.png" imagealt="WordPress Tablo Ön Eki" %}
 
 **wp-config.php'yi Güvenli Hale Getirme**
 
