@@ -2024,8 +2024,8 @@ fieldset[disabled] .btn-default:hover {
     border-color: #ccc
 }
 
-.btn-primary {
-    color: #fff
+.white {
+    color: #fff;
 }
 
 .btn-primary.active,
@@ -5024,7 +5024,8 @@ body.search-mode .search-panel {
     border: 1px solid #51ab6d;
     background: -webkit-gradient(linear, left top, left bottom, from(#51ab6d), to(#418857));
     background: -webkit-linear-gradient(top, #51ab6d, #418857);
-    background: linear-gradient(to bottom, #51ab6d, #418857)
+    background: linear-gradient(to bottom, #51ab6d, #418857);
+    color: #fff;
 }
 
 .btn-primary:hover {
