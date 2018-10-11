@@ -18,7 +18,7 @@ Sublime Text editörüne Markdown eklentisi yüklemesinin nasıl yapıldığın�
 
 ### [1. Sublime Text](https://www.sublimetext.com){:target="_blank"}{:rel="noopener"}
 
-![Sublime Text]({{site.url}}/images/galeri/sublime-text-kod-editoru.png "Sublime Text")
+{% include picture.html image="/images/galeri/sublime-text-kod-editoru.png" imagealt="Sublime Text" %}
 
 **Geliştirici:**
 
@@ -32,7 +32,7 @@ Sublime Text editörüne Markdown eklentisi yüklemesinin nasıl yapıldığın�
 
 ### [2. Atom](https://atom.io/){:target="_blank"}{:rel="noopener"}
 
-![Atom]({{site.url}}/images/galeri/atom-io-kod-editoru.png "Atom")
+{% include picture.html image="/images/galeri/atom-io-kod-editoru.png" imagealt="Atom" %}
 
 **Geliştirici:**
 
@@ -46,7 +46,7 @@ Sublime Text editörüne Markdown eklentisi yüklemesinin nasıl yapıldığın�
 
 ### [3. Brackets](http://brackets.io/){:target="_blank"}{:rel="noopener"}
 
-![Brackets]({{site.url}}/images/galeri/brackets-kod-editoru.png "Brackets")
+{% include picture.html image="/images/galeri/brackets-kod-editoru.png" imagealt="Brackets" %}
 
 **Geliştirici:**
 
@@ -60,7 +60,7 @@ Sublime Text editörüne Markdown eklentisi yüklemesinin nasıl yapıldığın�
 
 ### [4. Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}{:rel="noopener"}
 
-![Visual Studio Code]({{site.url}}/images/galeri/visual-studio-kod-editoru.png "Visual Studio Code")
+{% include picture.html image="/images/galeri/visual-studio-kod-editoru.png" imagealt="Visual Studio Code" %}
 
 **Geliştirici:**
 
@@ -74,7 +74,7 @@ Sublime Text editörüne Markdown eklentisi yüklemesinin nasıl yapıldığın�
 
 ### [5. Notepad++](https://notepad-plus-plus.org/){:target="_blank"}{:rel="noopener"}
 
-![Notepad++]({{site.url}}/images/galeri/notepad-kod-editoru.png "Notepad++")
+{% include picture.html image="/images/galeri/notepad-kod-editoru.png" imagealt="Notepad++" %}
 
 **Geliştirici:**
 

@@ -4,7 +4,12 @@
           <div class="widget-author  boxed  push-down-30">
             <div class="widget-author__image-container">
               <div class="widget-author__avatar--blurred">
-                <img src="{{ "/images/hakkimizda.png" | prepend: site.url }}" alt="{{ site.author.name }}">
+
+                <picture>
+                  <source type="image/webp" srcset="{{ "/images/hakkimizda.png" | prepend: site.url | replace: 'png', 'webp' }}" alt="{{ site.author.name }}">
+                  <img src="{{ "/images/hakkimizda.png" | prepend: site.url }}" alt="{{ site.author.name }}">
+                </picture>
+
               </div>
               <img class="widget-author__avatar" src="{{ "/images/avatar.svg" | prepend: site.url }}" alt="{{ site.author.name }}" width="90" height="90">
             </div>
@@ -43,17 +48,20 @@
              
               <div class="col-xs-10  col-xs-offset-1">
 
-                <!-- Widget featured 
+                <!-- Widget featured -->
                 {% assign random = site.time | date: "%s%N" | modulo: site.posts.size %}
                 <div class="widget-featured-post  push-down-30">
                   <h4>Öne Çıkan Yazı</h4>
                   <hr>
-                  <img src="{{ site.url }}/images/loading.gif" data-src="{{ site.url }}/images/{{ site.posts[random].image }}" alt="{{ post.title }}" class="lazyload" height="127">
-                  <h5>
-                    <a href="{{ site.url }}{{ site.posts[random].url }}">{{ site.posts[random].title }}</a> 
-                  </h5>
-                </div>-->
 
+                  <h5 class="push-down-0 push-up-0"><a href="{{ site.url }}{{ site.posts[random].url }}">{{ site.posts[random].title }}</a> </h5>
+                  <p class="push-down-10"><svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg> {{ site.posts[random].date | date: "%d.%m.%Y" }}</p> 
+                  <picture>
+                    <source type="image/webp" class="wp-post-image" srcset="{{ site.url }}{{site.posts[random].image | replace: 'png', 'webp'}}" alt="{{ site.posts[random].title }}">
+                    <img class="wp-post-image" src="{{ site.url }}{{site.posts[random].image}}" alt="{{ site.posts[random].title }}">
+                  </picture>
+                </div>
+                
 
                 <!-- Widget categories -->
                 <div class="widget-categories  push-down-30">
@@ -65,13 +73,12 @@
                       {% endfor %}
                   </ul>
                 </div>
-                
-                <!-- Widget posts -->
+
+                 <!-- Widget posts
                 <div class="widget-posts  push-down-30">
                   <h4>En Son Eklenen Yazılar</h4>
                   <hr>
 
-                  <!-- Tab panes -->
                   <div class="tab-content">
                     <div id="recent-posts">
                       
@@ -87,7 +94,9 @@
                     </div>
                     
                   </div>
-                </div>
+                   -->
+
+
                 <div class="tags  widget-tags">
                   <h4>Etiketler</h4>
                   <hr>

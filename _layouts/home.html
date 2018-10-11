@@ -14,7 +14,12 @@ layout : default
 
                   <!-- Featured image and meta start -->
                   <div class="meta">
-                    <img class="wp-post-image lazyload" src="{{ site.url }}/images/loading.gif" data-src="{{ site.url }}{{post.image}}" alt="{{ post.title }}">                    
+
+                    <picture>
+                      <source type="image/webp" class="wp-post-image" srcset="{{ site.url }}{{post.image | replace: 'png', 'webp'}}" alt="{{ post.title }}">
+                      <img class="wp-post-image" src="{{ site.url }}{{post.image}}" alt="{{ post.title }}">
+                    </picture>
+
                     <div class="meta__container">
                       <div class="row">
                         <div class="col-xs-12  col-sm-10">

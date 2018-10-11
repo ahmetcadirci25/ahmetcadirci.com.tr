@@ -14,43 +14,43 @@ Bu acıyı tarif edecek kelime hiçbir dilde yok. Suriyede savaş yapılmıyor, 
 
 **15 Mart 2011-günümüz...**
 
-![Onlar Sadece Çocuk... - Suriye]({{site.url}}/images/galeri/VU9yNuH.png "Onlar Sadece Çocuk... - Suriye")
+{% include picture.html image="/images/galeri/VU9yNuH.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
-![Onlar Sadece Çocuk... - Suriye]({{site.url}}/images/galeri/IBrY4tj.png "Onlar Sadece Çocuk... - Suriye")
+{% include picture.html image="/images/galeri/IBrY4tj.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
-![Onlar Sadece Çocuk... - Suriye]({{site.url}}/images/galeri/f1D73fL.png "Onlar Sadece Çocuk... - Suriye")
+{% include picture.html image="/images/galeri/f1D73fL.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
-![Onlar Sadece Çocuk... - Suriye]({{site.url}}/images/galeri/IMzaeTA.png "Onlar Sadece Çocuk... - Suriye")
+{% include picture.html image="/images/galeri/IMzaeTA.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
-![Onlar Sadece Çocuk... - Suriye]({{site.url}}/images/galeri/YhnTxk0.png "Onlar Sadece Çocuk... - Suriye")
+{% include picture.html image="/images/galeri/YhnTxk0.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
-![Onlar Sadece Çocuk... - Suriye]({{site.url}}/images/galeri/7NVkvCy.png "Onlar Sadece Çocuk... - Suriye")
+{% include picture.html image="/images/galeri/7NVkvCy.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
-![Onlar Sadece Çocuk... - Suriye]({{site.url}}/images/galeri/dZcp0NL.png "Onlar Sadece Çocuk... - Suriye")
+{% include picture.html image="/images/galeri/dZcp0NL.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
-![Onlar Sadece Çocuk... - Suriye]({{site.url}}/images/galeri/kjNd5Tb.png "Onlar Sadece Çocuk... - Suriye")
+{% include picture.html image="/images/galeri/kjNd5Tb.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
-![Onlar Sadece Çocuk... - Suriye]({{site.url}}/images/galeri/gBQAXuv.png "Onlar Sadece Çocuk... - Suriye")
+{% include picture.html image="/images/galeri/gBQAXuv.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
-![Onlar Sadece Çocuk... - Suriye]({{site.url}}/images/galeri/kfrEy2H.png "Onlar Sadece Çocuk... - Suriye")
+{% include picture.html image="/images/galeri/kfrEy2H.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
