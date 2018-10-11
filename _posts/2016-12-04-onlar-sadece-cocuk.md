@@ -14,43 +14,43 @@ Bu acıyı tarif edecek kelime hiçbir dilde yok. Suriyede savaş yapılmıyor, 
 
 **15 Mart 2011-günümüz...**
 
-{% include picture.html i_image="/images/galeri/VU9yNuH.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
+{% include picture.html image_id="/images/galeri/VU9yNuH.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
-{% include picture.html i_image="/images/galeri/IBrY4tj.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
+{% include picture.html image_id="/images/galeri/IBrY4tj.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
-{% include picture.html i_image="/images/galeri/f1D73fL.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
+{% include picture.html image_id="/images/galeri/f1D73fL.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
-{% include picture.html i_image="/images/galeri/IMzaeTA.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
+{% include picture.html image_id="/images/galeri/IMzaeTA.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
-{% include picture.html i_image="/images/galeri/YhnTxk0.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
+{% include picture.html image_id="/images/galeri/YhnTxk0.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
-{% include picture.html i_image="/images/galeri/7NVkvCy.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
+{% include picture.html image_id="/images/galeri/7NVkvCy.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
-{% include picture.html i_image="/images/galeri/dZcp0NL.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
+{% include picture.html image_id="/images/galeri/dZcp0NL.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
-{% include picture.html i_image="/images/galeri/kjNd5Tb.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
+{% include picture.html image_id="/images/galeri/kjNd5Tb.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
-{% include picture.html i_image="/images/galeri/gBQAXuv.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
+{% include picture.html image_id="/images/galeri/gBQAXuv.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 
-{% include picture.html i_image="/images/galeri/kfrEy2H.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
+{% include picture.html image_id="/images/galeri/kfrEy2H.png" imagealt="Onlar Sadece Çocuk... - Suriye" %}
 
 * * * 
 

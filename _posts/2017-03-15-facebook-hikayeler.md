@@ -46,7 +46,7 @@ Güzel bir içerik oluşturdunuz, bir sonraki adım hikayenizi paylaşmaktır. B
 
 Hikayenle bir yazı paylaştıktan sonra, Snapchat ve Instagram Hikayeleri'nin çalıştığı gibi, 24 saat boyunca gösterilecek. Bir Facebook Hikayeleri'nde yayınlanan videolar ve fotoğraflar, haber akışına veya varsayılan olarak bir kullanıcının zaman çizelgesinde gösterilmeyecek, ancak kullanıcılar isterlerse haber akışını da paylaşmayı seçebilirler.
 
-{% include picture.html i_image="/images/galeri/facebook-hikayeler-24-saat.png" imagealt="Facebook Hikayeleri 24 Saat Sonra Yok Olur" %}
+{% include picture.html image_id="/images/galeri/facebook-hikayeler-24-saat.png" imagealt="Facebook Hikayeleri 24 Saat Sonra Yok Olur" %}
 
 ### Kaynakça
 1. Instagram. 15 Mart 2017. https://tr.wikipedia.org/wiki/Instagram.

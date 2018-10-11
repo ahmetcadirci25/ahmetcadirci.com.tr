@@ -43,7 +43,7 @@ hataları düzeltebilmek
 
 #### Arduino Uno R3 + USB Kablo
 
-{% include picture.html i_image="/images/arduino-uno-r3-usb-kablo.png" imagealt="Arduino Uno R3 + USB Kablo" %}
+{% include picture.html image_id="/images/arduino-uno-r3-usb-kablo.png" imagealt="Arduino Uno R3 + USB Kablo" %}
 
 **Teknik Özellikler:**
 
@@ -57,7 +57,7 @@ hataları düzeltebilmek
 
 #### Arduino IDE
 
-{% include picture.html i_image="/images/galeri/arduino-ide.png" imagealt="Arduino IDE" %}
+{% include picture.html image_id="/images/galeri/arduino-ide.png" imagealt="Arduino IDE" %}
 
 * Son sürümüne [www.arduino.cc](http://www.arduino.cc){:target="_blank"}{:rel="noopener"} resmi internet sitesinden ulaşabilirsiniz.
 * Tamamen ücretsizdir
@@ -95,7 +95,7 @@ Bunun gibi sistem tasarımında dezavantaj getirebilecek herhangi bir durumda mi
 
 #### Gömülü Sistemlerdeki Genel Kontrol Yapısı
 
-{% include picture.html i_image="/images/galeri/gomulu-sistemlerdeki-genel-kontrol-yapisi.png" imagealt="Gömülü Sistemlerdeki Genel Kontrol Yapısı" %}
+{% include picture.html image_id="/images/galeri/gomulu-sistemlerdeki-genel-kontrol-yapisi.png" imagealt="Gömülü Sistemlerdeki Genel Kontrol Yapısı" %}
 
 #### Kontrol Edilebilir Sistemler
 
@@ -114,7 +114,7 @@ Bunun gibi sistem tasarımında dezavantaj getirebilecek herhangi bir durumda mi
 * Vücudumuz iletkendir ve genellikle tahtadan daha yumuşaktır. Bu iki
 ipucu problemin çözülmesinde bizlere yardımcı olabilir.
 
-{% include picture.html i_image="/images/galeri/akilli-testere.png" imagealt="Akıllı Testere" %}
+{% include picture.html image_id="/images/galeri/akilli-testere.png" imagealt="Akıllı Testere" %}
 
 * Akıllı testere kesici kısmına ufak bir elektrik sinyali uygulayabilir.
 * Sensör ve DSP sayesinde sinyal izlenebilir.

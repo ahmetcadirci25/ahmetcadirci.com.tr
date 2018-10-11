@@ -18,7 +18,7 @@ comments   : true
 
 ### İçe Aktarma (Import)
 
-{% include picture.html i_image="/images/galeri/feedly-rss-ice-aktarma-import.png" imagealt="Feedly İçe Aktarma (Import)" %}
+{% include picture.html image_id="/images/galeri/feedly-rss-ice-aktarma-import.png" imagealt="Feedly İçe Aktarma (Import)" %}
 
 1. [http://feedly.com/i/cortex](http://feedly.com/i/cortex){:target="_blank"}{:rel="noopener"} bağlantıya tıklayın.
 2. İçe aktarmak isteğiniz **OPML** uzantılı dosyayı açılan sayfadaki **Dosya Seç** kısmından ekleyin.
@@ -28,7 +28,7 @@ comments   : true
 
 ### Dışa Aktarma (Export)
 
-{% include picture.html i_image="/images/galeri/feedly-rss-disa-aktarma-export.png" imagealt="Feedly Dışa Aktarma (Export)" %}
+{% include picture.html image_id="/images/galeri/feedly-rss-disa-aktarma-export.png" imagealt="Feedly Dışa Aktarma (Export)" %}
 
 1. [http://feedly.com/i/opml](http://feedly.com/i/opml){:target="_blank"}{:rel="noopener"} bağlantıya tıklayın.
 2. Daha sonra **DOWNLOAD YOUR FEEDLY OPML** tuşuna basın.
@@ -37,7 +37,7 @@ comments   : true
 
 ### RSS Organize Etme
 
-{% include picture.html i_image="/images/galeri/feedly-rss-organize-etme.png" imagealt="Feedly RSS Organize Etme" %}
+{% include picture.html image_id="/images/galeri/feedly-rss-organize-etme.png" imagealt="Feedly RSS Organize Etme" %}
 
 1. [https://feedly.com/i/contents/edit](https://feedly.com/i/contents/edit){:target="_blank"}{:rel="noopener"} bağlantıya tıklayın.
 2. Yeni Koleksiyon ekleyebilirsiniz.
@@ -49,7 +49,7 @@ comments   : true
 
 ### Feedly Uygulamaları
 
-{% include picture.html i_image="/images/galeri/feedly-android-ios-uygulamalari.png" imagealt="Feedly Android ve iOS Uygulamları" %}
+{% include picture.html image_id="/images/galeri/feedly-android-ios-uygulamalari.png" imagealt="Feedly Android ve iOS Uygulamları" %}
 
 1. [Web](https://feedly.com){:target="_blank"}{:rel="noopener"}
 2. [Android](https://play.google.com/store/apps/details?id=com.devhd.feedly){:target="_blank"}{:rel="noopener"}
@@ -59,7 +59,7 @@ comments   : true
 
 ### Sitene Feedly Düğmesi Ekle
 
-{% include picture.html i_image="/images/galeri/sitene-feedly-dugmesi-ekle.png" imagealt="Sitene Feedly Düğmesi Ekle" %}
+{% include picture.html image_id="/images/galeri/sitene-feedly-dugmesi-ekle.png" imagealt="Sitene Feedly Düğmesi Ekle" %}
 
 1. [http://feedly.com/factory.html](http://feedly.com/factory.html){:target="_blank"}{:rel="noopener"} bağlantıya tıklayın.
 2. Birinci adımda tasarımı seçin.
