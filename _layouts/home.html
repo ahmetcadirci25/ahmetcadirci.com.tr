@@ -24,8 +24,8 @@ layout : default
                       <div class="row">
                         <div class="col-xs-12  col-sm-10">
                           <div class="meta__info">
-                            <!--<span class="meta__author"><svg class="icon icon-user"><use xlink:href="#icon-user"></use></svg> <a href="{{ site.url }}" title="{{ site.author.name }}">{{ site.author.name }} </a>   
-                            </span> -->
+                            <span class="meta__author"><svg class="icon icon-user"><use xlink:href="#icon-user"></use></svg> <a href="{{ site.url }}" title="{{ site.author.name }}">{{ site.author.name }} </a>   
+                            </span> 
                             <span class="meta__categories"><svg class="icon icon-list"><use xlink:href="#icon-list"></use></svg>  &nbsp; {% for categories in post.categories limit:1 %}<a href="{{ site.url }}/kategoriler/#{{ categories }}">{{ categories }}</a> {% endfor %} </span>
                             <span class="meta__date"><svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>   &nbsp; {{ post.date | date: "%d.%m.%Y" }}</span> 
                           </div>
