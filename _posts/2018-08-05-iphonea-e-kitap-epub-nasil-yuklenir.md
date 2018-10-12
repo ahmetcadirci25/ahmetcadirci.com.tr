@@ -21,7 +21,7 @@ iPhone, iPad ve iPod cihazımıza herhangi bir e-kitap uygulaması kurmadan mevu
 
 Adımları aşağıda yer alan resme tıklayarak detaylı bir şekilde görebilirsiniz.
 
-{% include picture.html image_id="/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png" imagealt="EPUB Uzantılı Kitabı Kitaplar Books Uygulamasına Nasıl Aktarılır?" link="https://ahmetcadirci.com.tr/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png" %}
+{% include picture.html image_id="/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png" imagealt="EPUB Uzantılı Kitabı Kitaplar Books Uygulamasına Nasıl Aktarılır?" link="/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png" %}
 
 *Resmi büyütmek için [tıklayın]({{site.url}}/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png){:target="_blank"}{:rel="noopener"}*
 
