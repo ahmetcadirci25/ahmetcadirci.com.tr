@@ -56,10 +56,12 @@
 
                   <h5 class="push-down-0 push-up-0"><a href="{{ site.url }}{{ site.posts[random].url }}">{{ site.posts[random].title }}</a> </h5>
                   <p class="push-down-10"><svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg> {{ site.posts[random].date | date: "%d.%m.%Y" }}</p> 
-                  <picture>
-                    <source type="image/webp" class="wp-post-image" srcset="{{ site.url }}{{site.posts[random].image | replace: 'png', 'webp'}}" alt="{{ site.posts[random].title }}">
-                    <img class="wp-post-image" src="{{ site.url }}{{site.posts[random].image}}" alt="{{ site.posts[random].title }}">
-                  </picture>
+                  <a href="{{ site.url }}{{ site.posts[random].url }}">
+                    <picture>
+                      <source type="image/webp" class="wp-post-image" srcset="{{ site.url }}{{site.posts[random].image | replace: 'png', 'webp'}}" alt="{{ site.posts[random].title }}">
+                      <img class="wp-post-image" src="{{ site.url }}{{site.posts[random].image}}" alt="{{ site.posts[random].title }}">
+                    </picture>
+                  </a>
                 </div>
                 
 
