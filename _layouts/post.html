@@ -17,7 +17,7 @@ layout: default
             <div class="row">
               <div class="col-xs-12  col-sm-10">
                 <div class="meta__info">
-                  <span class="meta__author"><svg class="icon icon-user"><use xlink:href="#icon-user"></use></svg> <a href="{{ site.url }}">{{ site.author.name }} </a>   
+                  <span class="meta__author"><svg class="icon icon-hourglass-1"><use xlink:href="#icon-hourglass-1"></use></svg> {{ content | reading_time_as_i | replace: 'minutes', 'Dakika'  }}
                   </span> 
                   <span class="meta__categories"><svg class="icon icon-list"><use xlink:href="#icon-list"></use></svg>  &nbsp; {% for categories in page.categories %}<a href="{{ site.url }}/kategoriler/#{{ categories }}">{{ categories }}</a>, {% endfor %} </span>
                   <span class="meta__date"><svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>   &nbsp; {{ page.date | date: "%d.%m.%Y" }}</span> 

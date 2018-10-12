@@ -72,5 +72,5 @@ podcast:
   summary: >
     En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzerinden ulaşabilirsiniz.
         
-plugins: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-seo-tag']
+plugins: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-seo-tag', 'jekyll-time-to-read']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
