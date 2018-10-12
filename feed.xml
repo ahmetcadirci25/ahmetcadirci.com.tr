@@ -32,7 +32,7 @@ sitemap: false
         &lt;td&gt;
         &lt;p style="margin: 0 0 5px 0;"&gt;&lt;strong&gt;Ahmet Çadırcı&lt;/strong&gt;&lt;/p&gt;
         &lt;p style="margin: 0 0 5px 0;"&gt;&lt;a href="{{site.url}}"&gt;Diğer yazılar için tıklayın.&lt;/a&gt;&lt;/p&gt;
-        &lt;p style="margin: 0 0 5px 0;"&gt;&lt;a href="{{site.url}}/rss"&gt;RSS&lt;/a&gt; | &lt;a href="{{site.url}}/podcast"&gt;Podcast&lt;/a&gt; | &lt;a href="{{site.url}}/github"&gt;Github&lt;/a&gt; | &lt;a href="{{site.url}}/codepen"&gt;Codepen&lt;/a&gt;&lt;/p&gt;
+        &lt;p style="margin: 0 0 5px 0;"&gt;&lt;a href="{{site.url}}/r/rss"&gt;RSS&lt;/a&gt; | &lt;a href="{{site.url}}/r/podcast"&gt;Podcast&lt;/a&gt; | &lt;a href="{{site.url}}/r/github"&gt;Github&lt;/a&gt; | &lt;a href="{{site.url}}/r/codepen"&gt;Codepen&lt;/a&gt;&lt;/p&gt;
         &lt;/td&gt;
         &lt;/tr&gt;
         &lt;/table&gt;

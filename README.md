@@ -6,24 +6,24 @@
 
 [Ahmet Çadırcı](https://ahmetcadirci.com.tr) kişisel web sitem... Web geliştirici ve interneti seven kişi...
 
-Web sitemde yayınlanan en güncel yazıları [RSS](https://ahmetcadirci.com.tr/rss) ve [E-Bülten](https://ahmetcadirci.com.tr/ebulten) ile takip edebilirsiniz:
-- [RSS](https://ahmetcadirci.com.tr/rss)
-- [Podcast RSS](https://ahmetcadirci.com.tr/podcast)
-- [E-Bülten](https://ahmetcadirci.com.tr/ebulten)
+Web sitemde yayınlanan en güncel yazıları [RSS](https://ahmetcadirci.com.tr/r/rss) ve [E-Bülten](https://ahmetcadirci.com.tr/r/ebulten) ile takip edebilirsiniz:
+- [RSS](https://ahmetcadirci.com.tr/r/rss)
+- [Podcast RSS](https://ahmetcadirci.com.tr/r/podcast)
+- [E-Bülten](https://ahmetcadirci.com.tr/r/ebulten)
 
 Kod paylaşımlarımı için etmek için:
-- [GitHub](https://ahmetcadirci.com.tr/github)
-- [Codepen](https://ahmetcadirci.com.tr/codepen)
-- [Dev.to](https://ahmetcadirci.com.tr/devto)
+- [GitHub](https://ahmetcadirci.com.tr/r/github)
+- [Codepen](https://ahmetcadirci.com.tr/r/codepen)
+- [Dev.to](https://ahmetcadirci.com.tr/r/devto)
 
 Video ve Fotoğrafları takip etmek için:
-- [Vimeo](https://ahmetcadirci.com.tr/vimeo)
-- [Flickr](https://ahmetcadirci.com.tr/flickr)
-- [Unsplash](https://ahmetcadirci.com.tr/unsplash)
-- [Pinterest](https://ahmetcadirci.com.tr/pinterest)
+- [Vimeo](https://ahmetcadirci.com.tr/r/vimeo)
+- [Flickr](https://ahmetcadirci.com.tr/r/flickr)
+- [Unsplash](https://ahmetcadirci.com.tr/r/unsplash)
+- [Pinterest](https://ahmetcadirci.com.tr/r/pinterest)
 
 Sosyal paylaşımlarımı takip etmek için:
-- [Reddit](https://ahmetcadirci.com.tr/reddit)
+- [Reddit](https://ahmetcadirci.com.tr/r/reddit)
 
 ---
 

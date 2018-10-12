@@ -35,8 +35,8 @@ FeedBurner hesabınızdaki beslemeleri nasıl güncel hale getirebilirim. Feed d
 
 Web sitenin güncel yazılarını takip edebilirsiniz.
 
-[{{site.url}}/rss]({{site.url}}/rss){:target="_blank"}{:rel="noopener"}
+[{{site.url}}/r/rss]({{site.url}}/r/rss){:target="_blank"}{:rel="noopener"}
 
 Web sitenin güncel podcast ve video yayınlarını takip edebilirsiniz.
 
-[{{site.url}}/podcast]({{site.url}}/podcast){:target="_blank"}{:rel="noopener"}
+[{{site.url}}/r/podcast]({{site.url}}/r/podcast){:target="_blank"}{:rel="noopener"}
