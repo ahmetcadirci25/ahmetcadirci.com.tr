@@ -1,4 +1,1 @@
-<picture>
-<source class="wp-post-image" type="image/webp" srcset="{{ site.url }}{{ include.image_id | replace: 'png', 'webp' }}" alt="{{ include.imagealt }}">
-<img class="wp-post-image" src="{{ site.url }}{{ include.image_id }}" alt="{{ include.imagealt }}">
-</picture>
+{% if include.link %}<a href="{{ include.link }}" title="{{ include.imagealt }}">{% endif %}<picture><source class="wp-post-image" type="image/webp" srcset="{{ site.url }}{{ include.image_id | replace: 'png', 'webp' }}" alt="{{ include.imagealt }}"><img class="wp-post-image" src="{{ site.url }}{{ include.image_id }}" alt="{{ include.imagealt }}"></picture>{% if include.link %}</a>{% endif %}
