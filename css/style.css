@@ -5986,4 +5986,5 @@ input#gsc-i-id1.gsc-input:-ms-input-placeholder {
   stroke-width: 0;
   stroke: currentColor;
   fill: currentColor;
+  margin-bottom: -2px;
 }
