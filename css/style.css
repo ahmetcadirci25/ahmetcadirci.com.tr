@@ -5971,6 +5971,14 @@ input#gsc-i-id1.gsc-input:-ms-input-placeholder {
      background:white;
 }
 
+[name *= "dsq-"]:first-child{
+    display: none!important;
+}
+
+[name *= "dsq-"]:last-child{
+    display: block!important;
+}
+
 .icon {
   display: inline-block;
   width: 1em;
