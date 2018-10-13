@@ -375,5 +375,5 @@ input#gsc-i-id1.gsc-input::-moz-placeholder{color:transparent}input#gsc-i-id1.gs
 .search-button{border:1px solid #51ab6d;border-radius:2px;margin:18px 0 18px 15px;background:-webkit-gradient(linear,left top,left bottom,from(#51ab6d),to(#419a5c));background:-webkit-linear-gradient(top,#51ab6d 0,#419a5c 100%);background:linear-gradient(to bottom,#51ab6d 0,#419a5c 100%);position:relative;float:right;padding:7px 13px 6px 13px;color:#fff}
 .search-button .icon-search{color:#fff}.search-widget{padding:30px 0 30px 0}.social-fixed-bar{display:none}@media only screen and (max-width:480px){#onesignal-bell-container.onesignal-reset .onesignal-bell-launcher.onesignal-bell-launcher-bottom-right{bottom:50px!important}
 }#disqus_thread{position:relative;overflow:hidden;margin-bottom:-50px}#disqus_thread:after{content:"";display:block;height:55px;width:100%;position:absolute;bottom:0;background:white}
-[name *= "dsq-"]:first-child{display:none!important}[name *= "dsq-"]:last-child{display:block!important}
+[name *= "dsq-"]:first-child,[id *= "dsq-"]:first-child{display:none!important}[name *= "dsq-"]:last-child,[id *= "dsq-"]:last-child{display:block!important}
 .icon{display:inline-block;width:1em;height:1em;stroke-width:0;stroke:currentColor;fill:currentColor}
