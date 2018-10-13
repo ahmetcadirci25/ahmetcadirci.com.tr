@@ -12,39 +12,8 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 
 ## Uygulamalar
 
-- [Total Files](#total-files-nasıl-kurulur)
 - [Doda+](#doda-nasıl-kurulur)
-
-### Total Files Nasıl Kurulur?
-
-1. App Store'a giriş yapıyoruz.
-2. Arama çubuğuna **Total Files** yazıyoruz.
-3. **[Total Files](https://itunes.apple.com/tr/app/total-files/id557285579){:target="_blank"}{:rel="noopener"}** uygulamasını indiriyoruz.
-4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
-
-#### İndirme Videosu
-
-Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhone film rulosuna video indirme** ve kaydetme işlemi yer almaktadır.
-
-{% include vimeo.html vimeo_id="292187171" %}
-
-#### Video İndirme (Total Files) Nasıl Yapılır?
-
-1. Videonun yer aldığı sayfanın url'sini kopyalayın.
-2. **Total** uygulamasını açın. Sağ kısımda yer alan dünya simgesi tıklayın ve url'yi üst tarafta bulunan url satırına yapıştırın.
-3. Video oynattığınızda **Do you want to download this content?** şekilden bir uyarı çıkacaktır. 
-4. Yeşil renkli **Ok** tuşuna basın.
-5. Çıkan ekranda sağ üst köşedeki **Done** tuşuna basın.
-6. Otomatik olarak videoyu indirmek istediğiniz formatlar çıkacaktır.
-7. Çıkan formatlardan size uygun olanı seçtiğinizde indirme işlemi başlayacaktır.
-8. İndirme işlemini takip etmek için ikinci sırada yer alan **Transfer** ikonuna tıklayın.
-9. Açılan menüde **Downloads** kısmında tüm indirme işlemlerini takip edebilirsiniz.
-10. İndirme işlemi biten videoları birinci sırada yer alan **Folder** ikonuna tıklayarak görüntüleyerebilirsiniz.
-11. Biten videonun sağında yer alan üç nokta ikona tıkladıktan sonra **Share** butonuna basın. Videoyu fotoğraflara kaydetmek için **Save Video** butonuna tıklayın.
-
-**Not**
-
-Uygulama YouTube videolarında telif bulunduğundan dolay indirme gerçekleştiremiyor. Diğer tüm sitelerden video indirebilirsiniz.
+- [Total Files](#total-files-nasıl-kurulur)
 
 ---
 
@@ -100,7 +69,39 @@ Kurulum videosunda AppStore arama kutucuğuna ~~**Vida**~~ yerine **DoDa+** yazm
 8. İndirme işlemi biten videoları **Downloaded Video** kısmında görüntüleyerebilirsiniz. 
 9. **Share** butonuna tıklayın. Videoyu fotoğraflara kaydetmek için **Save Video** butonuna tıklayın.
 
+---
+
+### Total Files Nasıl Kurulur?
+
+1. App Store'a giriş yapıyoruz.
+2. Arama çubuğuna **Total Files** yazıyoruz.
+3. **[Total Files](https://itunes.apple.com/tr/app/total-files/id557285579){:target="_blank"}{:rel="noopener"}** uygulamasını indiriyoruz.
+4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
+
+#### İndirme Videosu
+
+Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhone film rulosuna video indirme** ve kaydetme işlemi yer almaktadır.
+
+{% include vimeo.html vimeo_id="292187171" %}
+
+#### Video İndirme (Total Files) Nasıl Yapılır?
+
+1. Videonun yer aldığı sayfanın url'sini kopyalayın.
+2. **Total** uygulamasını açın. Sağ kısımda yer alan dünya simgesi tıklayın ve url'yi üst tarafta bulunan url satırına yapıştırın.
+3. Video oynattığınızda **Do you want to download this content?** şekilden bir uyarı çıkacaktır. 
+4. Yeşil renkli **Ok** tuşuna basın.
+5. Çıkan ekranda sağ üst köşedeki **Done** tuşuna basın.
+6. Otomatik olarak videoyu indirmek istediğiniz formatlar çıkacaktır.
+7. Çıkan formatlardan size uygun olanı seçtiğinizde indirme işlemi başlayacaktır.
+8. İndirme işlemini takip etmek için ikinci sırada yer alan **Transfer** ikonuna tıklayın.
+9. Açılan menüde **Downloads** kısmında tüm indirme işlemlerini takip edebilirsiniz.
+10. İndirme işlemi biten videoları birinci sırada yer alan **Folder** ikonuna tıklayarak görüntüleyerebilirsiniz.
+11. Biten videonun sağında yer alan üç nokta ikona tıkladıktan sonra **Share** butonuna basın. Videoyu fotoğraflara kaydetmek için **Save Video** butonuna tıklayın.
+
+**Not**
+
+Uygulama YouTube videolarında telif bulunduğundan dolay indirme gerçekleştiremiyor. Diğer tüm sitelerden video indirebilirsiniz.
 
 **İpucu**
 
-Uygulamayı kullanarak iPad'e film indirme işlemi yapabilirsiniz. Aynı işlemler iPhone cihazlarınızda da geçerlidir. iPad film indirme işlemi için <a href="#nasıl-kurulur">nasıl kurulur</a> kısmında adım adım takip etmeniz gerekir.
+Uygulamayı kullanarak iPad'e film indirme işlemi yapabilirsiniz. Aynı işlemler iPhone cihazlarınızda da geçerlidir. iPad film indirme işlemi için <a href="#doda-nasıl-kurulur">nasıl kurulur</a> kısmında adım adım takip etmeniz gerekir.
