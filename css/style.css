@@ -4585,7 +4585,7 @@ h2+h3 {
     background-color: #f3f4f4
 }
 
-.social__container {
+.social__container, .tor{
     border-right: 0
 }
 
