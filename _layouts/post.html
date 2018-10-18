@@ -58,6 +58,15 @@ layout: default
                 {{ content }}
               </div>
 
+              {% avatar hubot %}
+
+              <hr>
+
+              {% assign employees = "alice|bob" | split:"|" %}
+              {% for employee in employees %}
+                {% avatar user=employee %}
+              {% endfor %}
+
               <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
                   <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
                       <meta itemprop="url" content="{{ "/images/favicons/apple-touch-icon-180x180.png" | prepend: site.url }}" />
