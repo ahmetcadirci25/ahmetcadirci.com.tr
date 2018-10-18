@@ -57,11 +57,6 @@ kramdown:
   input: GFM
   # do not replace newlines by <br>s
   hard_wrap: false
-
-githubcontributions:
-  username: ahmetcadirci25 # Github username
-  page_limit: 3 # Number of pages of data to grab from Github
-  cache: 300 # Number of seconds to cache the data file
   
 # Podcast
 podcast:
