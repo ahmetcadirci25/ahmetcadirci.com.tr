@@ -58,6 +58,11 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
+githubcontributions:
+  username: JCotton1123 # Github username
+  page_limit: 3 # Number of pages of data to grab from Github
+  cache: 300 # Number of seconds to cache the data file
+  
 # Podcast
 podcast:
   title   : Ahmet Çadırcı
@@ -72,5 +77,5 @@ podcast:
   summary: >
     En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzerinden ulaşabilirsiniz.
         
-plugins: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-seo-tag']
+plugins: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-seo-tag', 'jekyll-github-contributions']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
