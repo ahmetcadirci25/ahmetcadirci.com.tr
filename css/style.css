@@ -4320,8 +4320,16 @@ h2+h3 {
     height: 100%
 }
 
-.logo {
-    margin-right: 15px
+.logo{
+    margin-right: 15px;
+    transition: -webkit-transform 250ms ease-in;
+    transition: transform 250ms ease-in;
+    transition: transform 250ms ease-in, -webkit-transform 250ms ease-in;
+}
+
+.logo:hover{ 
+    -webkit-transform: rotate(-1deg) scale(1.09);
+    transform: rotate(-1deg) scale(1.09)
 }
 
 .logo img {

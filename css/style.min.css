@@ -269,9 +269,10 @@ hr{margin:10px 0 30px;border-color:#dcdddd}.copyrights,.header{background-color:
 .header{-webkit-box-shadow:0 1px 5px #dcdddd;box-shadow:0 1px 5px #dcdddd;position:relative}.boxed{background-color:#fff;border:1px solid #e4e4e4;border-radius:6px}
 h1+h3,h2+h3{margin:-8px 0 30px}@media(min-width:768px){.blockquote__alternative p{font-size:20px}.front-page-title{margin-top:-30px}}.search-subtitle{margin:-20px 0 -10px}
 .search-results h2,.search-results h3{margin:-30px 0 20px;display:inline-block}.responsive-embed-video{position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-top-right-radius:6px;border-top-left-radius:6px}
-.responsive-embed-video iframe,.responsive-embed-video img{position:absolute;top:0;left:0;width:100%;height:100%}.logo{margin-right:15px}.logo img{height:70px;width:auto;padding:5px 0}
-.post-ads{text-align:center;margin-bottom:45px}.post-ads img{border:1px solid #e4e4e4;width:100%;height:auto}@media(min-width:1200px){.post-ads img{width:auto}
-}.features img{max-width:100%;height:auto}.features p{font-family:Georgia,serif;font-size:16px;line-height:1.65;color:#40454a}.copyrights{text-align:center;padding:10px 0;font-family:George,sans-serif;color:#9a9a90}
+.responsive-embed-video iframe,.responsive-embed-video img{position:absolute;top:0;left:0;width:100%;height:100%}.logo{margin-right:15px;transition:-webkit-transform 250ms ease-in;transition:transform 250ms ease-in;transition:transform 250ms ease-in,-webkit-transform 250ms ease-in}
+.logo:hover{-webkit-transform:rotate(-1deg) scale(1.09);transform:rotate(-1deg) scale(1.09)}.logo img{height:70px;width:auto;padding:5px 0}.post-ads{text-align:center;margin-bottom:45px}
+.post-ads img{border:1px solid #e4e4e4;width:100%;height:auto}@media(min-width:1200px){.post-ads img{width:auto}}.features img{max-width:100%;height:auto}
+.features p{font-family:Georgia,serif;font-size:16px;line-height:1.65;color:#40454a}.copyrights{text-align:center;padding:10px 0;font-family:George,sans-serif;color:#9a9a90}
 @media(min-width:768px){.features p{font-size:18px}.copyrights{text-align:left}.copyrights--right{text-align:right}}.table{font-size:16px}.navbar{margin:0;float:left;width:100%}
 .navbar-default{background-color:transparent;border:0;font-family:Arial,sans-serif;margin:0;min-height:0}.search-panel,.search-panel form{font-family:George,sans-serif}
 .navigation{list-style:none;margin:0;padding:15px 0}@media(min-width:992px){.navbar{width:auto}.navigation{padding:0}}.navigation>li{padding:5px 15px;display:block}
