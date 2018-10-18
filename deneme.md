@@ -6,4 +6,5 @@ permalink  : /deneme.html
 image      : "/images/404.gif"
 ---
 
-{{ site.github }}
+
+{{ page.github }}
