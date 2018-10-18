@@ -57,6 +57,17 @@ layout: default
               <div itemprop="articleBody">
                 {{ content }}
               </div>
+                
+                <div id="contributions" class="contributions">
+                  <h3>Some recent open source contributions I've made:</h3>
+                  <ul>
+                  {% for contribution in site.data.github-contributions limit:10 %}
+                    <li>
+                      <a href="{{ contribution.html_url }}">{{ contribution.title }}</a>
+                    </li>
+                  {% endfor %}
+                  </ul> 
+                </div>
 
               <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
                   <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
