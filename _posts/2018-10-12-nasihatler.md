@@ -8,7 +8,7 @@ image      : "/images/nasihatler.png"
 comments   : true
 ---
 
-Sûfî soylu olanlar, *“Nezaretim altında yetiştirilmen için sana karşı insanların gönüllerinde tarafımdan bir sevgi bıraktım!”* (Tâhâ 20/39)  kaderi üzere doğmuşlardır. İtaati bırakma, yaptıysan da değer biçme. Sûfîler hizmeti batırmazlar, aksine bütün dünyadan daha güzel yaparlar; fakat yaptıkları zaman da saymazlar.
+Sûfî soylu olanlar, **“Nezaretim altında yetiştirilmen için sana karşı insanların gönüllerinde tarafımdan bir sevgi bıraktım!”** (Tâhâ 20/39)  kaderi üzere doğmuşlardır. İtaati bırakma, yaptıysan da değer biçme. Sûfîler hizmeti batırmazlar, aksine bütün dünyadan daha güzel yaparlar; fakat yaptıkları zaman da saymazlar.
 
 İçinde şükür olmayan her nimet sadece bu dünyanın lezzetidir; içinde sabır olmayan her şiddet ve mihnet ebedî ziyandır; içinde ilim ve ihlâs olmayan her itaat ise hayatı rüzgâra savurmaktır. Bana kibir getiren itaatten bîzarım, yakınırım, beni özre getirecek günahın kölesiyim. İnkâr etme, çünkü inkâr etmek kötüdür, inkâr eden bu işten mahrumdur.
 
