@@ -41,6 +41,7 @@ Sosyal paylaşımlarımı takip etmek için:
 
 ### Yeni Yazılar
 
+* [.ONION Uzantılı Tor Sitesi Nasıl Kurulur?](https://ahmetcadirci.com.tr/2018/onion-uzantili-tor-sitesi-nasil-kurulur/)
 * [Nasihatler](https://ahmetcadirci.com.tr/2018/nasihatler/)
 * [ZyXEL VMG1312-B10A Firmware Güncelleme](https://ahmetcadirci.com.tr/2018/zyxel-vmg1312-b10a-firmware-guncelleme/)
 * [Ölümün Hakikati](https://ahmetcadirci.com.tr/2018/olumun-hakikati/)
