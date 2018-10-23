@@ -351,7 +351,7 @@ body.search-mode .search-panel{display:block}.social{position:relative;float:rig
 }.social-icons .social-icons__container{display:inline-block;margin:10px 5px;background-color:#efefeb;width:40px;height:40px;text-align:center;line-height:40px;border:0;border-radius:4px;color:#9a9a90}
 @media(min-width:768px){.social-icons .social-icons__container{margin:0 5px}}.social-icons .social-icons__container:hover{color:#818176}.widget-social-icons{float:none;text-align:left;margin-bottom:30px}
 .widget-social-icons .social-icons__container{margin:6px 5px}.tags{margin-bottom:30px}@media(min-width:768px){.tags{margin-bottom:60px}}.tags__link{display:inline-block;border:1px solid #51ab6d;border-radius:30px;margin:5px;padding:9.5px 20px;transition:all .1s linear}
-.post-content,.widget-tags{margin-bottom:30px}.tags__link:hover{background-color:#51ab6d;color:#fff}.post-content{font-size:16px;line-height:1.65;color:#40454a}
+.post-content,.widget-tags{margin-bottom:30px}.tags__link:hover{background-color:#51ab6d;color:#fff}.post-content{font-size:16px;line-height:1.65;color:#40454a;text-align:justify}
 @media(min-width:768px){.post-content{margin-bottom:60px;font-size:20px}}.post-content ol,.post-content ul{margin:3.5% 0;word-wrap:break-word}.post-content ol ol,.post-content ol ul,.post-content ul ol,.post-content ul ul{margin:1% 0 2%}
 .post-content--front-page{margin-bottom:30px}.post-content--front-page h3{font-size:24px}.post-content--front-page p{font-size:18px}.post-comments{text-align:center;margin-bottom:15px}
 @media(min-width:768px){.post-comments{text-align:left;margin-bottom:60px}}.post-author{margin-bottom:30px}@media(min-width:768px){.post-author{margin-bottom:60px}

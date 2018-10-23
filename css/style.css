@@ -5555,7 +5555,8 @@ body.search-mode .search-panel {
 .post-content {
     font-size: 16px;
     line-height: 1.65;
-    color: #40454a
+    color: #40454a;
+    text-align: justify;
 }
 
 @media(min-width:768px) {
