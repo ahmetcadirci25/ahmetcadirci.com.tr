@@ -118,8 +118,8 @@ Tor Check’in adresini ziyaret ederek kontrol edebilirsiniz.
 2. **Adım** Açılan sayfaya şifrenizi girin.
 3. **Adım** **wwww** klasörüne tıklayın. 
 4. **Adım** **index.hosting.html** dosyasını seçin ve **Delete** tuşuna basın.
-5. **Adım** Daha önceden hazırladığımız **[tor.zip](https://github.com/ahmetcadirci25/tor/archive/tor.zip)** dosyasını indirip **Gözat** kısmından seçip **Upload** tuşuna basın.
-6. **Adım** **[tor.zip](https://github.com/ahmetcadirci25/tor/archive/tor.zip)** dosyasını seçip **Unzip** tuşuna basarak yaptığımız html dosyasını dışa aktarıyoruz.
+5. **Adım** Daha önceden hazırladığımız **[tor.zip](https://github.com/ahmetcadirci25/tor/raw/gh-pages/tor.zip)** dosyasını indirip **Gözat** kısmından seçip **Upload** tuşuna basın.
+6. **Adım** **[tor.zip](https://github.com/ahmetcadirci25/tor/raw/gh-pages/tor.zip)** dosyasını seçip **Unzip** tuşuna basarak yaptığımız html dosyasını dışa aktarıyoruz.
 7. **Adım** **[fzrcdjvzulfpczfd.onion](http://fzrcdjvzulfpczfd.onion)** adresine ziyaret ederek yüklediğimiz html dosyasını görüntüleyebiliriz. 
 
 {% include picture.html image_id="/images/galeri/html-site-kurulumu.png" link="/images/galeri/html-site-kurulumu.png" imagealt="HTML Site Kurulumu" %}
