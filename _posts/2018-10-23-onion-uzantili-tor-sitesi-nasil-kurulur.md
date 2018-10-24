@@ -12,14 +12,14 @@ Tor tarayıcısı, anonim olarak internette gezinmek için güçlü ücretsiz ar
 
 ## İçindekiler 
 
-- [.ONION Alan Adı Nedir ve Nasıl Çalışır?]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#onion-alan-adı-nedir-ve-nasıl-Çalışır) 
+- [.ONION Alan Adı Nedir ve Nasıl Çalışır?]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#onion-alan-adı-nedir-ve-nasıl-çalışır) 
 - [Sıradan Bir Alan Adından Farkları Nelerdir?]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#sıradan-bir-alan-adından-farkları-nelerdir) 
-- [Neden Bir Adres İsteyeyim?]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#neden-bir-adres-İsteyeyim) 
+- [Neden Bir Adres İsteyeyim?]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#neden-bir-adres-i̇steyeyim) 
 - [Tor Tarayıcısı Nasıl Kurulur?]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#tor-tarayıcısı-nasıl-kurulur) 
 	- [Tor Tarayıcısı Kurulum Aşamaları]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#tor-tarayıcısı-kurulum-aşamaları) 
 	- [Tor Tarayıcısını Güncelleme]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#tor-tarayıcısını-güncelleme) 
 	- [Tor Ağını Yapılandırma]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#tor-ağını-yapılandırma) 
-	- [Tor Tarayıcının Çalışıp Çalışmadığını Kontrol Etme]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#tor-tarayıcının-Çalışıp-Çalışmadığını-kontrol-etme) 
+	- [Tor Tarayıcının Çalışıp Çalışmadığını Kontrol Etme]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#tor-tarayıcının-çalışıp-çalışmadığını-kontrol-etme) 
 - [.ONION Alan Adı Nasıl Oluşturabilirim?]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#onion-alan-adı-nasıl-oluşturabilirim) 
 	- [HTML (Demo) Site Kurulumu ve Yapılandırma]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#html-demo-site-kurulumu-ve-yapılandırma) 
 
