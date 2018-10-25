@@ -111,7 +111,9 @@ layout: default
                   <h6>Etiket</h6>
                   <hr>
 
-                  {% for tag in page.tags %}<a href="{{ site.url }}/etiketler/#{{ tag }}"  class="tags__link">{{ tag }}</a> {% endfor %}
+                  <div class="tags-105">
+                    {% for tag in page.tags %}<a href="{{ site.url }}/etiketler/#{{ tag }}"  class="tags__link">{{ tag }}</a> {% endfor %}
+                  </div>
 
                 </div>
 

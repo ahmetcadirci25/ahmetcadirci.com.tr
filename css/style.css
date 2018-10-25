@@ -5531,6 +5531,11 @@ body.search-mode .search-panel {
     .tags {
         margin-bottom: 60px
     }
+
+    .tags-105{
+        height: 105px;
+        overflow: auto;
+    }
 }
 
 .tags__link {
