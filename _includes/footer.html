@@ -73,60 +73,13 @@
       </div>
     </footer>
 
-    <!--<script type="text/javascript" src="{{ "/js/jquery-3.2.1.slim.min.js" | prepend: site.url }}"></script>
-    <script type="text/javascript" src="{{ "/js/main.js" | prepend: site.url }}"></script>
-    <script type="text/javascript" src="{{ "/js/lazyload.min.js" | prepend: site.url }}"></script>
-    <script type="text/javascript" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>-->
-
     <script type="text/javascript" src="https://{{ site.disqus_shortname }}.disqus.com/count.js" id="dsq-count-scr" async></script>
     <script type="text/javascript">
-
-      // Lazy Load
-     /* (function(root,factory){if(typeof exports==="object"){module.exports=factory(root)}else if(typeof define==="function"&&define.amd){define([],factory(root))}else{root.LazyLoad=factory(root)}})(typeof global!=="undefined"?global:this.window||this.global,function(root){"use strict";const defaults={src:"data-src",srcset:"data-srcset",selector:".lazyload"};const extend=function(){let extended={};let deep=false;let i=0;let length=arguments.length;if(Object.prototype.toString.call(arguments[0])==="[object Boolean]"){deep=arguments[0];i++}let merge=function(obj){for(let prop in obj){if(Object.prototype.hasOwnProperty.call(obj,prop)){if(deep&&Object.prototype.toString.call(obj[prop])==="[object Object]"){extended[prop]=extend(true,extended[prop],obj[prop])}else{extended[prop]=obj[prop]}}}};for(;i<length;i++){let obj=arguments[i];merge(obj)}return extended};function LazyLoad(images,options){this.settings=extend(defaults,options||{});this.images=images||document.querySelectorAll(this.settings.selector);this.observer=null;this.init()}LazyLoad.prototype={init:function(){if(!root.IntersectionObserver){this.loadImages();return}let self=this;let observerConfig={root:null,rootMargin:"0px",threshold:[0]};this.observer=new IntersectionObserver(function(entries){entries.forEach(function(entry){if(entry.intersectionRatio>0){self.observer.unobserve(entry.target);let src=entry.target.getAttribute(self.settings.src);let srcset=entry.target.getAttribute(self.settings.srcset);if("img"===entry.target.tagName.toLowerCase()){if(src){entry.target.src=src}if(srcset){entry.target.srcset=srcset}}else{entry.target.style.backgroundImage="url("+src+")"}}})},observerConfig);Array.prototype.forEach.call(this.images,function(image){self.observer.observe(image)})},loadAndDestroy:function(){if(!this.settings){return}this.loadImages();this.destroy()},loadImages:function(){if(!this.settings){return}let self=this;Array.prototype.forEach.call(this.images,function(image){let src=image.getAttribute(self.settings.src);let srcset=image.getAttribute(self.settings.srcset);if("img"===image.tagName.toLowerCase()){if(src){image.src=src}if(srcset){image.srcset=srcset}}else{image.style.backgroundImage="url("+src+")"}})},destroy:function(){if(!this.settings){return}this.observer.disconnect();this.settings=null}};root.lazyload=function(images,options){return new LazyLoad(images,options)};if(root.jQuery){const $=root.jQuery;$.fn.lazyload=function(options){options=options||{};options.attribute=options.attribute||"data-src";new LazyLoad($.makeArray(this),options);return this}}return LazyLoad});
-
-      lazyload(document.querySelectorAll("img.lazyload"));*/
-
-      // $("#disqus_thread html").remove();
-      // var disRemove = document.querySelectorAll('#disqus_thread html')[0];
-      // if( typeof disRemove != 'undefined')
-      // disRemove.remove(disRemove.selectedIndex);
-
-      /*setTimeout(function(){
-  		  var iframe = document.querySelectorAll("#disqus_thread iframe");
-  		  if( iframe.length == 2 )
-  		  {              
-  		  iframe[0].remove(iframe[0].selectedIndex);
-  		  }
-  	  }, 3000);*/
 
       // Menu
       document.querySelectorAll(".navbar-toggle")[0].addEventListener("click", function() {
         document.querySelectorAll(".navbar-collapse")[0].classList.toggle("in");
       });
-
-      /* Google Fonts
-      WebFontConfig = {
-        google: {
-          families: ['Open+Sans:300,400,700:latin', 'Lato:700,900:latin']
-        }
-      };
-
-      (function() {
-        var wf = document.createElement('script');
-        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
-          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-        wf.type = 'text/javascript';
-        wf.async = 'true';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(wf, s);
-      })();
-      */
-
-      /**
-      function shareinsocialmedia(e) {
-          return window.open(e, "sharein", "toolbar=0,status=0,width=648,height=395"), !0
-      }
-     **/
     
       // Service Worker
       if ('serviceWorker' in navigator) {
@@ -141,77 +94,12 @@
           });
       };
       
-      // OneSignal
-      /*var OneSignal = window.OneSignal || [];
-      OneSignal.push(["init", {
-        appId: "6d7dfc85-e98b-4a4f-b055-b7d4c4815ee5",
-        safari_web_id: "web.onesignal.auto.2c5a7aa8-83b4-45ba-8e8f-e5cd6a2881a0",
-        autoRegister: false,
-        notifyButton: {
-          enable: true,
-        },
-        notifyButton: {
-          enable: true,
-          size: 'small',
-          theme: 'default',
-          position: 'bottom-right',
-          prenotify: true,
-          showCredit: false,
-          text: {
-            'tip.state.unsubscribed': 'Bildirimlere Abone Ol!',
-            'tip.state.subscribed': "Bildirimlere abone oldunuz",
-            'tip.state.blocked': "Bildirimleri engellediniz",
-            'message.prenotify': 'Bildirimlere abone olmak için tıklayın',
-            'message.action.subscribed': "Abone olduğunuz için teşekkürler!",
-            'message.action.resubscribed': "Bildirimlere abone oldunuz",
-            'message.action.unsubscribed': "Bildirimleri tekrar almayacaksınız",
-            'dialog.main.title': 'Site Bildirimlerini Yönet',
-            'dialog.main.button.subscribe': 'ABONE OL',
-            'dialog.main.button.unsubscribe': 'ABONELİKTEN ÇIK',
-            'dialog.blocked.title': 'Bildirimlerin Engellemesini Kaldır',
-            'dialog.blocked.message': "Bildirimlere izin vermek için şu talimatları:"
-          },
-          colors: {
-            'circle.background': 'rgb(81,171,109)',
-            'circle.foreground': 'white',
-            'badge.background': 'rgb(81,171,109)',
-            'badge.foreground': 'white',
-            'badge.bordercolor': 'white',
-            'pulse.color': 'white',
-            'dialog.button.background.hovering': 'rgb(81,171,109)',
-            'dialog.button.background.active': 'rgb(81,171,109)',
-            'dialog.button.background': 'rgb(81,171,109)',
-            'dialog.button.foreground': 'white'
-          },
-          displayPredicate: function() {
-            return OneSignal.isPushNotificationsEnabled()
-              .then(function(isPushEnabled) {
-              return !isPushEnabled;
-            });
-          }
-        },
-        welcomeNotification: {
-          "title": "Ahmet Çadırcı",
-          "message": "Abone olduğun için teşekkürler!",
-        },
-        promptOptions: {
-          actionMessage: "En son yazılardan ve içeriklerden bildirim almak istiyor musun?",
-          acceptButtonText: "EVET!",
-          cancelButtonText: "Hayır"
-        }
-      }]);
-      OneSignal.push(function() {
-        OneSignal.showHttpPrompt();
-      });*/
     </script>
 
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KX5WC3P"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-
-    <!-- <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us14.list-manage.com","uuid":"c92bf44c8096a32066e76d796","lid":"ab87ff6fac","uniqueMethods":true}) })</script> -->
-
 
     <script type="application/ld+json">
      [
