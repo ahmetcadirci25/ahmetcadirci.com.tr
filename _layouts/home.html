@@ -64,24 +64,24 @@ layout : default
                       <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}">
                         <div class="read-more">
                           Devamını Oku <svg class="icon icon-chevron-right"><use xlink:href="#icon-chevron-right"></use></svg>
+                          
                           <div class="read-more__arrow">
-                            <a class="push-left-15"  href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ post.url }}?utm_source=Facebook"
-                                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
-                                title="Facebook Paylaş" class="social-icons__container">
-                                <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
+                            <!-- Facebook -->
+                            <a href="https://facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}?utm_source=Facebook&amp;utm_medium=Paylaş" target="_blank" aria-label="Facebook Paylaş">
+                              <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
                             </a>
 
-                            <a class="push-left-15"  href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{ site.url }}{{ post.url }}?utm_source=Twitter"
-                                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
-                                title="Twitter Paylaş" class="social-icons__container">
-                                <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
+                            <!-- Twitter -->
+                            <a href="https://twitter.com/intent/tweet/?text={{ page.title }}&url={{ site.url }}{{ page.url }}?utm_source=Twitter&amp;utm_medium=Paylaş" target="_blank" aria-label="Twitter Paylaş">
+                              <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
                             </a>
-                            <a class="push-left-15"  href="http://www.reddit.com/submit?url={{ site.url }}{{ post.url }}?utm_source=Reddit&title={{ post.title }}"
-                                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;"
-                                title="Reddit Paylaş" class="social-icons__container">
-                                <svg class="icon icon-reddit"><use xlink:href="#icon-reddit"></use></svg>
+
+                            <!-- Reddit -->
+                            <a href="http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}?utm_source=Reddit&amp;utm_medium=Paylaş&title={{ page.title }}" target="_blank" aria-label="Reddit Paylaş">
+                              <svg class="icon icon-reddit"><use xlink:href="#icon-reddit"></use></svg>
                             </a>
                           </div>
+
                         </div>
                       </a> 
                     </div>
