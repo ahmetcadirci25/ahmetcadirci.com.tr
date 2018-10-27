@@ -62,7 +62,7 @@ Bir alan adı oluşturmak - seçtiğiniz bir tanıma sahip bir sözcüğe sahip 
 5. **Adım** Tor Tarayıcı'nın kurulumunu tamamlamak **[Bitir]**'e tıklayın. 
 
 {% include picture.html image_id="/images/galeri/tor-tarayicisi-kurulum-asamalari.png" imagealt="Tor Tarayıcısı Kurulum Aşamaları" link="/images/galeri/tor-tarayicisi-kurulum-asamalari.png" %} 
-*Resmi büyütmek üzerine tıklayın.* 
+*Resmi büyütmek için üzerine tıklayın.* 
 
 ### Tor Tarayıcısını Güncelleme 
 
@@ -73,7 +73,7 @@ Bir alan adı oluşturmak - seçtiğiniz bir tanıma sahip bir sözcüğe sahip 
 3. **Adım** Yeni bir sürüm olup olmadığı dair sizi bilgilendirecek. Eğer yeni sürüm varsa güncellemeyi kesinlikle yapmalısınız. 
 
 {% include picture.html image_id="/images/galeri/tor-tarayicisini-guncelleme.png" imagealt="Tor Tarayıcısını Güncelleme" link="/images/galeri/tor-tarayicisini-guncelleme.png" %} 
-*Resmi büyütmek üzerine tıklayın.* 
+*Resmi büyütmek için üzerine tıklayın.* 
 
 ### Tor Ağını Yapılandırma 
 
@@ -88,7 +88,7 @@ Bir alan adı oluşturmak - seçtiğiniz bir tanıma sahip bir sözcüğe sahip 
 7. **Adım** Tor Tarayıcı’yı başlatmak için **[Bağlan]**’a tıklayın. 
 
 {% include picture.html image_id="/images/galeri/tor-agini-yapilandirma.png" imagealt="Tor Ağını Yapılandırma" link="/images/galeri/tor-agini-yapilandirma.png" %} 
-*Resmi büyütmek üzerine tıklayın.* 
+*Resmi büyütmek için üzerine tıklayın.* 
 
 ### Tor Tarayıcının Çalışıp Çalışmadığını Kontrol Etme 
 
@@ -97,7 +97,7 @@ Tor Check’in adresini ziyaret ederek kontrol edebilirsiniz.
 [https://check.torproject.org/](https://check.torproject.org/?lang=tr){:target="_blank"}{:rel="noopener"} 
 
 {% include picture.html image_id="/images/galeri/tor-denetimi.png" imagealt="Tor Ağını Yapılandırma" link="/images/galeri/tor-denetimi.png" %} 
-*Resmi büyütmek üzerine tıklayın.* 
+*Resmi büyütmek için üzerine tıklayın.* 
 
 
 ## .ONION Alan Adı Nasıl Oluşturabilirim? 
@@ -109,7 +109,7 @@ Tor Check’in adresini ziyaret ederek kontrol edebilirsiniz.
 5. **Adım** Giriş işlemini yaptıktan sonra kontrol paneli açıklacaktır. 
 
 {% include picture.html image_id="/images/galeri/onion-hosting-bilgileri.png" link="/images/galeri/onion-hosting-bilgileri.png" imagealt="Giriş Sayfası" %} 
-*Resmi büyütmek üzerine tıklayın.* 
+*Resmi büyütmek için üzerine tıklayın.* 
 
 
 ### HTML (Demo) Site Kurulumu ve Yapılandırma 
@@ -123,7 +123,7 @@ Tor Check’in adresini ziyaret ederek kontrol edebilirsiniz.
 7. **Adım** **[fzrcdjvzulfpczfd.onion](http://fzrcdjvzulfpczfd.onion)** adresine ziyaret ederek yüklediğimiz html dosyasını görüntüleyebiliriz.  
 
 {% include picture.html image_id="/images/galeri/html-site-kurulumu.png" link="/images/galeri/html-site-kurulumu.png" imagealt="HTML Site Kurulumu" %} 
-*Resmi büyütmek üzerine tıklayın.* 
+*Resmi büyütmek için üzerine tıklayın.* 
 
 #### Kaynakça: 
 
