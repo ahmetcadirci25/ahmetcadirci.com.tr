@@ -3,7 +3,7 @@ title      : ".ONION Uzantılı Tor Sitesi Nasıl Kurulur?"
 description: "Tor tarayıcısı, anonim olarak internette gezinmek için güçlü ücretsiz araçtır. .ONION uzantılı derin ağa (deep web) girmenize olanak sağlar. " 
 date       : 2018-10-23 20:00:00 
 categories : [İnternet] 
-tags       : [Tor, Onion, Tarayıcı] 
+tags       : [Tor, Onion, Onion uzantılı sitelere nasıl girilir, Deep web sitesi açma, Onion linkleri nasıl açılır, Tor browser kurulumu] 
 image      : "/images/onion-uzantili-tor-sitesi-nasil-kurulur.png" 
 comments   : true 
 --- 
