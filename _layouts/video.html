@@ -47,6 +47,9 @@ layout: default
 
             <!-- Start of the content -->
             <div class="post-content" itemscope itemtype="http://schema.org/Article">
+
+              {% include side-share.html %}
+              
               <meta itemprop="inLanguage" content="tr-TR" />
               <meta itemprop="mainEntityOfPage" content="{{ site.url }}/{{ page.url | remove_first: '/' }}">
               <meta itemprop="dateModified" content="{{ page.date }}"/>
