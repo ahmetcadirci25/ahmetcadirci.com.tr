@@ -553,7 +553,6 @@ code {
     font-size: 90%;
     color: #c7254e;
     background-color: #f9f2f4;
-    white-space: nowrap;
     border-radius: 4px
 }
 
@@ -5506,4 +5505,9 @@ input#gsc-i-id1.gsc-input:-ms-input-placeholder {
 
 [name *= "dsq-"]:last-child,[id *= "dsq-"]:last-child {
     display: block!important
+}
+
+picture {
+    margin: 0 0 1.5em;
+    display: block;
 }
