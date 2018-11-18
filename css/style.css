@@ -4966,7 +4966,10 @@ body.search-mode .search-panel {
 
     .tags-105 {
         height: 105px;
-        overflow: auto
+        overflow: hidden;
+    }
+    .tags-105:hover{
+        overflow-y:scroll;
     }
 }
 
