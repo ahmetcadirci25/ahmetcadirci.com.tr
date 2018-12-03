@@ -41,6 +41,7 @@ Sosyal paylaşımlarımı takip etmek için:
 
 ### Yeni Yazılar
 
+* [App Store’dan Kaldırılan Tumblr Uygulaması Nasıl Kurulur?](https://ahmetcadirci.com.tr/2018/app-storedan-kaldirilan-tumblr-uygulamasi-nasil-kurulur/)
 * [Internet Download Manager Kurulumu ve Kullanımı](https://ahmetcadirci.com.tr/2018/internet-download-manager-kurulumu-ve-kullanimi/)
 * [.ONION Uzantılı Tor Sitesi Nasıl Kurulur?](https://ahmetcadirci.com.tr/2018/onion-uzantili-tor-sitesi-nasil-kurulur/)
 * [Nasihatler](https://ahmetcadirci.com.tr/2018/nasihatler/)
