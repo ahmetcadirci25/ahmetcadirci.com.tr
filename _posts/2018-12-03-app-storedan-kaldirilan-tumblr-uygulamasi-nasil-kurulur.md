@@ -12,8 +12,10 @@ App Store’dan kaldırılan Tumblr uygulamasının iPhone ve iPad cihazımızla
 
 ## Yöntemler
 
-- [Yöntem 1](#yontem-1)
-- [Yöntem 2](#yontem-2)
+Birinci yöntem uygulamayı daha önce indirenler için ikinci yöntem ise uygulamayı daha önce indirmeyenler için. 
+
+- [Yöntem 1](#yöntem-1)
+- [Yöntem 2](#yöntem-2)
 
 ### Yöntem 1
 
@@ -29,7 +31,7 @@ Bu yöntemin kullanılabilmesi için daha önceden Tumblr uygulamasının indiri
 
 #### Kurulum Videosu 
 
-{% include vimeo.html vimeo_id="255265889" %}
+{% include vimeo.html vimeo_id="304081810" %}
 
 ### Yöntem 2
 
@@ -44,10 +46,10 @@ Eğer birinci yöntem sizin için uygun değilse ikinci yöntem ile sorunu çöz
 
 #### Kurulum Videosu 
 
-{% include vimeo.html vimeo_id="255265889" %}
+{% include vimeo.html vimeo_id="304081720" %}
 
 ##### Tumblr iOS uygulaması neden App Store'dan kayboldu?
 
-Ne Tumblr ne de Apple, uygulamanın neden reddedildiğini resmi olarak açıklamamıştır. Ancak endüstri uzmanları, Apple'ın yönergelerini ihlal etmiş olabilecek Tumblr'daki NSFW içeriğiyle ilgili bir şey olduğuna inanıyor. Apple, geçmişte uygunsuz içerik barındırdığı için uygulamaları kaldırmıştır.
+Ne Tumblr ne de Apple, uygulamanın neden reddedildiğini resmi olarak açıklamamıştır. Ancak endüstri uzmanları, Apple'ın yönergelerini ihlal etmiş olabilecek Tumblr'daki yetişkin içeriğiyle ilgili bir şey olduğuna inanıyor. Apple, geçmişte uygunsuz içerik barındırdığı için uygulamaları kaldırmıştır.
 
 Eğer sizin bildiğiniz başka yöntemler varsa düzenle linkine tıklayarak eklemeler yapabilirsiniz.
