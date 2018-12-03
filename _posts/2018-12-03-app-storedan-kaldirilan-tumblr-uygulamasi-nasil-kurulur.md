@@ -22,6 +22,7 @@ Birinci yöntem uygulamayı daha önce indirenler için ikinci yöntem ise uygul
 Bu yöntemin kullanılabilmesi için daha önceden Tumblr uygulamasının indirilmiş olması gerekir. 
 
 #### Tumblr Nasıl Kurulur?
+
 - **App Store** uygulamasını açın.
 - Sağ üstte yer alan **profil logosuna** tıklayın.
 - **Satın Alınanlar** menüsüne tıklayın. 
@@ -38,6 +39,7 @@ Bu yöntemin kullanılabilmesi için daha önceden Tumblr uygulamasının indiri
 Eğer birinci yöntem sizin için uygun değilse ikinci yöntem ile sorunu çözeceksiniz. Bu yöntem web sayfayı mobil uygulamaya çeviriyor.  
 
 #### Tumblr Ana Ekrana Ekle
+
 - **Safari** tarayıcısını açın. 
 - URL satırına tumblr.com yazın ve tıklayın.
 - Açılan sayfada altında yer alan **Paylaş** düğmesine tıklayın.
