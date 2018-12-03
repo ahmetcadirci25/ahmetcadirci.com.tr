@@ -10,7 +10,7 @@ comments   : true
 
 App Store’dan kaldırılan Tumblr uygulamasının iPhone ve iPad cihazımızlarınıza iki yöntemle nasıl kurullacağını anlattım umarım işinizi görür. 
 
-## Yöntemler
+## Uygulamalar
 
 Birinci yöntem uygulamayı daha önce indirenler için ikinci yöntem ise uygulamayı daha önce indirmeyenler için. 
 
