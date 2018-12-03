@@ -1,6 +1,6 @@
 --- 
 title      : "App Store’dan Kaldırılan Tumblr Uygulaması Nasıl Kurulur?" 
-description: "" 
+description: "App Store’dan kaldırılan Tumblr uygulamasının iPhone ve iPad cihazımızlarınıza iki yöntemle nasıl kurullacağını anlattım umarım işinizi görür." 
 date       : 2018-12-03 09:00:00 
 categories : [Teknoloji, Mobil, Nasıl Yapılır] 
 tags       : [Tumblr, App Store, iOS, iPhone, iPad] 
