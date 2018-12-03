@@ -23,12 +23,12 @@ Bu yöntemin kullanılabilmesi için daha önceden Tumblr uygulamasının indiri
 
 #### Tumblr Nasıl Kurulur?
 
-- **App Store** uygulamasını açın.
-- Sağ üstte yer alan **profil logosuna** tıklayın.
-- **Satın Alınanlar** menüsüne tıklayın. 
-- **Ara** kutucuğuna **Tumblr** yazın.
-- **Tumblr** uygulamasının sağından yer alan **bulut** logosuna tıklayın.
-- Yükleme tamamlandıktan sonra **Aç** düğmesine basın. 
+1. **App Store** uygulamasını açın.
+2. Sağ üstte yer alan **profil logosuna** tıklayın.
+3. **Satın Alınanlar** menüsüne tıklayın. 
+4. **Ara** kutucuğuna **Tumblr** yazın.
+5. **Tumblr** uygulamasının sağından yer alan **bulut** logosuna tıklayın.
+6. Yükleme tamamlandıktan sonra **Aç** düğmesine basın. 
 
 #### Kurulum Videosu 
 
@@ -40,11 +40,11 @@ Eğer birinci yöntem sizin için uygun değilse ikinci yöntem ile sorunu çöz
 
 #### Tumblr Ana Ekrana Ekle
 
-- **Safari** tarayıcısını açın. 
-- URL satırına tumblr.com yazın ve tıklayın.
-- Açılan sayfada altında yer alan **Paylaş** düğmesine tıklayın.
-- Daha sonra artı simgesindeki **Ana Ekrana Ekle** düğmesine tıkayın.
-- Açılan sayfanın sağ üstünde yer alan **Ekle** düğmesine tıklayın. 
+1. **Safari** tarayıcısını açın. 
+2. **URL** satırına **tumblr.com** yazın ve tıklayın.
+3. Açılan sayfada altında yer alan **Paylaş** düğmesine tıklayın.
+4. Daha sonra artı simgesindeki **Ana Ekrana Ekle** düğmesine tıkayın.
+5. Açılan sayfanın sağ üstünde yer alan **Ekle** düğmesine tıklayın. 
 
 #### Kurulum Videosu 
 
@@ -54,4 +54,4 @@ Eğer birinci yöntem sizin için uygun değilse ikinci yöntem ile sorunu çöz
 
 Ne Tumblr ne de Apple, uygulamanın neden reddedildiğini resmi olarak açıklamamıştır. Ancak endüstri uzmanları, Apple'ın yönergelerini ihlal etmiş olabilecek Tumblr'daki yetişkin içeriğiyle ilgili bir şey olduğuna inanıyor. Apple, geçmişte uygunsuz içerik barındırdığı için uygulamaları kaldırmıştır.
 
-Eğer sizin bildiğiniz başka yöntemler varsa düzenle linkine tıklayarak eklemeler yapabilirsiniz.
+Eğer sizin bildiğiniz başka yöntemler varsa yazıyı düzenle linkine tıklayarak eklemeler yapabilirsiniz.
