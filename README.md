@@ -6,32 +6,32 @@
 
 [Ahmet Çadırcı](https://ahmetcadirci.com.tr) kişisel web sitem... Web geliştirici ve interneti seven kişi...
 
-Sosyal medya hesaplarımdan bana ulaşabilirsiniz. Web sitemde yayınlanan en güncel yazıları [RSS](https://ahmetcadirci.com.tr/r/rss){:target="_blank"}{:rel="noopener"} ve [E-Bülten](https://ahmetcadirci.com.tr/r/ebulten){:target="_blank"}{:rel="noopener"} ile takip edebilirsiniz:
+Sosyal medya hesaplarımdan bana ulaşabilirsiniz. Web sitemde yayınlanan en güncel yazıları [RSS](https://ahmetcadirci.com.tr/r/rss) ve [E-Bülten](https://ahmetcadirci.com.tr/r/ebulten) ile takip edebilirsiniz:
 
-- [RSS](https://ahmetcadirci.com.tr/r/rss){:target="_blank"}{:rel="noopener"}
-- [Podcast RSS](https://ahmetcadirci.com.tr/r/podcast){:target="_blank"}{:rel="noopener"}
-- [E-Bülten](https://ahmetcadirci.com.tr/r/ebulten){:target="_blank"}{:rel="noopener"}
-- [Feedly](https://ahmetcadirci.com.tr/r/feedly){:target="_blank"}{:rel="noopener"}
+- [RSS](https://ahmetcadirci.com.tr/r/rss)
+- [Podcast RSS](https://ahmetcadirci.com.tr/r/podcast)
+- [E-Bülten](https://ahmetcadirci.com.tr/r/ebulten)
+- [Feedly](https://ahmetcadirci.com.tr/r/feedly)
 
 Kod paylaşımlarımı takip etmek için:
-- [GitHub](https://ahmetcadirci.com.tr/r/github){:target="_blank"}{:rel="noopener"}
-- [Codepen](https://ahmetcadirci.com.tr/r/codepen){:target="_blank"}{:rel="noopener"}
-- [Dev.to](https://ahmetcadirci.com.tr/r/devto){:target="_blank"}{:rel="noopener"}
+- [GitHub](https://ahmetcadirci.com.tr/r/github)
+- [Codepen](https://ahmetcadirci.com.tr/r/codepen)
+- [Dev.to](https://ahmetcadirci.com.tr/r/devto)
 
 Soru & Cevap'ları görüntülemek için:
-- [Quora](https://ahmetcadirci.com.tr/r/quora){:target="_blank"}{:rel="noopener"}
-- [Stackoverflow](https://ahmetcadirci.com.tr/r/stackoverflow){:target="_blank"}{:rel="noopener"}
+- [Quora](https://ahmetcadirci.com.tr/r/quora)
+- [Stackoverflow](https://ahmetcadirci.com.tr/r/stackoverflow)
 
 Video ve Fotoğrafları takip etmek için:
-- [Vimeo](https://ahmetcadirci.com.tr/r/vimeo){:target="_blank"}{:rel="noopener"}
-- [Flickr](https://ahmetcadirci.com.tr/r/flickr){:target="_blank"}{:rel="noopener"}
-- [Unsplash](https://ahmetcadirci.com.tr/r/unsplash){:target="_blank"}{:rel="noopener"}
-- [Pinterest](https://ahmetcadirci.com.tr/r/pinterest){:target="_blank"}{:rel="noopener"}
+- [Vimeo](https://ahmetcadirci.com.tr/r/vimeo)
+- [Flickr](https://ahmetcadirci.com.tr/r/flickr)
+- [Unsplash](https://ahmetcadirci.com.tr/r/unsplash)
+- [Pinterest](https://ahmetcadirci.com.tr/r/pinterest)
 
 Sosyal paylaşımlarımı takip etmek için:
-- [Reddit](https://ahmetcadirci.com.tr/r/reddit){:target="_blank"}{:rel="noopener"}
-- [Tumblr](https://ahmetcadirci.com.tr/r/tumblr){:target="_blank"}{:rel="noopener"}
-- [Google+](https://ahmetcadirci.com.tr/r/googleplus){:target="_blank"}{:rel="noopener"}
+- [Reddit](https://ahmetcadirci.com.tr/r/reddit)
+- [Tumblr](https://ahmetcadirci.com.tr/r/tumblr)
+- [Google+](https://ahmetcadirci.com.tr/r/googleplus)
 
 ---
 
