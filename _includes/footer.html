@@ -80,6 +80,13 @@
       document.querySelectorAll(".navbar-toggle")[0].addEventListener("click", function() {
         document.querySelectorAll(".navbar-collapse")[0].classList.toggle("in");
       });
+
+      //toggleDarkLight
+      function toggleDarkLight() {
+          var body = document.getElementById("body");
+          var currentClass = body.className;
+          body.className = currentClass == "dark-mode" ? "light-mode" : "dark-mode";
+      }
     
       // Service Worker
       if ('serviceWorker' in navigator) {

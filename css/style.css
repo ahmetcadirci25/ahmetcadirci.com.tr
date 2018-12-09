@@ -3996,6 +3996,10 @@ h1+h3,h2+h3 {
     border-right: 0
 }
 
+.toggleDarkLight {
+    border-left: 0
+}
+
 .search-panel {
     display: none;
     background-color: rgba(0,0,0,.75);
@@ -5048,7 +5052,7 @@ body.search-mode .search-panel {
     padding: 9px 12px;
     border: 1px solid #e0e0e0;
     border-radius: 6px;
-    background: #f8f9fa;
+    background-color: #f8f9fa;
     margin-bottom: 30px
 }
 
@@ -5062,7 +5066,7 @@ body.search-mode .search-panel {
     padding: 9px 12px;
     border: 1px solid #e0e0e0;
     border-radius: 6px;
-    background: #f8f9fa;
+    background-color: #f8f9fa;
     margin-bottom: 15px
 }
 
@@ -5431,3 +5435,83 @@ picture {
     margin: 0 0 1.5em;
     display: block;
 }
+
+body.dark-mode,
+body.dark-mode .header,
+body.dark-mode .footer,
+body.dark-mode .copyrights,
+body.dark-mode .social-buttons__item,
+body.dark-mode .social-icons .social-icons__container,
+body.dark-mode #disqus_thread:after,
+body.dark-mode .sticky__box,
+body.dark-mode .sticky:after,
+body.dark-mode .sticky:before,
+body.dark-mode .sticky__circle,
+body.dark-mode .widget-categories ul,
+body.dark-mode .contact form input,
+body.dark-mode .contact form textarea,
+body.dark-mode .boxed{
+  background-color: #131313!important;
+}
+
+body.dark-mode,
+body.dark-mode .header,
+body.dark-mode .footer,
+body.dark-mode .copyrights,
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6,
+body.dark-mode h1 a,
+body.dark-mode h2 a,
+body.dark-mode h3 a,
+body.dark-mode h4 a,
+body.dark-mode h5 a,
+body.dark-mode h6 a,
+body.dark-mode .footer__text,
+body.dark-mode .contact form input,
+body.dark-mode blockquote,
+body.dark-mode .post-author .post-author__text,
+body.dark-mode .post-content{
+    color: #ffffff!important;
+}
+
+body.dark-mode .boxed, 
+body.dark-mode .copyrights, 
+body.dark-mode .social__container, 
+body.dark-mode .search__container, 
+body.dark-mode hr, 
+body.dark-mode .sticky__box, 
+body.dark-mode .sticky:after,
+body.dark-mode .sticky:before,
+body.dark-mode .widget-categories ul,
+body.dark-mode .widget-categories ul li a,
+body.dark-mode .read-more,
+body.dark-mode .navbar-default .navbar-collapse,
+body.dark-mode .navbar-default .navbar-form,
+body.dark-mode .meta__container--without-image,
+body.dark-mode .contact form input,
+body.dark-mode .footer {
+    border-color: #252525!important;
+}
+
+
+body.dark-mode .header {
+    box-shadow: 0 1px 5px #252525;
+    border-top: 1px solid #252525;
+}
+
+/*
+
+body.dark-mode .toggleDarkLight {
+  background-color: #eee;
+  color: #131313;
+}
+
+body.light-mode .toggleDarkLight {
+  background-color: #131313;
+  color: #eee;
+}
+*/
