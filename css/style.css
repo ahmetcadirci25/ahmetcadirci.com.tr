@@ -3996,7 +3996,7 @@ h1+h3,h2+h3 {
     border-right: 0
 }
 
-.toggleDarkLight {
+#darkModeToggle {
     border-left: 0
 }
 
