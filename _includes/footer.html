@@ -82,11 +82,36 @@
       });
 
       //toggleDarkLight
-      function toggleDarkLight() {
-          var body = document.getElementById("body");
-          var currentClass = body.className;
-          body.className = currentClass == "dark-mode" ? "light-mode" : "dark-mode";
-      }
+		var firstDarkMode = "light";
+		var setDarkModeToggle = function(){
+			var mode = localStorage.getItem("displayMode");
+			if (mode == null)
+				mode = firstDarkMode;
+
+		    if ( mode == "dark"){
+		    	localStorage.setItem("displayMode", "light");	
+		    }else{
+    		    localStorage.setItem("displayMode", "dark");	
+		    }	
+		}
+		var checkdarkModeToggle = function(){
+	        document.body.classList.remove("dark" , "light");
+		    var mode = localStorage.getItem("displayMode");
+			if (mode == null)
+				mode = firstDarkMode;
+
+		    if ( mode == "dark"){
+		    	document.body.classList.add("dark");
+		    }else{
+		    	document.body.classList.add("light");
+		    }
+		}
+
+		document.getElementById("darkModeToggle").addEventListener("click", function() {
+			setDarkModeToggle();
+			checkdarkModeToggle();
+		});
+		checkdarkModeToggle();
     
       // Service Worker
       if ('serviceWorker' in navigator) {
