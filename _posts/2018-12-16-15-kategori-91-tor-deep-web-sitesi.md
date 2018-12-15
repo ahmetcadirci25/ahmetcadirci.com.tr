@@ -1,33 +1,33 @@
 --- 
 title      : "15 Kategori 91 Tor Deep Web Sitesi" 
 description: "Tor tarayıcısıyla girilen ve anonim olarak internette gezinmenize olanak sağlayan sistem için 15 kategoride 91 web sitesini sizin için derlendi."  
-date       : 2018-11-16 20:00:00 
+date       : 2018-12-16 20:00:00 
 categories : [İnternet] 
 tags       : [Tor, Onion, Deep Web Siteleri 2018, Deep Web Siteleri 2019] 
 image      : "/images/15-kategori-91-tor-deep-web-sitesi.png" 
 comments   : true 
 --- 
 
-*Tor tarayıcısı, anonim olarak internette gezinmek için güçlü ücretsiz araçtır. .onion uzantılı derin ağa (deep web) girmenize olanak sağlar. Bir web sitesi oluşturmak istiyorsanız veya derin ağda (deep web) gezinmek istiyorsanız yazının tamamını okumanızı tavsiye ederim. .onion sitesi oluşturmak istiyorsanız detayları iyi takip etmeniz gerekir. *
+*Tor tarayıcısı, anonim olarak internette gezinmek için güçlü ücretsiz araçtır. .onion uzantılı derin ağa (deep web) girmenize olanak sağlar. Bir web sitesi oluşturmak istiyorsanız veya derin ağda (deep web) gezinmek istiyorsanız yazının tamamını okumanızı tavsiye ederim. .onion sitesi oluşturmak istiyorsanız detayları iyi takip etmeniz gerekir.*
 
 ## İçindekiler 
-- [Tor Ağ Arama Motorları]({{site.url}}/15-kategori-91-tor-deep-web-sitesi/#tor-ağ-arama-motorları)
-- [İnternet Arama Motorları]({{site.url}}/15-kategori-91-tor-deep-web-sitesi/#internet-arama-motorları)
-- [Güvenlik ve Gizlilik]({{site.url}}/15-kategori-91-tor-deep-web-sitesi/#güvenlik-ve-gizlilik)
-- [Not Paylaşım]({{site.url}}/15-kategori-91-tor-deep-web-sitesi/#not-paylaşım)
-- [Haberler]({{site.url}}/15-kategori-91-tor-deep-web-sitesi/#haberler)
-- [E-Posta]({{site.url}}/15-kategori-91-tor-deep-web-sitesi/#e-posta)
-- [Bloglar ve Kişisel Siteler]({{site.url}}/15-kategori-91-tor-deep-web-sitesi/#bloglar-ve-kişisel-siteler)
-- [Kütüphaneler]({{site.url}}/15-kategori-91-tor-deep-web-sitesi/#kütüphaneler)
-- [Sosyal Medya]({{site.url}}/15-kategori-91-tor-deep-web-sitesi/#sosyal-medya)
-- [Hosting]({{site.url}}/15-kategori-91-tor-deep-web-sitesi/#hosting)
-- [İşletim sistemleri]({{site.url}}/15-kategori-91-tor-deep-web-sitesi/#işletim-sistemleri)
-- [Güvenlik]({{site.url}}/15-kategori-91-tor-deep-web-sitesi/#güvenlik)
-- [Bitcoin]({{site.url}}/15-kategori-91-tor-deep-web-sitesi/#bitcoin)
-- [Karışık]({{site.url}}/15-kategori-91-tor-deep-web-sitesi/#karışık)
-- [Tor Dizinleri]({{site.url}}/15-kategori-91-tor-deep-web-sitesi/#tor-dizinleri)
+- [Tor Ağ Arama Motorları]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#tor-ağ-arama-motorları)
+- [İnternet Arama Motorları]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#internet-arama-motorları)
+- [Güvenlik ve Gizlilik]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#güvenlik-ve-gizlilik)
+- [Not Paylaşım]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#not-paylaşım)
+- [Haberler]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#haberler)
+- [E-Posta]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#e-posta)
+- [Bloglar ve Kişisel Siteler]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#bloglar-ve-kişisel-siteler)
+- [Kütüphaneler]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#kütüphaneler)
+- [Sosyal Medya]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#sosyal-medya)
+- [Hosting]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#hosting)
+- [İşletim sistemleri]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#işletim-sistemleri)
+- [Güvenlik]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#güvenlik)
+- [Bitcoin]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#bitcoin)
+- [Karışık]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#karışık)
+- [Tor Dizinleri]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#tor-dizinleri)
 
-*Bir .onion alan adı, yalnızca Tor tarayıcısı aracılığıyla erişilebilen web site adresidir. Chrome, Firefox ve Opera gibi tarayıcılar, kullanıcıları tor web sitelerine girişini engeller.* Tor tarayıcısının nasıl kurulduğunu öğrenmek için [tıklayın]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#tor-tarayıcısı-nasıl-kurulur).
+*Bir .onion alan adı, yalnızca Tor tarayıcısı aracılığıyla erişilebilen web site adresidir. Chrome, Firefox ve Opera gibi tarayıcılar, kullanıcıları tor web sitelerine girişini engeller.* **Tor tarayıcısının nasıl kurulduğunu öğrenmek için [tıklayın]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#tor-tarayıcısı-nasıl-kurulur).**
 
 ### Tor Ağ Arama Motorları
 - [http://haystakvxad7wbk5.onion/](http://haystakvxad7wbk5.onion/){:target="_blank"}{:rel="noopener"}
@@ -151,6 +151,8 @@ comments   : true
 - [http://visitorfi5kl7q7i.onion/search/](http://visitorfi5kl7q7i.onion/search/){:target="_blank"}{:rel="noopener"}
 
 #### BONUS
+Tor tarayıcısı, anonim olarak internette gezinmek için güçlü ücretsiz araçtır. .onion uzantılı derin ağa (deep web) girmenize olanak sağlar. Bir web sitesi oluşturmak istiyorsanız veya derin ağda (deep web) gezinmek istiyorsanız yazının tamamını okumanızı tavsiye ederim. .onion sitesi oluşturmak istiyorsanız detayları iyi takip etmeniz gerekir. 
+
 - [.ONION Alan Adı Nedir ve Nasıl Çalışır?]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#onion-alan-adı-nedir-ve-nasıl-çalışır) 
 - [Sıradan Bir Alan Adından Farkları Nelerdir?]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#sıradan-bir-alan-adından-farkları-nelerdir) 
 - [Neden Bir Adres İsteyeyim?]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#neden-bir-adres-i̇steyeyim) 
