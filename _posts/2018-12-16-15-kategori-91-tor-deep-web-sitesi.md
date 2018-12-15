@@ -12,7 +12,7 @@ comments   : true
 
 ## İçindekiler 
 - [Tor Ağ Arama Motorları]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#tor-ağ-arama-motorları)
-- [İnternet Arama Motorları]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#internet-arama-motorları)
+- [İnternet Arama Motorları]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#i̇nternet-arama-motorları)
 - [Güvenlik ve Gizlilik]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#güvenlik-ve-gizlilik)
 - [Not Paylaşım]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#not-paylaşım)
 - [Haberler]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#haberler)
@@ -21,7 +21,7 @@ comments   : true
 - [Kütüphaneler]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#kütüphaneler)
 - [Sosyal Medya]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#sosyal-medya)
 - [Hosting]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#hosting)
-- [İşletim sistemleri]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#işletim-sistemleri)
+- [İşletim sistemleri]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#i̇şletim-sistemleri)
 - [Güvenlik]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#güvenlik)
 - [Bitcoin]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#bitcoin)
 - [Karışık]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#karışık)
