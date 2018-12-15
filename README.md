@@ -49,6 +49,7 @@ Sosyal paylaşımlarımı takip etmek için:
 
 ### Yeni Yazılar
 
+* [15 Kategori 91 Tor Deep Web Sitesi](https://ahmetcadirci.com.tr/2018/15-kategori-91-tor-deep-web-sitesi/)
 * [App Store’dan Kaldırılan Tumblr Uygulaması Nasıl Kurulur?](https://ahmetcadirci.com.tr/2018/app-storedan-kaldirilan-tumblr-uygulamasi-nasil-kurulur/)
 * [Internet Download Manager Kurulumu ve Kullanımı](https://ahmetcadirci.com.tr/2018/internet-download-manager-kurulumu-ve-kullanimi/)
 * [.ONION Uzantılı Tor Sitesi Nasıl Kurulur?](https://ahmetcadirci.com.tr/2018/onion-uzantili-tor-sitesi-nasil-kurulur/)
