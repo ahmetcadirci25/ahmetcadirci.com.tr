@@ -21,7 +21,7 @@ comments   : true
 - [Kütüphaneler]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#kütüphaneler)
 - [Sosyal Medya]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#sosyal-medya)
 - [Hosting]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#hosting)
-- [İşletim sistemleri]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#i̇şletim-sistemleri)
+- [İşletim Sistemleri]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#i̇şletim-sistemleri)
 - [Güvenlik]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#güvenlik)
 - [Bitcoin]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#bitcoin)
 - [Karışık]({{site.url}}/2018/15-kategori-91-tor-deep-web-sitesi/#karışık)
@@ -109,7 +109,7 @@ comments   : true
 - [http://doavbk5nkdejhuk4.onion/](http://doavbk5nkdejhuk4.onion/){:target="_blank"}{:rel="noopener"}
 - [http://twlba5j7oo5g4kj5.onion/](http://twlba5j7oo5g4kj5.onion/){:target="_blank"}{:rel="noopener"}
 
-### İşletim sistemleri
+### İşletim Sistemleri
 - [http://sejnfjrq6szgca7v.onion/](http://sejnfjrq6szgca7v.onion/){:target="_blank"}{:rel="noopener"}
 - [http://qubesosmamapaxpa.onion/](http://qubesosmamapaxpa.onion/){:target="_blank"}{:rel="noopener"}
 - [http://kkkkkkkkkk63ava6.onion/](http://kkkkkkkkkk63ava6.onion/){:target="_blank"}{:rel="noopener"}
