@@ -97,7 +97,7 @@ Sosyal paylaşımlarımı takip etmek için:
 * [Feedly RSS İçe (Import) veya Dışa (Export) Aktarma](https://ahmetcadirci.com.tr/2016/feedly-rss-ice-import-veya-disa-export-aktarma/)
 * [HTC ONE M8 Ekran Otomatik Döndürme Sorunu — Mutlu Son!](https://ahmetcadirci.com.tr/2016/htc-one-m8-ekran-otomatik-dondurme-sorunu-mutlu-son/)
 * [Aşk Sultandır — Muhabbet, Aşk, Derd](https://ahmetcadirci.com.tr/2016/ask-sultandir-muhabbet-ask-derd/)
-* [5+ Ücretsiz En Çok Kullanılan Kod Editörleri (Windows, Mac ve Lunix)](https://ahmetcadirci.com.tr/2016/ucretsiz-en-cok-kullanilan-kod-editorleri-windows-mac-lunix/)
+* [5+ Ücretsiz En Çok Kullanılan Kod Editörleri (Windows, Mac ve Lunix)](https://ahmetcadirci.com.tr/2016/5-ucretsiz-en-cok-kullanilan-kod-editorleri-windows-mac-lunix/)
 * [5+ Ücretsiz En İyi WordPress Randevu ve Rezervasyon Eklentileri](https://ahmetcadirci.com.tr/2016/5-ucretsiz-en-iyi-wordpress-randevu-ve-rezervasyon-eklentileri/)
 * [20+ Tane Kişisel Jekyll Temaları](https://ahmetcadirci.com.tr/2016/20-tane-kisisel-jekyll-temalari/)
 * [Windows 10 İşletim Sistemine XAMPP Server Kurulumu](https://ahmetcadirci.com.tr/2016/windows-10-isletim-sistemine-xampp-server-kurulumu/)
