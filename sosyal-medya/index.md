@@ -17,6 +17,7 @@ Sosyal medya hesaplarımdan bana ulaşabilirsiniz. Web sitemde yayınlanan en g�
 
 Kod paylaşımlarımı takip etmek için:
 - [GitHub]({{ site.url }}/r/github){:target="_blank"}{:rel="noopener"}
+- [Gits]({{ site.url }}/r/gits){:target="_blank"}{:rel="noopener"}
 - [Codepen]({{ site.url }}/r/codepen){:target="_blank"}{:rel="noopener"}
 - [Dev.to]({{ site.url }}/r/devto){:target="_blank"}{:rel="noopener"}
 
