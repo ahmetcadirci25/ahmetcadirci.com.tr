@@ -28,6 +28,7 @@ Soru & Cevap'ları görüntülemek için:
 
 Video ve Fotoğrafları takip etmek için:
 - [Vimeo]({{ site.url }}/r/vimeo){:target="_blank"}{:rel="noopener"}
+- [YouTube]({{ site.url }}/r/youtube){:target="_blank"}{:rel="noopener"}
 - [Flickr]({{ site.url }}/r/flickr){:target="_blank"}{:rel="noopener"}
 - [Unsplash]({{ site.url }}/r/unsplash){:target="_blank"}{:rel="noopener"}
 - [Pinterest]({{ site.url }}/r/pinterest){:target="_blank"}{:rel="noopener"}
