@@ -248,9 +248,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-avatar
   jekyll-seo-tag
   jekyll-sitemap
 
 BUNDLED WITH
-   1.16.3
+   1.17.2
