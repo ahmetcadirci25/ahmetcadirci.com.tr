@@ -2,7 +2,7 @@
 title      : "iPhone'a E-Kitap (EPUB) Nasıl Yüklenir?"
 description: "iPhone, iPad ve iPod cihazımıza herhangi bir e-kitap uygulaması kurmadan mevut olan Kitaplar (Books) uygulaması ile e-kitapları (epub) kolaylıkla okuyabiliriz.  Sadece e-kitap değil, pdf dosyalarını da görüntüleyebilirsiniz."
 date       : 2018-08-05 22:20:00
-categories : [Teknoloji, Mobil, Nasıl Yapılır]
+categories : [Teknoloji, İnternet, Kitap]
 tags       : [iPhone, iPad]
 image      : "/images/iphonea-e-kitap-epub-nasil-yuklenir.png"
 comments   : true

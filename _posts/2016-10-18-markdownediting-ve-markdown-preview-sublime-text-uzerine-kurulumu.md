@@ -2,7 +2,7 @@
 title      : "MarkdownEditing ve Markdown Preview Eklentilerinin Sublime Text Üzerine Kurulumu"
 description: "Zengin metinler üretmek için MarkdownEditing ve Markdown Preview Eklentilerinin Sublime Text Üzerine Kurulumu..."
 date       : 2016-10-18 16:41:00
-categories : [Web Tasarım]
+categories : [Program]
 tags       : [Sublime Text 3, Markdown, MarkdownEditing, Markdown Preview]
 image      : "/images/markdownediting-kurulum.png"
 comments   : true

@@ -2,7 +2,7 @@
 title      : "Muhammed Ali"
 description: "Müslüman olmadan evvelki adı Cassius Marcellus Clay Jr. olan Muhammed Ali, 17 Ocak 1942’de Louisville’de doğdu. Küçük yaşta boks sporuna başladı. 22 yaşında dünya şampiyonu olmasının akabinde Müslümanlığı seçtiğini açıklaması, bütün dünyada derin yankı uyandırdı."
 date       : 2018-05-28 19:30:00
-categories : [Makale, İslam]
+categories : [İslam]
 tags       : [Muhammed Ali, Müslüman, Boks]
 image      : "/images/muhammed-ali.png"
 comments   : true

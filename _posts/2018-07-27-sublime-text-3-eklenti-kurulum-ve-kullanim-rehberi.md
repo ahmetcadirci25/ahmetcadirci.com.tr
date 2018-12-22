@@ -2,7 +2,7 @@
 title      : "Sublime Text 3 Eklenti Kurulum ve Kullanım Rehberi"
 description: "Metin editörü olan Sublime Text 3 programını daha verimli kullanmamızı sağlayan eklentilerin nasıl kurulduğu ve kullanıldığını detaylı bir şekilde açıklayan rehberi sizlerle paylaşmak istiyorum."
 date       : 2018-07-27 19:15:00
-categories : [Web Tasarım]
+categories : [Program, Kod]
 tags       : [Sublime Text 3, Eklenti]
 image      : "/images/sublime-text-3-eklenti-kurulum-ve-kullanim-rehberi.png"
 comments   : true

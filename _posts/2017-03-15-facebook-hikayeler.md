@@ -2,7 +2,7 @@
 title      : "Facebook Hikayeler: Facebook'un En Son Özelliği Hakkında Bilmeniz Gereken Her Şey"
 description: "Facebook Hikayeleri olarak bilinen özellik, kullanıcıların eğlenceli filtreleri ve Snapchat benzeri objektifleri içeriğine..."
 date       : 2017-03-15 00:20:00
-categories : [İnternet, Mobil, Teknoloji, Sosyal Medya]
+categories : [İnternet, Teknoloji, Sosyal Medya]
 tags       : [Facebook, İnstagram, Snapchat]
 image      : "/images/facebook-hikayeler.png"
 comments   : true

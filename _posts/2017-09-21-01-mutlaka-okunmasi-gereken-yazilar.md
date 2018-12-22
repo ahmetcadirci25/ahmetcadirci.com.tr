@@ -2,7 +2,7 @@
 title      : "#01 Mutlaka Okunması Gereken Yazılar"
 description: "Mutlaka Okunması Gereken Yazılar serisinin ilki olan yazıda 5 tane yazıyı sizinle paylaşıyorum. Umarım beğenirsiniz. İyi okumalar."
 date       : 2017-09-17 13:16:00
-categories : [Makale]
+categories : [Genel]
 tags       : [Serdar Tuncer, Charlie Chaplin]
 image      : "/images/mutlaka-okunmasi-gereken-yazilar.png"
 comments   : true

@@ -2,7 +2,7 @@
 title      : "iPhone’daki Fotoğraflar Bilgisayara Nasıl Aktarılır?"
 description: "iPhone’daki fotoğraflar bilgisayara nasıl aktarılır? Bu işlemlerin öncelikle Windows 10’da nasıl gerçekleştiğini anlatacağım."
 date       : 2017-11-17 01:00:00
-categories : [Teknoloji, Program, Mobil, Nasıl Yapılır]
+categories : [Program, Fotoğraf]
 tags       : [Windows 10, iPhone, iPad]
 image      : "/images/iphonedaki-fotograflar-bilgisayara-nasil-aktarilir.png"
 comments   : true

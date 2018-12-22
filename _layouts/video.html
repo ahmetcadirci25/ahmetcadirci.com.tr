@@ -2,184 +2,184 @@
 layout: default
 ---
     
-    <div class="container">
-      <div class="boxed  push-down-60">
+<div class="container">
+  <div class="boxed  push-down-60">
 
-        <!-- Featured image and meta start -->
-        <div class="meta push-down-0">
-          <div class="responsive-embed-video">
+    <!-- Featured image and meta start -->
+    <div class="meta push-down-0">
+      <div class="responsive-embed-video">
 
-            <!-- Embed Vimeo video 
-            <img src="{{ site.url }}/images/loading.gif" data-src="{{ site.url }}{{ page.image }}" class="vimeo-thumb lazyload" alt="{{ page.title }}" data-vimeo-id="{{page.videoid}}" data-width="1138" />-->
+        <!-- Embed Vimeo video 
+        <img src="{{ site.url }}/images/loading.gif" data-src="{{ site.url }}{{ page.image }}" class="vimeo-thumb lazyload" alt="{{ page.title }}" data-vimeo-id="{{page.videoid}}" data-width="1138" />-->
 
-            <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/{{page.videoid}}?autoplay=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/{{page.videoid}}?autoplay=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-            <!-- Embed ends -->
-          </div>
-          <div class="row">
-            <div class="col-xs-12  col-sm-10  col-sm-offset-1  col-md-8  col-md-offset-2">
-              <div class="meta__container--without-image">
-                <div class="row">
-                  <div class="col-xs-12  col-sm-10">
-                    <div class="meta__info">
-                  <span class="meta__author"><svg class="icon icon-user"><use xlink:href="#icon-user"></use></svg> <a href="{{ site.url }}">{{ site.author.name }} </a>   
-                  </span> 
-                  <span class="meta__categories"><svg class="icon icon-list"><use xlink:href="#icon-list"></use></svg>  &nbsp; {% for categories in page.categories %}<a href="{{ site.url }}/kategoriler/#{{ categories }}">{{ categories }}</a>, {% endfor %} </span>
-                  <span class="meta__date"><svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>   &nbsp; {{ page.date | date: "%d.%m.%Y" }}</span> 
-                </div>
-                  </div>
-                  <div class="col-xs-12 col-sm-2">
-                    <div class="meta__comments">
-                      <svg class="icon icon-comment"><use xlink:href="#icon-comment"></use></svg>  &nbsp;
-                      <a href="{{ site.url }}/{{ page.url | remove_first: '/' }}#disqus_thread"></a> 
-                    </div>
-                  </div>
+        <!-- Embed ends -->
+      </div>
+      <div class="row">
+        <div class="col-xs-12  col-sm-10  col-sm-offset-1  col-md-8  col-md-offset-2">
+          <div class="meta__container--without-image">
+            <div class="row">
+              <div class="col-xs-12  col-sm-10">
+                <div class="meta__info">
+              <span class="meta__author"><svg class="icon icon-user"><use xlink:href="#icon-user"></use></svg> <a href="{{ site.url }}">{{ site.author.name }} </a>   
+              </span> 
+              <span class="meta__categories"><svg class="icon icon-list"><use xlink:href="#icon-list"></use></svg>  &nbsp; {% for categories in page.categories %}<a href="{{ site.url }}/kategoriler/#{{ categories }}">{{ categories }}</a>, {% endfor %} </span>
+              <span class="meta__date"><svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>   &nbsp; {{ page.date | date: "%d.%m.%Y" }}</span> 
+            </div>
+              </div>
+              <div class="col-xs-12 col-sm-2">
+                <div class="meta__comments">
+                  <svg class="icon icon-comment"><use xlink:href="#icon-comment"></use></svg>  &nbsp;
+                  <a href="{{ site.url }}/{{ page.url | remove_first: '/' }}#disqus_thread"></a> 
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <!-- Featured image and meta end -->
-
-        <!-- Start of the blogpost -->
-        <div class="row">
-          <div class="col-xs-10  col-xs-offset-1  col-md-8  col-md-offset-2  push-down-60">
-
-            <!-- Start of the content -->
-            <div class="post-content" itemscope itemtype="http://schema.org/Article">
-
-              {% include side-share.html %}
-              
-              <meta itemprop="inLanguage" content="tr-TR" />
-              <meta itemprop="mainEntityOfPage" content="{{ site.url }}/{{ page.url | remove_first: '/' }}">
-              <meta itemprop="dateModified" content="{{ page.date }}"/>
-              <meta itemprop="datePublished" content="{{ page.date }}"/>
-              <meta itemprop="author" content="{{ site.author.name }}">
-              <meta itemprop="image" content="{{ site.url }}{{ page.image }}" />  
-
-              <h1 itemprop="headline">
-                <a href="{{ site.url }}/{{ page.url | remove_first: '/' }}">{{ page.title }}</a> 
-              </h1>
-
-              {% include ads01.html %}
-             
-              <div itemprop="articleBody">
-                {{ content }}
-              </div>
-
-              <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-                  <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-                      <meta itemprop="url" content="{{ "/images/favicons/apple-touch-icon-180x180.png" | prepend: site.url }}" />
-                      <meta itemprop="width" content="180px" />
-                      <meta itemprop="height" content="180px" />
-                  </div>
-                  <meta itemprop="name" content="{{ site.author.name }}" />
-                  <meta itemprop="sameAs" content="{{ site.url }}/r/github" />
-              </div>
-
-            </div>
-
-            {% include ads02.html %}
-
-            <!-- End of the content -->
-            <div class="row">
-              <div class="col-xs-12  col-sm-3">
-
-                <!-- Start of comments button -->
-                <div class="post-comments">
-                  <a class="btn  btn-primary" href="{{ site.url }}/{{ page.url | remove_first: '/' }}#disqus_thread" title="Yorumlar"></a> 
-                </div>
-
-                <!-- End of comments button -->
-              </div>
-              <div class="col-xs-12  col-sm-9">
-
-                {% include share.html %}
-                
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-xs-12  col-sm-6">
-
-                <!-- Start of post author -->
-                <div class="post-author">
-                  <h6>Tarafından Yazılmıştır</h6>
-                  <hr>
-                  <img src="{{ "/images/avatar.svg" | prepend: site.url }}" alt="{{ site.author.name }}">
-                  <h5>
-                    <a href="{{ site.url }}">{{ site.author.name }}</a> 
-                  </h5>
-                  <span class="post-author__text">{{ site.description }}</span> 
-                </div>
-
-                <!-- End of post author -->
-              </div>
-              <div class="col-xs-12  col-sm-6">
-
-                <!-- Start of post tags -->
-                <div class="tags">
-                  <h6>Etiket</h6>
-                  <hr>
-
-                  <div class="tags-105">
-                    {% for tag in page.tags %}<a href="{{ site.url }}/etiketler/#{{ tag }}"  class="tags__link">{{ tag }}</a> {% endfor %}
-                  </div>
-
-                </div>
-
-                <!-- End of post tags -->
-              </div>
-              <div class="col-xs-12">
-                <h6>Site Haritası</h6>
-                <hr>
-                <ol class="breadcrumb push-down-25" itemscope itemtype="http://schema.org/BreadcrumbList">
-                  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                    <a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site.url }}/kategoriler/">
-                        <span itemprop="name">Kategoriler</span></a>
-                    <meta itemprop="position" content="1" />
-                  </li>
-                  {% for categories in page.categories limit:1 %}
-                  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                    <a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site.url }}/kategoriler/#{{ categories }}">
-                      <span itemprop="name">{{ categories }}</a></span></a>
-                    <meta itemprop="position" content="2" />
-                  </li>
-                  {% endfor %}
-                  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                    <a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site.url }}/{{ page.url | remove_first: '/' }}">
-                      <span itemprop="name">{{ page.title }}</span></a>
-                    <meta itemprop="position" content="3" />
-                  </li>
-                </ol>
-              </div>
-            </div>
-
-            {% include disqus.html %}
-
-            <!-- Start of related stories -->
-            <div class="related-stories">
-              <h6>İlgili Yazılar</h6>
-              <hr>
-              {% assign RELATED_POSTS_THRESHOLD = 3 %}{% assign related_post_count = 0 %}{% for post in site.related_posts %}{% if related_post_count == RELATED_POSTS_THRESHOLD %}{% break %}{% endif %}{% for tag in post.tags %}{% if page.tags contains tag %}
-                      <h4>
-                        <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}">
-                          {{ post.title }}
-                        </a>
-                      </h4>
-                      <h5>{{ post.date | date_to_string }}</h5>
-              {% assign related_post_count = related_post_count | plus: 1 %}{% break %}{% endif %}{% endfor %}{% endfor %}{% assign posts_left = RELATED_POSTS_THRESHOLD | minus: related_post_count %}{% unless posts_left == 0 %}{% for post in site.related_posts %}{% if posts_left == 0 %}{% break %}{% endif %}{% assign already_related = false %}{% for tag in post.tags %}{% if page.tags contains tag %}{% assign already_related = true %}{% break %}{% endif %}{% endfor %}{% unless already_related %}{% assign posts_left = posts_left | minus: 1 %}
-                      <h4>
-                        <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}">
-                          {{ post.title }}
-                        </a>
-                      </h4>
-                  <h5>{{ post.date | date_to_string }}</h5>{% endunless %}{% endfor %}{% endunless %}
-            </div>
-
-            <!-- End of related stories -->
-          </div>
-        </div>
-
-        <!-- End of the blogpost -->
       </div>
     </div>
+    <!-- Featured image and meta end -->
+
+    <!-- Start of the blogpost -->
+    <div class="row">
+      <div class="col-xs-10  col-xs-offset-1  col-md-8  col-md-offset-2  push-down-60">
+
+        <!-- Start of the content -->
+        <div class="post-content" itemscope itemtype="http://schema.org/Article">
+
+          {% include side-share.html %}
+          
+          <meta itemprop="inLanguage" content="tr-TR" />
+          <meta itemprop="mainEntityOfPage" content="{{ site.url }}/{{ page.url | remove_first: '/' }}">
+          <meta itemprop="dateModified" content="{{ page.date }}"/>
+          <meta itemprop="datePublished" content="{{ page.date }}"/>
+          <meta itemprop="author" content="{{ site.author.name }}">
+          <meta itemprop="image" content="{{ site.url }}{{ page.image }}" />  
+
+          <h1 itemprop="headline">
+            <a href="{{ site.url }}/{{ page.url | remove_first: '/' }}">{{ page.title }}</a> 
+          </h1>
+
+          {% include ads01.html %}
+         
+          <div itemprop="articleBody">
+            {{ content }}
+          </div>
+
+          <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+              <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+                  <meta itemprop="url" content="{{ "/images/favicons/apple-touch-icon-180x180.png" | prepend: site.url }}" />
+                  <meta itemprop="width" content="180px" />
+                  <meta itemprop="height" content="180px" />
+              </div>
+              <meta itemprop="name" content="{{ site.author.name }}" />
+              <meta itemprop="sameAs" content="{{ site.url }}/r/github" />
+          </div>
+
+        </div>
+
+        {% include ads02.html %}
+
+        <!-- End of the content -->
+        <div class="row">
+          <div class="col-xs-12  col-sm-3">
+
+            <!-- Start of comments button -->
+            <div class="post-comments">
+              <a class="btn  btn-primary" href="{{ site.url }}/{{ page.url | remove_first: '/' }}#disqus_thread" title="Yorumlar"></a> 
+            </div>
+
+            <!-- End of comments button -->
+          </div>
+          <div class="col-xs-12  col-sm-9">
+
+            {% include share.html %}
+            
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12  col-sm-6">
+
+            <!-- Start of post author -->
+            <div class="post-author">
+              <h6>Tarafından Yazılmıştır</h6>
+              <hr>
+              <img src="{{ "/images/avatar.svg" | prepend: site.url }}" alt="{{ site.author.name }}">
+              <h5>
+                <a href="{{ site.url }}">{{ site.author.name }}</a> 
+              </h5>
+              <span class="post-author__text">{{ site.description }}</span> 
+            </div>
+
+            <!-- End of post author -->
+          </div>
+          <div class="col-xs-12  col-sm-6">
+
+            <!-- Start of post tags -->
+            <div class="tags">
+              <h6>Etiket</h6>
+              <hr>
+
+              <div class="tags-105">
+                {% for tag in page.tags %}<a href="{{ site.url }}/etiketler/#{{ tag }}"  class="tags__link">{{ tag }}</a> {% endfor %}
+              </div>
+
+            </div>
+
+            <!-- End of post tags -->
+          </div>
+          <div class="col-xs-12">
+            <h6>Site Haritası</h6>
+            <hr>
+            <ol class="breadcrumb push-down-25" itemscope itemtype="http://schema.org/BreadcrumbList">
+              <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site.url }}/kategoriler/">
+                    <span itemprop="name">Kategoriler</span></a>
+                <meta itemprop="position" content="1" />
+              </li>
+              {% for categories in page.categories limit:1 %}
+              <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site.url }}/kategoriler/#{{ categories }}">
+                  <span itemprop="name">{{ categories }}</a></span></a>
+                <meta itemprop="position" content="2" />
+              </li>
+              {% endfor %}
+              <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemtype="http://schema.org/Thing" itemprop="item" href="{{ site.url }}/{{ page.url | remove_first: '/' }}">
+                  <span itemprop="name">{{ page.title }}</span></a>
+                <meta itemprop="position" content="3" />
+              </li>
+            </ol>
+          </div>
+        </div>
+
+        {% include disqus.html %}
+
+        <!-- Start of related stories -->
+        <div class="related-stories">
+          <h6>İlgili Yazılar</h6>
+          <hr>
+          {% assign RELATED_POSTS_THRESHOLD = 3 %}{% assign related_post_count = 0 %}{% for post in site.related_posts %}{% if related_post_count == RELATED_POSTS_THRESHOLD %}{% break %}{% endif %}{% for tag in post.tags %}{% if page.tags contains tag %}
+                  <h4>
+                    <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}">
+                      {{ post.title }}
+                    </a>
+                  </h4>
+                  <h5>{{ post.date | date_to_string }}</h5>
+          {% assign related_post_count = related_post_count | plus: 1 %}{% break %}{% endif %}{% endfor %}{% endfor %}{% assign posts_left = RELATED_POSTS_THRESHOLD | minus: related_post_count %}{% unless posts_left == 0 %}{% for post in site.related_posts %}{% if posts_left == 0 %}{% break %}{% endif %}{% assign already_related = false %}{% for tag in post.tags %}{% if page.tags contains tag %}{% assign already_related = true %}{% break %}{% endif %}{% endfor %}{% unless already_related %}{% assign posts_left = posts_left | minus: 1 %}
+                  <h4>
+                    <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}">
+                      {{ post.title }}
+                    </a>
+                  </h4>
+              <h5>{{ post.date | date_to_string }}</h5>{% endunless %}{% endfor %}{% endunless %}
+        </div>
+
+        <!-- End of related stories -->
+      </div>
+    </div>
+
+    <!-- End of the blogpost -->
+  </div>
+</div>

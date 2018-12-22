@@ -2,7 +2,7 @@
 title      : "WordPress wp-config.php'inizi Nasıl Güvenli Hale Getirebilirsiniz?"
 description: "wp-config.php dosyası, WordPress siteniz için önemli yapılandırma bilgilerini tutar ve mümkün olduğu kadar davetsiz misafirlerden korumak önemlidir."
 date       : 2016-12-08 11:00:00
-categories : [Wordpress, Wordpress Optimizasyon]
+categories : [Wordpress, Kod]
 tags       : [wp-config.php, Wordpress Güvenlik]
 image      : "/images/wordpress-wp-config-php-inizi-nasil-guvenli-hale-getirebilirsiniz.png"
 comments   : true

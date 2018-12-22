@@ -2,7 +2,7 @@
 title      : "Npm Paketlerinin Bulunduğu Dizin"
 description: "Npm paketlerinin nereye yüklendiğini görmek için npm list -g kodunu teriminalde çalıştırabilirsiniz."
 date       : 2017-04-29 18:40:00
-categories : [Teknoloji, Program]
+categories : [Kod, Program]
 tags       : [Npm, Windows 10, Unix]
 image      : "/images/npm-paketlerinin-bulundugu-dizin.png"
 comments   : true

@@ -2,7 +2,7 @@
 title      : "Web Site Kaynağını Android Tarayıcısında Nasıl Görüntüleyebilirim?"
 description: "Chrome, Firefox ve Yandex.Browser mobil tarayıcılarında web sitelerin kaynak kodlarını görüntüleme..."
 date       : 2016-12-22 21:45:00
-categories : [Teknoloji, Mobil, İnternet]
+categories : [Kod, İnternet]
 tags       : [Chrome, Mobil Tarayıcı, Chrome, Firefox, Yandex.Browser]
 image      : "/images/web-site-kaynagini-android-tarayicsinda-nasil-goruntuleyebilirim.png"
 comments   : true

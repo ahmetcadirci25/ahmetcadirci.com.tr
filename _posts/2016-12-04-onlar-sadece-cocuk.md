@@ -2,8 +2,8 @@
 title      : "Onlar Sadece Çocuk..."
 description: "Suriyeli Çocuklar... Yıllardır Süren Acımasız Savaştan Görüntüler..."
 date       : 2016-12-04 21:00:00
-categories : [Galeri]
-tags       : [Fotoğraf, Savaş, Çocuk, Suriye]
+categories : [Fotoğraf]
+tags       : [Savaş, Çocuk, Suriye]
 image      : "/images/onlar-sadece-cocuk.png"
 comments   : true
 ---

@@ -2,7 +2,7 @@
 title      : "Mikrobilgisayar Sistemleri Örnek Sorular"
 description: "2016 Mikrobilgisayar Sistemleri ve Arduino Soru Örnekleri..."
 date       : 2016-11-19 19:40:00
-categories : [Teknoloji, Program, İnternet]
+categories : [Genel]
 tags       : [Arduino, Mikrobilgisayar]
 image      : "/images/mikrobilgisayar-sistemleri-ornek-sorular.png"
 comments   : true

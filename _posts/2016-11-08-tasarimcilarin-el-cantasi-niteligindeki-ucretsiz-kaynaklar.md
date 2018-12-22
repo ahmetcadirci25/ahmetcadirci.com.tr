@@ -2,7 +2,7 @@
 title      : "Tasarımcıların El Çantası Niteliğindeki Ücretsiz Kaynaklar (Fotoğraf,  Video, İkon, Yazı Tipi, Renk, Ses)"
 description: "Ücretsiz stok fotoğraflar, videolar, mockuplar, yazı tipleri, grafikler, araçlar, dokular, sesler, renkler ve ikonların yer aldığı listede bir çok sitenin linki bulunmaktadır."
 date       : 2016-11-08 12:57:23
-categories : [Grafik Tasarım, Photoshop, Vektör, İkon, Mockup, UI/UX, Wallpaper, Fotoğraf]
+categories : [Tasarım]
 tags       : [Tasarım, Visual Hunt, Pexels, StockSnap]
 image      : "/images/tasarimcilarin-el-cantasi-niteligindeki-ucretsiz-kaynaklar.png"
 comments   : true

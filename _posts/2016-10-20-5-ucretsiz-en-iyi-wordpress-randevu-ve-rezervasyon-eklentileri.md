@@ -2,7 +2,7 @@
 title      : "5+ Ücretsiz En İyi WordPress Randevu ve Rezervasyon Eklentileri"
 description: "Danışman ya da otel randevularını yönetmek için Randevu kullanabilirsiniz. 5 ücretsiz en iyi WordPress randevu ve rezervasyon eklentilerini bulabilirsiniz."
 date       : 2016-10-20 09:44:00
-categories : [Wordpress, Wordpress Eklentiler]
+categories : [Wordpress]
 tags       : [Randevu, Rezervasyon]
 image      : "/images/appointments.png"
 comments   : true

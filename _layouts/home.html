@@ -1,105 +1,101 @@
 ---
 layout : default
 ---
+<div class="container">
+    <div class="row">
+      
+    	<div class="col-xs-12  col-md-8">
+      	{% for post in paginator.posts %}
 
+              <!-- Post with featured image -->
+              <div class="boxed sticky push-down-45">
 
-    <div class="container">
-      <div class="row">
-        
-      	<div class="col-xs-12  col-md-8">
-        	{% for post in paginator.posts %}
+                <!-- Featured image and meta start -->
+                <div class="meta">
 
-                <!-- Post with featured image -->
-                <div class="boxed sticky push-down-45">
+                  <picture>
+                    <source type="image/webp" class="wp-post-image" srcset="{{ site.url }}{{post.image | replace: 'png', 'webp'}}" alt="{{ post.title }}">
+                    <img class="wp-post-image" src="{{ site.url }}{{post.image}}" alt="{{ post.title }}">
+                  </picture>
 
-                  <!-- Featured image and meta start -->
-                  <div class="meta">
-
-                    <picture>
-                      <source type="image/webp" class="wp-post-image" srcset="{{ site.url }}{{post.image | replace: 'png', 'webp'}}" alt="{{ post.title }}">
-                      <img class="wp-post-image" src="{{ site.url }}{{post.image}}" alt="{{ post.title }}">
-                    </picture>
-
-                    <div class="meta__container">
-                      <div class="row">
-                        <div class="col-xs-12  col-sm-10">
-                          <div class="meta__info">
-                            <span class="meta__author"><svg class="icon icon-user"><use xlink:href="#icon-user"></use></svg> <a href="{{ site.url }}" title="{{ site.author.name }}">{{ site.author.name }} </a>   
-                            </span> 
-                            <span class="meta__categories"><svg class="icon icon-list"><use xlink:href="#icon-list"></use></svg>  &nbsp; {% for categories in post.categories limit:1 %}<a href="{{ site.url }}/kategoriler/#{{ categories }}">{{ categories }}</a> {% endfor %} </span>
-                            <span class="meta__date"><svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>   &nbsp; {{ post.date | date: "%d.%m.%Y" }}</span> 
-                          </div>
-                        </div>
-                        <div class="col-xs-12  col-sm-2">
-                          <div class="meta__comments">
-                            <svg class="icon icon-comment"><use xlink:href="#icon-comment"></use></svg>  &nbsp;
-                            <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}#disqus_thread" title="Yorumlar"></a> 
-                          </div>
+                  <div class="meta__container">
+                    <div class="row">
+                      <div class="col-xs-12  col-sm-10">
+                        <div class="meta__info">
+                          <span class="meta__author"><svg class="icon icon-user"><use xlink:href="#icon-user"></use></svg> <a href="{{ site.url }}" title="{{ site.author.name }}">{{ site.author.name }} </a>   
+                          </span> 
+                          <span class="meta__categories"><svg class="icon icon-list"><use xlink:href="#icon-list"></use></svg>  &nbsp; {% for categories in post.categories limit:1 %}<a href="{{ site.url }}/kategoriler/#{{ categories }}">{{ categories }}</a> {% endfor %} </span>
+                          <span class="meta__date"><svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>   &nbsp; {{ post.date | date: "%d.%m.%Y" }}</span> 
                         </div>
                       </div>
-                    </div>
-                  </div>
-                  <div class="sticky__box">
-                    <span class="sticky__circle"></span> 
-                    <span class="sticky__circle"></span> 
-                    <span class="sticky__circle"></span> 
-                    <span class="sticky__circle"></span> 
-                  </div>
-
-                  <!-- Featured image and meta end -->
-
-                  <!-- Start of the blogpost -->
-                  <div class="row">
-                    <div class="col-xs-10  col-xs-offset-1">
-
-                      <!-- Start of the content -->
-                      <div class="post-content--front-page">
-                        <h2 class="front-page-title push-down-15">
-                          <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}">{{ post.title }}</a> 
-                        </h2>
-                        <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-                      </div>
-
-                      <!-- End of the content -->
-                      <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}">
-                        <div class="read-more">
-                          Devamını Oku <svg class="icon icon-chevron-right"><use xlink:href="#icon-chevron-right"></use></svg>
-                          
-                          <div class="read-more__arrow">
-                            <!-- Facebook -->
-                            <a href="https://facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}?utm_source=Facebook&amp;utm_medium=Paylaş" target="_blank" aria-label="Facebook Paylaş" class="push-left-15">
-                              <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
-                            </a>
-
-                            <!-- Twitter -->
-                            <a href="https://twitter.com/intent/tweet/?text={{ page.title }}&url={{ site.url }}{{ page.url }}?utm_source=Twitter&amp;utm_medium=Paylaş" target="_blank" aria-label="Twitter Paylaş" class="push-left-15">
-                              <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
-                            </a>
-
-                            <!-- Reddit -->
-                            <a href="http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}?utm_source=Reddit&amp;utm_medium=Paylaş&title={{ page.title }}" target="_blank" aria-label="Reddit Paylaş" class="push-left-15">
-                              <svg class="icon icon-reddit"><use xlink:href="#icon-reddit"></use></svg>
-                            </a>
-                          </div>
-
+                      <div class="col-xs-12  col-sm-2">
+                        <div class="meta__comments">
+                          <svg class="icon icon-comment"><use xlink:href="#icon-comment"></use></svg>  &nbsp;
+                          <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}#disqus_thread" title="Yorumlar"></a> 
                         </div>
-                      </a> 
+                      </div>
                     </div>
                   </div>
                 </div>
-                 <!-- End Post with featured image -->
-                 {% endfor %}
-              
-              {% if paginator.previous_page or paginator.next_page %}
-              {% include pagination.html %}
-              {% endif %}
-        </div>
+                <div class="sticky__box">
+                  <span class="sticky__circle"></span> 
+                  <span class="sticky__circle"></span> 
+                  <span class="sticky__circle"></span> 
+                  <span class="sticky__circle"></span> 
+                </div>
 
+                <!-- Featured image and meta end -->
 
-      <!-- start sidebar -->
-      {% include sidebar.html %}
-      <!-- end sidebar -->
-        
+                <!-- Start of the blogpost -->
+                <div class="row">
+                  <div class="col-xs-10  col-xs-offset-1">
 
-    </div>
+                    <!-- Start of the content -->
+                    <div class="post-content--front-page">
+                      <h2 class="front-page-title push-down-15">
+                        <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}">{{ post.title }}</a> 
+                      </h2>
+                      <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+                    </div>
+
+                    <!-- End of the content -->
+                    <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}">
+                      <div class="read-more">
+                        Devamını Oku <svg class="icon icon-chevron-right"><use xlink:href="#icon-chevron-right"></use></svg>
+                        
+                        <div class="read-more__arrow">
+                          <!-- Facebook -->
+                          <a href="https://facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}?utm_source=Facebook&amp;utm_medium=Paylaş" target="_blank" aria-label="Facebook Paylaş" class="push-left-15">
+                            <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
+                          </a>
+
+                          <!-- Twitter -->
+                          <a href="https://twitter.com/intent/tweet/?text={{ page.title }}&url={{ site.url }}{{ page.url }}?utm_source=Twitter&amp;utm_medium=Paylaş" target="_blank" aria-label="Twitter Paylaş" class="push-left-15">
+                            <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
+                          </a>
+
+                          <!-- Reddit -->
+                          <a href="http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}?utm_source=Reddit&amp;utm_medium=Paylaş&title={{ page.title }}" target="_blank" aria-label="Reddit Paylaş" class="push-left-15">
+                            <svg class="icon icon-reddit"><use xlink:href="#icon-reddit"></use></svg>
+                          </a>
+                        </div>
+
+                      </div>
+                    </a> 
+                  </div>
+                </div>
+              </div>
+               <!-- End Post with featured image -->
+               {% endfor %}
+            
+            {% if paginator.previous_page or paginator.next_page %}
+            {% include pagination.html %}
+            {% endif %}
+      </div>
+      
+    <!-- start sidebar -->
+    {% include sidebar.html %}
+    <!-- end sidebar -->
+
   </div>
+</div>

@@ -2,7 +2,7 @@
 title      : "ZyXEL VMG1312-B10A Firmware Güncelleme"
 description: "ZyXEL VMG1312-B10A firmware güncellemesi için aşağıda belirtilen yazılım güncelleme prosedürünü uygulayabilirsiniz."
 date       : 2018-09-15 20:00:00
-categories : [Teknoloji]
+categories : [Teknoloji, Program]
 tags       : [Modem, ZyXEL, Firmware]
 image      : "/images/zyxel-vmg1312-b10a-firmware-guncelleme.png"
 comments   : true

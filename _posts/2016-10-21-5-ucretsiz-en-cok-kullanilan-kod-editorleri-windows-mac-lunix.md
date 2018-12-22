@@ -2,7 +2,7 @@
 title      : "5+ Ücretsiz En Çok Kullanılan Kod Editörleri (Windows, Mac ve Linux)"
 description: "Windows, Mac ve Linux platformlarında kaynak kod düzenleme ve metin düzenleme işlemlerini yapabilirsiniz. "
 date       : 2016-10-20 09:44:00
-categories : [Teknoloji, Program]
+categories : [Program]
 tags       : [Kod Editör, Sublime Text, Atom, Brackets, Brackets, Visual Studio Code, Notepad++]
 image      : "/images/atom-io-kod-editoru.png"
 comments   : true

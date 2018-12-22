@@ -2,8 +2,8 @@
 title      : "10+ İnsana Mutluluk Veren Ayçiçek Tarlaları"
 description: "İnsana Mutluluk Veren Ayçiçek Tarlaları... Gördüğümüzde bizleri mutlu eden, uçsuz buçaksız dünyalara götürendir ayçiçek tarlaları."
 date       : 2016-11-12 19:36:00
-categories : [Galeri]
-tags       : [Fotoğraf, Doğa, Ayçiçek]
+categories : [Fotoğraf]
+tags       : [Doğa, Ayçiçek]
 image      : "/images/insana-mutluluk-veren-aycicek-tarlalari.png"
 comments   : true
 ---
