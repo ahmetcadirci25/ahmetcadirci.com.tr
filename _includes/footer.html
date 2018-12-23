@@ -1,160 +1,117 @@
-   {% include email.html %}
-
-    <footer class="footer">
-      <div class="container">
-        <div class="col-xs-12  col-md-3">
-          <div class="widget-about  push-down-30">
-            <img src="{{ "/images/logo.svg" | prepend: site.url }}" alt="{{ site.author.name }}" height="70">
-            <br/>
-            <span class="footer__text">{{ site.description }}</span> 
-            <br/>
-            <br/>
-            <div class="social-icons  widget-social-icons">
-              <a href="{{ site.url }}/r/rss" target="_blank" class="social-icons__container" title="RSS"> <svg class="icon icon-feed"><use xlink:href="#icon-feed"></use></svg>   </a> 
-              <a href="{{ site.url }}/r/github" target="_blank" class="social-icons__container" title="Github"> <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>   </a>  
-              <a href="{{ site.url }}/r/flickr" target="_blank" class="social-icons__container" title="Flickr"> <svg class="icon icon-flickr"><use xlink:href="#icon-flickr"></use></svg>   </a> 
-              <a href="{{ site.url }}/r/vimeo" target="_blank" class="social-icons__container" title="Vimeo"> <svg class="icon icon-vimeo"><use xlink:href="#icon-vimeo"></use></svg>   </a>  
-            </div>
-          </div>
-        </div>
-        <div class="col-xs-12  col-md-3">
-          <nav class="widget-navigation  push-down-30">
-            <h6>Menü</h6>
-            <hr>
-            <ul class="navigation">
-              <li>
-                <a href="{{ site.url }}">Ana Sayfa</a> 
-              </li>
-              <li>
-                <a href="{{ site.url }}/hakkimda/">Hakkımda</a> 
-              </li>
-              <li>
-                <a href="{{ site.url }}/sosyal-medya/">Sosyal Medya</a> 
-              </li>
-              <li>
-                <a href="{{ site.url }}/iletisim/">İletişim</a> 
-              </li>
-            </ul>
-          </nav>
-        </div>
-        <div class="col-xs-12  col-md-3">
-          <nav class="widget-navigation  push-down-30">
-            <h6>Kategoriler</h6>
-            <hr>
-            <ul class="navigation">          
-               {% for catitem in site.categories limit:5  %} 
-                <li><a href="{{ site.url }}/kategoriler/#{{ catitem[0] }}">{{  catitem[0] }}</a></li>
-               {% endfor %}
-              </li>
-            </ul>
-          </nav>
-        </div>
-        <div class="col-xs-12  col-md-3">
-          <div class="tags  widget-tags">
-            <h6>Etiketler</h6>
-            <hr>
-              {% for tagitem in site.tags limit:5 %} 
-                  <a href="{{ site.url }}/etiketler/#{{ tagitem[0] }}" class="tags__link">{{  tagitem[0] }}</a>
-              {% endfor %}
-          </div>
+<footer class="footer">
+  <div class="container">
+    <div class="col-xs-12 col-md-12">
+      <div class="widget-about push-down-30 text-center">
+        <img src="{{ "/images/logo.svg" | prepend: site.url }}" alt="{{ site.author.name }}" class="push-down-20" height="70">
+        <br/>
+        <span class="footer__text">{{ site.description }}</span> 
+        <br/>
+        <br/>
+        <div class="social-icons widget-social-icons text-center">
+          <a href="{{ site.url }}/r/rss" target="_blank" class="social-icons__container" title="RSS"> <svg class="icon icon-feed"><use xlink:href="#icon-feed"></use></svg>   </a> 
+          <a href="{{ site.url }}/r/github" target="_blank" class="social-icons__container" title="Github"> <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>   </a>  
+          <a href="{{ site.url }}/r/flickr" target="_blank" class="social-icons__container" title="Flickr"> <svg class="icon icon-flickr"><use xlink:href="#icon-flickr"></use></svg>   </a> 
+          <a href="{{ site.url }}/r/vimeo" target="_blank" class="social-icons__container" title="Vimeo"> <svg class="icon icon-vimeo"><use xlink:href="#icon-vimeo"></use></svg>   </a>  
         </div>
       </div>
-      <div class="copyrights">
-        <div class="container">
-            <div class="col-xs-12  col-sm-6">
-              Bu eser <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"> Creative Commons Atıf-GayriTicari 4.0 Uluslararası Lisansı</a> ile lisanslanmıştır.
-            </div>
-            <div class="col-xs-12  col-sm-6">
-              <div class="copyrights--right">             
-                <a href="{{ site.url }}" target="_blank">Ahmet Çadırcı</a> tarafından kodlandı.
-              </div>
-            </div>
+    </div>
+  </div>
+  <div class="copyrights">
+    <div class="container">
+        <div class="col-xs-12  col-sm-6">
+          Bu eser <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"> Creative Commons Atıf-GayriTicari 4.0 Uluslararası Lisansı</a> ile lisanslanmıştır.
         </div>
-      </div>
-    </footer>
+        <div class="col-xs-12  col-sm-6">
+          <div class="copyrights--right">             
+            <a href="{{ site.url }}" target="_blank">Ahmet Çadırcı</a> tarafından kodlandı.
+          </div>
+        </div>
+    </div>
+  </div>
+</footer>
 
-    <script type="text/javascript" src="https://{{ site.disqus_shortname }}.disqus.com/count.js" id="dsq-count-scr" async></script>
-    <script type="text/javascript">
+<script type="text/javascript" src="https://{{ site.disqus_shortname }}.disqus.com/count.js" id="dsq-count-scr" async></script>
+<script type="text/javascript">
 
-      // Menu
-      document.querySelectorAll(".navbar-toggle")[0].addEventListener("click", function() {
-        document.querySelectorAll(".navbar-collapse")[0].classList.toggle("in");
+  // Menu
+  document.querySelectorAll(".navbar-toggle")[0].addEventListener("click", function() {
+    document.querySelectorAll(".navbar-collapse")[0].classList.toggle("in");
+  });
+
+  //toggleDarkLight
+	var firstDarkMode = "light";
+	var setDarkModeToggle = function(){
+		var mode = localStorage.getItem("displayMode");
+		if (mode == null)
+			mode = firstDarkMode;
+
+	    if ( mode == "dark"){
+	    	localStorage.setItem("displayMode", "light");	
+	    }else{
+  		    localStorage.setItem("displayMode", "dark");	
+	    }	
+	}
+	var checkdarkModeToggle = function(){
+        document.body.classList.remove("dark" , "light");
+	    var mode = localStorage.getItem("displayMode");
+		if (mode == null)
+			mode = firstDarkMode;
+
+	    if ( mode == "dark"){
+	    	document.body.classList.add("dark");
+	    }else{
+	    	document.body.classList.add("light");
+	    }
+	}
+	document.getElementById("darkModeToggle").addEventListener("click", function() {
+		setDarkModeToggle();
+		checkdarkModeToggle();
+	});
+	checkdarkModeToggle();
+
+  // Service Worker
+  if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/sw.js', {
+          scope: '.' // THIS IS REQUIRED FOR RUNNING A PROGRESSIVE WEB APP FROM A NON_ROOT PATH
+      }).then(function(registration) {
+          // Registration was successful
+          console.log('ServiceWorker registration successful with scope: ', registration.scope);
+      }, function(err) {
+          // registration failed :(
+          console.log('ServiceWorker registration failed: ', err);
       });
+  };
+  
+</script>
 
-      //toggleDarkLight
-  		var firstDarkMode = "light";
-  		var setDarkModeToggle = function(){
-  			var mode = localStorage.getItem("displayMode");
-  			if (mode == null)
-  				mode = firstDarkMode;
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KX5WC3P"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
-  		    if ( mode == "dark"){
-  		    	localStorage.setItem("displayMode", "light");	
-  		    }else{
-      		    localStorage.setItem("displayMode", "dark");	
-  		    }	
-  		}
-  		var checkdarkModeToggle = function(){
-  	        document.body.classList.remove("dark" , "light");
-  		    var mode = localStorage.getItem("displayMode");
-  			if (mode == null)
-  				mode = firstDarkMode;
-
-  		    if ( mode == "dark"){
-  		    	document.body.classList.add("dark");
-  		    }else{
-  		    	document.body.classList.add("light");
-  		    }
-  		}
-  		document.getElementById("darkModeToggle").addEventListener("click", function() {
-  			setDarkModeToggle();
-  			checkdarkModeToggle();
-  		});
-  		checkdarkModeToggle();
-    
-      // Service Worker
-      if ('serviceWorker' in navigator) {
-          navigator.serviceWorker.register('/sw.js', {
-              scope: '.' // THIS IS REQUIRED FOR RUNNING A PROGRESSIVE WEB APP FROM A NON_ROOT PATH
-          }).then(function(registration) {
-              // Registration was successful
-              console.log('ServiceWorker registration successful with scope: ', registration.scope);
-          }, function(err) {
-              // registration failed :(
-              console.log('ServiceWorker registration failed: ', err);
-          });
-      };
-      
-    </script>
-
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KX5WC3P"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-
-    <script type="application/ld+json">
-     [
-      {
-            "@context": "http://schema.org",
-            "@type": "Person",
-            "name": "Ahmet Çadırcı",
-            "jobTitle": "Web Geliştirici",
-            "url": "{{site.url}}/",
-            "address": {
-              "@type": "PostalAddress",
-              "addressLocality": "Şişli",
-              "addressRegion": "İstanbul"
-            }
-          },
-        {
-          "@context" : "http://schema.org",
-          "@type" : "WebSite", 
-          "url" : "{{site.url}}/",
-          "potentialAction" : {
-            "@type" : "SearchAction",
-            "target" : "{{site.url}}/search/?q={searchTerms}",
-            "query-input": "required name=searchTerms"
-          }                     
+<script type="application/ld+json">
+ [
+  {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Ahmet Çadırcı",
+        "jobTitle": "Web Geliştirici",
+        "url": "{{site.url}}/",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Şişli",
+          "addressRegion": "İstanbul"
         }
-    ]
-    </script>
+      },
+    {
+      "@context" : "http://schema.org",
+      "@type" : "WebSite", 
+      "url" : "{{site.url}}/",
+      "potentialAction" : {
+        "@type" : "SearchAction",
+        "target" : "{{site.url}}/search/?q={searchTerms}",
+        "query-input": "required name=searchTerms"
+      }                     
+    }
+]
+</script>

@@ -4327,7 +4327,12 @@ body.search-mode .search-panel {
 }
 
 .widget-featured-post img {
-    border-radius: 3px
+    border-radius: 3px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    height: 180px;
+    box-sizing: border-box;
+    width: 100%;
 }
 
 .widget-categories {
@@ -4989,7 +4994,6 @@ body.search-mode .search-panel {
 
 .widget-social-icons {
     float: none;
-    text-align: left;
     margin-bottom: 30px
 }
 
