@@ -107,8 +107,10 @@
               {% for post in site.posts limit:5 %}
               <div class="push-down-15">
                 <h5><a href="{{ site.url }}/{{ post.url | remove_first: '/' }}">{{ post.title }}</a></h5>
+                <span class="widget-meta__categories push-right-10"><svg class="icon icon-list"><use xlink:href="#icon-list"></use></svg>  {% for categories in post.categories limit:1 %} {{ categories }}{% endfor %} </span>
                 <span class="widget-posts__time"><svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg> {{ post.date | date: "%d.%m.%Y" }}</span> 
               </div>
+              <hr class="push-down-10">
               {% endfor %}
             </div>
           </div>
