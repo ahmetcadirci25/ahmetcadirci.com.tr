@@ -138,7 +138,7 @@ Alexa kategorilerinde; Alışveriş, Basın ve Yayın, Bilgisayar, Bilim, Bölge
 
 ### Soru & Cevap
 
-{% include sorucevap.html soru="Neden Sitemde Ülke Trafik Sıralaması Yok?" cevap="Bir ülke için bir Ülke Trafik Sıralaması ve ülke bayrağı görüntülemezsek, bunun için yeterli veriye sahip olmadığımız anlamına gelir. <br><br> Sitenin Trafik Sıralamasını, kullanıcılarının en büyük oranının bulunduğu ülkede gösteririz (Alexa trafik paneline göre). Bu, web sitesinin bulunduğu ülke olmayabilir. Belirli bir ülkeyi seçmek için yeterli veri olmayabilir, çünkü sitenin ziyaretçilerinin pek çoğu belirli bir ülkeden gelmiyor."%}
+{% include sorucevap.html soru="Neden Sitemde Ülke Trafik Sıralaması Yok?" cevap="Bir ülke trafik sıralaması ve ülke bayrağı görülmüyorsa, bunun için yeterli veriye sahip olmadığı anlamına gelir. <br><br> Sitenin trafik sıralamasını, kullanıcılarının en büyük oranının bulunduğu ülkeye göre gösterilir."%}
 
 {% include sorucevap.html soru="Alexa Kategori Dizinine Site Ekleme Nasıl Yapılır?" cevap="Alexa Pro aboneliğiniz varsa,  destek <b>https://support.alexa.com/hc/en-us/requests/new</b> kısmından sitenizin eklenmesi için mesaj atabilirsiniz. <br><br> Mesajınızda sitenizi hangi dizine eklenmesini istiyorsanız bağlantı adresini göndermeyi unutmayın.  Yalnızca bir kategoriye ekleme yapılmaktadır."%}
 
