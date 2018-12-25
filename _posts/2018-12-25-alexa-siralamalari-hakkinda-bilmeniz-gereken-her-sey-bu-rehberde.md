@@ -95,7 +95,9 @@ Diğer ülkelerin sıralama bilgileri için [tıklayın.](https://www.alexa.com/
 
 ### Alexa Kategorilere Göre Sıralama
 
-**Alexa kategori** bilgilerine ulaşmak için lütfen bağlantı adresine [tıklayın.](https://www.alexa.com/topsites/category)
+Alexa kategorilerinde; Alışveriş, Basın ve Yayın, Bilgisayar, Bilim, Bölgesel, Ekonomi ve İş Dünyası, Ev, Eğlence ve Yaşam, Kaynaklar, Kültür ve Sanat, Oyunlar, Sağlık, Spor, Toplum, Çocuklar ve Gençler yer almaktadır.
+
+**Alexa kategori** bilgilerine ulaşmak için lütfen bağlantı adresine [tıklayın.](https://www.alexa.com/topsites/category){:target="_blank"}{:rel="noopener"}
 
 ### Alexa Toolbar (Araç Çubuğu)
 *Alexa Toolbar'ı bilgisayarınıza yükleyerek; Web sitenizin ziyaretçi performansını sürekli izleyebilir, ziyaret ettiğiniz sitenin de ziyaretçi performansını anında görebilirsiniz.*
@@ -124,6 +126,9 @@ Diğer ülkelerin sıralama bilgileri için [tıklayın.](https://www.alexa.com/
 ### Soru & Cevap
 
 {% include sorucevap.html soru="Neden Sitemde Ülke Trafik Sıralaması Yok?" cevap="Bir ülke için bir Ülke Trafik Sıralaması ve ülke bayrağı görüntülemezsek, bunun için yeterli veriye sahip olmadığımız anlamına gelir. <br><br> Sitenin Trafik Sıralamasını, kullanıcılarının en büyük oranının bulunduğu ülkede gösteririz (Alexa trafik paneline göre). Bu, web sitesinin bulunduğu ülke olmayabilir. Belirli bir ülkeyi seçmek için yeterli veri olmayabilir, çünkü sitenin ziyaretçilerinin pek çoğu belirli bir ülkeden gelmiyor."%}
+
+{% include sorucevap.html soru="Alexa Kategori Dizinine Site Ekleme Nasıl Yapılır?" cevap="Alexa Pro aboneliğiniz varsa, [destek](https://support.alexa.com/hc/en-us/requests/new){:target="_blank"}{:rel="noopener"} kısmından sitenizin eklenmesi için mesaj atabilirsiniz. Mesajınızda sitenizi hangi dizine eklenmesini istiyorsanın bağlantı adresini göndermeyi unutmayın.  Yalnızca bir kategoriye ekleme yapılmaktadır."%}
+
 
 #### Kaynakça:
 1. Alexa - Wikipedia. 25 Aralık 2018. https://tr.wikipedia.org/wiki/Alexa
