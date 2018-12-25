@@ -20,7 +20,7 @@ Alexa Rank (Sıralama) hakkında bilmemiz gereken her şey bu rehberde bir araya
 - [Alexa'da Top 500 site]({{site.url}}/2018/alexa-siralamalari-hakkinda-bilmeniz-gereken-her-sey-bu-rehberde/#alexada-top-500-site)
 - [Alexa'da Türkçe Siteler Sıralaması]({{site.url}}/2018/alexa-siralamalari-hakkinda-bilmeniz-gereken-her-sey-bu-rehberde/#alexada-türkçe-siteler-sıralaması)
 - [Alexa Kategorilere Göre Sıralama]({{site.url}}/2018/alexa-siralamalari-hakkinda-bilmeniz-gereken-her-sey-bu-rehberde/#alexa-kategorilere-göre-sıralama)
-- [Alexa Toolbar (Araç Çubuğu)]({{site.url}}/2018/alexa-siralamalari-hakkinda-bilmeniz-gereken-her-sey-bu-rehberde/#alexa-toolbar-araç-Çubuğu)
+- [Alexa Toolbar (Araç Çubuğu)]({{site.url}}/2018/alexa-siralamalari-hakkinda-bilmeniz-gereken-her-sey-bu-rehberde/#alexa-toolbar-araç-çubuğu)
 	- [Chrome]({{site.url}}/2018/alexa-siralamalari-hakkinda-bilmeniz-gereken-her-sey-bu-rehberde/#chrome)
 	- [Firefox]({{site.url}}/2018/alexa-siralamalari-hakkinda-bilmeniz-gereken-her-sey-bu-rehberde/#firefox)
 - [Soru & Cevap]({{site.url}}/2018/alexa-siralamalari-hakkinda-bilmeniz-gereken-her-sey-bu-rehberde/#soru--cevap)
