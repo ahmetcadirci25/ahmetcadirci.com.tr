@@ -23,6 +23,7 @@ Alexa Rank (Sıralama) hakkında bilmemiz gereken her şey bu rehberde bir araya
 - [Alexa Toolbar (Araç Çubuğu)]({{site.url}}/2018/alexa-siralamalari-hakkinda-bilmeniz-gereken-her-sey-bu-rehberde/#alexa-toolbar-araç-çubuğu)
 	- [Chrome]({{site.url}}/2018/alexa-siralamalari-hakkinda-bilmeniz-gereken-her-sey-bu-rehberde/#chrome)
 	- [Firefox]({{site.url}}/2018/alexa-siralamalari-hakkinda-bilmeniz-gereken-her-sey-bu-rehberde/#firefox)
+- [Alexa İpuçları]({{site.url}}/2018/alexa-siralamalari-hakkinda-bilmeniz-gereken-her-sey-bu-rehberde/#alexa-ipuçları)
 - [Soru & Cevap]({{site.url}}/2018/alexa-siralamalari-hakkinda-bilmeniz-gereken-her-sey-bu-rehberde/#soru--cevap)
 
 
@@ -122,6 +123,18 @@ Alexa kategorilerinde; Alışveriş, Basın ve Yayın, Bilgisayar, Bilim, Bölge
 - Daha sonra **Accept and Install** düğmesine tıklayın. 
 - Url satırında açılan ekrana **İzin Ver** dedikten sonra yükleme tamamlanacaktır.
 - **Ekle** düğmesine tıklamanız yeterlidir.
+
+### Alexa İpuçları
+
+**Alexa sıralama takıntısı olanlar için, her web sitesi sahibinin izlemesi gereken bazı ipuçlar:**
+
+- Alakalı ve kaliteli içerik yayınlayın. Bu, web sitenizin organik sonuçlardan iyi trafik almasını sağlar ve kullanıcılar web sitesi deneyiminden memnun olurlar.
+- İçeriğin, alakalı kullanıcıların sizi bulmasına yardımcı olmak için sizinle alakalı anahtar kelimeler etrafında yazıldığından emin olun.
+- Anahtar kelimelerinizi Google Algoritma güncellemeleri tarafından belirlenen standartları karşıladığından emin olmak için içeriğinizi düzenli olarak güncelleyin.
+- İçeriğinize bağlantılar verin. Bu, kullanıcının sitenize katılımının artmasına yardımcı olur.
+- İçeriğinize herhangi bir resim yüklerken Alt etiketi kullanın.
+- Kaliteli geri dönüşler elde etmek için sayfa optimizasyonunu yapın.
+- SEO denetiminizi periyodik olarak yapın.
 
 ### Soru & Cevap
 
