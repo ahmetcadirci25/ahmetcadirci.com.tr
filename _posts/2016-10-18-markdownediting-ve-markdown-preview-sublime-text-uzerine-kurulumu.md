@@ -8,6 +8,8 @@ image      : "/images/markdownediting-kurulum.png"
 comments   : true
 ---
 
+Zengin metinler üretmek için MarkdownEditing ve Markdown Preview Eklentilerinin Sublime Text Üzerine Kurulumu...
+
 ## Birinci Adım Paket Kontrol (Package Control) Kurulumu
 
 Sublime Text içerisine bir eklenti kurabilmemiz için öncelikler Paket Kontrol'un kurulu olduğundan emin olmamız gerekmektedir.

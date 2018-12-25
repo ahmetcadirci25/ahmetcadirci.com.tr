@@ -300,23 +300,7 @@ p {
     margin: 0 0 1.5em
 }
 
-.post-content p:first-child {
-    font-size: 26px;
-    line-height: 36px;
-}
-
-.post-content p:first-child:first-letter {
-    color: #ccc;
-    float: left;
-    font-family: lft-etica-n4, lft-etica, Arial, Helvetica, sans-serif;
-    font-size: 72px;
-    line-height: 65px;
-    padding-top: 3px;
-    padding-right: 10px;
-    padding-left: 0;
-    font-weight: 700;
-}
-
+/*
 
 .post-content p:first-child {
     font-size: 26px;
@@ -334,6 +318,25 @@ p {
     padding-left: 0;
     font-weight: 700;
 }
+
+
+.post-content p:first-child {
+    font-size: 26px;
+    line-height: 36px;
+}
+
+.post-content p:first-child:first-letter {
+    color: #ccc;
+    float: left;
+    font-family: lft-etica-n4, lft-etica, Arial, Helvetica, sans-serif;
+    font-size: 72px;
+    line-height: 65px;
+    padding-top: 3px;
+    padding-right: 10px;
+    padding-left: 0;
+    font-weight: 700;
+}
+*/
 
 @media (max-width: 768px){
    .post-content p:first-child {
