@@ -77,10 +77,11 @@ body.light-mode .toggleDarkLight {
 }
 */
 
-#canvas{
-    width: 100%!important;
-    height: 80px!important;
-    overflow: hidden!important;
+.canvas-container{
+    height: 80px;
+    width: 100%;
+    overflow: hidden;
+    cursor: pointer;
 }
 
 hr,img {
@@ -2775,8 +2776,8 @@ input[type=button].btn-block,input[type=reset].btn-block,input[type=submit].btn-
 }
 
 @media(max-width: 767px) {
-    #canvas{
-        height: 50px!important;
+    .canvas-container{
+        height:50px;
     }
 
     .navbar-nav .open .dropdown-menu {
