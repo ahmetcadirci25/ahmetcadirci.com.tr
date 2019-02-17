@@ -6,7 +6,7 @@ image    : "/images/ahmetcadirci-wallpaper.jpg"
 sitemap: false
 ---
 
-<h2>Ara</h2>
+<h1 style="font-size: 30px">Ara</h1>
 
 <div>
 	<gcse:searchbox-only resultsUrl="/search/"></gcse:searchbox-only>

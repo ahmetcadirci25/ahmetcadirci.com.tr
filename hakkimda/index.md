@@ -6,7 +6,7 @@ permalink: /hakkimda/
 image    : "/images/ahmetcadirci-wallpaper.jpg"
 ---
 
-# Hakkımda
+<h1 style="font-size: 30px">Hakkımda</h1>
 
 Kıymetli dostum,
 

@@ -7,7 +7,7 @@ image      : "/images/ahmetcadirci-wallpaper.jpg"
 ---
 
 <div class="contact">
-  <h1>İletişim Formu</h1>
+  <h1 style="font-size: 30px">İletişim Formu</h1>
   <p class="contact__text">Düşüncelerinizi bizimle paylaşabilirsiniz.</p>
   <form action="https://formspree.io/{{site.author.email}}" method="POST">
     <div class="row">

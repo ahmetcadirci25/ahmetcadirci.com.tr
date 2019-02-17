@@ -2,5 +2,5 @@
 layout: page
 ---
 
-<h1>Etiketler:</h1>
+<h1 style="font-size: 30px">Etiketler:</h1>
 <div class="tags tags-105"> {% for tagitem in site.tags  %} <a href="#{{ tagitem[0] }}" class="tags__link">{{  tagitem[0] }}</a>{% endfor %}</div>{% for tagitem in site.tags %}<div id="{{ tagitem[0] }}">  <h3> {{ tagitem[0] }} </h3>{% for post in site.posts %}{% if post.tags contains tagitem[0] %} <li><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></li>{% endif %}{% endfor %}</ul></div>{% endfor %}

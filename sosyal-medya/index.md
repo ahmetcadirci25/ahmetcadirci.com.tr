@@ -6,7 +6,7 @@ permalink  : /sosyal-medya/
 image      : "/images/ahmetcadirci-wallpaper.jpg"
 ---
 
-# Sosyal Medya Hesapları
+<h1 style="font-size: 30px">Sosyal Medya Hesapları</h1>
 
 Sosyal medya hesaplarımdan bana ulaşabilirsiniz. Web sitemde yayınlanan en güncel yazıları [RSS]({{ site.url }}/r/rss){:target="_blank"}{:rel="noopener"} ve [E-Bülten]({{ site.url }}/r/ebulten){:target="_blank"}{:rel="noopener"} ile takip edebilirsiniz:
 - [Feedly]({{ site.url }}/r/feedly){:target="_blank"}{:rel="noopener"}
