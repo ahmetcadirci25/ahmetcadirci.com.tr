@@ -1,6 +1,6 @@
 ---
 title      : "Yeni Web Siteme Hoşgeldiniz!"
-description: "Sosyal medya hesaplarımdan bana ulaşabilirsiniz. Web sitemde yayınlanan en güncel yazıları RSS ve E-Bülten ile takip edebilirsiniz."
+description: "Yeni Web Siteme Hoşgeldiniz! Sosyal medya hesaplarımdan bana ulaşabilirsiniz. Web sitemde yayınlanan en güncel yazıları RSS ve E-Bülten ile takip edebilirsiniz."
 date       : 2016-10-08 23:16:23
 categories : [Genel]
 tags       : [Kişisel Web Site, Sosyal Medya]

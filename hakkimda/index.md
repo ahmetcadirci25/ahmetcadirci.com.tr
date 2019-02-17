@@ -1,11 +1,12 @@
 ---
 layout   : page
 title    : Hakkımda
+description: "Ahmet Çadırcı... Blogumda yer alan yazılar kendi öğrendiklerim ve tecrübelerimden ibarettir."
 permalink: /hakkimda/
 image    : "/images/ahmetcadirci-wallpaper.jpg"
 ---
 
-## Hakkımda
+# Hakkımda
 
 Kıymetli dostum,
 
