@@ -23,7 +23,8 @@ image      : "/images/ahmetcadirci-wallpaper.jpg"
         <input type="submit" value="Gönder">
 
         <p><span class="contact__obligatory">* Tüm alanları lütfen doldurun.</span> </p>
-        <p><span class="contact__obligatory">** Adres ve telefon numaraları için iletişim formunu doldurarak talepte bulunabilirsiniz.  </span> </p>
+        <p><span class="contact__obligatory">** Adres ve telefon numaraları için iletişim formunu doldurarak talepte bulunabilirsiniz.</span> </p>
+        <p><span class="contact__obligatory">*** <a href="/gizlilik-politikasi/">Gizlilik Politikası</a> hakkında bilgi alabilirsiniz. </span> </p>
       </div>
 
        <input type="hidden" name="_next" value="//ahmetcadirci.com.tr/iletisim/" />

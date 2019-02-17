@@ -141,4 +141,4 @@ Herhangi bir değişiklik için bu Gizlilik Politikasını düzenli aralıklarla
 
 ## Bizimle İletişime Geçin
 
-Bu Gizlilik Politikası ile ilgili herhangi bir sorunuz varsa, lütfen bize <a href="/iletisim/">ulaşın</a>
+Bu Gizlilik Politikası ile ilgili herhangi bir sorunuz varsa, lütfen bize <a href="/iletisim/">ulaşın</a>.
