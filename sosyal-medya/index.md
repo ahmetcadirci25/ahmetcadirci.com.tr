@@ -15,6 +15,7 @@ Sosyal medya hesaplarımdan bana ulaşabilirsiniz. Web sitemde yayınlanan en g�
 - [E-Bülten]({{ site.url }}/r/ebulten){:target="_blank"}{:rel="noopener"}
 - [Pocket]({{ site.url }}/r/pocket){:target="_blank"}{:rel="noopener"}
 - [Flipboard]({{ site.url }}/r/flipboard){:target="_blank"}{:rel="noopener"}
+- [Linkedin]({{ site.url }}/r/linkedin){:target="_blank"}{:rel="noopener"}
 
 Kod paylaşımlarımı takip etmek için:
 - [GitHub]({{ site.url }}/r/github){:target="_blank"}{:rel="noopener"}
