@@ -25,7 +25,7 @@ comments   : true
 
 "İçinde şükür olmayan her nimet sadece bu dünyanın lezzetidir; içinde sabır olmayan her şiddet ve mihnet ebedî ziyandır; içinde ilim ve ihlâs olmayan her itaat ise hayatı rüzgâra savurmaktır. Bana kibir getiren itaatten bîzarım, yakınırım, beni özre getirecek günahın kölesiyim. İnkâr etme, çünkü inkâr etmek kötüdür, inkâr eden bu işten mahrumdur."
 
-[Tamamını Oku](http://bit.ly/2HpMD9y){:target="_blank"}{:rel="noopener"}{:class="tags__link"}
+[Tamamını Oku](https://ahmetcadirci.com.tr/2018/nasihatler/){:target="_blank"}{:rel="noopener"}{:class="tags__link"}
 
 
 ### #02 Köle Beslemek mi? İşçi Çalıştırmak mı? Hangisi Daha Ucuz?
