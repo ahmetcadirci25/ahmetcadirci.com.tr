@@ -11,11 +11,11 @@ comments   : true
 "Mutlaka Okunması Gereken Yazılar" serisinin üçüncüsü olan yazıda 5 tane yazıyı sizinle paylaşıyorum. Umarım beğenirsiniz. İyi okumalar.
 
 ## İçindekiler
-- [#01 Nasihatler](https://ahmetcadirci.com.tr/2018/02-mutlaka-okunmasi-gereken-yazilar/#01-nasihatler)
-- [#02 Köle Beslemek mi? İşçi Çalıştırmak mı? Hangisi Daha Ucuz?](https://ahmetcadirci.com.tr/2018/02-mutlaka-okunmasi-gereken-yazilar/#02-köle-beslemek-mi-i̇şçi-çalıştırmak-mı-hangisi-daha-ucuz)
-- [#03 Alev Alatlı: Çocuklarımıza Dünya Okur-Yazarlığı Kazandırmalıyız](https://ahmetcadirci.com.tr/2018/02-mutlaka-okunmasi-gereken-yazilar/#03-alev-alatlı-çocuklarımıza-dünya-okur-yazarlığı-kazandırmalıyız)
-- [#04 Türkiye'den Bir Muhammed Ali Çıkar Mıydı?](https://ahmetcadirci.com.tr/2018/02-mutlaka-okunmasi-gereken-yazilar/#04-türkiyeden-bir-muhammed-ali-çıkar-mıydı)
-- [#05 Hürri̇yet Geyi̇ği̇ ve Öldürüen Basın Hürri̇yeti̇](https://ahmetcadirci.com.tr/2018/02-mutlaka-okunmasi-gereken-yazilar/#05-hürri̇yet-geyi̇ği̇-ve-öldürüen-basın-hürri̇yeti̇)
+- [#01 Nasihatler](https://ahmetcadirci.com.tr/2019/03-mutlaka-okunmasi-gereken-yazilar/#01-nasihatler)
+- [#02 Köle Beslemek mi? İşçi Çalıştırmak mı? Hangisi Daha Ucuz?](https://ahmetcadirci.com.tr/2019/03-mutlaka-okunmasi-gereken-yazilar/#02-köle-beslemek-mi-i̇şçi-çalıştırmak-mı-hangisi-daha-ucuz)
+- [#03 Alev Alatlı: Çocuklarımıza Dünya Okur-Yazarlığı Kazandırmalıyız](https://ahmetcadirci.com.tr/2019/03-mutlaka-okunmasi-gereken-yazilar/#03-alev-alatlı-çocuklarımıza-dünya-okur-yazarlığı-kazandırmalıyız)
+- [#04 Türkiye'den Bir Muhammed Ali Çıkar Mıydı?](https://ahmetcadirci.com.tr/2019/03-mutlaka-okunmasi-gereken-yazilar/#04-türkiyeden-bir-muhammed-ali-çıkar-mıydı)
+- [#05 Hürri̇yet Geyi̇ği̇ ve Öldürüen Basın Hürri̇yeti̇](https://ahmetcadirci.com.tr/2019/03-mutlaka-okunmasi-gereken-yazilar/#05-hürri̇yet-geyi̇ği̇-ve-öldürüen-basın-hürri̇yeti̇)
 
 ### #01 Nasihatler
 
