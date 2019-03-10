@@ -52,7 +52,7 @@ comments   : true
 
 "Beni Alev Alatlı ile mutfak sohbetlerini videolu yapmaya iten sebeplerin başında bu ortamın doğallığı geliyor. Böyle ortamlarda her şey organik, stüdyonun yapaylığı da yok. Hamaset, peşrev filan da mutfağa giremiyor. Bizim yıllarca yaptığımız mutfakta akan sohbetlerden birisinde yapımcılığım tuttu, organikliğini bozmadan sohbeti video kaydına aldık. Yemek yapmadık ama bir dahaki sefere yapmayı planlıyoruz."
 
-[Tamamını Oku](http://bit.ly/2OtONca){:target="_blank"}{:rel="noopener"}{:class="tags__link"}
+[Tamamını Oku](http://bit.ly/2HpnonY){:target="_blank"}{:rel="noopener"}{:class="tags__link"}
 
 ### #04 Türkiye'den Bir Muhammed Ali Çıkar Mıydı?
 
