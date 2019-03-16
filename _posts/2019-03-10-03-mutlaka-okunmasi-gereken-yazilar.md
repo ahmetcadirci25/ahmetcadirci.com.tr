@@ -85,3 +85,5 @@ comments   : true
 "Ama daha ziyade yanında gezdirdiği geyik, alaka çekmişti. Güya dağa çıktığı sırada, peşine bir geyik takılıyor; bu “hürriyet fedaileri”nin yanından ayrılmıyor. “Gazâl-ı Hürriyet”, yani Hürriyet Geyiği adını verdikleri bu zavallı hayvan, Jön Türk isyanının sembolü oluveriyor. Nereye gitse yanında götürür; çektirdiği resimlerde yanından ayırmazdı. O devre ait Meşrutiyet kartpostallarında, Niyazi ve geyiği hep yan yanadır."
 
 [Tamamını Oku](http://bit.ly/2HuBTGW){:target="_blank"}{:rel="noopener"}{:class="tags__link"}
+
+**Sizde beğendiniz yazıları benimle paylaşabilirsiniz.**
