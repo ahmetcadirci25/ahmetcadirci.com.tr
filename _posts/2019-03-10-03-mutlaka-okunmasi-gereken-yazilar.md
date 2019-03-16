@@ -10,6 +10,8 @@ comments   : true
 
 "Mutlaka Okunması Gereken Yazılar" serisinin üçüncüsü olan yazıda 5 tane yazıyı sizinle paylaşıyorum. Umarım beğenirsiniz. İyi okumalar.
 
+{% include soundcloud.html soundcloud="590918205" %}
+
 ## İçindekiler
 - [#01 Nasihatler](https://ahmetcadirci.com.tr/2019/03-mutlaka-okunmasi-gereken-yazilar/#01-nasihatler)
 - [#02 Köle Beslemek mi? İşçi Çalıştırmak mı? Hangisi Daha Ucuz?](https://ahmetcadirci.com.tr/2019/03-mutlaka-okunmasi-gereken-yazilar/#02-köle-beslemek-mi-i̇şçi-çalıştırmak-mı-hangisi-daha-ucuz)
