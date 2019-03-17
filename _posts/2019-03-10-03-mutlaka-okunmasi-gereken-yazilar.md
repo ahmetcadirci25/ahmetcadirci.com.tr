@@ -32,7 +32,7 @@ comments   : true
 
 ### #02 Köle Beslemek mi? İşçi Çalıştırmak mı? Hangisi Daha Ucuz?
 
-**Yazıyı kaleme alan kişi: Ekrem Buğra Ekinci**
+**Yazıyı Kaleme Alan Kişi: Ekrem Buğra Ekinci**
 
 **Yayınlanan Tarih: 10.09.2018**
 
@@ -46,7 +46,7 @@ comments   : true
 
 ### #03 Alev Alatlı: Çocuklarımıza Dünya Okur-Yazarlığı Kazandırmalıyız
 
-**Yazıyı kaleme alan kişi: Alev Alatlı, Ayşe Böhürler**
+**Yazıyı Kaleme Alan Kişi: Alev Alatlı, Ayşe Böhürler**
 
 **Yayınlanan Tarih: 16.03.2018**
 
@@ -58,7 +58,7 @@ comments   : true
 
 ### #04 Türkiye'den Bir Muhammed Ali Çıkar Mıydı?
 
-**Yazıyı kaleme alan kişi: M. Serdar Kuzuloğlu**
+**Yazıyı Kaleme Alan Kişi: M. Serdar Kuzuloğlu**
 
 **Yayınlanan Tarih: 14.06.2018**
 
@@ -70,7 +70,7 @@ comments   : true
 
 ### #05 Hürri̇yet Geyi̇ği̇ ve Öldürüen Basın Hürri̇yeti̇
 
-**Yazıyı kaleme alan kişi: Ekrem Buğra Ekinci**
+**Yazıyı Kaleme Alan Kişi: Ekrem Buğra Ekinci**
 
 **Yayınlanan Tarih: 10.12.2018**
 

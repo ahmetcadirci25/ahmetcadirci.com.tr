@@ -50,6 +50,7 @@ Sosyal paylaşımlarımı takip etmek için:
 
 ### Yeni Yazılar
 
+* [#04 Mutlaka Okunması Gereken Yazılar](https://ahmetcadirci.com.tr/2019/04-mutlaka-okunmasi-gereken-yazilar)
 * [#03 Mutlaka Okunması Gereken Yazılar](https://ahmetcadirci.com.tr/2019/03-mutlaka-okunmasi-gereken-yazilar)
 * [Alexa Sıralamaları Hakkında Bilmemiz Gereken Her Şey Bu Rehberde](https://ahmetcadirci.com.tr/2018/alexa-siralamalari-hakkinda-bilmeniz-gereken-her-sey-bu-rehberde/)
 * [15 Kategori 91 Tor Deep Web Sitesi](https://ahmetcadirci.com.tr/2018/15-kategori-91-tor-deep-web-sitesi/)

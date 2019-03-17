@@ -40,7 +40,7 @@ comments   : true
 
 ### #02 İslâm’ın içini boşaltan Müslümanlar
 
-**Yazıyı kaleme alan kişi: Mahmud Erol Kılıç**
+**Yazıyı Kaleme Alan Kişi: Mahmud Erol Kılıç**
 
 **Yayınlanan Tarih: 21.03.2018**
 
@@ -52,7 +52,7 @@ comments   : true
 
 ### #03 Kardeşlik, 'Kardeşim' Dediğin Kişinin Acısını Hissetmektir
 
-**Yazıyı kaleme alan kişi: Ahmet Serin**
+**Yazıyı Kaleme Alan Kişi: Ahmet Serin**
 
 **Yayınlanan Tarih: 20.02.2018**
 
@@ -66,7 +66,7 @@ comments   : true
 
 ### #04 Türkiye'deki Mektup Arkadaşları Sayesinde Dilini Geliştirip Sözlük Yazan Japon: Takeuchi Kazuo
 
-**Yazıyı kaleme alan kişi: akira**
+**Yazıyı Kaleme Alan Kişi: akira**
 
 **Yayınlanan Tarih: 22.02.2018**
 
@@ -80,7 +80,7 @@ comments   : true
 
 ### #05 Neden Kadın Sorunu?
 
-**Yazıyı kaleme alan kişi: Prof. Dr. Mehmet ERDOĞAN**
+**Yazıyı Kaleme Alan Kişi: Prof. Dr. Mehmet ERDOĞAN**
 
 **Yayınlanan Tarih: 30.04.2012**
 

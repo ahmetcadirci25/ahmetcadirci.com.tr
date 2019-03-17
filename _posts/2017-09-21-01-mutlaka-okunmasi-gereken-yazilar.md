@@ -21,7 +21,7 @@ comments   : true
 
 ### #01 Boğaz'da Bir Huzur Adası: Yahya Efendi Dergahı
 
-**Yazıyı kaleme alan kişi: Nidayi Sevim**
+**Yazıyı Kaleme Alan Kişi: Nidayi Sevim**
 
 **Yayınlanan Tarih: 07.09.2017**
 
@@ -33,7 +33,7 @@ comments   : true
 
 ### #02 Olman gerektiği gibi ol
 
-**Yazıyı kaleme alan kişi: Serdar Tuncer**
+**Yazıyı Kaleme Alan Kişi: Serdar Tuncer**
 
 **Yayınlanan Tarih: 21.09.2017**
 
@@ -43,7 +43,7 @@ comments   : true
 
 ### #03 Chaplin’den Kızına Mektup: Her zaman insan olmak için çaba harcadım. Sen de öyle yap! 
 
-**Yazıyı kaleme alan kişi: Charlie Chaplin**
+**Yazıyı Kaleme Alan Kişi: Charlie Chaplin**
 
 "Sevgili kızım.. Şimdi gece, Noel gecesi. Benim küçük kalemimdeki silahsız muhafızların hepsi derin uykuda. Kardeşlerin uyuyor, annende uykuya daldı. Ne var ki sen çok uzaklardasın;eğer şu anda şu dakikada fotoğraflarına bakmıyorsan kör olayım. Fotoğrafların burada masanın üzerinde kalbime en yakın yerde duruyor. Oysa sen neredesin? Uzaksı, masalsı, Pariste, CampsElyees’deki tiyatroda, görkemli bir sahnede dans ediyorsun. Ben bunu çok iyi bildiğim halde genede bu sakin gecenin sessizliğinde senin ayak seslerini net biçimde duyuyorum. Gözlerin gözlerimin önüne geliyor; gözlerin kış gecesine özgü gökyüzündeki yıldızlar gibi parlıyor. Bu güzel oyunda, Şahın tutsak aldığı güzeller güzeli İranlı kızı oynadığını biliyorum. Güzeller güzeli ol sen de dans et, yıldız ol ve parıltılar saç. Ama seyircileri büyülermiş olmaktan, onları kendine hayran etmekten sarhoş olduğunda, sana sunulan çiçeklerin kokusu başını döndürdüğünde, tek başına bir köşeye çekil ve benim mektubumu oku, babanın sesine kulak ver."
 
@@ -51,7 +51,7 @@ comments   : true
 
 ### #04 2. Dünya Savaşı’na Ok ve Kılıçla Katılan Asker
 
-**Yazıyı kaleme alan kişi: Liza Demirtaş**
+**Yazıyı Kaleme Alan Kişi: Liza Demirtaş**
 
 **Yayınlanan Tarih: 04.09.2017**
 
@@ -63,7 +63,7 @@ comments   : true
 
 ### #05 Japonya notları
 
-**Yazıyı kaleme alan kişi: Taha Kılınç**
+**Yazıyı Kaleme Alan Kişi: Taha Kılınç**
 
 **Yayınlanan Tarih: 20.09.2017**
 
