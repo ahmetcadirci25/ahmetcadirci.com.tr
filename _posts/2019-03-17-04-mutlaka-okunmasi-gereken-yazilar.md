@@ -15,7 +15,7 @@ comments   : true
 ## İçindekiler
 - [#01 Şarjördeki Nefret Listesi Profesyonel Bir Ekip İşidir!](https://ahmetcadirci.com.tr/2019/04-mutlaka-okunmasi-gereken-yazilar/#01-şarjördeki-nefret-listesi-profesyonel-bir-ekip-i̇şidir)
 - [#02 Yeni Zelanda'da Katliam Yapan Manyağın Tarihi Kodları](https://ahmetcadirci.com.tr/2019/04-mutlaka-okunmasi-gereken-yazilar/#02-yeni-zelandada-katliam-yapan-manyağın-tarihi-kodları)
-- [#03 Kan Ateş Ölüm Üçgeninde Irkçılık ve Yeni Zelanda Faciası](https://ahmetcadirci.com.tr/2019/04-mutlaka-okunmasi-gereken-yazilar/#03-kan-ateş-ölüm-üçgeninde-irkçılık-ve-yeni-zelenda-faciası)
+- [#03 Kan Ateş Ölüm Üçgeninde Irkçılık ve Yeni Zelanda Faciası](https://ahmetcadirci.com.tr/2019/04-mutlaka-okunmasi-gereken-yazilar/#03-kan-ateş-ölüm-üçgeninde-irkçılık-ve-yeni-zelanda-faciası)
 - [#04 Hristiyan Teröristin Gizlemediği](https://ahmetcadirci.com.tr/2019/04-mutlaka-okunmasi-gereken-yazilar/#04-hristiyan-teröristin-gizlemediği)
 - [#05 Bir Fotoğrafa Mektup](https://ahmetcadirci.com.tr/2019/04-mutlaka-okunmasi-gereken-yazilar/#05-bir-fotoğrafa-mektup)
 
