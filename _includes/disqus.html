@@ -1,11 +1,10 @@
 <div class="disqus-comments push-down-55" id="comments">
 
-            <div class="disqus popzone" id="disqus_thread"></div>
+<div class="disqus popzone" id="disqus_thread"></div>
 
-<script src="//osvaldas.info/examples/lazy-loading-disqus-comments/disqusloader.js"></script>
+<script src="{{ "/js/disqusloader.js" | prepend: site.url }}"></script>
+
 <script>
-
-    
     disqusLoader( '.disqus',
     {
         scriptUrl:      '//{{ site.disqus_shortname }}.disqus.com/embed.js',
@@ -15,8 +14,6 @@
             this.page.url           = '{{site.url}}{{page.url}}';
         }
     });
-
-    
 </script>
 
 </div>
