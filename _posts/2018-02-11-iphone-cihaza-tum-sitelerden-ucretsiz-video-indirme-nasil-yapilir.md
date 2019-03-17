@@ -28,13 +28,13 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 
 Kurulum videosunda AppStore arama kutucuğuna ~~**Vida**~~ yerine **DoDa+** yazmayı unutmayın.
 
-{% include vimeo.html vimeo_id="255265889" %}
+{% include vimeo.html vimeo_id="255265889" vimeo_image="682632036" %}
 
 #### İndirme Videosu
 
 [Gelen yorumlara]({{site.url}}/2018/iphone-cihaza-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir/#comment-3931533922) istinaden daha açıklayıcı olması için video eklenmiştir. Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhone film rulosuna video indirme** ve kaydetme işlemi yer almaktadır. Ekstra olarak (ses) mp3 formatına çevirme işlemi gösterilmiştir.
 
-{% include vimeo.html vimeo_id="273730466" %}
+{% include vimeo.html vimeo_id="273730466" vimeo_image="705600943" %}
 
 #### YouTube'dan Video İndirme Nasıl Yapılır?
 
@@ -82,7 +82,7 @@ Kurulum videosunda AppStore arama kutucuğuna ~~**Vida**~~ yerine **DoDa+** yazm
 
 Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhone film rulosuna video indirme** ve kaydetme işlemi yer almaktadır.
 
-{% include vimeo.html vimeo_id="292187171" %}
+{% include vimeo.html vimeo_id="292187171" vimeo_image="728511587" %}
 
 #### Video İndirme (Total Files) Nasıl Yapılır?
 

@@ -32,7 +32,7 @@ Bu yöntemin kullanılabilmesi için daha önceden Tumblr uygulamasının indiri
 
 #### Kurulum Videosu 
 
-{% include vimeo.html vimeo_id="304081720" %}
+{% include vimeo.html vimeo_id="304081720" vimeo_image="743224537" %}
 
 ### Yöntem 2
 
@@ -48,7 +48,7 @@ Eğer birinci yöntem sizin için uygun değilse ikinci yöntem ile sorunu çöz
 
 #### Kurulum Videosu 
 
-{% include vimeo.html vimeo_id="304081810" %}
+{% include vimeo.html vimeo_id="304081810" vimeo_image="743224382" %}
 
 ##### Tumblr iOS uygulaması neden App Store'dan kayboldu?
 

@@ -60,7 +60,7 @@ Mevcut verilere dayanarak istatistiklerin sınırları vardır. Düşük trafiğ
 
 **WordPress Siteye Alexa Sertifika Kodu Ekleme Videosu**
 
-{% include vimeo.html vimeo_id="308203226" %}
+{% include vimeo.html vimeo_id="308203226" vimeo_image="748319567" %}
 
 HTML vb. sitelerde de aynı mantıkla hareket edilmelidir. Alexa Sertifika Kodu her zaman `</head>` kapatma etiketinden önce eklenmelidir. 
 
