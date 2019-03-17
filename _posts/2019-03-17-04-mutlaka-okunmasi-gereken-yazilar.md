@@ -1,5 +1,5 @@
 ---
-title      : "#04 Mutlaka Okunması Gereken Yazılar: Yeni Zelenda"
+title      : "#04 Mutlaka Okunması Gereken Yazılar: Yeni Zelanda"
 description: "Mutlaka Okunması Gereken Yazılar serisinin dördüncüsü olan yazıda 5 tane yazıyı sizinle paylaşıyorum. Yeni Zelanda'da şehit olan kardeşlerimize Allah'tan rahmet, yaralılara acil şifalar diliyoruz."
 date       : 2019-03-10 12:00:00
 categories : [Genel]
@@ -15,7 +15,7 @@ comments   : true
 ## İçindekiler
 - [#01 Şarjördeki Nefret Listesi Profesyonel Bir Ekip İşidir!](https://ahmetcadirci.com.tr/2019/04-mutlaka-okunmasi-gereken-yazilar/#01-şarjördeki-nefret-listesi-profesyonel-bir-ekip-i̇şidir)
 - [#02 Yeni Zelanda'da Katliam Yapan Manyağın Tarihi Kodları](https://ahmetcadirci.com.tr/2019/04-mutlaka-okunmasi-gereken-yazilar/#02-yeni-zelandada-katliam-yapan-manyağın-tarihi-kodları)
-- [#03 Kan Ateş Ölüm Üçgeninde Irkçılık ve Yeni Zelenda Faciası](https://ahmetcadirci.com.tr/2019/04-mutlaka-okunmasi-gereken-yazilar/#03-kan-ateş-ölüm-üçgeninde-irkçılık-ve-yeni-zelenda-faciası)
+- [#03 Kan Ateş Ölüm Üçgeninde Irkçılık ve Yeni Zelanda Faciası](https://ahmetcadirci.com.tr/2019/04-mutlaka-okunmasi-gereken-yazilar/#03-kan-ateş-ölüm-üçgeninde-irkçılık-ve-yeni-zelenda-faciası)
 - [#04 Hristiyan Teröristin Gizlemediği](https://ahmetcadirci.com.tr/2019/04-mutlaka-okunmasi-gereken-yazilar/#04-hristiyan-teröristin-gizlemediği)
 - [#05 Bir Fotoğrafa Mektup](https://ahmetcadirci.com.tr/2019/04-mutlaka-okunmasi-gereken-yazilar/#05-bir-fotoğrafa-mektup)
 
@@ -53,7 +53,7 @@ comments   : true
 [Tamamını Oku](http://bit.ly/2TL17IA){:target="_blank"}{:rel="noopener"}{:class="tags__link"}
 
 
-### #03 Kan Ateş Ölüm Üçgeninde Irkçılık ve Yeni Zelenda Faciası
+### #03 Kan Ateş Ölüm Üçgeninde Irkçılık ve Yeni Zelanda Faciası
 
 **Yazıyı Kaleme Alan Kişi: Rasim Özdenören**
 
