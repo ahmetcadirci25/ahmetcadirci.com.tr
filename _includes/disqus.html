@@ -1,9 +1,6 @@
 <div class="disqus-comments push-down-55" id="comments">
 
-<div class="popzone" id="disqus_thread">
-    <div class="disqus"></div>
-    <div class="disqus-loading">Loading comments&hellip;</div>
-</div>
+            <div class="disqus popzone" id="disqus_thread"></div>
 
 <script src="//osvaldas.info/examples/lazy-loading-disqus-comments/disqusloader.js"></script>
 <script>
@@ -16,20 +13,10 @@
         {
             this.page.identifier    = '{{page.url}}';
             this.page.url           = '{{site.url}}{{page.url}}';
-            this.callbacks.onReady  = [function()
-            {
-                var el = document.querySelector( '.disqus-loading' );
-                if( el.classList )
-                    el.classList.add( 'is-hidden' ); // IE 10+
-                else
-                    el.className += ' ' + 'is-hidden'; // IE 8-9
-            }];
         }
     });
 
     
 </script>
-  
+
 </div>
-
-
