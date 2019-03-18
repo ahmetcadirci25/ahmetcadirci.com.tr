@@ -15,6 +15,7 @@ sitemap: false
 <channel>
   <title>Ahmet Çadırcı</title>
   <link>{{site.url}}</link>
+  <description>En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzerinden ulaşabilirsiniz.</description>
   <language>tr-tr</language>
   <spotify:countryOfOrigin>tr</spotify:countryOfOrigin>
   <copyright>Ahmet Çadırcı</copyright>
