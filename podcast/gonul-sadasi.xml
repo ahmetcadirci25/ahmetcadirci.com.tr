@@ -1,0 +1,569 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:spotify="http://www.spotify.com/ns/rss"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+  <channel>
+    <title>Gönül Sadası</title>
+    <link>{{site.url}}/</link>
+    <language>tr-TR</language>
+    <copyright>Ahmet Çadırcı</copyright>
+    <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri... {{site.url}}/</itunes:subtitle>
+    <itunes:author>Ahmet Çadırcı</itunes:author>
+    <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri... {{site.url}}/</itunes:summary>
+    <description>Kemal Sayar ve Sadettin Ökten hoş sohbetleri... {{site.url}}/</description>
+
+    <itunes:owner>
+      <itunes:name>Ahmet Çadırcı</itunes:name>
+      <itunes:email>ahmetcadirci25@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+    <itunes:category text="Religion &#38; Spirituality">
+      <itunes:category text="Islam"/>
+    </itunes:category>
+
+    <itunes:explicit>no</itunes:explicit>
+
+    
+    <item>
+      <title>#031 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2018/programlar/GONUL_SADASI/GONUL_SADASI_2018_01_04.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>031</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#030 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2017/programlar/GONUL_SADASI/GONUL_SADASI_2017_12_28.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>030</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#029 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2017/programlar/GONUL_SADASI/GONUL_SADASI_2017_12_21.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>029</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#028 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2017/programlar/GONUL_SADASI/GONUL_SADASI_2017_12_14.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>028</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#027 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2017/programlar/GONUL_SADASI/GONUL_SADASI_2017_12_07.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>027</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#026 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2017/programlar/GONUL_SADASI/GONUL_SADASI_2017_11_30.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>026</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#025 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2017/programlar/GONUL_SADASI/GONUL_SADASI_2017_11_23.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>025</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#024 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2017/programlar/GONUL_SADASI/GONUL_SADASI_2017_05_16.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>024</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#023 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2017/programlar/GONUL_SADASI/GONUL_SADASI_2017_05_09.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>023</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#022 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2017/programlar/GONUL_SADASI/GONUL_SADASI_2017_05_02.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>022</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#021 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2017/programlar/GONUL_SADASI/GONUL_SADASI_2017_04_25.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>021</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#020 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2017/programlar/GONUL_SADASI/GONUL_SADASI_2017_04_18.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>020</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#019 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2017/programlar/GONUL_SADASI/GONUL_SADASI_2017_04_11.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>019</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#018 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2017/programlar/GONUL_SADASI/GONUL_SADASI_2017_03_21.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>018</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#017 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2017/programlar/GONUL_SADASI/GONUL_SADASI_2017_03_14.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>017</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#016 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2017/programlar/GONUL_SADASI/GONUL_SADASI_2017_03_07.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>016</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#015 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2017/programlar/GONUL_SADASI/GONUL_SADASI_2017_02_28.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>015</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#014 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2017/programlar/GONUL_SADASI/GONUL_SADASI_2017_02_21.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>014</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#013 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2017/programlar/GONUL_SADASI/GONUL_SADASI_2017_02_14.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>013</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#012 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2016/programlar/GONUL_SADASI/GONUL_SADASI_2016_04_19.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>012</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#011 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2016/programlar/GONUL_SADASI/GONUL_SADASI_2016_04_12.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>011</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#010 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2016/programlar/GONUL_SADASI/GONUL_SADASI_2016_04_05.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>010</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#009 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2016/programlar/GONUL_SADASI/GONUL_SADASI_2016_03_29.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>009</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#008 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2016/programlar/GONUL_SADASI/GONUL_SADASI_2016_03_22.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>008</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#007 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2016/programlar/GONUL_SADASI/GONUL_SADASI_2016_03_15.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>007</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#006 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2016/programlar/GONUL_SADASI/GONUL_SADASI_2016_03_08.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>006</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#005 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2016/programlar/GONUL_SADASI/GONUL_SADASI_2016_03_01.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>005</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#004 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2016/programlar/GONUL_SADASI/GONUL_SADASI_2016_02_23.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>004</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#003 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2016/programlar/GONUL_SADASI/GONUL_SADASI_2016_02_16.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>003</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#002 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2016/programlar/GONUL_SADASI/GONUL_SADASI_2016_02_09.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>002</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+    <item>
+      <title>#001 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2016/programlar/GONUL_SADASI/GONUL_SADASI_2016_02_02.mp3" length="32507256" type="audio/mpeg" />
+
+      <guid>001</guid>
+
+      <pubDate>Tue, 31 Jul 2018 17:43:11 GMT</pubDate>
+
+      <itunes:duration>33:51</itunes:duration>
+
+    </item>
+    
+
+  </channel>
+</rss>
