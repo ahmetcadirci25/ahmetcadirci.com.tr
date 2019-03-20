@@ -14,6 +14,7 @@ Sosyal medya hesaplarımdan bana ulaşabilirsiniz. Web sitemde yayınlanan en g�
 - [RSS Podcast]({{ site.url }}/r/rss-podcast){:target="_blank"}{:rel="noopener"}
 - [iTunes Podcast]({{ site.url }}/r/podcast){:target="_blank"}{:rel="noopener"}
 - [Spotify Podcast]({{ site.url }}/r/spotify){:target="_blank"}{:rel="noopener"}
+- [Google Podcast]({{ site.url }}/r/google){:target="_blank"}{:rel="noopener"}
 - [E-Bülten]({{ site.url }}/r/ebulten){:target="_blank"}{:rel="noopener"}
 - [Pocket]({{ site.url }}/r/pocket){:target="_blank"}{:rel="noopener"}
 - [Flipboard]({{ site.url }}/r/flipboard){:target="_blank"}{:rel="noopener"}
