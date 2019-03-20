@@ -8,12 +8,12 @@ disqus_shortname: 'ahmet25'
 # Seo settings
 title      : 'Ahmet Çadırcı'
 description: 'Ahmet Çadırcı kişisel web sitemde blog yazıları, video, podcast vb. içerikler yer almaktadır. İletişim sayfasından bana ulaşabilirsiniz.'
-author     : 'Ahmet Çadırcı'
+author     : 'ahmetcadircicom'
 lang       : 'tr-TR'
 twitter:
-  username: 'ahmetcadirci25'
+  username: 'ahmetcadircicom'
   card    : summary
-  creator : 'ahmetcadirci25'
+  creator : 'ahmetcadircicom'
 
 facebook:
   app_id   : 

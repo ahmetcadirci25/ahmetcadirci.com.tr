@@ -11,7 +11,9 @@ image      : "/images/ahmetcadirci-wallpaper.jpg"
 Sosyal medya hesaplarımdan bana ulaşabilirsiniz. Web sitemde yayınlanan en güncel yazıları [RSS]({{ site.url }}/r/rss){:target="_blank"}{:rel="noopener"} ve [E-Bülten]({{ site.url }}/r/ebulten){:target="_blank"}{:rel="noopener"} ile takip edebilirsiniz:
 - [Feedly]({{ site.url }}/r/feedly){:target="_blank"}{:rel="noopener"}
 - [RSS]({{ site.url }}/r/rss){:target="_blank"}{:rel="noopener"}
-- [Podcast RSS]({{ site.url }}/r/podcast){:target="_blank"}{:rel="noopener"}
+- [RSS Podcast]({{ site.url }}/r/rss-podcast){:target="_blank"}{:rel="noopener"}
+- [iTunes Podcast]({{ site.url }}/r/podcast){:target="_blank"}{:rel="noopener"}
+- [Spotify Podcast]({{ site.url }}/r/spotify){:target="_blank"}{:rel="noopener"}
 - [E-Bülten]({{ site.url }}/r/ebulten){:target="_blank"}{:rel="noopener"}
 - [Pocket]({{ site.url }}/r/pocket){:target="_blank"}{:rel="noopener"}
 - [Flipboard]({{ site.url }}/r/flipboard){:target="_blank"}{:rel="noopener"}
