@@ -1,7 +1,7 @@
 ---
 title      : "#04 Mutlaka Okunması Gereken Yazılar: Yeni Zelanda"
 description: "Mutlaka Okunması Gereken Yazılar serisinin dördüncüsü olan yazıda 5 tane yazıyı sizinle paylaşıyorum. Yeni Zelanda'da şehit olan kardeşlerimize Allah'tan rahmet, yaralılara acil şifalar diliyoruz."
-date       : 2019-03-10 12:00:00
+date       : 2019-03-17 16:00:00
 categories : [Genel]
 tags       : [Makale, Yazı]
 image      : "/images/mutlaka-okunmasi-gereken-yazilar.png"
