@@ -43,5 +43,4 @@ Video ve Fotoğrafları takip etmek için:
 Sosyal paylaşımlarımı takip etmek için:
 - [Reddit]({{ site.url }}/r/reddit){:target="_blank"}{:rel="noopener"}
 - [Tumblr]({{ site.url }}/r/tumblr){:target="_blank"}{:rel="noopener"}
-- [Google+]({{ site.url }}/r/googleplus){:target="_blank"}{:rel="noopener"}
 - [Twitter]({{ site.url }}/r/twitter){:target="_blank"}{:rel="noopener"}
