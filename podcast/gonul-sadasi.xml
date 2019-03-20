@@ -14,7 +14,7 @@ sitemap: false
   xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
   <channel>
-    <title>Gönül Sadası</title>
+    <title>Kemal Sayar &amp; Sadettin Ökten — Gönül Sadası</title>
     <link>{{site.url}}/</link>
     <language>tr-TR</language>
     <copyright>Ahmet Çadırcı</copyright>
