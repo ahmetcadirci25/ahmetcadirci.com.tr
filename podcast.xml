@@ -11,6 +11,7 @@ sitemap: false
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:media="http://search.yahoo.com/mrss/"
   xmlns:spotify="http://www.spotify.com/ns/rss"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
 <channel>
   <title>Ahmet Çadırcı</title>
