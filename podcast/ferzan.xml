@@ -37,7 +37,7 @@ sitemap: false
             <itunes:author>Ahmet Çadırcı</itunes:author>
             <itunes:subtitle>Dursun Ali Erzincanlı — Ferzan: #011: Dursun Ali Erzincanlı Ferzan 06 Aralık 2016 Tarihli Yayın</itunes:subtitle>
             <itunes:summary>Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte.</itunes:summary>
-            <itunes:image href="{{site.url}}/dursun-ali-erzincanli.jpg" />
+            <itunes:image href="{{site.url}}/images/dursun-ali-erzincanli.jpg" />
             <enclosure url="http://dts.podtrac.com/redirect.mp3/multimedia.moralfm.com.tr/201612/2c14125516d9f36b25cc0445224a2041.mp3" length="13389696" type="audio/mp3"/>
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 06 Dec 2016 07:00:00 +0300</pubDate>
