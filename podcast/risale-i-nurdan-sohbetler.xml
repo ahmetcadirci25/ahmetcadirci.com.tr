@@ -2,7 +2,17 @@
 layout: null
 sitemap: false
 ---
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:spotify="http://www.spotify.com/ns/rss"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
 <channel>
         <title>Senai Demirci — Risale-i Nurdan Sohbetler</title>
         <link>{{site.url}}/</link>
