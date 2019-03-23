@@ -45,7 +45,7 @@ YouTube kanallarından ve çalma listelerinden RSS beslemesi almak mümkündür,
 **Çalma Listesi:**
 
 **URL:** https://www.youtube.com/playlist?list=PLbpi6ZahtOH7vgyGImZ4P-olTT11WLkLk
-**RSS URL:** youtube.com/feeds/videos.xml?playlist_id=PLbpi6ZahtOH7vgyGImZ4P-olTT11WLkLk
+**RSS URL:** https://www.youtube.com/feeds/videos.xml?playlist_id=PLbpi6ZahtOH7vgyGImZ4P-olTT11WLkLk
 
 
 ## RSS Nedir?
