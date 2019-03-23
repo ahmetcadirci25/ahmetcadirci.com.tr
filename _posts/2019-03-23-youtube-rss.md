@@ -34,21 +34,18 @@ YouTube kanallarından ve çalma listelerinden RSS beslemesi almak mümkündür,
 
 **Kanal Kimliği:**
 
-**URL:** `https://www.youtube.com/channel/UCBR8-60-B28hp2BmDPdntcQ`
-
-**RSS URL:** `https://www.youtube.com/feeds/videos.xml?channel_id=UCBR8-60-B28hp2BmDPdntcQ`
+* **URL:** `https://www.youtube.com/channel/UCBR8-60-B28hp2BmDPdntcQ`
+* **RSS URL:** `https://www.youtube.com/feeds/videos.xml?channel_id=UCBR8-60-B28hp2BmDPdntcQ`
 
 **Kullanıcı Adı:**
 
-**URL:** `https://www.youtube.com/user/youtube`
-
-**RSS URL:** `https://www.youtube.com/feeds/videos.xml?user=youtube`
+* **URL:** `https://www.youtube.com/user/youtube`
+* **RSS URL:** `https://www.youtube.com/feeds/videos.xml?user=youtube`
 
 **Çalma Listesi:**
 
-**URL:** `https://www.youtube.com/playlist?list=PLbpi6ZahtOH7vgyGImZ4P-olTT11WLkLk`
-
-**RSS URL:** `https://www.youtube.com/feeds/videos.xml?playlist_id=PLbpi6ZahtOH7vgyGImZ4P-olTT11WLkLk`
+* **URL:** `https://www.youtube.com/playlist?list=PLbpi6ZahtOH7vgyGImZ4P-olTT11WLkLk`
+* **RSS URL:** `https://www.youtube.com/feeds/videos.xml?playlist_id=PLbpi6ZahtOH7vgyGImZ4P-olTT11WLkLk`
 
 
 ## RSS Nedir?
