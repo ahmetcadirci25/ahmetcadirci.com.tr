@@ -1,7 +1,7 @@
 ---
 title      : "YouTube Kanallarından ve Çalma Listelerinden RSS URL'leri Nasıl Alabilirsiniz?"
 description: "YouTube kanallarından ve çalma listelerinden RSS beslemesi almak mümkündür, bu yazıdan gerekli bilgileri öğrenebilirsiniz."
-date       : 2019-03-17 16:00:00
+date       : 2019-03-23 13:00:00
 categories : [İnternet, Kod]
 tags       : [RSS, YouTube]
 image      : "/images/youtube-rss.png"
