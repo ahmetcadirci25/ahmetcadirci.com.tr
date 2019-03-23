@@ -50,6 +50,7 @@ Sosyal paylaşımlarımı takip etmek için:
 
 ### Yeni Yazılar
 
+* [YouTube Kanallarından ve Çalma Listelerinden RSS URL'leri Nasıl Alabilirsiniz?](https://ahmetcadirci.com.tr/2019/youtube-rss/)
 * [#04 Mutlaka Okunması Gereken Yazılar](https://ahmetcadirci.com.tr/2019/04-mutlaka-okunmasi-gereken-yazilar)
 * [#03 Mutlaka Okunması Gereken Yazılar](https://ahmetcadirci.com.tr/2019/03-mutlaka-okunmasi-gereken-yazilar)
 * [Alexa Sıralamaları Hakkında Bilmemiz Gereken Her Şey Bu Rehberde](https://ahmetcadirci.com.tr/2018/alexa-siralamalari-hakkinda-bilmeniz-gereken-her-sey-bu-rehberde/)
