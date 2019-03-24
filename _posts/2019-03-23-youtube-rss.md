@@ -8,7 +8,7 @@ image      : "/images/youtube-rss.png"
 comments   : true
 ---
 
-YouTube kanallarından ve çalma listelerinden RSS beslemesi adresi almak mümkündür, bu yazıdan gerekli bilgileri öğrenebilirsiniz.
+YouTube kanallarından ve çalma listelerinden RSS beslemesi adresi almak mümkündür, bu yazıdan gerekli bilgileri öğrenebilirsiniz. YouTube video RSS linkini otomatik oluşturmaktadır.
 
 [Birinci kısım](https://ahmetcadirci.com.tr/2019/youtube-rss/#birinci-kısım) sabit url'miz yer almaktadır. [İkinci kısım](https://ahmetcadirci.com.tr/2019/youtube-rss/#i̇kinci-kısım)da ise YouTube kanalınız veya çalma listenizin kimliği yer almaktadır.
 
@@ -47,6 +47,19 @@ YouTube kanallarından ve çalma listelerinden RSS beslemesi adresi almak mümk�
 * **URL:** `https://www.youtube.com/playlist?list=PLbpi6ZahtOH7vgyGImZ4P-olTT11WLkLk`
 * **RSS URL:** `https://www.youtube.com/feeds/videos.xml?playlist_id=PLbpi6ZahtOH7vgyGImZ4P-olTT11WLkLk`
 
+## YouTube ile RSS kullanma
+
+**Tek bir kanal için RSS güncellemelerini alma**
+
+Tek bir kanalın RSS beslemesini almak için kanal URL'sini RSS okuyucunuza yapıştırın.
+
+**Tüm abonelikler için RSS güncellemelerini alın**
+
+Tüm YouTube aboneliklerinizi RSS okuyucunuza aktarmak için OPML dosya indirme özelliğini kullanabilirsiniz:
+
+1. Abonelikleri Yönet sayfanızın altındaki [Abonelikleri dışa aktar](https://www.youtube.com/subscription_manager)'ı tıklayarak OPML dosyasını indirin. Bu `subscription_manager.xml` isimli bir dosya indirecektir.
+2. OPML dosyasını RSS okuyucunuza içe aktarın.
+	* Örneğin Feedly'de, [RSS İçe (Import) veya Dışa (Export)](https://ahmetcadirci.com.tr/2016/feedly-rss-ice-import-veya-disa-export-aktarma/) özelliğini kullanabilirsiniz.
 
 ## RSS Nedir?
 
@@ -66,3 +79,4 @@ RSS olarak sunulan içerik web sitesinde sunulan içeriğin tamamını, özetini
 
 1. How to get RSS URLs from YouTube channels and playlists. 23 Mart 2019. https://chriswere.neocities.org/rssyoutube.html
 1. RSS - Vikipedi. 23 Mart 2019. https://tr.wikipedia.org/wiki/RSS
+1. YouTube ile RSS kullanma. 24 Mart 2019. https://support.google.com/youtube/answer/6224202?hl=tr
