@@ -57,9 +57,9 @@ Tek bir kanalın RSS beslemesini almak için kanal URL'sini RSS okuyucunuza yap�
 
 Tüm YouTube aboneliklerinizi RSS okuyucunuza aktarmak için OPML dosya indirme özelliğini kullanabilirsiniz:
 
-1. Abonelikleri Yönet sayfanızın altındaki [Abonelikleri dışa aktar](https://www.youtube.com/subscription_manager)'ı tıklayarak OPML dosyasını indirin. Bu `subscription_manager.xml` isimli bir dosya indirecektir.
+1. Abonelikleri Yönet sayfanızın altındaki [Abonelikleri dışa aktar](https://www.youtube.com/subscription_manager){:target="_blank"}{:rel="noopener"}'ı tıklayarak OPML dosyasını indirin. Bu `subscription_manager.xml` isimli bir dosya indirecektir.
 2. OPML dosyasını RSS okuyucunuza içe aktarın.
-	* Örneğin Feedly'de, [RSS İçe (Import) veya Dışa (Export)](https://ahmetcadirci.com.tr/2016/feedly-rss-ice-import-veya-disa-export-aktarma/) özelliğini kullanabilirsiniz.
+	* Örneğin Feedly'de, [RSS İçe (Import) veya Dışa (Export)](https://ahmetcadirci.com.tr/2016/feedly-rss-ice-import-veya-disa-export-aktarma/){:target="_blank"}{:rel="noopener"} özelliğini kullanabilirsiniz.
 
 ## RSS Nedir?
 
