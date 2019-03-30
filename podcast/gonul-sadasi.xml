@@ -36,7 +36,42 @@ sitemap: false
 
     <itunes:explicit>no</itunes:explicit>
 
-    
+    <item>
+      <title>#34 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2019/programlar/GONUL_SADASI/GONUL_SADASI_2019_03_21.mp3" length="33365727" type="audio/mpeg" />
+      <guid>34</guid>
+      <pubDate>Tue, 21 Mar 2019 17:43:11 GMT</pubDate>
+      <itunes:duration>34:59</itunes:duration>
+    </item>
+
+    <item>
+      <title>#33 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2019/programlar/GONUL_SADASI/GONUL_SADASI_2019_03_14.mp3" length="37042859" type="audio/mpeg" />
+      <guid>33</guid>
+      <pubDate>Tue, 14 Mar 2019 17:43:11 GMT</pubDate>
+      <itunes:duration>38:34</itunes:duration>
+    </item>
+
+     <item>
+      <title>#032 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:summary>
+      <itunes:image href="{{site.url}}/images/gonul-sadasi.jpg" />
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2019/programlar/GONUL_SADASI/GONUL_SADASI_2019_03_07.mp3" length="34311926" type="audio/mpeg" />
+      <guid>032</guid>
+      <pubDate>Tue, 07 Mar 2019 17:43:11 GMT</pubDate>
+      <itunes:duration>35:44</itunes:duration>
+    </item>
+
     <item>
       <title>#031 Gönül Sadası - Kemal Sayar, Sadettin Ökten</title>
       <itunes:subtitle>Kemal Sayar ve Sadettin Ökten hoş sohbetleri...</itunes:subtitle>
