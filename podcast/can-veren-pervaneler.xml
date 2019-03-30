@@ -1,0 +1,124 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:spotify="http://www.spotify.com/ns/rss"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+  <channel>
+    <title>Hayati İnanç ve Selahaddin Kocaaslan — Can Veren Pervâneler</title>
+    <link>{{site.url}}/</link>
+    <language>tr-TR</language>
+    <copyright>Ahmet Çadırcı</copyright>
+    <itunes:subtitle>Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile "Can Veren Pervâneler" programında... {{site.url}}/</itunes:subtitle>
+    <itunes:author>Ahmet Çadırcı</itunes:author>
+    <itunes:summary>Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile "Can Veren Pervâneler" programında... {{site.url}}/</itunes:summary>
+    <description>Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile "Can Veren Pervâneler" programında... {{site.url}}/</description>
+
+    <itunes:owner>
+      <itunes:name>Ahmet Çadırcı</itunes:name>
+      <itunes:email>ahmetcadirci25@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="{{site.url}}/images/can-veren-pervaneler.jpg" />
+
+    <itunes:category text="Religion &#38; Spirituality">
+      <itunes:category text="Islam"/>
+    </itunes:category>
+
+    <itunes:explicit>no</itunes:explicit>
+
+   <item>
+      <title>#006 Can Veren Pervâneler (Müslümanın Kalbi Hayatı) - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile "Can Veren Pervâneler" programında...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile "Can Veren Pervâneler" programında...</itunes:summary>      
+      <itunes:image href="{{site.url}}/images/can-veren-pervaneler.jpg" />
+      
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2019/programlar/CAN_VEREN_PERVANELER/CAN_VEREN_PERVANELER_2019_03_22.mp3" length="36316862" type="audio/mpeg" />
+      
+      <guid>006</guid>
+      <pubDate>Fri, 22 Mar 2019 18:00:00 GMT</pubDate>
+      <itunes:duration>37:49</itunes:duration>
+    </item>
+
+    <item>
+      <title>#005 Can Veren Pervâneler (Çanakkale Zaferi) - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile "Can Veren Pervâneler" programında...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile "Can Veren Pervâneler" programında...</itunes:summary>      
+      <itunes:image href="{{site.url}}/images/can-veren-pervaneler.jpg" />
+      
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2019/programlar/CAN_VEREN_PERVANELER/CAN_VEREN_PERVANELER_2019_03_15.mp3" length="34990181" type="audio/mpeg" />
+      
+      <guid>005</guid>
+      <pubDate>Fri, 15 Mar 2019 18:00:00 GMT</pubDate>
+      <itunes:duration>36:26</itunes:duration>
+    </item>
+
+    <item>
+      <title>#004 Can Veren Pervâneler (Aziz Mahmut Hüdai Hazretleri) - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile "Can Veren Pervâneler" programında...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile "Can Veren Pervâneler" programında...</itunes:summary>      
+      <itunes:image href="{{site.url}}/images/can-veren-pervaneler.jpg" />
+      
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2019/programlar/CAN_VEREN_PERVANELER/CAN_VEREN_PERVANELER_2019_03_08.mp3" length="38355274" type="audio/mpeg" />
+      
+      <guid>004</guid>
+      <pubDate>Fri, 08 Mar 2019 18:00:00 GMT</pubDate>
+      <itunes:duration>39:59</itunes:duration>
+    </item>
+
+    <item>
+      <title>#003 Can Veren Pervâneler (Nefs) - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile "Can Veren Pervâneler" programında...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile "Can Veren Pervâneler" programında...</itunes:summary>      
+      <itunes:image href="{{site.url}}/images/can-veren-pervaneler.jpg" />
+      
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2019/programlar/CAN_VEREN_PERVANELER/CAN_VEREN_PERVANELER_2019_03_01.mp3" length="45164981" type="audio/mpeg" />
+      
+      <guid>003</guid>
+      <pubDate>Fri, 01 Mar 2019 18:00:00 GMT</pubDate>
+      <itunes:duration>47:02</itunes:duration>
+    </item>
+
+    <item>
+      <title>#002 Can Veren Pervâneler (Can Veren Pervane) - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile "Can Veren Pervâneler" programında...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile "Can Veren Pervâneler" programında...</itunes:summary>      
+      <itunes:image href="{{site.url}}/images/can-veren-pervaneler.jpg" />
+      
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2019/programlar/CAN_VEREN_PERVANELER/CAN_VEREN_PERVANELER_2019_02_22.mp3" length="47311280" type="audio/mpeg" />
+      
+      <guid>002</guid>
+      <pubDate>Fri, 22 Feb 2019 18:00:00 GMT</pubDate>
+      <itunes:duration>49:16</itunes:duration>
+    </item>
+
+    <item>
+      <title>#001 Can Veren Pervâneler (Hayati İnanç Bey’in Divan Edebiyatı Yolculuğu) - Kemal Sayar, Sadettin Ökten</title>
+      <itunes:subtitle>Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile "Can Veren Pervâneler" programında...</itunes:subtitle>
+      <itunes:author>Kemal Sayar, Sadettin Ökten</itunes:author>
+      <itunes:summary>Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile "Can Veren Pervâneler" programında...</itunes:summary>      
+      <itunes:image href="{{site.url}}/images/can-veren-pervaneler.jpg" />
+      
+      <enclosure url="http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2019/programlar/CAN_VEREN_PERVANELER/CAN_VEREN_PERVANELER_2019_02_15.mp3" length="55081658" type="audio/mpeg" />
+      
+      <guid>001</guid>
+      <pubDate>Fri, 15 Feb 2019 18:00:00 GMT</pubDate>
+      <itunes:duration>57:22</itunes:duration>
+    </item>
+
+  </channel>
+</rss>
