@@ -10,7 +10,7 @@ image    	: "/images/ahmetcadirci-wallpaper.jpg"
 
 <h2 style="font-size: 25px">Podcast — Ahmet Çadırcı</h2>
 
-Teknoloji ve diğer konular hakkında tarafımdan oluşturulan podcastler.
+En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzerinden ulaşabilirsiniz. 
 
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2COm8aM)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2U86xNV)
