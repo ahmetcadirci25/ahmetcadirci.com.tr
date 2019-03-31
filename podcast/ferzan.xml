@@ -29,7 +29,7 @@ sitemap: false
         </itunes:owner>
         <itunes:image href="{{site.url}}/images/dursun-ali-erzincanli.jpg" />
         <itunes:category text="Religion &amp; Spirituality"/>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>clean</itunes:explicit>
         
 
         <item>
@@ -42,7 +42,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 06 Dec 2016 07:00:00 +0300</pubDate>
             <itunes:duration>55:47</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. </description>
             <itunes:keywords>islam, islamic, dursun ali erzincanlı, ahmet çadırcı, ferzan, güncel</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -58,7 +58,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 29 Nov 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:58</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. </description>
             <itunes:keywords>islam, islamic, dursun ali erzincanlı, ahmet çadırcı, ferzan, güncel</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -74,7 +74,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 22 Nov 2016 07:00:00 +0300</pubDate>
             <itunes:duration>58:14</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. </description>
             <itunes:keywords>islam, islamic, dursun ali erzincanlı, ahmet çadırcı, ferzan, güncel</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -90,7 +90,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 15 Nov 2016 07:00:00 +0300</pubDate>
             <itunes:duration>56:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. </description>
             <itunes:keywords>islam, islamic, dursun ali erzincanlı, ahmet çadırcı, ferzan, güncel</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -106,7 +106,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 08 Nov 2016 07:00:00 +0300</pubDate>
             <itunes:duration>54:54</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. </description>
             <itunes:keywords>islam, islamic, dursun ali erzincanlı, ahmet çadırcı, ferzan, güncel</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -122,7 +122,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 01 Nov 2016 07:00:00 +0300</pubDate>
             <itunes:duration>55:36</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. </description>
             <itunes:keywords>islam, islamic, dursun ali erzincanlı, ahmet çadırcı, ferzan, güncel</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -138,7 +138,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 25 Oct 2016 07:00:00 +0300</pubDate>
             <itunes:duration>53:22</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. </description>
             <itunes:keywords>islam, islamic, dursun ali erzincanlı, ahmet çadırcı, ferzan, güncel</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -154,7 +154,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 18 Oct 2016 07:00:00 +0300</pubDate>
             <itunes:duration>50:17</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. </description>
             <itunes:keywords>islam, islamic, dursun ali erzincanlı, ahmet çadırcı, ferzan, güncel</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -170,7 +170,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 11 Oct 2016 07:00:00 +0300</pubDate>
             <itunes:duration>58:51</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. </description>
             <itunes:keywords>islam, islamic, dursun ali erzincanlı, ahmet çadırcı, ferzan, güncel</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -186,7 +186,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 04 Oct 2016 07:00:00 +0300</pubDate>
             <itunes:duration>74:08</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. </description>
             <itunes:keywords>islam, islamic, dursun ali erzincanlı, ahmet çadırcı, ferzan, güncel</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -202,7 +202,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 27 Sep 2016 07:00:00 +0300</pubDate>
             <itunes:duration>55:51</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Dursun Ali Erzincanlı'nın 22 yıl önce yapmış olduğu ferzan programı tekrar sizlerle. Efendimizi Şiirle Sevdiren Adam Dursun Ali Erzincanlı, bu mikrofonlarda sizler için her hafta Ferzan programıyla birlikte. </description>
             <itunes:keywords>islam, islamic, dursun ali erzincanlı, ahmet çadırcı, ferzan, güncel, hz. muhammed sallahu aleyhi ve sellem, hz. peygamber, kuran, ehlisünnet, şiir</itunes:keywords>
             <itunes:block>no</itunes:block>

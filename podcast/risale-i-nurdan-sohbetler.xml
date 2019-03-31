@@ -29,7 +29,7 @@ sitemap: false
         </itunes:owner>
         <itunes:image href="{{site.url}}/images/senai-demirci.jpg" />
         <itunes:category text="Religion &amp; Spirituality"/>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>clean</itunes:explicit>
         
 
         <item>
@@ -42,7 +42,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Mon, 19 Dec 2016 07:00:00 +0300</pubDate>
             <itunes:duration>43:01</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Divanı Kebirden Hakikat damlaları. Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Divanı Kebirden Hakikat damlaları. Senai Demirci Risale-i Nurdan Sohbetler 19 Aralık 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -58,7 +58,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Mon, 12 Dec 2016 07:00:00 +0300</pubDate>
             <itunes:duration>40:19</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>23.söz 1.mebhas. Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. 23.söz 1.mebhas. Senai Demirci Risale-i Nurdan Sohbetler 12 Aralık 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -74,7 +74,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Mon, 05 Dec 2016 07:00:00 +0300</pubDate>
             <itunes:duration>35:53</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 05 Aralık 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -90,7 +90,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Mon, 28 Nov 2016 07:00:00 +0300</pubDate>
             <itunes:duration>40:50</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 28 Kasım 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -106,7 +106,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Mon, 21 Nov 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Mesnevi-i Nuriyeden... Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 21 Kasım 2016 Tarihli Yayın - Mesnevi-i Nuriyeden... Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -122,7 +122,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Mon, 14 Nov 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Mesnevi Nuriyeden Ankebut Suresi 64. Ayet Tefsiri... Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 14 Kasım 2016 Tarihli Yayın - Mesnevi Nuriyeden Ankebut Suresi 64. Ayet Tefsiri... Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -138,7 +138,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Mon, 07 Nov 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Veysel Karani Münacatı... Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 07 Kasım 2016 Tarihli Yayın - Veysel Karani Münacatı... Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -154,7 +154,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Mon, 31 Oct 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>15.şua Medresetü Zehra... Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 31 Ekim 2016 Tarihli Yayın - 15.şua Medresetü Zehra... Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -170,7 +170,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Mon, 24 Oct 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>13.şuadan bazı mektuplar... Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 24 Ekim 2016 Tarihli Yayın - 13.şuadan bazı mektuplar... Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -186,7 +186,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Mon, 17 Oct 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>25. söz Emirdağ çiçeği... Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 17 Ekim 2016 Tarihli Yayın - 25. söz Emirdağ çiçeği... Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -202,7 +202,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Mon, 10 Oct 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 10 Ekim 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -218,7 +218,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Mon, 03 Oct 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 03 Ekim 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -234,7 +234,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 20 Sep 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 20 Eylül 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -250,7 +250,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 13 Sep 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 13 Eylül 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -266,7 +266,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 06 Sep 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 09 Eylül 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -282,7 +282,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 30 Aug 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 30 Ağustos 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -298,7 +298,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 23 Aug 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 23 Ağustos 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -314,7 +314,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 16 Aug 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 16 Ağustos 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -330,7 +330,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 12 Jul 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 12 Temmuz 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -346,7 +346,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 05 Jul 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 05 Temmuz 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -362,7 +362,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 28 Jun 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 28 Haziran 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -378,7 +378,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 21 Jun 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 21 Haziran 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -394,7 +394,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 14 Jun 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 14 Haziran 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -410,7 +410,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 17 May 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 17 Mayıs 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -426,7 +426,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 10 May 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 10 Mayıs 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -442,7 +442,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 03 May 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 03 Mayıs 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -458,7 +458,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 26 Apr 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 26 Nisan 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -474,7 +474,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 19 Apr 2016 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 19 Nisan 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -490,7 +490,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Tue, 15 Mar 2016 06:00:00 +0200</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 15 Mart 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -506,7 +506,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Mon, 01 Feb 2016 06:00:00 +0200</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 01 Şubat 2016 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -522,7 +522,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Fri, 09 Oct 2015 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 09 Kasım 2015 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -538,7 +538,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Thu, 01 Oct 2015 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 02 Kasım 2015 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -554,7 +554,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Mon, 14 Sep 2015 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 14 Eylül 2015 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -570,7 +570,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Thu, 10 Sep 2015 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 10 Eylül 2015 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -586,7 +586,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Mon, 24 Aug 2015 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 24 Ağustos 2015 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -602,7 +602,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Wed, 10 Dec 2014 06:00:00 +0200</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 10 Aralık 2014 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -618,7 +618,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Wed, 26 Nov 2014 06:00:00 +0200</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 26 Kasım 2014 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -634,7 +634,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Wed, 19 Nov 2014 06:00:00 +0200</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 19 Kasım 2014 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -650,7 +650,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Wed, 12 Nov 2014 06:00:00 +0200</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 12 Kasım 2014 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -666,7 +666,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Wed, 29 Oct 2014 06:00:00 +0200</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 29 Ekim 2014 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -682,7 +682,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Wed, 22 Oct 2014 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 22 Ekim 2014 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -698,7 +698,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Wed, 15 Oct 2014 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 15 Ekim 2014 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -714,7 +714,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Wed, 01 Oct 2014 07:00:00 +0300</pubDate>
             <itunes:duration>52:49</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 01 Ekim 2014 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -730,7 +730,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Wed, 24 Sep 2014 07:00:00 +0300</pubDate>
             <itunes:duration>62:06</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 24 Eylül 2014 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
@@ -746,7 +746,7 @@ sitemap: false
             <guid isPermaLink="true">{{site.url}}/</guid>
             <pubDate>Wed, 17 Sep 2014 07:00:00 +0300</pubDate>
             <itunes:duration>65:41</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>clean</itunes:explicit>
             <description>Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Senai Demirci Risale-i Nurdan Sohbetler 17 Eylül 2014 Tarihli Yayın - Senai Demirci, Risale-i Nur hakikatlerini anlatıyor. Daha Fazlası İçin... {{site.url}}/</description>
             <itunes:keywords>risale nur, risale-i nur, risale, mehdi, bediüzzaman, said nursi, islam ahmet çadırcı, senai demirci</itunes:keywords>
             <itunes:block>no</itunes:block>
