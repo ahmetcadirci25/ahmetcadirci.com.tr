@@ -7,9 +7,6 @@ categories : [Wordpress, Podcast, Video]
 tags       : [Wordpress Nedir, iTunes, PHP]
 keywords   : podcast, wordpress
 image      : "/images/wordpress-nedir.png"
-duration   : "01:17"
-length     : 23800000
-mp3        : "podsync.net/download/youtube/h-yyH3aaxv8.mp4"
 videoid    : 233166808
 ---
 

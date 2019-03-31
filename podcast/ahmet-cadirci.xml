@@ -14,28 +14,28 @@ sitemap: false
   xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
   <channel>
-    <title><![CDATA[{{ site.gonul-sadasi.title }}]]></title>
-    <link>{{ site.gonul-sadasi.link }}</link>
-    <description><![CDATA[{{ site.gonul-sadasi.description }} {{ site.gonul-sadasi.link }}]]></description>
-    <language>{{ site.gonul-sadasi.language }}</language>
-    <spotify:countryOfOrigin>{{ site.gonul-sadasi.spotifycountry }}</spotify:countryOfOrigin>
-    <copyright><![CDATA[{{ site.gonul-sadasi.copyright }}]]></copyright>
-    <itunes:subtitle><![CDATA[{{ site.gonul-sadasi.subtitle }}]]></itunes:subtitle>
-    <itunes:author><![CDATA[{{ site.gonul-sadasi.author }}]]></itunes:author>
-    <itunes:summary><![CDATA[{{ site.gonul-sadasi.description }} {{ site.gonul-sadasi.link }}]]></itunes:summary>
-    <itunes:description><![CDATA[{{ site.gonul-sadasi.description }} {{ site.gonul-sadasi.link }}]]></itunes:description>
+    <title><![CDATA[{{ site.ahmet-cadirci.title }}]]></title>
+    <link>{{ site.ahmet-cadirci.link }}</link>
+    <description><![CDATA[{{ site.ahmet-cadirci.description }} {{ site.ahmet-cadirci.link }}]]></description>
+    <language>{{ site.ahmet-cadirci.language }}</language>
+    <spotify:countryOfOrigin>{{ site.ahmet-cadirci.spotifycountry }}</spotify:countryOfOrigin>
+    <copyright><![CDATA[{{ site.ahmet-cadirci.copyright }}]]></copyright>
+    <itunes:subtitle><![CDATA[{{ site.ahmet-cadirci.subtitle }}]]></itunes:subtitle>
+    <itunes:author><![CDATA[{{ site.ahmet-cadirci.author }}]]></itunes:author>
+    <itunes:summary><![CDATA[{{ site.ahmet-cadirci.description }} {{ site.ahmet-cadirci.link }}]]></itunes:summary>
+    <itunes:description><![CDATA[{{ site.ahmet-cadirci.description }} {{ site.ahmet-cadirci.link }}]]></itunes:description>
     <itunes:owner>
-    <itunes:name><![CDATA[{{ site.gonul-sadasi.author }}]]></itunes:name>
-    <itunes:email><![CDATA[{{ site.gonul-sadasi.email }}]]></itunes:email>
+    <itunes:name><![CDATA[{{ site.ahmet-cadirci.author }}]]></itunes:name>
+    <itunes:email><![CDATA[{{ site.ahmet-cadirci.email }}]]></itunes:email>
     </itunes:owner>
-    <itunes:image href="{{ site.gonul-sadasi.image }}"/>
-    <itunes:category text="{{ site.gonul-sadasi.category }}">
-      <itunes:category text="{{ site.gonul-sadasi.subcategory }}"/>
+    <itunes:image href="{{ site.ahmet-cadirci.image }}"/>
+    <itunes:category text="{{ site.ahmet-cadirci.category }}">
+      <itunes:category text="{{ site.ahmet-cadirci.subcategory }}"/>
     </itunes:category>
-    <itunes:explicit>{{ site.gonul-sadasi.explicit }}</itunes:explicit>
-    <itunes:keywords><![CDATA[{{ site.gonul-sadasi.keywords }}]]></itunes:keywords>
+    <itunes:explicit>{{ site.ahmet-cadirci.explicit }}</itunes:explicit>
+    <itunes:keywords><![CDATA[{{ site.ahmet-cadirci.keywords }}]]></itunes:keywords>
 
-    {% for bolum in site.data.gonul-sadasi %}
+    {% for bolum in site.data.ahmet-cadirci %}
       <item>
         <title><![CDATA[{{ bolum.title }}]]></title>
         <description><![CDATA[{{ bolum.description }} {{ bolum.link }}]]></description>
