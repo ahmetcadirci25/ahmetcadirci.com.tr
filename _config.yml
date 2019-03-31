@@ -63,7 +63,7 @@ exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
 ahmet-cadirci       :
   title             : "Podcast — Ahmet Çadırcı"
   subtitle          : "Podcast — Ahmet Çadırcı"
-  url               : "https://ahmetcadirci.com.tr/podcast/"
+  link              : "https://ahmetcadirci.com.tr/podcast/"
   description       : "En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzerinden ulaşabilirsiniz."
   keywords          : "ahmet çadırcı, wordpress, podcast, teknoloji, internet"
   language          : "tr-tr"
@@ -79,7 +79,7 @@ ahmet-cadirci       :
 gonul-sadasi        :
   title             : "Kemal Sayar & Sadettin Ökten — Gönül Sadası"
   subtitle          : "Kemal Sayar & Sadettin Ökten — Gönül Sadası"
-  url               : "https://ahmetcadirci.com.tr/podcast/"
+  link              : "https://ahmetcadirci.com.tr/podcast/"
   description       : "Kemal Sayar ve Sadettin Ökten hoş sohbetleri..."
   keywords          : "kemal sayar, sadettin ökten, sohbet, islam, ahmet çadırcı"
   language          : "tr-tr"
@@ -95,7 +95,7 @@ gonul-sadasi        :
 can-veren-pervaneler: 
   title             : "Hayati İnanç & Selahaddin Kocaaslan — Can Veren Pervâneler"
   subtitle          : "Hayati İnanç & Selahaddin Kocaaslan — Can Veren Pervâneler"
-  url               : "https://ahmetcadirci.com.tr/podcast/"
+  link              : "https://ahmetcadirci.com.tr/podcast/"
   description       : "Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile 'Can Veren Pervâneler' programında..."
   keywords          : "hayati inanç, selahaddin kocaaslan, şiir, divan edebiyatı, divan şiiri, sohbet, islam, ahmet çadırcı"
   language          : "tr-tr"
