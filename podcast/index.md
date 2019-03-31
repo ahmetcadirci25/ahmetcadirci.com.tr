@@ -14,6 +14,7 @@ En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzer
 
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2COm8aM)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2U86xNV)
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2TKrPMD)
 
 ---
 
@@ -23,6 +24,7 @@ Kemal Sayar ve Sadettin Ökten hoş sohbetleri...
 
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2FLkB7g)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2U7SsQL)
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2CPn66J)
 
 ---
 
@@ -32,3 +34,4 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 
 [![iTunes]({{ site.url }}/images/itunes.svg)]()
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2JT3JzG)
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
