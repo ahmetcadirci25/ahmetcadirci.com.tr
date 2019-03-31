@@ -1,7 +1,7 @@
 ---
 layout   	: page
 title    	: Podcast
-description	: "Ahmet Çadırcı... Blogumda yer alan yazılar kendi öğrendiklerim ve tecrübelerimden ibarettir."
+description	: "Podcast sayfasında teknolojiden tasavvufa, islamdan günlük konulara kadar kayıtlı sohbetler yer almaktadır."
 permalink	: /podcast/
 image    	: "/images/ahmetcadirci-wallpaper.jpg"
 ---
