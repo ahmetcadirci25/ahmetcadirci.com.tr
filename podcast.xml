@@ -44,7 +44,7 @@ sitemap: false
   <itunes:category text="Technology">
   <itunes:category text="Tech News"/>
   </itunes:category>
-  <itunes:explicit>no</itunes:explicit>
+  <itunes:explicit>clean</itunes:explicit>
   <itunes:keywords>wordpress, teknoloji</itunes:keywords>
   
   <item>
