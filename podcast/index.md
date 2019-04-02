@@ -32,6 +32,6 @@ Kemal Sayar ve Sadettin Ökten hoş sohbetleri...
 
 Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile 'Can Veren Pervâneler' programında...
 
-[![iTunes]({{ site.url }}/images/itunes.svg)]()
+[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2CS9nMr)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2JT3JzG)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
