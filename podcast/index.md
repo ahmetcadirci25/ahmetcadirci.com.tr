@@ -12,6 +12,7 @@ image    	: "/images/ahmetcadirci-wallpaper.jpg"
 
 En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzerinden ulaşabilirsiniz. 
 
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2Id3Gfw)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2COm8aM)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2U86xNV)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2TKrPMD)
@@ -20,11 +21,23 @@ En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzer
 
 <h2 style="font-size: 25px">Kemal Sayar & Sadettin Ökten — Gönül Sadası</h2>
 
-Kemal Sayar ve Sadettin Ökten hoş sohbetleri...
+Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
 
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2TWBIqH)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2FLkB7g)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2U7SsQL)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2CPn66J)
+
+---
+
+<h2 style="font-size: 25px">Sadettin Ökten — Gençlerle Başbaşa</h2>
+
+Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
+
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2I0f6US)
+[![iTunes]({{ site.url }}/images/itunes.svg)]()
+[![Spotify]({{ site.url }}/images/spotify.svg)]()
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
 
 ---
 
@@ -32,6 +45,7 @@ Kemal Sayar ve Sadettin Ökten hoş sohbetleri...
 
 Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile 'Can Veren Pervâneler' programında...
 
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2G2RlZV)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2CS9nMr)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2JT3JzG)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
