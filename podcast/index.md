@@ -35,7 +35,7 @@ Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
 Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2I0f6US)
-[![iTunes]({{ site.url }}/images/itunes.svg)]()
+[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2uQ0U8g)
 [![Spotify]({{ site.url }}/images/spotify.svg)]()
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
 
