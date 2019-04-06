@@ -1,7 +1,18 @@
-- guid                : "034"
-  title               : "#034 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+- guid                : "035"
+  title               : "#035 Gönül Sadası (İyi Hayat) — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
-  keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
+  keywords            : "hayat, iyi hayat, kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
+  link                : "https://ahmetcadirci.com.tr/podcast/"
+  pubdate             : "Tue, 28 Mar 2019 18:00:00 GMT"
+  mediaurl            : "http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2019/programlar/GONUL_SADASI/GONUL_SADASI_2019_03_28.mp3"
+  length              : "39581138"
+  duration            : "00:41:13"
+  type                : "audio/mpeg"
+
+- guid                : "034"
+  title               : "#034 Gönül Sadası (Hayatı Iskalamamak) — Kemal Sayar & Sadettin Ökten"
+  description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
+  keywords            : "hayat, kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
   pubdate             : "Tue, 21 Mar 2019 17:43:11 GMT"
   mediaurl            : "http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2019/programlar/GONUL_SADASI/GONUL_SADASI_2019_03_21.mp3"
@@ -10,9 +21,9 @@
   type                : "audio/mpeg"
 
 - guid                : "033"
-  title               : "#033 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#033 Gönül Sadası (Safer Efendi 02) — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
-  keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
+  keywords            : "safer efendi, kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
   pubdate             : "Tue, 14 Mar 2019 17:43:11 GMT"
   mediaurl            : "http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2019/programlar/GONUL_SADASI/GONUL_SADASI_2019_03_14.mp3"
@@ -21,9 +32,9 @@
   type                : "audio/mpeg"
 
 - guid                : "032"
-  title               : "#032 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#032 Gönül Sadası (Safer Efendi 01) — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
-  keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
+  keywords            : "safer efendi, kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
   pubdate             : "Tue, 07 Mar 2019 17:43:11 GMT"
   mediaurl            : "http://cdn.ilamtv.com/ERKAMRADYO/ARSIV/2019/programlar/GONUL_SADASI/GONUL_SADASI_2019_03_07.mp3"
@@ -32,7 +43,7 @@
   type                : "audio/mpeg"
 
 - guid                : "031"
-  title               : "#031 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#031 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -43,7 +54,7 @@
   type                : "audio/mpeg"
   
 - guid                : "030"
-  title               : "#030 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#030 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -54,7 +65,7 @@
   type                : "audio/mpeg"
   
 - guid                : "029"
-  title               : "#029 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#029 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -65,7 +76,7 @@
   type                : "audio/mpeg"
   
 - guid                : "028"
-  title               : "#028 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#028 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -76,7 +87,7 @@
   type                : "audio/mpeg"
   
 - guid                : "027"
-  title               : "#027 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#027 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -87,7 +98,7 @@
   type                : "audio/mpeg"
   
 - guid                : "026"
-  title               : "#026 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#026 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -98,7 +109,7 @@
   type                : "audio/mpeg"
   
 - guid                : "025"
-  title               : "#025 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#025 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -109,7 +120,7 @@
   type                : "audio/mpeg"
   
 - guid                : "024"
-  title               : "#024 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#024 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -120,7 +131,7 @@
   type                : "audio/mpeg"
   
 - guid                : "023"
-  title               : "#023 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#023 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -131,7 +142,7 @@
   type                : "audio/mpeg"
   
 - guid                : "022"
-  title               : "#022 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#022 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -142,7 +153,7 @@
   type                : "audio/mpeg"
   
 - guid                : "021"
-  title               : "#021 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#021 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -153,7 +164,7 @@
   type                : "audio/mpeg"
   
 - guid                : "020"
-  title               : "#020 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#020 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -164,7 +175,7 @@
   type                : "audio/mpeg"
   
 - guid                : "019"
-  title               : "#019 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#019 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -175,7 +186,7 @@
   type                : "audio/mpeg"
   
 - guid                : "018"
-  title               : "#018 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#018 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -186,7 +197,7 @@
   type                : "audio/mpeg"
   
 - guid                : "017"
-  title               : "#017 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#017 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -197,7 +208,7 @@
   type                : "audio/mpeg"
   
 - guid                : "016"
-  title               : "#016 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#016 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -208,7 +219,7 @@
   type                : "audio/mpeg"
   
 - guid                : "015"
-  title               : "#015 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#015 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -219,7 +230,7 @@
   type                : "audio/mpeg"
   
 - guid                : "014"
-  title               : "#014 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#014 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -230,7 +241,7 @@
   type                : "audio/mpeg"
   
 - guid                : "013"
-  title               : "#013 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#013 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -241,7 +252,7 @@
   type                : "audio/mpeg"
   
 - guid                : "012"
-  title               : "#012 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#012 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -252,7 +263,7 @@
   type                : "audio/mpeg"
   
 - guid                : "011"
-  title               : "#011 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#011 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -263,7 +274,7 @@
   type                : "audio/mpeg"
   
 - guid                : "010"
-  title               : "#010 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#010 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -274,7 +285,7 @@
   type                : "audio/mpeg"
   
 - guid                : "009"
-  title               : "#009 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#009 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -285,7 +296,7 @@
   type                : "audio/mpeg"
   
 - guid                : "008"
-  title               : "#008 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#008 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -296,7 +307,7 @@
   type                : "audio/mpeg"
   
 - guid                : "007"
-  title               : "#007 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#007 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -307,7 +318,7 @@
   type                : "audio/mpeg"
   
 - guid                : "006"
-  title               : "#006 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#006 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -318,7 +329,7 @@
   type                : "audio/mpeg"
   
 - guid                : "005"
-  title               : "#005 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#005 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -329,7 +340,7 @@
   type                : "audio/mpeg"
   
 - guid                : "004"
-  title               : "#004 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#004 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -340,7 +351,7 @@
   type                : "audio/mpeg"
   
 - guid                : "003"
-  title               : "#003 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#003 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -351,7 +362,7 @@
   type                : "audio/mpeg"
   
 - guid                : "002"
-  title               : "#002 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#002 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
@@ -362,7 +373,7 @@
   type                : "audio/mpeg"
   
 - guid                : "001"
-  title               : "#001 Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+  title               : "#001 Gönül Sadası — Kemal Sayar & Sadettin Ökten"
   description         : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri."
   keywords            : "kemal sayar, sadettin ökten, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
   link                : "https://ahmetcadirci.com.tr/podcast/"
