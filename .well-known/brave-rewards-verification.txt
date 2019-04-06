@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: ahmetcadirci.com.tr
-Token: ca331dd5d70c330c8113312b105d6c668e301bd53914c0954aac4a9248db6a3e
