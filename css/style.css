@@ -872,6 +872,7 @@ input[type=file],legend {
 }
 
 @media(min-width: 768px) {
+
     .lead {
         font-size:19.5px
     }
@@ -1777,6 +1778,7 @@ textarea.form-control {
 }
 
 @media(min-width: 768px) {
+
     .form-inline .form-group,.navbar-form .form-group {
         display:inline-block;
         margin-bottom: 0;
@@ -5312,7 +5314,7 @@ img.license:hover {
 
 .bg-green {
     background-color: #356b48;
-    padding: 40px 60px;
+    padding: 40px;
     border-radius: 6px;
     margin-bottom: 10px
 }
@@ -5383,7 +5385,10 @@ input#gsc-i-id1.gsc-input:-ms-input-placeholder {
 
 .breadcrumb {
     padding: 0;
-    list-style: none
+    list-style: none;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
 }
 
 .breadcrumb>li {

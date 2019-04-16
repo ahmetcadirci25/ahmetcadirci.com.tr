@@ -19,31 +19,50 @@ layout : default
                   </picture>
 
                   <div class="meta__container">
+                   
                     <div class="row">
                       <div class="col-xs-12 col-sm-9">
                         <div class="meta__info">
-                          <span class="meta__author"><svg class="icon icon-user"><use xlink:href="#icon-user"></use></svg> <a href="{{ site.url }}" title="{{ site.author.name }}">{{ site.author.name }} </a>   
+                         
+                          <span class="meta__author">
+                            <svg class="icon icon-user"><use xlink:href="#icon-user"></use></svg>
+                            <a href="{{ site.url }}" aria-label="{{ site.author.name }}">{{ site.author.name }}</a>   
                           </span> 
-                          <span class="meta__categories"><svg class="icon icon-list"><use xlink:href="#icon-list"></use></svg>  &nbsp; {% for categories in post.categories limit:1 %}<a href="{{ site.url }}/kategoriler/#{{ categories }}">{{ categories }}</a> {% endfor %} </span>
-                          <span class="meta__date"><svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>   &nbsp; {{ post.date | date: "%d.%m.%Y" }}</span> 
+
+                          <span class="meta__categories">
+                            <svg class="icon icon-list"><use xlink:href="#icon-list"></use></svg>
+                            {% for categories in post.categories limit:1 %}
+                              <a href="{{ site.url }}/kategoriler/#{{ categories }}" aria-label="{{ categories }}">{{ categories }}</a>
+                            {% endfor %} 
+                          </span>
+
+                          <span class="meta__date">
+                            <svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
+                            {{ post.date | date: "%d.%m.%Y" }}
+                          </span> 
+
                         </div>
                       </div>
+
                       <div class="col-xs-12 col-sm-3">
+
                         <div class="meta__comments">
-                          <svg class="icon icon-comment"><use xlink:href="#icon-comment"></use></svg>  &nbsp;
-                          <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}#disqus_thread" title="Yorumlar"></a> 
+                          <svg class="icon icon-comment"><use xlink:href="#icon-comment"></use></svg>
+                          <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}#disqus_thread" aria-label="Yorumlar"></a> 
                         </div>
+
                       </div>
+
                     </div>
                   </div>
                 </div>
+                
                 <div class="sticky__box">
                   <span class="sticky__circle"></span> 
                   <span class="sticky__circle"></span> 
                   <span class="sticky__circle"></span> 
                   <span class="sticky__circle"></span> 
                 </div>
-
                 <!-- Featured image and meta end -->
 
                 <!-- Start of the blogpost -->
@@ -53,13 +72,13 @@ layout : default
                     <!-- Start of the content -->
                     <div class="post-content--front-page">
                       <h2 class="front-page-title push-down-15">
-                        <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}">{{ post.title }}</a> 
+                        <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}" aria-label="{{ post.title }}">{{ post.title }}</a> 
                       </h2>
                       <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
                     </div>
 
                     <!-- End of the content -->
-                    <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}">
+                    <a href="{{ site.url }}/{{ post.url | remove_first: '/' }}" aria-label="{{ post.title }} Devamını Oku">
                       <div class="read-more">
                         Devamını Oku <svg class="icon icon-chevron-right"><use xlink:href="#icon-chevron-right"></use></svg>
                         
