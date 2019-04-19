@@ -104,8 +104,9 @@ Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhon
 
 *Kestirmeler (Shortcuts) uygulaması, favori uygulamalarınızla kullanabileceğiniz birden fazla adım içeren özel kestirmeler oluşturmanıza olanak sağlar. Kestirme, uygulamalarınızla bir veya daha fazla görevi gerçekleştirmenin hızlı bir yoludur. Kestirmeler uygulaması, birden fazla adım içeren kendi kestirmelerinizi oluşturmanıza olanak sağlar.*
 
-[App Store'dan Kestirmeler uygulamasını edinin](https://apple.co/2Gw74B1){:target="_blank"}{:rel="noopener"}
+**[App Store'dan Kestirmeler uygulamasını edinin](https://apple.co/2Gw74B1){:target="_blank"}{:rel="noopener"}**
 
+**Kestirmeler**
 - [YouTube Video İndirme](http://bit.ly/2UJ0RKG){:target="_blank"}{:rel="noopener"}
 - [Direkt URL İndirme](http://bit.ly/2vdHaLO){:target="_blank"}{:rel="noopener"}
 - [Instagram Fotoğraf İndirme](http://bit.ly/2GverZw){:target="_blank"}{:rel="noopener"}
