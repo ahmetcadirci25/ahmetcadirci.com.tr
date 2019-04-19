@@ -21,7 +21,7 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 
 1. App Store'a giriş yapıyoruz.
 2. Arama çubuğuna **Doda+** yazıyoruz.
-3. **[Doda+](https://itunes.apple.com/tr/app/total-files/id1378071560){:target="_blank"}{:rel="noopener"}** uygulamasını indiriyoruz.
+3. **[Doda+](https://apple.co/2ZlqMXo){:target="_blank"}{:rel="noopener"}** uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
 
 #### Kurulum Videosu 
@@ -75,7 +75,7 @@ Kurulum videosunda AppStore arama kutucuğuna ~~**Vida**~~ yerine **DoDa+** yazm
 
 1. App Store'a giriş yapıyoruz.
 2. Arama çubuğuna **Total Files** yazıyoruz.
-3. **[Total Files](https://itunes.apple.com/tr/app/total-files/id557285579){:target="_blank"}{:rel="noopener"}** uygulamasını indiriyoruz.
+3. **[Total Files](https://apple.co/2ItdbYZ){:target="_blank"}{:rel="noopener"}** uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
 
 #### İndirme Videosu
