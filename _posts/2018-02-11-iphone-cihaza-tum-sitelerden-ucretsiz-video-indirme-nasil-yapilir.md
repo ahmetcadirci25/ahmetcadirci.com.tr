@@ -102,7 +102,7 @@ Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhon
 
 ### Kestirmeler Nasıl Kurulur?
 
-*Kestirmeler uygulaması, favori uygulamalarınızla kullanabileceğiniz birden fazla adım içeren özel kestirmeler oluşturmanıza olanak sağlar. Kestirme, uygulamalarınızla bir veya daha fazla görevi gerçekleştirmenin hızlı bir yoludur. Kestirmeler uygulaması, birden fazla adım içeren kendi kestirmelerinizi oluşturmanıza olanak sağlar.*
+*Kestirmeler (Shortcuts) uygulaması, favori uygulamalarınızla kullanabileceğiniz birden fazla adım içeren özel kestirmeler oluşturmanıza olanak sağlar. Kestirme, uygulamalarınızla bir veya daha fazla görevi gerçekleştirmenin hızlı bir yoludur. Kestirmeler uygulaması, birden fazla adım içeren kendi kestirmelerinizi oluşturmanıza olanak sağlar.*
 
 [App Store'dan Kestirmeler uygulamasını edinin](https://apple.co/2Gw74B1){:target="_blank"}{:rel="noopener"}
 
