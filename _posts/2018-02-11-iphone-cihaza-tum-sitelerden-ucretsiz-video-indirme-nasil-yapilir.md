@@ -106,17 +106,10 @@ Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhon
 
 [App Store'dan Kestirmeler uygulamasını edinin](https://apple.co/2Gw74B1){:target="_blank"}{:rel="noopener"}
 
-#### YouTube Video İndirme
-[http://bit.ly/2UJ0RKG](http://bit.ly/2UJ0RKG){:target="_blank"}{:rel="noopener"}
-
-#### Direkt URL İndirme
-[http://bit.ly/2vdHaLO](http://bit.ly/2vdHaLO){:target="_blank"}{:rel="noopener"}
-
-#### Instagram Fotoğraf İndirme
-[http://bit.ly/2GverZw](http://bit.ly/2GverZw){:target="_blank"}{:rel="noopener"}
-
-#### nstagram Video İndirme
-[http://bit.ly/2Zkete0](http://bit.ly/2Zkete0){:target="_blank"}{:rel="noopener"}
+- [YouTube Video İndirme](http://bit.ly/2UJ0RKG){:target="_blank"}{:rel="noopener"}
+- [Direkt URL İndirme](http://bit.ly/2vdHaLO){:target="_blank"}{:rel="noopener"}
+- [Instagram Fotoğraf İndirme](http://bit.ly/2GverZw){:target="_blank"}{:rel="noopener"}
+- [Instagram Video İndirme](http://bit.ly/2Zkete0){:target="_blank"}{:rel="noopener"}
 
 **Not**
 
