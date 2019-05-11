@@ -27,7 +27,7 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 
 #### Kurulum Videosu 
 
-Kurulum videosunda AppStore arama kutucuğuna ~~**Vida+**~~ yazmayı unutmayın.
+Kurulum videosunda AppStore arama kutucuğuna **Vida+** yazmayı unutmayın.
 
 {% include vimeo.html vimeo_id="255265889" vimeo_image="682632036" %}
 
@@ -114,7 +114,8 @@ Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhon
 
 **Not**
 
-Uygulama YouTube videolarında telif bulunduğundan dolay indirme gerçekleştiremiyor. Diğer tüm sitelerden video indirebilirsiniz.
+* Uygulama YouTube videolarında telif bulunduğundan dolay indirme gerçekleştiremiyor. Diğer tüm sitelerden video indirebilirsiniz.
+* Doha+ uygulaması kaldırıldı.
 
 **İpucu**
 
