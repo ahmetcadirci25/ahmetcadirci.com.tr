@@ -12,22 +12,22 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 
 ## Uygulamalar
 
-- [Doda+](#doda-nasıl-kurulur)
+- [Vida+](#vida-nasıl-kurulur)
 - [Total Files](#total-files-nasıl-kurulur)
 - [Kestirmeler](#kestirmeler-nasıl-kurulur)
 
 ---
 
-### Doda+ Nasıl Kurulur?
+### Vida+ Nasıl Kurulur?
 
 1. App Store'a giriş yapıyoruz.
-2. Arama çubuğuna **Doda+** yazıyoruz.
-3. **[Doda+](https://apple.co/2ZlqMXo){:target="_blank"}{:rel="noopener"}** uygulamasını indiriyoruz.
+2. Arama çubuğuna **Vida+** yazıyoruz.
+3. **[Vida+](https://apple.co/2JcbUG5){:target="_blank"}{:rel="noopener"}** uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
 
 #### Kurulum Videosu 
 
-Kurulum videosunda AppStore arama kutucuğuna ~~**Vida**~~ yerine **DoDa+** yazmayı unutmayın.
+Kurulum videosunda AppStore arama kutucuğuna ~~**Vida+**~~ yazmayı unutmayın.
 
 {% include vimeo.html vimeo_id="255265889" vimeo_image="682632036" %}
 
@@ -40,7 +40,7 @@ Kurulum videosunda AppStore arama kutucuğuna ~~**Vida**~~ yerine **DoDa+** yazm
 #### YouTube'dan Video İndirme Nasıl Yapılır?
 
 1. YouTube sayfasından video url'sini kopyalayın.
-2. **DoDa+** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
+2. **Vida+** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
 3. Video oynattığınızda **X** işareti belirecektir. **X** işaretine tıklayın ve reklamı kapatın.
 4. Otomatik olarak videoyu indirmek istediğiniz formatlar çıkacaktır. Örneğin: SD (360p), SD (240p), HD (720p), HD (1080p) ve daha fazla format yer alacaktır.
 5. Çıkan formatlardan size uygun olanı seçtiğinizde indirme işlemi başlayacaktır.
@@ -61,7 +61,7 @@ Kurulum videosunda AppStore arama kutucuğuna ~~**Vida**~~ yerine **DoDa+** yazm
 #### Diğer Sitelerden (Facebook, Twitter, Vimeo ve daha fazlası) Video İndirme Nasıl Yapılır?
 
 1. Videonun yer aldığı sayfanın url'sini kopyalayın.
-2. **DoDa+** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
+2. **Vida+** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
 3. Video oynattığınızda **X** işareti belirecektir. **X** işaretine tıklayın ve reklamı kapatın.
 4. Otomatik olarak videoyu indirmek istediğiniz formatlar çıkacaktır.
 5. Çıkan formatlardan size uygun olanı seçtiğinizde indirme işlemi başlayacaktır.
@@ -118,4 +118,4 @@ Uygulama YouTube videolarında telif bulunduğundan dolay indirme gerçekleştir
 
 **İpucu**
 
-Uygulamayı kullanarak iPad'e film indirme işlemi yapabilirsiniz. Aynı işlemler iPhone cihazlarınızda da geçerlidir. iPad film indirme işlemi için <a href="#doda-nasıl-kurulur">nasıl kurulur</a> kısmında adım adım takip etmeniz gerekir.
+Uygulamayı kullanarak iPad'e film indirme işlemi yapabilirsiniz. Aynı işlemler iPhone cihazlarınızda da geçerlidir. iPad film indirme işlemi için <a href="#vida-nasıl-kurulur">nasıl kurulur</a> kısmında adım adım takip etmeniz gerekir.
