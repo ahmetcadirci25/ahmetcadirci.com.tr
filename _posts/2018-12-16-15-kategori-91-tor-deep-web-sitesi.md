@@ -1,9 +1,9 @@
 --- 
 title      : "15 Kategori 91 Tor Deep Web Sitesi" 
-description: "Tor tarayıcısıyla girilen ve anonim olarak internette gezinmenize olanak sağlayan sistem için 15 kategoride 91 web sitesini sizin için derlendi."  
+description: "Tor tarayıcısıyla girilen ve anonim olarak internette gezinmenize olanak sağlayan sistem için 15 kategoride 91 güncel web sitesini sizin için derlendi."  
 date       : 2018-12-16 20:00:00 
 categories : [İnternet] 
-tags       : [Tor, Onion, Deep Web Siteleri 2018, Deep Web Siteleri 2019] 
+tags       : [Tor, Onion, Deep Web Siteleri 2018, Deep Web Siteleri 2019, Deep Web Linkleri Güncel] 
 image      : "/images/15-kategori-91-tor-deep-web-sitesi.png" 
 comments   : true 
 --- 
