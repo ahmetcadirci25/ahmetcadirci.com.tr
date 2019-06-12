@@ -50,6 +50,7 @@ Sosyal paylaşımlarımı takip etmek için:
 
 ### Yeni Yazılar
 
+* [Daniel Chamovitz - Bitkilerin Bildikleri](https://ahmetcadirci.com.tr/2019/bitkilerin-bildikleri/)
 * [YouTube Kanallarından ve Çalma Listelerinden RSS URL'leri Nasıl Alabilirsiniz?](https://ahmetcadirci.com.tr/2019/youtube-rss/)
 * [#04 Mutlaka Okunması Gereken Yazılar](https://ahmetcadirci.com.tr/2019/04-mutlaka-okunmasi-gereken-yazilar)
 * [#03 Mutlaka Okunması Gereken Yazılar](https://ahmetcadirci.com.tr/2019/03-mutlaka-okunmasi-gereken-yazilar)
