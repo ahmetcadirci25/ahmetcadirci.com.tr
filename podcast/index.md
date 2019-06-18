@@ -14,7 +14,7 @@ Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2TWBIqH)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2FLkB7g)
-[![Spotify]({{ site.url }}/images/spotify.svg)]()
+[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2U7SsQL)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2CPn66J)
 
 ---
@@ -25,7 +25,7 @@ Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2I0f6US)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2uQ0U8g)
-[![Spotify]({{ site.url }}/images/spotify.svg)]()
+[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2ZuxwBB)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
 
 ---
@@ -36,7 +36,7 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2G2RlZV)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2CS9nMr)
-[![Spotify]({{ site.url }}/images/spotify.svg)]()
+[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2JT3JzG)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2KcCi3Z)
 
 ---
