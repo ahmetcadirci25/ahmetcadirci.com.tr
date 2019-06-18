@@ -40,7 +40,6 @@ sitemap: false
         <title><![CDATA[{{ bolum.title }}]]></title>
         <description><![CDATA[{{ bolum.description }} {{ bolum.link }}]]></description>
         <link>{{ bolum.link }}</link>
-        <guid isPermaLink="true">{{ bolum.link }}</guid>
         <guid>{{ bolum.guid }}</guid>
         <pubDate>{{ bolum.pubdate }}</pubDate>
         <enclosure url="{{ bolum.mediaurl }}" length="{{ bolum.length }}" type="{{ bolum.type }}"/>
