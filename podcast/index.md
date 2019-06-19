@@ -41,6 +41,17 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 
 ---
 
+<h2 style="font-size: 25px">Ayşe Böhürler & Alev Alatlı & Süleyman Seyfi Öğün — İhmal Edilebilir Nasihatler</h2>
+
+Ayşe Böhürler moderatörlüğünde  gerçekleşen 'İhmal Edilebilir Nasihatler' programının daimi konukları Alev Alatlı ve Prof. Dr. Süleyman Seyfi Öğün. Tarihten bugüne değişim oluşturan etkenler, kişiler ve düşünce biçimleri çok yönlü bir bakış ile ele alınıyor.
+
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)]()
+[![iTunes]({{ site.url }}/images/itunes.svg)]()
+[![Spotify]({{ site.url }}/images/spotify.svg)]()
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
+
+---
+
 <h2 style="font-size: 25px">Podcast — Ahmet Çadırcı</h2>
 
 En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzerinden ulaşabilirsiniz. 
