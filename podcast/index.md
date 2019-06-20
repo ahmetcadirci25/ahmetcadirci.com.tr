@@ -52,6 +52,17 @@ Ayşe Böhürler moderatörlüğünde  gerçekleşen 'İhmal Edilebilir Nasihatl
 
 ---
 
+<h2 style="font-size: 25px">Dursun Gürlek — Tarih ve Mekan</h2>
+
+Dursun Gürlek'in sunumuyla Tarih ve Mekan.
+
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)]()
+[![iTunes]({{ site.url }}/images/itunes.svg)]()
+[![Spotify]({{ site.url }}/images/spotify.svg)]()
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
+
+---
+
 <h2 style="font-size: 25px">Podcast — Ahmet Çadırcı</h2>
 
 En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzerinden ulaşabilirsiniz. 
