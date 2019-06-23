@@ -1,0 +1,55 @@
+---
+layout : null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:spotify="http://www.spotify.com/ns/rss"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+  <channel>
+    <title><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.title }}]]></title>
+    <link>{{ site.tarih-tekerrur-ve-ekonomik-krizler.link }}</link>
+    <description><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.description }} {{ site.tarih-tekerrur-ve-ekonomik-krizler.link }}]]></description>
+    <language>{{ site.tarih-tekerrur-ve-ekonomik-krizler.language }}</language>
+    <spotify:countryOfOrigin>{{ site.tarih-tekerrur-ve-ekonomik-krizler.spotifycountry }}</spotify:countryOfOrigin>
+    <copyright><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.copyright }}]]></copyright>
+    <itunes:subtitle><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.subtitle }}]]></itunes:subtitle>
+    <itunes:author><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.author }}]]></itunes:author>
+    <itunes:summary><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.description }} {{ site.tarih-tekerrur-ve-ekonomik-krizler.link }}]]></itunes:summary>
+    <itunes:description><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.description }} {{ site.tarih-tekerrur-ve-ekonomik-krizler.link }}]]></itunes:description>
+    <itunes:owner>
+    <itunes:name><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.author }}]]></itunes:name>
+    <itunes:email><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.email }}]]></itunes:email>
+    </itunes:owner>
+    <itunes:image href="{{ site.tarih-tekerrur-ve-ekonomik-krizler.image }}"/>
+    <itunes:category text="{{ site.tarih-tekerrur-ve-ekonomik-krizler.category }}">
+      <itunes:category text="{{ site.tarih-tekerrur-ve-ekonomik-krizler.subcategory }}"/>
+    </itunes:category>
+    <itunes:explicit>{{ site.tarih-tekerrur-ve-ekonomik-krizler.explicit }}</itunes:explicit>
+    <itunes:keywords><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.keywords }}]]></itunes:keywords>
+
+    {% for bolum in site.data.tarih-tekerrur-ve-ekonomik-krizler %}
+      <item>
+        <title><![CDATA[{{ bolum.title }}]]></title>
+        <description><![CDATA[{{ bolum.description }} {{ bolum.link }}]]></description>
+        <link>{{ bolum.link }}</link>
+        <guid>{{ bolum.guid }}</guid>
+        <pubDate>{{ bolum.pubdate }}</pubDate>
+        <enclosure url="{{ bolum.mediaurl }}" length="{{ bolum.length }}" type="{{ bolum.type }}"/>
+        <itunes:subtitle><![CDATA[{{ bolum.title }}]]></itunes:subtitle>
+        <itunes:summary><![CDATA[{{ bolum.description }} {{ bolum.link }}]]></itunes:summary>
+        <itunes:duration>{{ bolum.duration }}</itunes:duration>
+        <media:content url="{{ bolum.mediaurl }}" fileSize="{{ bolum.length }}" type="{{ bolum.type }}"/>
+        <itunes:keywords><![CDATA[{{ bolum.keywords }}]]></itunes:keywords>
+      </item>
+    {% endfor %}
+
+  </channel>
+</rss>
