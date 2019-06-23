@@ -45,21 +45,10 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 
 Ayşe Böhürler moderatörlüğünde  gerçekleşen 'İhmal Edilebilir Nasihatler' programının daimi konukları Alev Alatlı ve Prof. Dr. Süleyman Seyfi Öğün. Tarihten bugüne değişim oluşturan etkenler, kişiler ve düşünce biçimleri çok yönlü bir bakış ile ele alınıyor.
 
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)]()
-[![iTunes]({{ site.url }}/images/itunes.svg)]()
-[![Spotify]({{ site.url }}/images/spotify.svg)]()
-[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
-
----
-
-<h2 style="font-size: 25px">Dursun Gürlek — Tarih ve Mekan</h2>
-
-Dursun Gürlek'in sunumuyla Tarih ve Mekan.
-
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)]()
-[![iTunes]({{ site.url }}/images/itunes.svg)]()
-[![Spotify]({{ site.url }}/images/spotify.svg)]()
-[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2WW37KP)
+[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2Xs6Cgo)
+[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2L9V5M4)
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2Ft53o7)
 
 ---
 
