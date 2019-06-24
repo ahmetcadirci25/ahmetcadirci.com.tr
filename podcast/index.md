@@ -12,10 +12,10 @@ image    	: "/images/ahmetcadirci-wallpaper.jpg"
 
 Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
 
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2TWBIqH){:class="show push-down-10"}
-[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2FLkB7g){:class="show push-down-10"}
-[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2U7SsQL){:class="show push-down-10"}
-[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2KZFNJQ){:class="show push-down-10"}
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2TWBIqH)
+[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2FLkB7g)
+[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2U7SsQL)
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2KZFNJQ)
 
 ---
 
@@ -23,10 +23,10 @@ Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
 
 Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
 
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2I0f6US){:class="show push-down-10"}
-[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2uQ0U8g){:class="show push-down-10"}
-[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2ZuxwBB){:class="show push-down-10"}
-[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2XlMlcn){:class="show push-down-10"}
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2I0f6US)
+[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2uQ0U8g)
+[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2ZuxwBB)
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2XlMlcn)
 
 ---
 
@@ -34,10 +34,10 @@ Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
 
 Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile 'Can Veren Pervâneler' programında...
 
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2G2RlZV){:class="show push-down-10"}
-[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2CS9nMr){:class="show push-down-10"}
-[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2JT3JzG){:class="show push-down-10"}
-[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2KcCi3Z){:class="show push-down-10"}
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2G2RlZV)
+[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2CS9nMr)
+[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2JT3JzG)
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2KcCi3Z)
 
 ---
 
@@ -45,10 +45,10 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 
 Ayşe Böhürler moderatörlüğünde  gerçekleşen 'İhmal Edilebilir Nasihatler' programının daimi konukları Alev Alatlı ve Prof. Dr. Süleyman Seyfi Öğün. Tarihten bugüne değişim oluşturan etkenler, kişiler ve düşünce biçimleri çok yönlü bir bakış ile ele alınıyor.
 
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2WW37KP){:class="show push-down-10"}
-[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2Xs6Cgo){:class="show push-down-10"}
-[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2L9V5M4){:class="show push-down-10"}
-[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2Ft53o7){:class="show push-down-10"}
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2WW37KP)
+[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2Xs6Cgo)
+[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2L9V5M4)
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2Ft53o7)
 
 ---
 
@@ -56,10 +56,10 @@ Ayşe Böhürler moderatörlüğünde  gerçekleşen 'İhmal Edilebilir Nasihatl
 
 Alev Alatlı'nın sunumuyla 'Tarih Tekerrür ve Ekonomik Krizler' programının podcast yayınları.
 
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2J7tmZM){:class="show push-down-10"}
-[![iTunes]({{ site.url }}/images/itunes.svg)](){:class="show push-down-10"}
-[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/31OSqgS){:class="show push-down-10"}
-[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](){:class="show push-down-10"}
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2J7tmZM)
+[![iTunes]({{ site.url }}/images/itunes.svg)]()
+[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/31OSqgS)
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
 
 ---
 
@@ -67,10 +67,10 @@ Alev Alatlı'nın sunumuyla 'Tarih Tekerrür ve Ekonomik Krizler' programının 
 
 Dursun Gürlek'in sunumuyla Tarih ve Mekan.
 
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2N2zVCh){:class="show push-down-10"}
-[![iTunes]({{ site.url }}/images/itunes.svg)](){:class="show push-down-10"}
-[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2Ky50vm){:class="show push-down-10"}
-[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](){:class="show push-down-10"}
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2N2zVCh)
+[![iTunes]({{ site.url }}/images/itunes.svg)]()
+[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2Ky50vm)
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
 
 ---
 
@@ -78,7 +78,7 @@ Dursun Gürlek'in sunumuyla Tarih ve Mekan.
 
 En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzerinden ulaşabilirsiniz. 
 
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2Id3Gfw){:class="show push-down-10"}
-[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2COm8aM){:class="show push-down-10"}
-[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2U86xNV){:class="show push-down-10"}
-[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2TKrPMD){:class="show push-down-10"}
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2Id3Gfw)
+[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2COm8aM)
+[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2U86xNV)
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2TKrPMD)
