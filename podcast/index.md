@@ -8,7 +8,17 @@ image    	: "/images/ahmetcadirci-wallpaper.jpg"
 
 <h1 style="font-size: 30px">Podcast</h1>
 
-<h2 style="font-size: 25px">Kemal Sayar & Sadettin Ökten — Gönül Sadası</h2>
+* [Gönül Sadası](#gonul-sadasi)
+* [Gençlerle Başbaşa](#genclerle-basbasa)
+* [Can Veren Pervâneler](#can-veren-pervaneler)
+* [İhmal Edilebilir Nasihatler](#ihmal-edilebilir-nasihatler)
+* [Tarih Tekerrür ve Ekonomik Krizler](#tarih-tekerrur-ve-ekonomik-krizler)
+* [Tarih ve Mekan](#tarih-ve-mekan)
+* [Podcast](#podcast)
+
+---
+
+<h2 style="font-size: 25px" id="gonul-sadasi">Kemal Sayar & Sadettin Ökten — Gönül Sadası</h2>
 
 Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
 
@@ -19,7 +29,7 @@ Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
 
 ---
 
-<h2 style="font-size: 25px">Sadettin Ökten — Gençlerle Başbaşa</h2>
+<h2 style="font-size: 25px" id="genclerle-basbasa">Sadettin Ökten — Gençlerle Başbaşa</h2>
 
 Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
 
@@ -30,7 +40,7 @@ Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
 
 ---
 
-<h2 style="font-size: 25px">Hayati İnanç & Selahaddin Kocaaslan — Can Veren Pervâneler</h2>
+<h2 style="font-size: 25px" id="can-veren-pervaneler">Hayati İnanç & Selahaddin Kocaaslan — Can Veren Pervâneler</h2>
 
 Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile 'Can Veren Pervâneler' programında...
 
@@ -41,7 +51,7 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 
 ---
 
-<h2 style="font-size: 25px">Ayşe Böhürler & Alev Alatlı & Süleyman Seyfi Öğün — İhmal Edilebilir Nasihatler</h2>
+<h2 style="font-size: 25px" id="ihmal-edilebilir-nasihatler">Ayşe Böhürler & Alev Alatlı & Süleyman Seyfi Öğün — İhmal Edilebilir Nasihatler</h2>
 
 Ayşe Böhürler moderatörlüğünde  gerçekleşen 'İhmal Edilebilir Nasihatler' programının daimi konukları Alev Alatlı ve Prof. Dr. Süleyman Seyfi Öğün. Tarihten bugüne değişim oluşturan etkenler, kişiler ve düşünce biçimleri çok yönlü bir bakış ile ele alınıyor.
 
@@ -52,29 +62,29 @@ Ayşe Böhürler moderatörlüğünde  gerçekleşen 'İhmal Edilebilir Nasihatl
 
 ---
 
-<h2 style="font-size: 25px">Alev Alatlı — Tarih Tekerrür ve Ekonomik Krizler</h2>
+<h2 style="font-size: 25px" id="tarih-tekerrur-ve-ekonomik-krizler">Alev Alatlı — Tarih Tekerrür ve Ekonomik Krizler</h2>
 
 Alev Alatlı'nın sunumuyla 'Tarih Tekerrür ve Ekonomik Krizler' programının podcast yayınları.
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2J7tmZM)
-[![iTunes]({{ site.url }}/images/itunes.svg)]()
+[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2Lf6g6g)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/31OSqgS)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
 
 ---
 
-<h2 style="font-size: 25px">Dursun Gürlek — Tarih ve Mekan</h2>
+<h2 style="font-size: 25px" id="tarih-ve-mekan">Dursun Gürlek — Tarih ve Mekan</h2>
 
 Dursun Gürlek'in sunumuyla Tarih ve Mekan.
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2N2zVCh)
-[![iTunes]({{ site.url }}/images/itunes.svg)]()
+[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2IKXb3u)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2Ky50vm)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
 
 ---
 
-<h2 style="font-size: 25px">Podcast — Ahmet Çadırcı</h2>
+<h2 style="font-size: 25px" id="podcast">Podcast — Ahmet Çadırcı</h2>
 
 En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzerinden ulaşabilirsiniz. 
 
@@ -82,3 +92,10 @@ En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzer
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2COm8aM)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2U86xNV)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2TKrPMD)
+
+
+<style>
+.post-content img {
+    margin-bottom: 10px;
+}
+</style>
