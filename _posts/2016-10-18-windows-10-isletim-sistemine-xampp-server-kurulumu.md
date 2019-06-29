@@ -16,7 +16,7 @@ WordPress'i herhangi bir sunucuya yüklemeden direk bilgisayarımızda çalışt
 
 **iTunes**
 
-[Podcast’imizi iTunes üzerinden dinlemek **ücretsiz** üye abone olmak için tıklayın!]({{site.url}}/r/podcast/){:target="_blank"}{:rel="noopener"}
+[Podcast’imizi iTunes üzerinden dinlemek **ücretsiz** üye abone olmak için tıklayın!]({{site.url}}/r/podcast/){:target="_blank"}
 
 * * *
 
@@ -24,7 +24,7 @@ Bunun için bize yardımcı olacak olan XAMP Server'ı bilgisayarımızda indiri
 
 Linkten programı indirebilirsiniz.
 
-[https://www.apachefriends.org/](https://www.apachefriends.org/){:target="_blank"}{:rel="noopener"}
+[https://www.apachefriends.org/](https://www.apachefriends.org/){:target="_blank"}
 
 Daha sonra "Setup" ekranında yer alan "Next" tuşuna basıyoruz.
 

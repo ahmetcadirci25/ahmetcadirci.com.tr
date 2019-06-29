@@ -34,4 +34,4 @@ Kaynak kodu (İngilizce: source code), herhangi bir yazılımın işlenip makina
 
 ##### Dış bağlantılar
 
-1. [Kaynak Kodu](https://tr.wikipedia.org/wiki/Kaynak_kodu){:target="_blank"}{:rel="noopener"}
+1. [Kaynak Kodu](https://tr.wikipedia.org/wiki/Kaynak_kodu){:target="_blank"}

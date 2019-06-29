@@ -28,7 +28,7 @@ Alexa Rank (Sıralama) hakkında bilmemiz gereken her şey bu rehberde bir araya
 
 
 ### Alexa 
-*Alexa ABD merkezli ve [amazon.com](https://www.amazon.com){:target="_blank"}{:rel="noopener"} tarafından yönetilen bir internet şirketidir.*
+*Alexa ABD merkezli ve [amazon.com](https://www.amazon.com){:target="_blank"} tarafından yönetilen bir internet şirketidir.*
 
 ### Alexa Nedir?
 **"Bilgi güçtür - doğru araçlara sahipseniz."**
@@ -48,9 +48,9 @@ Alexa site sıralaması benzersiz ziyaretçiler ve sayfa gösterimlerinin birle�
 Mevcut verilere dayanarak istatistiklerin sınırları vardır. Düşük trafiği olan siteler Alexa tarafından doğru şekilde sıralanmamaktadır. 
 
 ### Alexa Sorgulama
-1. Alexa Sorgulama işlemini yapmak için önce bağlantıya [alexa.com/siteinfo](https://www.alexa.com/siteinfo/){:target="_blank"}{:rel="noopener"} tıklayın. 
+1. Alexa Sorgulama işlemini yapmak için önce bağlantıya [alexa.com/siteinfo](https://www.alexa.com/siteinfo/){:target="_blank"} tıklayın. 
 2. Açılan sayfadaki arama kutucuğuna alan adı (domain) adresini yazın.
-3. Örnek: [ahmetcadirci.com.tr ](https://www.alexa.com/siteinfo/ahmetcadirci.com.tr){:target="_blank"}{:rel="noopener"}
+3. Örnek: [ahmetcadirci.com.tr ](https://www.alexa.com/siteinfo/ahmetcadirci.com.tr){:target="_blank"}
 4. **Find** düğmesine basın.
 5. Karşınıza Traffic Statistics (Trafik İstatistikleri) çıkacaktır.
 
@@ -65,7 +65,7 @@ Mevcut verilere dayanarak istatistiklerin sınırları vardır. Düşük trafiğ
 HTML vb. sitelerde de aynı mantıkla hareket edilmelidir. Alexa Sertifika Kodu her zaman `</head>` kapatma etiketinden önce eklenmelidir. 
 
 ### Alexa'da Top 500 Site
-**Alexa'da top 500 site** bilgilerine ulaşmak için lütfen bağlantı adresine [tıklayın.](https://www.alexa.com/topsites){:target="_blank"}{:rel="noopener"}
+**Alexa'da top 500 site** bilgilerine ulaşmak için lütfen bağlantı adresine [tıklayın.](https://www.alexa.com/topsites){:target="_blank"}
 
 1. Google.com
 2. Youtube.com
@@ -79,7 +79,7 @@ HTML vb. sitelerde de aynı mantıkla hareket edilmelidir. Alexa Sertifika Kodu 
 10. Tmall.com
 
 ### Alexa'da Türkçe Siteler Sıralaması
-**Alexa'da Türkçe siteler sıralaması**na ulaşmak için lütfen bağlantı adresine [tıklayın.](https://www.alexa.com/topsites/countries/TR){:target="_blank"}{:rel="noopener"}
+**Alexa'da Türkçe siteler sıralaması**na ulaşmak için lütfen bağlantı adresine [tıklayın.](https://www.alexa.com/topsites/countries/TR){:target="_blank"}
 
 1. Youtube.com
 2. Google.com
@@ -92,13 +92,13 @@ HTML vb. sitelerde de aynı mantıkla hareket edilmelidir. Alexa Sertifika Kodu 
 9. Live.com
 10. Kizlarsoruyor.com
 
-Diğer ülkelerin sıralama bilgileri için [tıklayın.](https://www.alexa.com/topsites/countries){:target="_blank"}{:rel="noopener"}
+Diğer ülkelerin sıralama bilgileri için [tıklayın.](https://www.alexa.com/topsites/countries){:target="_blank"}
 
 ### Alexa Kategorilere Göre Sıralama
 
 Alexa kategorilerinde; Alışveriş, Basın ve Yayın, Bilgisayar, Bilim, Bölgesel, Ekonomi ve İş Dünyası, Ev, Eğlence ve Yaşam, Kaynaklar, Kültür ve Sanat, Oyunlar, Sağlık, Spor, Toplum, Çocuklar ve Gençler yer almaktadır.
 
-**Alexa kategori** bilgilerine ulaşmak için lütfen bağlantı adresine [tıklayın.](https://www.alexa.com/topsites/category){:target="_blank"}{:rel="noopener"}
+**Alexa kategori** bilgilerine ulaşmak için lütfen bağlantı adresine [tıklayın.](https://www.alexa.com/topsites/category){:target="_blank"}
 
 ### Alexa Toolbar (Araç Çubuğu)
 *Alexa Toolbar'ı bilgisayarınıza yükleyerek; Web sitenizin ziyaretçi performansını sürekli izleyebilir, ziyaret ettiğiniz sitenin de ziyaretçi performansını anında görebilirsiniz.*
@@ -111,14 +111,14 @@ Alexa kategorilerinde; Alışveriş, Basın ve Yayın, Bilgisayar, Bilim, Bölge
 
 #### Chrome
 - Chrome web mağazasından **Alexa Toolbar** (Araç Çubuğu) eklentisini indirebilirsiniz. 
-- [Chrome Eklentisi](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel){:target="_blank"}{:rel="noopener"}
+- [Chrome Eklentisi](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel){:target="_blank"}
 - Açılan sayfa **Chrome'a ekle** düğmesine tıklayın. 
 - Yükleme bittikten sonra **Alexa Toolbar** eklenti simgesine tıklayın.
 - **Accept and Enable** düğmesine tıkladıktan sonra kullanmaya başlayabilirsiniz.
 
 #### Firefox
 - Eklentiyi indirmek için *lütfen bağlantı adresine tıklayın.*
-- [Firefox Eklentisi](https://www.alexa.com/toolbar?browser=firefox){:target="_blank"}{:rel="noopener"}
+- [Firefox Eklentisi](https://www.alexa.com/toolbar?browser=firefox){:target="_blank"}
 - Açılan sayfa ****Install Alexa Browser Extension** düğmesine tıklayın. 
 - Daha sonra **Accept and Install** düğmesine tıklayın. 
 - Url satırında açılan ekrana **İzin Ver** dedikten sonra yükleme tamamlanacaktır.

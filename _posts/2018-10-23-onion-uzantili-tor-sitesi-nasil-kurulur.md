@@ -46,12 +46,12 @@ Bir alan adı oluşturmak - seçtiğiniz bir tanıma sahip bir sözcüğe sahip 
 
 İşletim sisteminize uygun olan dosyayı aşağıdaki linklere tıklayarak indirebilirsiniz.  
 
-- [Windows](https://github.com/TheTorProject/gettorbrowser/releases/download/v8.0.2/torbrowser-install-8.0.2_tr.exe){:target="_blank"}{:rel="noopener"} 
-- [OS X](https://github.com/TheTorProject/gettorbrowser/releases/download/v8.0.2/TorBrowser-8.0.2-osx64_tr.dmg){:target="_blank"}{:rel="noopener"} 
-- [Linux 32-bit](https://github.com/TheTorProject/gettorbrowser/releases/download/v8.0.2/tor-browser-linux32-8.0.2_tr.tar.xz){:target="_blank"}{:rel="noopener"} 
-- [Linux 64-bit](https://github.com/TheTorProject/gettorbrowser/releases/download/v8.0.2/tor-browser-linux64-8.0.2_tr.tar.xz){:target="_blank"}{:rel="noopener"} 
-- [Android Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&hl=tr){:target="_blank"}{:rel="noopener"} 
-- [iOS Onion Browser](https://itunes.apple.com/us/app/onion-browser/id519296448?mt=8){:target="_blank"}{:rel="noopener"} 
+- [Windows](https://github.com/TheTorProject/gettorbrowser/releases/download/v8.0.2/torbrowser-install-8.0.2_tr.exe){:target="_blank"} 
+- [OS X](https://github.com/TheTorProject/gettorbrowser/releases/download/v8.0.2/TorBrowser-8.0.2-osx64_tr.dmg){:target="_blank"} 
+- [Linux 32-bit](https://github.com/TheTorProject/gettorbrowser/releases/download/v8.0.2/tor-browser-linux32-8.0.2_tr.tar.xz){:target="_blank"} 
+- [Linux 64-bit](https://github.com/TheTorProject/gettorbrowser/releases/download/v8.0.2/tor-browser-linux64-8.0.2_tr.tar.xz){:target="_blank"} 
+- [Android Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&hl=tr){:target="_blank"} 
+- [iOS Onion Browser](https://itunes.apple.com/us/app/onion-browser/id519296448?mt=8){:target="_blank"} 
 
 ### Tor Tarayıcısı Kurulum Aşamaları 
 
@@ -94,7 +94,7 @@ Bir alan adı oluşturmak - seçtiğiniz bir tanıma sahip bir sözcüğe sahip 
 
 Tor Check’in adresini ziyaret ederek kontrol edebilirsiniz. 
 
-[https://check.torproject.org/](https://check.torproject.org/?lang=tr){:target="_blank"}{:rel="noopener"} 
+[https://check.torproject.org/](https://check.torproject.org/?lang=tr){:target="_blank"} 
 
 {% include picture.html image_id="/images/galeri/tor-denetimi.png" imagealt="Tor Ağını Yapılandırma" link="/images/galeri/tor-denetimi.png" %} 
 *Resmi büyütmek için üzerine tıklayın.* 
@@ -102,10 +102,10 @@ Tor Check’in adresini ziyaret ederek kontrol edebilirsiniz.
 
 ## .ONION Alan Adı Nasıl Oluşturabilirim? 
 
-1. **Adım** Tor tarayıcısını açıktan sonra url satırına [http://dhosting4okcs22v.onion](http://dhosting4okcs22v.onion/register.php){:target="_blank"}{:rel="noopener"} adresini kopyalayın.  
+1. **Adım** Tor tarayıcısını açıktan sonra url satırına [http://dhosting4okcs22v.onion](http://dhosting4okcs22v.onion/register.php){:target="_blank"} adresini kopyalayın.  
 2. **Adım** Açılan sayfada **Username** (Kullanıcı adı), **Password** (Şifre), **Confirm password** (Şifre Tekrarı), **Copy** (Bot Kontrolü) ve **Kullanım sözleşmesini** kabul edin. 
 3. **Adım** Üye olduktan sonra uyarı mesajı alacaksınız. **fzrcdjvzulfpczfd.onion** gibi rastgele alan adı üretilecektir. 
-4. **Adım** [http://dhosting4okcs22v.onion/login.php](http://dhosting4okcs22v.onion/login.php){:target="_blank"}{:rel="noopener"} adresinden kullanıcı adı ve şifrenizi yazarak giriş yapabilirsiniz.  
+4. **Adım** [http://dhosting4okcs22v.onion/login.php](http://dhosting4okcs22v.onion/login.php){:target="_blank"} adresinden kullanıcı adı ve şifrenizi yazarak giriş yapabilirsiniz.  
 5. **Adım** Giriş işlemini yaptıktan sonra kontrol paneli açıklacaktır. 
 
 {% include picture.html image_id="/images/galeri/onion-hosting-bilgileri.png" link="/images/galeri/onion-hosting-bilgileri.png" imagealt="Giriş Sayfası" %} 

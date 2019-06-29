@@ -22,9 +22,9 @@ FeedBurner hesabınızdaki beslemeleri nasıl güncel hale getirebilirim. Feed d
 
 ### FeedBurner Ping Nasıl Yapılır?
 
-1. [https://feedburner.google.com/fb/a/ping](https://feedburner.google.com/fb/a/ping){:target="_blank"}{:rel="noopener"} linke tıklayın
+1. [https://feedburner.google.com/fb/a/ping](https://feedburner.google.com/fb/a/ping){:target="_blank"} linke tıklayın
 
-2. **Web site address:** kısmına [{{site.url}}]({{site.url}}){:target="_blank"}{:rel="noopener"} gibi domain (alan adı) adresinizi yazın.
+2. **Web site address:** kısmına [{{site.url}}]({{site.url}}){:target="_blank"} gibi domain (alan adı) adresinizi yazın.
 
 3. 30 dakika içinde otomatik olarak pingleme yapılacaktır.
 
@@ -35,8 +35,8 @@ FeedBurner hesabınızdaki beslemeleri nasıl güncel hale getirebilirim. Feed d
 
 Web sitenin güncel yazılarını takip edebilirsiniz.
 
-[{{site.url}}/r/rss]({{site.url}}/r/rss){:target="_blank"}{:rel="noopener"}
+[{{site.url}}/r/rss]({{site.url}}/r/rss){:target="_blank"}
 
 Web sitenin güncel podcast ve video yayınlarını takip edebilirsiniz.
 
-[{{site.url}}/r/podcast]({{site.url}}/r/podcast){:target="_blank"}{:rel="noopener"}
+[{{site.url}}/r/podcast]({{site.url}}/r/podcast){:target="_blank"}

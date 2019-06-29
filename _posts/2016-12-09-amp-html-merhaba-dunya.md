@@ -89,7 +89,7 @@ Body bölümünün başlangıcı
       layout="responsive"></amp-img>
 ```
 
-AMP HTML dosyanızın geçerli AMP HTML olup olmadığını kontrol etmek için [AMP Validator](https://validator.ampproject.org/){:target="_blank"}{:rel="noopener"}'ı kullanabilirsiniz. AMP HTML URL'sinin sonunu `#development=1` eklemeniz yeterlidir. Doğrulama hataları Javascript konsolunda yazdırılacaktır. AMP ile oluşturulan bu web sitesini kullanarak deneyebilirsiniz.
+AMP HTML dosyanızın geçerli AMP HTML olup olmadığını kontrol etmek için [AMP Validator](https://validator.ampproject.org/){:target="_blank"}'ı kullanabilirsiniz. AMP HTML URL'sinin sonunu `#development=1` eklemeniz yeterlidir. Doğrulama hataları Javascript konsolunda yazdırılacaktır. AMP ile oluşturulan bu web sitesini kullanarak deneyebilirsiniz.
 
 Tarayıcı Uzantısı
 

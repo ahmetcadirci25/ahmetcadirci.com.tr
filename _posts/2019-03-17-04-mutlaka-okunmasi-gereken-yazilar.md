@@ -33,7 +33,7 @@ comments   : true
 
 "Çünki, silâhların ve şarjörlerin üzerindeki böyle bir listeyi Tarrant misali caniyi bir tarafa bırakın, en baba bir tarihçinin bile tek başına hazırlaması imkânsızdır!"
 
-[Tamamını Oku](http://bit.ly/2TJR6v9){:target="_blank"}{:rel="noopener"}{:class="tags__link"}
+[Tamamını Oku](http://bit.ly/2TJR6v9){:target="_blank"}{:class="tags__link"}
 
 
 ### #02 Yeni Zelanda'da Katliam Yapan Manyağın Tarihi Kodları
@@ -50,7 +50,7 @@ comments   : true
 
 "Manyak katilin listesindeki isimlere ve olaylara bakıldığında çoğunun asırlarca İslam'ın bayraktarlığını yapan Türkler'le ilgili olduğu görülür. Bu kadar tarihi bilgi akademik destek ve örgütsel bir yapı olmadan kolay kolay bir araya getirilemez. Katil her milletin tarihindeki önemli devlet adamı veya komutanı o dilde zikretmiştir."
 
-[Tamamını Oku](http://bit.ly/2TL17IA){:target="_blank"}{:rel="noopener"}{:class="tags__link"}
+[Tamamını Oku](http://bit.ly/2TL17IA){:target="_blank"}{:class="tags__link"}
 
 
 ### #03 Kan Ateş Ölüm Üçgeninde Irkçılık ve Yeni Zelanda Faciası
@@ -69,7 +69,7 @@ comments   : true
 
 "Antik Yunanda da insanlar soylular ve köleler olarak ikiye ayrılır. Kölelik Roma’da olduğu gibi Grek ülkesinde de kurumsal bir olgudur. Roma’nın insan telakkisi Grekler için de aynen geçerlidir: özgürlük Yunanlılara özgü bir ayrıcalıktır; geri kalan herkes barbardır ve köle mesabesindedir..."
 
-[Tamamını Oku](http://bit.ly/2TGjCxU){:target="_blank"}{:rel="noopener"}{:class="tags__link"}
+[Tamamını Oku](http://bit.ly/2TGjCxU){:target="_blank"}{:class="tags__link"}
 
 
 ### #04 Hristiyan Teröristin Gizlemediği
@@ -84,7 +84,7 @@ comments   : true
 
 "Hadi devam edelim buradan. Hristiyan teröristin kaleme alıp sosyal medyadan yayınladığı 70 sayfalık metinde doğrudan Türklere yönelik olarak kurduğu cümleler şöyle: “Topraklarınızda huzur içerisinde yaşayabilirsiniz, size zarar gelmeyecek. Boğaz’ın doğu yakasında yani… Ama Boğaz’ın batısında bir yerde yaşamayı denerseniz, Avrupa’ya gelirseniz sizi öldüreceğiz. Konstantinopolis’e gelir, tüm cami ve minarelerinizi yıkarız. Ayasofya minarelerden kurtulacak ve Konstantinapol hak edildiği gibi tekrar Hristiyan şehri olacak.”"
 
-[Tamamını Oku](http://bit.ly/2THRzxT){:target="_blank"}{:rel="noopener"}{:class="tags__link"}
+[Tamamını Oku](http://bit.ly/2THRzxT){:target="_blank"}{:class="tags__link"}
 
 
 ### #05 Bir Fotoğrafa Mektup
@@ -111,7 +111,7 @@ comments   : true
 
 "Yeni Zelanda’da haçlı zihniyetinin ölmediğini gösteren terörist saldırıda şehit düşen Ürdünlü Waseem ve kızının gülümseyen fotoğrafı…"
 
-[Tamamını Oku](http://bit.ly/2TJRF8f){:target="_blank"}{:rel="noopener"}{:class="tags__link"}
+[Tamamını Oku](http://bit.ly/2TJRF8f){:target="_blank"}{:class="tags__link"}
 
 
 **İbrahim Kalın'ın konu hakkında attığı tweet**

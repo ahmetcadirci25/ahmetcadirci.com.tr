@@ -57,13 +57,13 @@ Tek bir kanalın RSS beslemesini almak için kanal URL'sini RSS okuyucunuza yap�
 
 Tüm YouTube aboneliklerinizi RSS okuyucunuza aktarmak için OPML dosya indirme özelliğini kullanabilirsiniz:
 
-1. Abonelikleri Yönet sayfanızın altındaki [Abonelikleri dışa aktar](https://www.youtube.com/subscription_manager){:target="_blank"}{:rel="noopener"}'ı tıklayarak OPML dosyasını indirin. Bu `subscription_manager.xml` isimli bir dosya indirecektir.
+1. Abonelikleri Yönet sayfanızın altındaki [Abonelikleri dışa aktar](https://www.youtube.com/subscription_manager){:target="_blank"}{:rel="nofollow noopener noreferrer"}'ı tıklayarak OPML dosyasını indirin. Bu `subscription_manager.xml` isimli bir dosya indirecektir.
 2. OPML dosyasını RSS okuyucunuza içe aktarın.
-	* Örneğin Feedly'de, [RSS İçe (Import) veya Dışa (Export)](https://ahmetcadirci.com.tr/2016/feedly-rss-ice-import-veya-disa-export-aktarma/){:target="_blank"}{:rel="noopener"} özelliğini kullanabilirsiniz.
+	* Örneğin Feedly'de, [RSS İçe (Import) veya Dışa (Export)](https://ahmetcadirci.com.tr/2016/feedly-rss-ice-import-veya-disa-export-aktarma/){:target="_blank"}{:rel="nofollow noopener noreferrer"} özelliğini kullanabilirsiniz.
 
 ## RSS Nedir?
 
-RSS, genellikle haber sağlayıcıları, [bloglar]({{ site.url }}/r/rss){:target="_blank"}{:rel="noopener"} ve [podcastlar]({{ site.url }}/r/rss-podcast){:target="_blank"}{:rel="noopener"} tarafından kullanılan, yeni eklenen içeriğin kolaylıkla takip edilmesini sağlayan bir web sayfası bildirimcisidir. Kullandığı dosya biçimleri .rss ve .xml'dir.
+RSS, genellikle haber sağlayıcıları, [bloglar]({{ site.url }}/r/rss){:target="_blank"}{:rel="nofollow noopener noreferrer"} ve [podcastlar]({{ site.url }}/r/rss-podcast){:target="_blank"}{:rel="nofollow noopener noreferrer"} tarafından kullanılan, yeni eklenen içeriğin kolaylıkla takip edilmesini sağlayan bir web sayfası bildirimcisidir. Kullandığı dosya biçimleri .rss ve .xml'dir.
 
 RSS kısaltmasının açılımı ve zaman içinde gelişimi şöyledir:
 

@@ -23,7 +23,7 @@ Adımları aşağıda yer alan resme tıklayarak detaylı bir şekilde görebili
 
 {% include picture.html image_id="/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png" imagealt="EPUB Uzantılı Kitabı Kitaplar Books Uygulamasına Nasıl Aktarılır?" link="/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png" %}
 
-*Resmi büyütmek için [tıklayın]({{site.url}}/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png){:target="_blank"}{:rel="noopener"}*
+*Resmi büyütmek için [tıklayın]({{site.url}}/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png){:target="_blank"}*
 
 1. **Google Drive** uygulamasını açın.
 2. Yüklediğiniz **EPUB** uzantılı kitabın sağında yer alan **üç noktaya** tıklayın.

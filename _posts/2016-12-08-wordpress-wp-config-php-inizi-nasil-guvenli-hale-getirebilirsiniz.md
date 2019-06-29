@@ -40,7 +40,7 @@ Dolayısıyla, bu dosyayı güvence altına almak için atacağımız birkaç ad
 
 **1. Yeni Gizli Tuşlar Oluşturun**
 
-Yapacağımız ilk şey yeni gizli anahtarlar dizisi üretmektir. WordPress'in sağladığı [gizli anahtar](https://api.wordpress.org/secret-key/1.1/salt/){:target="_blank"}{:rel="noopener"} üreticisi web sitesine giderek bunu yapabilirsiniz. Tek yapmanız gereken bu URL'ye gidip yenilemektir, sizin için üretilen yepyeni bir anahtar grubu olacaktır. Bunları kopyalayıp daha sonra eski anahtarları değiştirerek doğrudan wp-config.php dosyanıza yapıştırabilirsiniz.
+Yapacağımız ilk şey yeni gizli anahtarlar dizisi üretmektir. WordPress'in sağladığı [gizli anahtar](https://api.wordpress.org/secret-key/1.1/salt/){:target="_blank"} üreticisi web sitesine giderek bunu yapabilirsiniz. Tek yapmanız gereken bu URL'ye gidip yenilemektir, sizin için üretilen yepyeni bir anahtar grubu olacaktır. Bunları kopyalayıp daha sonra eski anahtarları değiştirerek doğrudan wp-config.php dosyanıza yapıştırabilirsiniz.
 
 **2. wp-config.php'yi Taşı**
 

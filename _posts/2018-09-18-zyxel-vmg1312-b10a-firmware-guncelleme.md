@@ -26,7 +26,7 @@ Cihazınızın **Yazılım Güncelleme ve Kurulumunu** gerçekleştirmek için m
 
 Aşağıdaki linkte cihazının güncel yazılımı bulunmaktadır. Aşağıdaki linke tıklayarak **V100AASU3C0.bin** isimli yazılım dosyasını modemin bağlı olduğu bilgisayarın masaüstüne kaydedilir.
 
-[👉 YAZILIM LİNKİ](ftp://ftp.zyxel.com.tr/ZyXEL_URUNLERI/MODEMLER/VDSL_MODEMLER/VMG1312-B10A/Firmware/V100AASU3C0.bin){:target="_blank"}{:rel="noopener"}{:class="tags__link"}
+[👉 YAZILIM LİNKİ](ftp://ftp.zyxel.com.tr/ZyXEL_URUNLERI/MODEMLER/VDSL_MODEMLER/VMG1312-B10A/Firmware/V100AASU3C0.bin){:target="_blank"}{:class="tags__link"}
 
 Modem arayüzüne giriş yapılır.
 
@@ -63,4 +63,4 @@ Modeminizin üzerinde DSL ışığı sabit yanıyor ise MYISP-ADSL, MYISP-VDSL v
 
 **Modeminizle ilgili video anlatımlı kurulum dökümana aşağıdaki linkten ulaşabilirsiniz.**
 
-[Zyxel Modem Kurulum Videosu](https://www.youtube.com/watch?v=PRmJx_5QsmA){:target="_blank"}{:rel="noopener"}
+[Zyxel Modem Kurulum Videosu](https://www.youtube.com/watch?v=PRmJx_5QsmA){:target="_blank"}
