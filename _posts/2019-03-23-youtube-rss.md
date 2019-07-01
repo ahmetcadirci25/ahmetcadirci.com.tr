@@ -78,5 +78,5 @@ RSS olarak sunulan içerik web sitesinde sunulan içeriğin tamamını, özetini
 #### Kaynakça:
 
 1. How to get RSS URLs from YouTube channels and playlists. 23 Mart 2019. https://chriswere.neocities.org/rssyoutube.html
-1. RSS - Vikipedi. 23 Mart 2019. https://tr.wikipedia.org/wiki/RSS
-1. YouTube ile RSS kullanma. 24 Mart 2019. https://support.google.com/youtube/answer/6224202?hl=tr
+2. RSS - Vikipedi. 23 Mart 2019. https://tr.wikipedia.org/wiki/RSS
+3. YouTube ile RSS kullanma. 24 Mart 2019. https://support.google.com/youtube/answer/6224202?hl=tr
