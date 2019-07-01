@@ -1,7 +1,7 @@
 ---
 title      : "Evliya Çelebi Programı Sunucusu Ömer Faruk Aksoy Kimdir?"
-description: ""
-date       : 2019-06-12 22:00:00
+description: "TRT 2'nin sevilen programı Evliya Çelebi'nin sunucusu Ömer Faruk Aksoy hakkında merak etiklerinizi bu yazıda sizlerle paylaşmaya çalışacağım."
+date       : 2019-07-01 21:00:00
 categories : [Genel]
 tags       : [Ömer Faruk Aksoy, Evliya Çelebi]
 image      : "/images/omer-faruk-aksoy.png"
