@@ -75,7 +75,7 @@ RSS kısaltmasının açılımı ve zaman içinde gelişimi şöyledir:
 
 RSS olarak sunulan içerik web sitesinde sunulan içeriğin tamamını, özetini veya sadece başlığını içerebilir.
 
-#### Kaynakça:
+#### Bibliyografya:
 
 1. How to get RSS URLs from YouTube channels and playlists. 23 Mart 2019. https://chriswere.neocities.org/rssyoutube.html
 2. RSS - Vikipedi. 23 Mart 2019. https://tr.wikipedia.org/wiki/RSS

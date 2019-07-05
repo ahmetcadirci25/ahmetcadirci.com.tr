@@ -67,7 +67,7 @@ comments   : true
 
 Daha fazlasını görmek için [tıklayın](http://www.sonpeygamber.info/galeri/fotograf/omer-faruk-aksoy-koleksiyonu){:target="_blank"}. 
 
-#### Kaynakça: 
+#### Bibliyografya: 
 
 1. OMER FARUK AKSOY - LinkedIn. 1 Temmuz 2019. https://www.linkedin.com/in/omer-faruk-aksoy-10069957/
 2. The Blessed Cities of Islam: Mecca-Medina: Omer Faruk Aksoy: 9781597840613: Amazon.com: Books. 1 Temmuz 2019. https://www.amazon.com/Blessed-Cities-Islam-Mecca-Medina/dp/1597840610

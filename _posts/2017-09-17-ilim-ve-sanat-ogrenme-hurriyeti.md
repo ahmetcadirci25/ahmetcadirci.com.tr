@@ -20,7 +20,7 @@ Bu sebeple İslam tarihinde, bu arada Osmanlılarda da, her şehirde müfti deni
 > Marmara Üniversitesi Hukuk Fakültesi’nde profesördür. Hukuk Tarihi dersleri vermektedir. 
 > Arapça ve İngilizce bilir.Yıllardır radyo ve televizyonlarda popüler tarih ve kültür tarihi üzerine programlar yapar. Gazete ve dergilerde de bu mevzularda yazıları yayınlanmaktadır. <sup>2</sup>
 
-##### Kaynakça:
+#### Bibliyografya:
 
 1. Prof. Dr. Ekrem Buğra EKİNCİ. Osmanlı Hukuku, Adalet ve Mülk. Arı Sanat Yayın Evi. Eylül 17, 2017 tarihinde alındı.
 2. Prof. Dr. Ekrem Buğra EKİNCİ. Biyografi Eylül 17, 2017 tarihinde http://www.ekrembugraekinci.com adresinden erişildi.

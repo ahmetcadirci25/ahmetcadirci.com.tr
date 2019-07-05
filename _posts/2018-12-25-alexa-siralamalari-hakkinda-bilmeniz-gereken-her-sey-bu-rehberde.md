@@ -143,6 +143,6 @@ Alexa kategorilerinde; Alışveriş, Basın ve Yayın, Bilgisayar, Bilim, Bölge
 {% include sorucevap.html soru="Alexa Kategori Dizinine Site Ekleme Nasıl Yapılır?" cevap="Alexa Pro aboneliğiniz varsa,  destek <b>https://support.alexa.com/hc/en-us/requests/new</b> kısmından sitenizin eklenmesi için mesaj atabilirsiniz. <br><br> Mesajınızda sitenizi hangi dizine eklenmesini istiyorsanız bağlantı adresini göndermeyi unutmayın.  Yalnızca bir kategoriye ekleme yapılmaktadır."%}
 
 
-#### Kaynakça:
+#### Bibliyografya:
 1. Alexa - Wikipedia. 25 Aralık 2018. https://tr.wikipedia.org/wiki/Alexa
 2. Alexa - Alexa Internet - About Us. 25 Aralık 2018. https://www.alexa.com/about

@@ -469,7 +469,7 @@ IDM ana sitesindeki daha yeni sürümleri haftada bir denetler ve yeni bir sür�
  
 Hızlı Güncelleme iletişim kutusu yeni sürümün gösterilen tüm geliştirmelerine güncellemek istiyor musunuz diye sorar. Ayrıca daha yeni sürümleri Yardım menüsündeki Güncellemeleri denetle öğesini seçerek de denetleyebilirsiniz.
 
-#### Kaynakça: 
+#### Bibliyografya: 
 
 1. Internet Download Manager. ‎17 Kasım ‎2018. https://www.internetdownloadmanager.com/
 2. Internet Download Manager Manual. ‎17 Kasım ‎2018.

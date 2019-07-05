@@ -130,7 +130,7 @@ Ana ekrana eklendikten sonra açılış ekranı
 2. Zip [https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases){:target="_blank"}
 2. Önizleme [{{site.url}}/ana-ekrana-ekle/]({{site.url}}/ana-ekrana-ekle/){:target="_blank"}
 
-#### Kaynakça:
+#### Bibliyografya:
 
 1. Increasing Engagement with Web App Install Banners. 06 ‎Mayıs ‎2017. https://developers.google.com/web/updates/2015/03/increasing-engagement-with-app-install-banners-in-chrome-for-android
 2. samples/service-worker.js at gh-pages · GoogleChrome/samples. 06 ‎Mayıs ‎2017. https://github.com/GoogleChrome/samples/blob/gh-pages/service-worker/custom-offline-page/service-worker.js

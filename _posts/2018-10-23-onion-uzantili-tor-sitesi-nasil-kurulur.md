@@ -125,7 +125,7 @@ Tor Check’in adresini ziyaret ederek kontrol edebilirsiniz.
 {% include picture.html image_id="/images/galeri/html-site-kurulumu.png" link="/images/galeri/html-site-kurulumu.png" imagealt="HTML Site Kurulumu" %} 
 *Resmi büyütmek için üzerine tıklayın.* 
 
-#### Kaynakça: 
+#### Bibliyografya: 
 
 1. Daniel's Hosting. ‎23 Ekim ‎2018. http://dhosting4okcs22v.onion/ 
 2. Windows için Tor Tarayıcı - çevrimiçi anonimlik ve internet sansürünü atlatma. ‎23 Ekim ‎2018. https://securityinabox.org/tr/guide/torbrowser/windows/ 
