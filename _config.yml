@@ -140,22 +140,6 @@ tarih-ve-mekan                      :
   image                             : "https://ahmetcadirci.com.tr/images/tarih-ve-mekan.jpg"
   explicit                          : "clean"
 
-ihmal-edilebilir-nasihatler         :
-  title                             : "Ayşe Böhürler & Alev Alatlı & Süleyman Seyfi Öğün — İhmal Edilebilir Nasihatler"
-  subtitle                          : "Ayşe Böhürler & Alev Alatlı & Süleyman Seyfi Öğün — İhmal Edilebilir Nasihatler"
-  link                              : "https://ahmetcadirci.com.tr/podcast/"
-  description                       : "Ayşe Böhürler moderatörlüğünde  gerçekleşen 'İhmal Edilebilir Nasihatler' programının daimi konukları Alev Alatlı ve Prof. Dr. Süleyman Seyfi Öğün. Tarihten bugüne değişim oluşturan etkenler, kişiler ve düşünce biçimleri çok yönlü bir bakış ile ele alınıyor."
-  keywords                          : "ayşe bögürler, alev alatlı, süleyman seyfi öğün, ihmal edilebilir nasihatler, tarih, ahmet çadırcı"
-  language                          : "tr-tr"
-  spotifycountry                    : "tr"
-  copyright                         : "Ahmet Çadırcı"
-  author                            : "Ahmet Çadırcı"
-  email                             : "ahmetcadirci25@gmail.com"
-  category                          : "Society &#38; Culture"
-  subcategory                       : "History"
-  image                             : "https://ahmetcadirci.com.tr/images/ihmal-edilebilir-nasihatler.jpg"
-  explicit                          : "clean"
-
 tarih-tekerrur-ve-ekonomik-krizler  :
   title                             : "Alev Alatlı — Tarih Tekerrür ve Ekonomik Krizler"
   subtitle                          : "Alev Alatlı — Tarih Tekerrür ve Ekonomik Krizler"

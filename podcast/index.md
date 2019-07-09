@@ -11,7 +11,6 @@ image    	: "/images/ahmetcadirci-wallpaper.jpg"
 * [Gönül Sadası](#gonul-sadasi)
 * [Gençlerle Başbaşa](#genclerle-basbasa)
 * [Can Veren Pervâneler](#can-veren-pervaneler)
-* [İhmal Edilebilir Nasihatler](#ihmal-edilebilir-nasihatler)
 * [Tarih Tekerrür ve Ekonomik Krizler](#tarih-tekerrur-ve-ekonomik-krizler)
 * [Tarih ve Mekan](#tarih-ve-mekan)
 * [Podcast](#podcast)
@@ -48,17 +47,6 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2CS9nMr)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2JT3JzG)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2KcCi3Z)
-
----
-
-<h2 style="font-size: 25px" id="ihmal-edilebilir-nasihatler">Ayşe Böhürler & Alev Alatlı & Süleyman Seyfi Öğün — İhmal Edilebilir Nasihatler</h2>
-
-Ayşe Böhürler moderatörlüğünde  gerçekleşen 'İhmal Edilebilir Nasihatler' programının daimi konukları Alev Alatlı ve Prof. Dr. Süleyman Seyfi Öğün. Tarihten bugüne değişim oluşturan etkenler, kişiler ve düşünce biçimleri çok yönlü bir bakış ile ele alınıyor.
-
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2WW37KP)
-[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2Xs6Cgo)
-[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2L9V5M4)
-[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2Ft53o7)
 
 ---
 
