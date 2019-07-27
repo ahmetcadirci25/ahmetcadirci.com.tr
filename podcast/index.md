@@ -103,7 +103,7 @@ En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzer
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2Id3Gfw)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2COm8aM)
-[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2U86xNV)
+[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2Ojg6qN)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2TKrPMD)
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/32WqZC7)
 [![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2OompJQ)
