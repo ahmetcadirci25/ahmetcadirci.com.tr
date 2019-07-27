@@ -26,6 +26,10 @@ Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2U7SsQL)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2KZFNJQ)
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/2yrDesJ)
+[![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2Ybkqx5)
+[![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2JWYBZt)
+[![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/313g1cz)
+[![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2YkVhej)
 
 ---
 
@@ -38,6 +42,10 @@ Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2ZuxwBB)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2XlMlcn)
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/32WNjLW)
+[![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2YoVOfx)
+[![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Y96TGb)
+[![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/2Gx7mY5)
+[![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/30ZlaCc)
 
 ---
 
@@ -50,6 +58,10 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2JT3JzG)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2KcCi3Z)
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/32VuclC)
+[![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2SJiKFa)
+[![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Mi2f1l)
+[![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/2YqFhMe)
+[![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2LIVKVZ)
 
 ---
 
@@ -62,6 +74,10 @@ Alev Alatlı'nın sunumuyla 'Tarih Tekerrür ve Ekonomik Krizler' programının 
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/31OSqgS)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/2OhDhlh)
+[![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2JTK4gV)
+[![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Ze4xT5)
+[![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/2Gy8ASR)
+[![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2SJj4U9)
 
 ---
 
@@ -74,6 +90,10 @@ Dursun Gürlek'in sunumuyla Tarih ve Mekan.
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2Ky50vm)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/2YackEU)
+[![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2JTIUC5)
+[![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2GA6rpM)
+[![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/32R0MoB)
+[![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2YaeK6s)
 
 ---
 
@@ -86,6 +106,10 @@ En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzer
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2U86xNV)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2TKrPMD)
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/32WqZC7)
+[![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2OompJQ)
+[![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Oje4aj)
+[![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/2ylZX9b)
+[![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2JVmccF)
 
 
 <style>
