@@ -14,7 +14,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 {% include picture.html image_id="/images/galeri/kisisel-jekyll-temalari-1.png" imagealt="Personal Jekyll Teması" %}
 
-[👍 Kaynak](https://github.com/PanosSakkos/personal-jekyll-theme){:target="_blank"} | [⚡️ Demo](https://panossakkos.github.io/personal-jekyll-theme/){:target="_blank"}
+[👍 Kaynak](https://github.com/PanosSakkos/personal-jekyll-theme){:target="_blank"}
 
 * * *
 
@@ -62,7 +62,7 @@ Birbirinden güzel 20 tane Jekyll temasını bulabilirsiniz. Her biri farklı ö
 
 {% include picture.html image_id="/images/galeri/kisisel-jekyll-temalari-7.png" imagealt="HPSTR Jekyll Teması" %}
 
-[👍 Kaynak](https://github.com/camporez/Thinny){:target="_blank"} | [⚡️ Demo](http://camporez.github.io/){:target="_blank"}
+[👍 Kaynak](https://github.com/camporez/Thinny){:target="_blank"}
 
 * * *
 

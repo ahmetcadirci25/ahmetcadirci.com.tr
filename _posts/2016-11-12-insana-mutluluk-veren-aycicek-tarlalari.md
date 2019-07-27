@@ -96,7 +96,7 @@ Resimlerin altında bulunan linklerden fotoğrafın orjinal sayfasına ulaşabil
 
 {% include picture.html image_id="/images/galeri/insana-mutluluk-veren-aycicek-tarlalari-12.png" imagealt="Dilek Sercan tarafından Karaburun Yolu Ayçiçek Tarlası" %}
 
-[Dilek Sercan tarafından Karaburun Yolu Ayçiçek Tarlası](https://www.instagram.com/p/BIlD-gxh5z10vtiWmCbG48NwV3V2BxjXUYgv3A0/){:target="_blank"}
+Dilek Sercan tarafından Karaburun Yolu Ayçiçek Tarlası
 
 * * * 
 
@@ -104,4 +104,4 @@ Resimlerin altında bulunan linklerden fotoğrafın orjinal sayfasına ulaşabil
 
 {% include picture.html image_id="/images/galeri/insana-mutluluk-veren-aycicek-tarlalari-11.png" imagealt="Dilek Sercan tarafından Tonton Babaanne" %}
 
-[Dilek Sercan tarafından Tonton Babaanne](https://www.instagram.com/p/BIlD-gxh5z10vtiWmCbG48NwV3V2BxjXUYgv3A0/){:target="_blank"}
+Dilek Sercan tarafından Tonton Babaanne

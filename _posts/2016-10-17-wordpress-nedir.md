@@ -40,5 +40,5 @@ Wordpress 100% ücretsizdir.
 
 * * *
 
-<a href="https://dl.dropboxusercontent.com/s/15bdj8ls6zvuny6/000-wordpress-nedir.mp3"><i class="icon icon-download"></i> Ücretsiz İndir</a>
+<a href="https://dl.dropboxusercontent.com/s/3f8mhczxs3hrdl1/01-wordpress-nedir.mp3"><i class="icon icon-download"></i> Ücretsiz İndir</a>
 

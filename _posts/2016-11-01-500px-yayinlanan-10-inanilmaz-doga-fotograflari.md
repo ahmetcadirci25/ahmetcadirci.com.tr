@@ -56,7 +56,7 @@ Resimlerin sol alt köşesinde bulunan linklerden fotoğrafı çeken kişinin 50
 
 {% include picture.html image_id="/images/galeri/leoti-supercell.png" imagealt="500px.com'da Jay Bell tarafından Leoti Supercell Panorama 1" %}
 
-[500px.com'da Jay Bell tarafından Leoti Supercell Panorama 1](https://500px.com/photo/157298421/leoti-supercell-panorama-1-by-jay-bell){:target="_blank"}
+500px.com'da Jay Bell tarafından Leoti Supercell Panorama 1
 
 * * * 
 

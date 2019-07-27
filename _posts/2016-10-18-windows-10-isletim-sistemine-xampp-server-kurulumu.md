@@ -50,5 +50,5 @@ Diğer videoda Sanal Server'a WordPress kurulumunu yapacağız.
 
 * * *
 
-<a href="https://dl.dropboxusercontent.com/s/zgwnb0glj4w1ww9/001-windows-10-isletim-sistemine-xampp-server-kurulumu.mp3"><i class="icon icon-download"></i> Ücretsiz İndir</a>
+<a href="https://dl.dropboxusercontent.com/s/rba8typyinmh4dc/02-xampp-server-kurulumu.mp3"><i class="icon icon-download"></i> Ücretsiz İndir</a>
 
