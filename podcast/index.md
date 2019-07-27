@@ -30,6 +30,7 @@ Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2JWYBZt)
 [![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/313g1cz)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2YkVhej)
+[![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/2Yu4tRY)
 
 ---
 
@@ -46,6 +47,7 @@ Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Y96TGb)
 [![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/2Gx7mY5)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/30ZlaCc)
+[![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/318u3d1)
 
 ---
 
@@ -62,6 +64,7 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Mi2f1l)
 [![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/2YqFhMe)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2LIVKVZ)
+[![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/312jkRk)
 
 ---
 
@@ -78,6 +81,7 @@ Alev Alatlı'nın sunumuyla 'Tarih Tekerrür ve Ekonomik Krizler' programının 
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Ze4xT5)
 [![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/2Gy8ASR)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2SJj4U9)
+[![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/2LKDICO)
 
 ---
 
@@ -94,6 +98,7 @@ Dursun Gürlek'in sunumuyla Tarih ve Mekan.
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2GA6rpM)
 [![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/32R0MoB)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2YaeK6s)
+[![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/32U9C59)
 
 ---
 
@@ -110,6 +115,7 @@ En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzer
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Oje4aj)
 [![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/2ylZX9b)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2JVmccF)
+[![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/2yeh6BP)
 
 
 <style>
