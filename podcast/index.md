@@ -25,6 +25,7 @@ Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2FLkB7g)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2U7SsQL)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2KZFNJQ)
+[![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/2yrDesJ)
 
 ---
 
@@ -36,6 +37,7 @@ Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2uQ0U8g)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2ZuxwBB)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2XlMlcn)
+[![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/32WNjLW)
 
 ---
 
@@ -47,6 +49,7 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2CS9nMr)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2JT3JzG)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2KcCi3Z)
+[![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/32VuclC)
 
 ---
 
@@ -58,6 +61,7 @@ Alev Alatlı'nın sunumuyla 'Tarih Tekerrür ve Ekonomik Krizler' programının 
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2Lf6g6g)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/31OSqgS)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
+[![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/2OhDhlh)
 
 ---
 
@@ -69,6 +73,7 @@ Dursun Gürlek'in sunumuyla Tarih ve Mekan.
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2IKXb3u)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2Ky50vm)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
+[![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/2YackEU)
 
 ---
 
@@ -80,6 +85,7 @@ En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzer
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2COm8aM)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2U86xNV)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2TKrPMD)
+[![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/32WqZC7)
 
 
 <style>
