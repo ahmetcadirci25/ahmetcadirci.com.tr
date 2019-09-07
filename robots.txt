@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /search/?q=
 Allow: /
 
 Sitemap: https://ahmetcadirci.com.tr/sitemap.xml
