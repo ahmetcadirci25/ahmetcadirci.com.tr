@@ -17,6 +17,7 @@ Bu rehberde neler var önce onların listesini sizlere sunmak istiyorum.
 ## Popüler Eklenti Listesi
 
 - [Sublime Text 3]({{site.url}}/sublime-text-3/#sublime-text-3-kurulumu)
+- [Sublime Merge]({{site.url}}/sublime-text-3/#sublime-merge-kurulumu)
 - [Package Control]({{site.url}}/sublime-text-3/#package-control-kurulumu)
 - [Emmet]({{site.url}}/sublime-text-3/#emmet-kurulumu)
 - [Sidebar Enhancements]({{site.url}}/sublime-text-3/#sidebar-enhancements-kurulumu)
@@ -34,6 +35,7 @@ Bu rehberde neler var önce onların listesini sizlere sunmak istiyorum.
 - [Color​Picker]({{site.url}}/sublime-text-3/#colorpicker-kurulumu)
 - [j​Query]({{site.url}}/sublime-text-3/#jquery-kurulumu)
 - [Git]({{site.url}}/sublime-text-3/#git-kurulumu)
+- [SFTP]({{site.url}}/sublime-text-3/#sftp-kurulumu)
 - [FTPSync]({{site.url}}/sublime-text-3/#ftpsync-kurulumu)
 - [DocBlockr]({{site.url}}/sublime-text-3/#docblockr-kurulumu)
 - [HTML-CSS-JS Prettify]({{site.url}}/sublime-text-3/#html-css-js-prettify-kurulumu)
@@ -47,6 +49,7 @@ Bu rehberde neler var önce onların listesini sizlere sunmak istiyorum.
 - [GitGutter]({{site.url}}/sublime-text-3/#gitgutter-kurulumu)
 - [Bootstrap 3 Autocomplete]({{site.url}}/sublime-text-3/#bootstrap-3-autocomplete-kurulumu)
 - [Bootstrap 4 Autocomplete]({{site.url}}/sublime-text-3/#bootstrap-4-autocomplete-kurulumu)
+- [Bootstrap 4x Autocomplete]({{site.url}}/sublime-text-3/#bootstrap-4x-autocomplete-kurulumu)
 - [Google Search]({{site.url}}/sublime-text-3/#google-search-kurulumu)
 - [CSS3]({{site.url}}/sublime-text-3/#css3-kurulumu)
 - [AdvancedNewFile]({{site.url}}/sublime-text-3/#advancednewfile-kurulumu)
@@ -54,6 +57,15 @@ Bu rehberde neler var önce onların listesini sizlere sunmak istiyorum.
 - [YUI Compressor]({{site.url}}/sublime-text-3/#scss-kurulumu)
 - [Autoprefixer]({{site.url}}/sublime-text-3/#autoprefixer-kurulumu)
 - [Plain​Tasks]({{site.url}}/sublime-text-3/#plaintasks-kurulumu)
+- [Minify]({{site.url}}/sublime-text-3/#minify-kurulumu)
+- [rem-unit]({{site.url}}/sublime-text-3/#rem-unit-kurulumu)
+- [Carbon]({{site.url}}/sublime-text-3/#carbon-kurulumu)
+- [GitHub Markdown Snippets]({{site.url}}/sublime-text-3/#github-markdown-snippets-kurulumu)
+- [Terminal]({{site.url}}/sublime-text-3/#terminal-kurulumu)
+- [OpenFilesLister]({{site.url}}/sublime-text-3/#openfileslister-kurulumu)
+- [Browser Sync]({{site.url}}/sublime-text-3/#browser-sync-kurulumu)
+- [Comment-Snippets]({{site.url}}/sublime-text-3/#comment-snippets-kurulumu)
+- [Package​Sync]({{site.url}}/sublime-text-3/#packagesync-kurulumu)
 
 Eklentilerin tamamı popüler olan ve hızlı kod yazmanıza ve daha sistematik kullanmanıza olanak sağlar.
 
