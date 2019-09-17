@@ -22,7 +22,7 @@ FeedBurner hesabınızdaki beslemeleri nasıl güncel hale getirebilirim. Feed d
 
 ### FeedBurner Ping Nasıl Yapılır?
 
-1. [https://feedburner.google.com/fb/a/ping](https://feedburner.google.com/fb/a/ping){:target="_blank"} linke tıklayın
+1. [https://feedburner.google.com/fb/a/ping](https://feedburner.google.com/fb/a/ping){:target="_blank"}{:rel="nofollow noopener noreferrer"} linke tıklayın
 
 2. **Web site address:** kısmına [{{site.url}}]({{site.url}}){:target="_blank"} gibi domain (alan adı) adresinizi yazın.
 

@@ -78,8 +78,8 @@ localhost , o anda kullanılan bilgisayarı, veya sahip olduğu ip adresini beli
 
 ##### Dış bağlantılar
 
-1. [XAMPP](https://tr.wikipedia.org/wiki/XAMPP){:target="_blank"}
-2. [Localhost](https://tr.wikipedia.org/wiki/Localhost){:target="_blank"}
-3. [XAMPP Resmi Sitesi](https://www.apachefriends.org/tr/download.html){:target="_blank"}
-4. [RFC 3330](https://tools.ietf.org/html/rfc3330){:target="_blank"} "Special-Use IPv4 Addresses"
-5. [RFC 3513](https://tools.ietf.org/html/rfc3513){:target="_blank"} "Internet Protocol Version 6 (IPv6) Addressing Architecture"
+1. [XAMPP](https://tr.wikipedia.org/wiki/XAMPP){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+2. [Localhost](https://tr.wikipedia.org/wiki/Localhost){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+3. [XAMPP Resmi Sitesi](https://www.apachefriends.org/tr/download.html){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+4. [RFC 3330](https://tools.ietf.org/html/rfc3330){:target="_blank"}{:rel="nofollow noopener noreferrer"} "Special-Use IPv4 Addresses"
+5. [RFC 3513](https://tools.ietf.org/html/rfc3513){:target="_blank"}{:rel="nofollow noopener noreferrer"} "Internet Protocol Version 6 (IPv6) Addressing Architecture"

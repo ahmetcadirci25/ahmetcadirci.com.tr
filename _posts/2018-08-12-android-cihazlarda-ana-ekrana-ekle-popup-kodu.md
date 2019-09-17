@@ -12,7 +12,7 @@ Ana ekrana ekle (veya kısaca A2HS), akıllı telefon tarayıcılarında bulunan
 
 **Bu kodun çalışabilmesi için sitenizin HTTPS'li olması gerekir.**
 
-*[Linke](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases/tag/v2){:target="_blank"} tıklayın ve sizin için hazırlamış olduğum dosyaları indirin.*
+*[Linke](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases/tag/v2){:target="_blank"}{:rel="nofollow noopener noreferrer"} tıklayın ve sizin için hazırlamış olduğum dosyaları indirin.*
 
 ## İçindekiler
 
@@ -155,8 +155,8 @@ Yukarıdaki adımları tamamladıkta sonra dosyaları sunucunuza yükleyin. Daha
 
 ### 7. Dosyalar
 
-2. Zip [https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases/tag/v2](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases/tag/v2){:target="_blank"}
-1. Repo [https://github.com/ahmetcadirci25/ana-ekrana-ekle](https://github.com/ahmetcadirci25/ana-ekrana-ekle){:target="_blank"}
+2. Zip [https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases/tag/v2](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases/tag/v2){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+1. Repo [https://github.com/ahmetcadirci25/ana-ekrana-ekle](https://github.com/ahmetcadirci25/ana-ekrana-ekle){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 2. Önizleme [{{site.url}}]({{site.url}}){:target="_blank"}
 
 #### Fikir

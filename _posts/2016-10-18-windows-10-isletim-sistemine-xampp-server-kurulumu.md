@@ -24,7 +24,7 @@ Bunun için bize yardımcı olacak olan XAMP Server'ı bilgisayarımızda indiri
 
 Linkten programı indirebilirsiniz.
 
-[https://www.apachefriends.org/](https://www.apachefriends.org/){:target="_blank"}
+[https://www.apachefriends.org/](https://www.apachefriends.org/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 Daha sonra "Setup" ekranında yer alan "Next" tuşuna basıyoruz.
 

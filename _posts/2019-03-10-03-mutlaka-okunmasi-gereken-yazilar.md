@@ -27,7 +27,7 @@ comments   : true
 
 "İçinde şükür olmayan her nimet sadece bu dünyanın lezzetidir; içinde sabır olmayan her şiddet ve mihnet ebedî ziyandır; içinde ilim ve ihlâs olmayan her itaat ise hayatı rüzgâra savurmaktır. Bana kibir getiren itaatten bîzarım, yakınırım, beni özre getirecek günahın kölesiyim. İnkâr etme, çünkü inkâr etmek kötüdür, inkâr eden bu işten mahrumdur."
 
-[Tamamını Oku](https://ahmetcadirci.com.tr/2018/nasihatler/){:target="_blank"}{:class="tags__link"}
+[Tamamını Oku](https://ahmetcadirci.com.tr/2018/nasihatler/){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 
 ### #02 Köle Beslemek mi? İşçi Çalıştırmak mı? Hangisi Daha Ucuz?
@@ -42,7 +42,7 @@ comments   : true
 
 "Şer’î hukukta kölelik, harb hâlinden kaynaklanan bir zarurettir. Harb esirleri, eğer fidye karşılığı serbest bırakma imkânı yoksa, mütekabiliyet (karşılıklılık) şartıyla köle yapılır. Hür ile köle, Allah huzurunda eşittir. Ancak kölelerin sosyal ve hukukî statüleri muayyen şekilde tahdid edilmiştir."
 
-[Tamamını Oku](http://bit.ly/2Hq7dqG){:target="_blank"}{:class="tags__link"}
+[Tamamını Oku](http://bit.ly/2Hq7dqG){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 ### #03 Alev Alatlı: Çocuklarımıza Dünya Okur-Yazarlığı Kazandırmalıyız
 
@@ -54,7 +54,7 @@ comments   : true
 
 "Beni Alev Alatlı ile mutfak sohbetlerini videolu yapmaya iten sebeplerin başında bu ortamın doğallığı geliyor. Böyle ortamlarda her şey organik, stüdyonun yapaylığı da yok. Hamaset, peşrev filan da mutfağa giremiyor. Bizim yıllarca yaptığımız mutfakta akan sohbetlerden birisinde yapımcılığım tuttu, organikliğini bozmadan sohbeti video kaydına aldık. Yemek yapmadık ama bir dahaki sefere yapmayı planlıyoruz."
 
-[Tamamını Oku](http://bit.ly/2HpnonY){:target="_blank"}{:class="tags__link"}
+[Tamamını Oku](http://bit.ly/2HpnonY){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 ### #04 Türkiye'den Bir Muhammed Ali Çıkar Mıydı?
 
@@ -66,7 +66,7 @@ comments   : true
 
 "Tarihinin bu en sıradışı boksörü, bu sporun o döneme dek kökleşmiş bütün geleneklerini altüst etmişti. Ayaklarını yere sağlam basmak yerine ringde bir step dansçısı gibi sekiyor, yüz ve bedenini korumak için gardını sağlam tutmak yerine kollarını iki yana indirerek rakiplerini tahrik ediyordu. Avını tuzağına çeken bir avcı gibi."
 
-[Tamamını Oku](http://bit.ly/2HpzA8n){:target="_blank"}{:class="tags__link"}
+[Tamamını Oku](http://bit.ly/2HpzA8n){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 ### #05 Hürri̇yet Geyi̇ği̇ ve Öldürüen Basın Hürri̇yeti̇
 
@@ -84,6 +84,6 @@ comments   : true
 
 "Ama daha ziyade yanında gezdirdiği geyik, alaka çekmişti. Güya dağa çıktığı sırada, peşine bir geyik takılıyor; bu “hürriyet fedaileri”nin yanından ayrılmıyor. “Gazâl-ı Hürriyet”, yani Hürriyet Geyiği adını verdikleri bu zavallı hayvan, Jön Türk isyanının sembolü oluveriyor. Nereye gitse yanında götürür; çektirdiği resimlerde yanından ayırmazdı. O devre ait Meşrutiyet kartpostallarında, Niyazi ve geyiği hep yan yanadır."
 
-[Tamamını Oku](http://bit.ly/2HuBTGW){:target="_blank"}{:class="tags__link"}
+[Tamamını Oku](http://bit.ly/2HuBTGW){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 **Sizde beğendiniz yazıları benimle paylaşabilirsiniz.**

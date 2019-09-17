@@ -22,7 +22,7 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 
 1. App Store'a giriş yapıyoruz.
 2. Arama çubuğuna **Vida+** yazıyoruz.
-3. **[Vida+](https://apple.co/2JcbUG5){:target="_blank"}** uygulamasını indiriyoruz.
+3. **[Vida+](https://apple.co/2JcbUG5){:target="_blank"}{:rel="nofollow noopener noreferrer"}** uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
 
 #### Kurulum Videosu 
@@ -76,7 +76,7 @@ Kurulum videosunda AppStore arama kutucuğuna **Vida+** yazmayı unutmayın.
 
 1. App Store'a giriş yapıyoruz.
 2. Arama çubuğuna **Total Files** yazıyoruz.
-3. **[Total Files](https://apple.co/2ItdbYZ){:target="_blank"}** uygulamasını indiriyoruz.
+3. **[Total Files](https://apple.co/2ItdbYZ){:target="_blank"}{:rel="nofollow noopener noreferrer"}** uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
 
 #### İndirme Videosu
@@ -104,13 +104,13 @@ Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhon
 
 *Kestirmeler (Shortcuts) uygulaması, favori uygulamalarınızla kullanabileceğiniz birden fazla adım içeren özel kestirmeler oluşturmanıza olanak sağlar. Kestirme, uygulamalarınızla bir veya daha fazla görevi gerçekleştirmenin hızlı bir yoludur. Kestirmeler uygulaması, birden fazla adım içeren kendi kestirmelerinizi oluşturmanıza olanak sağlar.*
 
-**[App Store'dan Kestirmeler uygulamasını edinin](https://apple.co/2Gw74B1){:target="_blank"}**
+**[App Store'dan Kestirmeler uygulamasını edinin](https://apple.co/2Gw74B1){:target="_blank"}{:rel="nofollow noopener noreferrer"}**
 
 **Kestirmeler**
-- [YouTube Video İndirme](http://bit.ly/2UJ0RKG){:target="_blank"}
-- [Direkt URL İndirme](http://bit.ly/2vdHaLO){:target="_blank"}
-- [Instagram Fotoğraf İndirme](http://bit.ly/2GverZw){:target="_blank"}
-- [Instagram Video İndirme](http://bit.ly/2Zkete0){:target="_blank"}
+- [YouTube Video İndirme](http://bit.ly/2UJ0RKG){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [Direkt URL İndirme](http://bit.ly/2vdHaLO){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [Instagram Fotoğraf İndirme](http://bit.ly/2GverZw){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [Instagram Video İndirme](http://bit.ly/2Zkete0){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 **Not**
 

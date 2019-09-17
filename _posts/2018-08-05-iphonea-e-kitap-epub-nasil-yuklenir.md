@@ -12,9 +12,9 @@ iPhone, iPad ve iPod cihazımıza herhangi bir e-kitap uygulaması kurmadan mevu
 
 ## E-Kitap Nasıl Yüklenir?
 
-1. [https://drive.google.com/](https://drive.google.com/) adresine giriş yapın.
+1. [https://drive.google.com/](https://drive.google.com/){:target="_blank"}{:rel="nofollow noopener noreferrer"} adresine giriş yapın.
 2. **EPUB** uzantılı kitabı **Google Drive**'a yükleyin.
-3. [Google Drive](https://itunes.apple.com/us/app/google-drive/id507874739?mt=8) uygulamasını telefonunuza indirin.
+3. [Google Drive](https://itunes.apple.com/us/app/google-drive/id507874739?mt=8){:target="_blank"}{:rel="nofollow noopener noreferrer"} uygulamasını telefonunuza indirin.
 4. Google Hesabınızla giriş yapın. 
 
 ## **EPUB** Uzantılı Kitabı **Kitaplar** (Books) Uygulamasına Nasıl Aktarılır?
@@ -23,7 +23,7 @@ Adımları aşağıda yer alan resme tıklayarak detaylı bir şekilde görebili
 
 {% include picture.html image_id="/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png" imagealt="EPUB Uzantılı Kitabı Kitaplar Books Uygulamasına Nasıl Aktarılır?" link="/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png" %}
 
-*Resmi büyütmek için [tıklayın]({{site.url}}/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png){:target="_blank"}*
+*Resmi büyütmek için [tıklayın]({{site.url}}/images/galeri/e-pub-uzantili-kitabi-kitaplar-books-uygulamasina-nasil-aktarilir.png){:target="_blank"}{:rel="nofollow noopener noreferrer"}*
 
 1. **Google Drive** uygulamasını açın.
 2. Yüklediğiniz **EPUB** uzantılı kitabın sağında yer alan **üç noktaya** tıklayın.
@@ -35,9 +35,9 @@ Adımları aşağıda yer alan resme tıklayarak detaylı bir şekilde görebili
 
 ## PDF Dosya Nasıl Yüklenir?
 
-1. [https://drive.google.com/](https://drive.google.com/) adresine giriş yapın.
+1. [https://drive.google.com/](https://drive.google.com/){:target="_blank"}{:rel="nofollow noopener noreferrer"} adresine giriş yapın.
 2. **PDF** uzantılı kitabı **Google Drive**'a yükleyin.
-3. [Google Drive](https://itunes.apple.com/us/app/google-drive/id507874739?mt=8) uygulamasını telefonunuza indirin.
+3. [Google Drive](https://itunes.apple.com/us/app/google-drive/id507874739?mt=8){:target="_blank"}{:rel="nofollow noopener noreferrer"} uygulamasını telefonunuza indirin.
 4. Google Hesabınızla giriş yapın. 
 
 ## **PDF** Uzantılı Dosya **Kitaplar** (Books) Uygulamasına Nasıl Aktarılır?

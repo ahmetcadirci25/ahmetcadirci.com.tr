@@ -10,7 +10,7 @@ comments   : true
 
 > Adobe Premiere CC kullanırken daha verimli çalışmak için klavye kısayollarını kullanın.
 
-Premiere kısayollarını buradan indirin. [http://bit.ly/PeachyShortcuts](http://bit.ly/PeachyShortcuts){:target="_blank"}
+Premiere kısayollarını buradan indirin. [http://bit.ly/PeachyShortcuts](http://bit.ly/PeachyShortcuts){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### Adobe Premiere CC Klavye Kısayolları Kurulumu
 

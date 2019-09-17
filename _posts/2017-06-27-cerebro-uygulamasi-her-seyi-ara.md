@@ -10,7 +10,7 @@ comments   : true
 
 Cerebro uygulamasıyla bir kaç tıkla her şeyi aramaya başlayın. Açık kaynaklı ve hızlı uygulamayı hemen indirin. 
 
-[Cerebro App](https://cerebroapp.com/){:target="_blank"} web sayfasından işletim sistemize uygun olanı seçerek indirme işlemini başlatın. Kurulumu son derece basit tek tıklamayla otomatik kurulum işlemi gerçekleşiyor. 
+[Cerebro App](https://cerebroapp.com/){:target="_blank"}{:rel="nofollow noopener noreferrer"} web sayfasından işletim sistemize uygun olanı seçerek indirme işlemini başlatın. Kurulumu son derece basit tek tıklamayla otomatik kurulum işlemi gerçekleşiyor. 
 
 Kurulum tamamlandıktan sonra ufak bir testle başlayalım. Klavyeden `ctrl+space` tuşlarına basın. Karşınıza arama ekranı çıkacak. Menü çubuğundaki → preferences'a tıklayarak bu kısayolu özelleştirebilirsiniz. 
 
@@ -22,7 +22,7 @@ Kurulum tamamlandıktan sonra ufak bir testle başlayalım. Klavyeden `ctrl+spac
 
 Eklenti listesine aşağıdaki linkten ulaşabilirsiniz.
 
-[https://github.com/lubien/awesome-cerebro](https://github.com/lubien/awesome-cerebro){:target="_blank"} 
+[https://github.com/lubien/awesome-cerebro](https://github.com/lubien/awesome-cerebro){:target="_blank"}{:rel="nofollow noopener noreferrer"} 
 
 **Bir kaç deneme yapalım 🤠**
 

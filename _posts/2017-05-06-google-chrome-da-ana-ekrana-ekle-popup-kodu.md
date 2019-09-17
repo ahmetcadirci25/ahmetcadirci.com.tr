@@ -12,7 +12,7 @@ Android cihazda Chrome kullanarak ziyaret ettiğiniz web sitelerinde önünüze 
 
 <p style="background: red;padding: 2rem; border-radius: .5rem;"><a href="{{site.url}}/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/" style="color: white;"> UYARI!!! <br> BURADA YAPACAĞIN İŞLEMLER ÇALIŞMAYACAKTIR! <br> YENİ YAZIYA GÖZ ATMAK İÇİ TIKLAYIN.</a></p>
 
-**[Linke](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases/tag/v1){:target="_blank"} tıklayın ve sizin için hazırlamış olduğum dosyaları indirin.**
+**[Linke](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases/tag/v1){:target="_blank"}{:rel="nofollow noopener noreferrer"} tıklayın ve sizin için hazırlamış olduğum dosyaları indirin.**
 
 ### 1. Adım Logo Düzenleme
 
@@ -98,7 +98,7 @@ Web sayfanızda yer alan `<head>` etiketleri arasına aşağıdaki kodu yapışt
 </script>
 ```
 
-**[Index](https://github.com/ahmetcadirci25/ana-ekrana-ekle/blob/gh-pages/index.html){:target="_blank"} dosyasının son hali bu şekilde olmalıdır.**
+**[Index](https://github.com/ahmetcadirci25/ana-ekrana-ekle/blob/gh-pages/index.html){:target="_blank"}{:rel="nofollow noopener noreferrer"} dosyasının son hali bu şekilde olmalıdır.**
 
 ### 4. Adım Test
 
@@ -115,7 +115,7 @@ Ana ekrana eklendikten sonra açılış ekranı
 **Popupu test etmek için kullanışlı araçlar:**
 
 1. Adım Android cihazından Google Chrome'mu açın ve web sitenizi ziyaret edin. Eğer yukarıdaki gibi ekran görüntüsü ile karşılaşıyorsanız doğru bir işlem gerçekleştirmişsinizdir.
-2. Popup çalışmıyorsa URL'nizi manifest.json doğrulayıcıda test edin: [https://manifest-validator.appspot.com/](https://manifest-validator.appspot.com/){:target="_blank"}
+2. Popup çalışmıyorsa URL'nizi manifest.json doğrulayıcıda test edin: [https://manifest-validator.appspot.com/](https://manifest-validator.appspot.com/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 3. Popup çalışmıyorsa Chrome'daki kullanıcı Geliştirici araçlarını inceleyin ve Uygulamalar sekmesine bakın. Hizmetler ve Manifest'i kontrol edin, aşağıdaki gibi görünmelidir.
 
 {% include picture.html image_id="/images/galeri/google-chrome-da-ana-ekrana-ekle-popup-kodu-1.png" imagealt="Google Chrome'da Ana Ekrana Ekle Popup Kodu" %}
@@ -126,9 +126,9 @@ Ana ekrana eklendikten sonra açılış ekranı
 
 ### 5. Dosyalar
 
-1. Repo [https://github.com/ahmetcadirci25/ana-ekrana-ekle](https://github.com/ahmetcadirci25/ana-ekrana-ekle){:target="_blank"}
-2. Zip [https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases){:target="_blank"}
-2. Önizleme [{{site.url}}/ana-ekrana-ekle/]({{site.url}}/ana-ekrana-ekle/){:target="_blank"}
+1. Repo [https://github.com/ahmetcadirci25/ana-ekrana-ekle](https://github.com/ahmetcadirci25/ana-ekrana-ekle){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+2. Zip [https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases](https://github.com/ahmetcadirci25/ana-ekrana-ekle/releases){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+2. Önizleme [{{site.url}}/ana-ekrana-ekle/]({{site.url}}/ana-ekrana-ekle/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 #### Bibliyografya:
 

@@ -30,125 +30,109 @@ comments   : true
 *Bir .onion alan adı, yalnızca Tor tarayıcısı aracılığıyla erişilebilen web site adresidir. Chrome, Firefox ve Opera gibi tarayıcılar, kullanıcıları tor web sitelerine girişini engeller.* **Tor tarayıcısının nasıl kurulduğunu öğrenmek için [tıklayın]({{site.url}}/2018/onion-uzantili-tor-sitesi-nasil-kurulur/#tor-tarayıcısı-nasıl-kurulur).**
 
 ### Tor Ağ Arama Motorları
-- [http://haystakvxad7wbk5.onion/](http://haystakvxad7wbk5.onion/){:target="_blank"}
-- [http://gjobqjj7wyczbqie.onion/](http://gjobqjj7wyczbqie.onion/){:target="_blank"}
-- [http://grams7ebnju7gwjl.onion/](http://grams7ebnju7gwjl.onion/){:target="_blank"}
-- [http://hss3uro2hsxfogfq.onion/](http://hss3uro2hsxfogfq.onion/){:target="_blank"}
-- [http://xmh57jrzrnw6insl.onion/](http://xmh57jrzrnw6insl.onion/){:target="_blank"}
-- [http://3bbaaaccczcbdddz.onion/](http://3bbaaaccczcbdddz.onion/){:target="_blank"}
+- [http://haystakvxad7wbk5.onion/](http://haystakvxad7wbk5.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://gjobqjj7wyczbqie.onion/](http://gjobqjj7wyczbqie.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://grams7ebnju7gwjl.onion/](http://grams7ebnju7gwjl.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://hss3uro2hsxfogfq.onion/](http://hss3uro2hsxfogfq.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://xmh57jrzrnw6insl.onion/](http://xmh57jrzrnw6insl.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://3bbaaaccczcbdddz.onion/](http://3bbaaaccczcbdddz.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### İnternet Arama Motorları
-- [https://3g2upl4pq6kufc4m.onion/](https://3g2upl4pq6kufc4m.onion/){:target="_blank"}
-- [http://ulrn6sryqaifefld.onion/](http://ulrn6sryqaifefld.onion/){:target="_blank"}
-- [http://uj3wazyk5u4hnvtk.onion/](http://uj3wazyk5u4hnvtk.onion/){:target="_blank"}
+- [https://3g2upl4pq6kufc4m.onion/](https://3g2upl4pq6kufc4m.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://ulrn6sryqaifefld.onion/](http://ulrn6sryqaifefld.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://uj3wazyk5u4hnvtk.onion/](http://uj3wazyk5u4hnvtk.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### Güvenlik ve Gizlilik
-- [http://ic6au7wa3f6naxjq.onion/](http://ic6au7wa3f6naxjq.onion/){:target="_blank"}
-- [http://elx57ue5uyfplgva.onion/](http://elx57ue5uyfplgva.onion/){:target="_blank"}
-- [https://privacyintyqcroe.onion/](https://privacyintyqcroe.onion/){:target="_blank"}
-- [http://pgpkeysximvxiazm.onion/](http://pgpkeysximvxiazm.onion/){:target="_blank"}
-- [http://bpo4ybbs2apk4sk4.onion/en/](http://bpo4ybbs2apk4sk4.onion/en/){:target="_blank"}
-- [http://obrrsrw6b3rjuibx.onion/](http://obrrsrw6b3rjuibx.onion/){:target="_blank"}
-- [http://expyuzz4wqqyqhjn.onion/](http://expyuzz4wqqyqhjn.onion/){:target="_blank"}
-- [http://kkkkkkkkkk63ava6.onion/wiki/The_World_Wide_Web_And_Your_Privacy](http://kkkkkkkkkk63ava6.onion/wiki/The_World_Wide_Web_And_Your_Privacy){:target="_blank"}
+- [http://ic6au7wa3f6naxjq.onion/](http://ic6au7wa3f6naxjq.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [https://privacyintyqcroe.onion/](https://privacyintyqcroe.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://pgpkeysximvxiazm.onion/](http://pgpkeysximvxiazm.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://bpo4ybbs2apk4sk4.onion/en/](http://bpo4ybbs2apk4sk4.onion/en/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://obrrsrw6b3rjuibx.onion/](http://obrrsrw6b3rjuibx.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://expyuzz4wqqyqhjn.onion/](http://expyuzz4wqqyqhjn.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://kkkkkkkkkk63ava6.onion/wiki/The_World_Wide_Web_And_Your_Privacy](http://kkkkkkkkkk63ava6.onion/wiki/The_World_Wide_Web_And_Your_Privacy){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### Not Paylaşım
-- [http://4m6omb3gmrmnwzxi.onion/](http://4m6omb3gmrmnwzxi.onion/){:target="_blank"}
-- [http://felixxxboni3mk4a.onion/felixxx.php?page=pastebin](http://felixxxboni3mk4a.onion/felixxx.php?page=pastebin){:target="_blank"}
-- [http://6zc6sejeho3fwrd4.onion/](http://6zc6sejeho3fwrd4.onion/){:target="_blank"}
-- [http://pastagdsp33j7aoq.onion/](http://pastagdsp33j7aoq.onion/){:target="_blank"}
-- [http://nzxj65x32vh2fkhk.onion/](http://nzxj65x32vh2fkhk.onion/){:target="_blank"}
-- [http://zerobinqmdqd236y.onion/](http://zerobinqmdqd236y.onion/){:target="_blank"}
+- [http://4m6omb3gmrmnwzxi.onion/](http://4m6omb3gmrmnwzxi.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://felixxxboni3mk4a.onion/felixxx.php?page=pastebin](http://felixxxboni3mk4a.onion/felixxx.php?page=pastebin){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://6zc6sejeho3fwrd4.onion/](http://6zc6sejeho3fwrd4.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://pastagdsp33j7aoq.onion/](http://pastagdsp33j7aoq.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://nzxj65x32vh2fkhk.onion/](http://nzxj65x32vh2fkhk.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://zerobinqmdqd236y.onion/](http://zerobinqmdqd236y.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### Haberler
-- [http://darkweba6le5w52w.onion/](http://darkweba6le5w52w.onion/){:target="_blank"}
-- [http://deepdot35wvmeyd5.onion/](http://deepdot35wvmeyd5.onion/){:target="_blank"}
-- [https://www.nytimes3xbfgragh.onion/](https://www.nytimes3xbfgragh.onion/){:target="_blank"}
-- [https://www.propub3r6espa33w.onion/](https://www.propub3r6espa33w.onion/){:target="_blank"}
+- [https://www.nytimes3xbfgragh.onion/](https://www.nytimes3xbfgragh.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [https://www.propub3r6espa33w.onion/](https://www.propub3r6espa33w.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### E-Posta
-- [http://zsolxunfmbfuq7wf.onion/rc/](http://zsolxunfmbfuq7wf.onion/rc/){:target="_blank"}
-- [https://protonirockerxow.onion/](https://protonirockerxow.onion/){:target="_blank"}
-- [http://clgs64523yi2bkhz.onion/](http://clgs64523yi2bkhz.onion/){:target="_blank"}
-- [http://tt3j2x4k5ycaa5zt.onion/mail/](http://tt3j2x4k5ycaa5zt.onion/mail/){:target="_blank"}
-- [http://cwu7eglxcabwttzf.onion/](http://cwu7eglxcabwttzf.onion/){:target="_blank"}
-- [http://eludemaillhqfkh5.onion/](http://eludemaillhqfkh5.onion/){:target="_blank"}
-- [http://grrmailb3fxpjbwm.onion/](http://grrmailb3fxpjbwm.onion/){:target="_blank"}
+- [http://zsolxunfmbfuq7wf.onion/rc/](http://zsolxunfmbfuq7wf.onion/rc/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [https://protonirockerxow.onion/](https://protonirockerxow.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://clgs64523yi2bkhz.onion/](http://clgs64523yi2bkhz.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://tt3j2x4k5ycaa5zt.onion/mail/](http://tt3j2x4k5ycaa5zt.onion/mail/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://cwu7eglxcabwttzf.onion/](http://cwu7eglxcabwttzf.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://eludemaillhqfkh5.onion/](http://eludemaillhqfkh5.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://grrmailb3fxpjbwm.onion/](http://grrmailb3fxpjbwm.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### Bloglar ve Kişisel Siteler
-- [http://j5xpfsayssg6jbfo.onion/](http://j5xpfsayssg6jbfo.onion/){:target="_blank"}
-- [http://drkhsh5rv6pnahas.onion/](http://drkhsh5rv6pnahas.onion/){:target="_blank"}
-- [http://jamiewebgbelqfno.onion/](http://jamiewebgbelqfno.onion/){:target="_blank"}
-- [http://7tm2lzezyjwtpn2s.onion/](http://7tm2lzezyjwtpn2s.onion/){:target="_blank"}
-- [http://mattttttssi4lhud.onion/](http://mattttttssi4lhud.onion/){:target="_blank"}
+- [http://jamiewebgbelqfno.onion/](http://jamiewebgbelqfno.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### Kütüphaneler
-- [http://r6rfy5zlifbsiiym.onion/series/0021](http://r6rfy5zlifbsiiym.onion/series/0021){:target="_blank"}
-- [http://xfmro77i3lixucja.onion/](http://xfmro77i3lixucja.onion/){:target="_blank"}
-- [http://2bu5puxp6afwjgql.onion/](http://2bu5puxp6afwjgql.onion/){:target="_blank"}
+- [http://r6rfy5zlifbsiiym.onion/series/0021](http://r6rfy5zlifbsiiym.onion/series/0021){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://xfmro77i3lixucja.onion/](http://xfmro77i3lixucja.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://2bu5puxp6afwjgql.onion/](http://2bu5puxp6afwjgql.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### Sosyal Medya
-- [https://www.cyphdbyhiddenbhs.onion/](https://www.cyphdbyhiddenbhs.onion/){:target="_blank"}
-- [http://avengersdutyk3xf.onion/](http://avengersdutyk3xf.onion/){:target="_blank"}
-- [http://dreadditevelidot.onion/](http://dreadditevelidot.onion/){:target="_blank"}
-- [https://www.facebookcorewwwi.onion/](https://www.facebookcorewwwi.onion/){:target="_blank"}
-- [http://answerstedhctbek.onion/](http://answerstedhctbek.onion/){:target="_blank"}
-- [http://bskoid4l5redrw5m.onion/](http://bskoid4l5redrw5m.onion/){:target="_blank"}
-- [http://suprbayoubiexnmp.onion/](http://suprbayoubiexnmp.onion/){:target="_blank"}
-- [http://thehub7xbw4dc5r2.onion/](http://thehub7xbw4dc5r2.onion/){:target="_blank"}
+- [https://www.cyphdbyhiddenbhs.onion/](https://www.cyphdbyhiddenbhs.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://avengersdutyk3xf.onion/](http://avengersdutyk3xf.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [https://www.facebookcorewwwi.onion/](https://www.facebookcorewwwi.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://answerstedhctbek.onion/](http://answerstedhctbek.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://suprbayoubiexnmp.onion/](http://suprbayoubiexnmp.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://thehub7xbw4dc5r2.onion/](http://thehub7xbw4dc5r2.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### Hosting
-- [http://bcloud2suoza3ybr.onion/](http://bcloud2suoza3ybr.onion/){:target="_blank"}
-- [http://filesto37i2x5dea.onion/](http://filesto37i2x5dea.onion/){:target="_blank"}
-- [http://dhosting4okcs22v.onion/](http://dhosting4okcs22v.onion/){:target="_blank"}
-- [http://felixxxboni3mk4a.onion/](http://felixxxboni3mk4a.onion/){:target="_blank"}
-- [http://kowloon5aibdbege.onion/](http://kowloon5aibdbege.onion/){:target="_blank"}
-- [https://container656ovix.onion/](https://container656ovix.onion/){:target="_blank"}
-- [http://popfilesxuru7lsr.onion/](http://popfilesxuru7lsr.onion/){:target="_blank"}
-- [http://5jp7xtmox6jyoqd5.onion/](http://5jp7xtmox6jyoqd5.onion/){:target="_blank"}
-- [http://doavbk5nkdejhuk4.onion/](http://doavbk5nkdejhuk4.onion/){:target="_blank"}
-- [http://twlba5j7oo5g4kj5.onion/](http://twlba5j7oo5g4kj5.onion/){:target="_blank"}
+- [http://bcloud2suoza3ybr.onion/](http://bcloud2suoza3ybr.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://filesto37i2x5dea.onion/](http://filesto37i2x5dea.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://dhosting4okcs22v.onion/](http://dhosting4okcs22v.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://felixxxboni3mk4a.onion/](http://felixxxboni3mk4a.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://kowloon5aibdbege.onion/](http://kowloon5aibdbege.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [https://container656ovix.onion/](https://container656ovix.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://popfilesxuru7lsr.onion/](http://popfilesxuru7lsr.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://5jp7xtmox6jyoqd5.onion/](http://5jp7xtmox6jyoqd5.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://twlba5j7oo5g4kj5.onion/](http://twlba5j7oo5g4kj5.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### İşletim Sistemleri
-- [http://sejnfjrq6szgca7v.onion/](http://sejnfjrq6szgca7v.onion/){:target="_blank"}
-- [http://qubesosmamapaxpa.onion/](http://qubesosmamapaxpa.onion/){:target="_blank"}
-- [http://kkkkkkkkkk63ava6.onion/](http://kkkkkkkkkk63ava6.onion/){:target="_blank"}
+- [http://sejnfjrq6szgca7v.onion/](http://sejnfjrq6szgca7v.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://kkkkkkkkkk63ava6.onion/](http://kkkkkkkkkk63ava6.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### Güvenlik
-- [http://33y6fjyhs3phzfjj.onion/](http://33y6fjyhs3phzfjj.onion/){:target="_blank"}
-- [http://intrcept32ncblef.onion/](http://intrcept32ncblef.onion/){:target="_blank"}
-- [http://5ha7oig7du2jeyer.onion/](http://5ha7oig7du2jeyer.onion/){:target="_blank"}
-- [http://e3v3x57ykz25uvij.onion/](http://e3v3x57ykz25uvij.onion/){:target="_blank"}
+- [http://33y6fjyhs3phzfjj.onion/](http://33y6fjyhs3phzfjj.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://intrcept32ncblef.onion/](http://intrcept32ncblef.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://5ha7oig7du2jeyer.onion/](http://5ha7oig7du2jeyer.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://e3v3x57ykz25uvij.onion/](http://e3v3x57ykz25uvij.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### Bitcoin
-- [http://bitblendervrfkzr.onion/](http://bitblendervrfkzr.onion/){:target="_blank"}
-- [http://bitcloak43blmhmn.onion/](http://bitcloak43blmhmn.onion/){:target="_blank"}
-- [https://blockchainbdgpzk.onion/](https://blockchainbdgpzk.onion/){:target="_blank"}
-- [http://cryptomixns23scr.onion/](http://cryptomixns23scr.onion/){:target="_blank"}
-- [http://eludemaillhqfkh5.onion/mixer](http://eludemaillhqfkh5.onion/mixer){:target="_blank"}
-- [http://tr5ods7ncr6eznny.onion/](http://tr5ods7ncr6eznny.onion/){:target="_blank"}
+- [http://bitcloak43blmhmn.onion/](http://bitcloak43blmhmn.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://cryptomixns23scr.onion/](http://cryptomixns23scr.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://eludemaillhqfkh5.onion/mixer](http://eludemaillhqfkh5.onion/mixer){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://tr5ods7ncr6eznny.onion/](http://tr5ods7ncr6eznny.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### Karışık
-- [https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/){:target="_blank"}
-- [http://expressobutiolem.onion/](http://expressobutiolem.onion/){:target="_blank"}
-- [http://zfu7x4fuagirknhb.onion/](http://zfu7x4fuagirknhb.onion/){:target="_blank"}
-- [http://ngp5wfw5z6ms3ynx.onion/](http://ngp5wfw5z6ms3ynx.onion/){:target="_blank"}
-- [http://jratiejtelswmbov.onion/](http://jratiejtelswmbov.onion/){:target="_blank"}
-- [http://fncuwbiisyh6ak3i.onion/](http://fncuwbiisyh6ak3i.onion/){:target="_blank"}
-- [http://njalladnspotetti.onion/](http://njalladnspotetti.onion/){:target="_blank"}
-- [http://fqnqc7zix2wblwex.onion/](http://fqnqc7zix2wblwex.onion/){:target="_blank"}
-- [http://smspriv6fynj23u6.onion/](http://smspriv6fynj23u6.onion/){:target="_blank"}
-- [http://rougmnvswfsmd4dq.onion/](http://rougmnvswfsmd4dq.onion/){:target="_blank"}
-- [http://ebxqgaz3dwywcoxl.onion/](http://ebxqgaz3dwywcoxl.onion/){:target="_blank"}
-- [http://mvfjfugdwgc5uwho.onion/](http://mvfjfugdwgc5uwho.onion/){:target="_blank"}
+- [https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://expressobutiolem.onion/](http://expressobutiolem.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://zfu7x4fuagirknhb.onion/](http://zfu7x4fuagirknhb.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://ngp5wfw5z6ms3ynx.onion/](http://ngp5wfw5z6ms3ynx.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://fncuwbiisyh6ak3i.onion/](http://fncuwbiisyh6ak3i.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://njalladnspotetti.onion/](http://njalladnspotetti.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://fqnqc7zix2wblwex.onion/](http://fqnqc7zix2wblwex.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://smspriv6fynj23u6.onion/](http://smspriv6fynj23u6.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://rougmnvswfsmd4dq.onion/](http://rougmnvswfsmd4dq.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://ebxqgaz3dwywcoxl.onion/](http://ebxqgaz3dwywcoxl.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://mvfjfugdwgc5uwho.onion/](http://mvfjfugdwgc5uwho.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### Tor Dizinleri
-- [http://cb3robuo3hobodw6.onion/](http://cb3robuo3hobodw6.onion/){:target="_blank"}
-- [http://onionsnjajzkhm5g.onion/](http://onionsnjajzkhm5g.onion/){:target="_blank"}
-- [http://zlal32teyptf4tvi.onion/](http://zlal32teyptf4tvi.onion/){:target="_blank"}
-- [http://soupkso3la22ltl3.onion/](http://soupkso3la22ltl3.onion/){:target="_blank"}
-- [http://underdj5ziov3ic7.onion/](http://underdj5ziov3ic7.onion/){:target="_blank"}
-- [http://visitorfi5kl7q7i.onion/search/](http://visitorfi5kl7q7i.onion/search/){:target="_blank"}
+- [http://cb3robuo3hobodw6.onion/](http://cb3robuo3hobodw6.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://onionsnjajzkhm5g.onion/](http://onionsnjajzkhm5g.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://soupkso3la22ltl3.onion/](http://soupkso3la22ltl3.onion/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [http://visitorfi5kl7q7i.onion/search/](http://visitorfi5kl7q7i.onion/search/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 #### BONUS
 Tor tarayıcısı, anonim olarak internette gezinmek için güçlü ücretsiz araçtır. .onion uzantılı derin ağa (deep web) girmenize olanak sağlar. Bir web sitesi oluşturmak istiyorsanız veya derin ağda (deep web) gezinmek istiyorsanız yazının tamamını okumanızı tavsiye ederim. .onion sitesi oluşturmak istiyorsanız detayları iyi takip etmeniz gerekir. 

@@ -35,7 +35,7 @@ comments   : true
 
 "Çok geçmeden iki genç adamı yanıma getirdiler. Onlarla iş birliği yapmadığım için bana bıçak gösterip, karnıma vurdular ve dövdüler. Daha sonra ikisi de bana tecavüz etti. İstemememe rağmen durmadılar."
 
-[Tamamını Oku](https://bbc.in/2NcH0ee){:target="_blank"}{:class="tags__link"}
+[Tamamını Oku](https://bbc.in/2NcH0ee){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 
 ### #02 İslâm’ın içini boşaltan Müslümanlar
@@ -48,7 +48,7 @@ comments   : true
 
 "Aziz Nesin hafızlık yapmak üzere gönderildiği Kur’ân kursunda yediği dayaklardan sonra dinden soğuduğunu söylemişti. Youtube’ta araştırabilirsiniz İslam dünyasında hâlâ Kur’an kurslarında falakaya yatırılan çocuklar var. Bunlar büyüyünce ve de eğer İslam coğrafyasından dışarı bir yere iltica ederlerse yukarıda bahsettiğim potansiyel birer EX-MUSLIM oluyorlar. Memleketimizde büyük sponsorluklarla kurulan KUR’ÂN merkezi v.b. gibi adlar altında açılan yerler anlamadıkları sahalarda dolaşacaklarına bu Kur’an kursları üzerinde çalışsalar belki İslam’dan kaçışa bir nebze çözüm yolları bulabilirler."
 
-[Tamamını Oku](http://bit.ly/2DHldvN){:target="_blank"}{:class="tags__link"}
+[Tamamını Oku](http://bit.ly/2DHldvN){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 ### #03 Kardeşlik, 'Kardeşim' Dediğin Kişinin Acısını Hissetmektir
 
@@ -62,7 +62,7 @@ comments   : true
 
 "Batı, aynı zamanda bu katliama ortaktır. Çünkü Ermenilere o silahları veren Batı’dır. Batı için Ermeniler kardeş, Ermenistan ise Türk dünyasına açılan bir kapıdır. O yüzden böyle davranmaktadırlar. Batı, Müslümanlar söz konusu olduğunda bu ikiyüzlülüğü her zaman ve her yerde yapmaktadır. Bosnalı Müslümanlar katledilirken de gözlerini kapatıp kulaklarını sağır etti Batı dünyası."
 
-[Tamamını Oku](http://bit.ly/2OtONca){:target="_blank"}{:class="tags__link"}
+[Tamamını Oku](http://bit.ly/2OtONca){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 ### #04 Türkiye'deki Mektup Arkadaşları Sayesinde Dilini Geliştirip Sözlük Yazan Japon: Takeuchi Kazuo
 
@@ -76,7 +76,7 @@ comments   : true
 
 "takeuchi hoca, 90 yaşında ve bugüne kadar yaptıklarını anlatacak olursak, ankara üniversitesi'nde ilk japonca derslerini vermiştir (türkiye'de ilk defa), japonya'dan yüzden fazla kurumda türkçe öğretmiştir ya da türkiye hakkında konuşmalara başkanlık etmiştir. japonya'daki ilk türkçe japonca sözlüğü yazmıştır. bu arada üzerine hala daha doğru düzgün bir sözlük yazılmış değildir. iki sene önce 88 yasında iken japonca türkçe sözlük yazmıştır. uygur türkçesi, kıpçak türkçesi, kazak türkçesi vs. hakkında binlerce makalesi vardır. ilk türkçe gramer kitabını yazmıştır."
 
-[Tamamını Oku](http://bit.ly/2DERSCd){:target="_blank"}{:class="tags__link"}
+[Tamamını Oku](http://bit.ly/2DERSCd){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 ### #05 Neden Kadın Sorunu?
 
@@ -86,6 +86,6 @@ comments   : true
 
 "Anadoluda, kırsal kesimde bir kadının günü nasıl başlıyor ve nasıl bitiyor dersiniz? İlişkileri hâlâ kopmamış, köy kültürünü iyi bilen biri olarak size alatayım ben: Mesela bir yaz günü sabah ezanı okunmadan kadın ayaktadır. İlk iş ocak yakmakla başlar, ateşi bazen komşudan alır/alırdı. (Mevsim kış ise, herifin -ki bu sözcük kabalığı simgelediği için özel olarak seçilmiştir- abdest suyu sıcak olmalıydı ve kadın/ gelin dediğin bunu ihmal edemezdi, büyük saygısızlık olurdu.) Bir taraftan ocak yanarken ve üzerine koyduğu tarhana çorbası pişerken, kadın bir yandan da ahıra inip ineği sağmak ve yavrusunu emzirip, sonra ikisini birden köy meydanına sürüp, buzağıyı dana çobanına, ineği sığır çobanına katmak durumunda idi. Hazır meydana gelmişken, evden koluna takarak getirdiği bakraçları (Bizde helke derler) köy çeşmesinden su ile doldurup her adımla birlikte bir o yana bir bu yana yamularak evin yolunu tutmak, çocukların ya da yaşlıların karıştırmakta olduğu çorbayı hazırlayıp sofraya getirmek için davranması gerekirdi. Eğer yemeğin altı yanmış ya da taşırılmışsa sorumlu elbette kadındı. Çorba leğeninin başına geçirilmesi, çok zayıf bir olasılıktan ibaret değildi. Yemekten sonra herif tarlanın yolunu tutacak, onu hazırlamak elbette kadının sorumluluğunda olacaktı. Sağdığı sütü ödünç vermeyecekse komşuya, onu öncelikle halletmesi, pişirip, süt makinesinde çekmesi yahut mayalayıp yoğurt yapması gibi işler kendisini beklemekteydi. Çok sürmeden azığı hazırlayıp tarlaya herifin yanına gitmek üzere yola koyulacak. Orada bir müddet ona yardım edecek ve uzun yaz günlerinde güneş tam tepeye dikildiğinde yorulmuş ve acıkmış olarak mola verecekler. Herif ağacın serin gölgesine uzanacak, yorgunluğun tadını çıkaracak. Kadıncağız pınardan su getirecek, yoğurdu özeyecek, yemeği hazırlayacak ve herifi buyur edecek. Yemekten sonra bir süre daha çalıştıktan sonra köye yetişecek, gelirken boş gelmesin diye topladığı çalı çırpıyı şelek edip sırtına vuracak, kendisini bekleyen bir sürü işi halletmeye çalışacak. Akşamüzeri dana sürüsü gelecek, arkasından sığır. Yavru, anasını görüp emmeden sütü sağacak, yemeği hazırlayacak, sütü halledecek gündüzden yarım kalan işleri tamamlayacak, hayvanları ahıra dolduracak, sıra evdekilere gelecek, çocukları doyuracak, onları yatıracak ve en sonunda kendisi eğer bir yerde uyuya kalmadıysa yatağa uzanacak ve bundan sonra da herifin özel isteklerine cevap vermeye çalışacak. Haftada bir gün kazan kurup yunak yuyacak, çocukları sırayla çimdirecek, evin genel temizliğini yapacak. Güz günü hasad sonrasında bulgur kaynatacak, tarhana yapacak, bağ bahçe varsa onlara bakacak, sulayacak, çapalayacak, ekecek, biçecek… kendisini ve varsa karnında yavru onu bile unutacak, kimbilir belki tarlada bir çalı dibinde, belki yolda belde çocuğunu doğuracak, kendi kendisinin ebesi olacak, kendi bebesinin göbeğini kesecek… (Bizim komşunun çocuğuna, anası tarlada doğurduğu için tarlacı derdik)."
 
-[Tamamını Oku](http://bit.ly/2R9yBvv){:target="_blank"}{:class="tags__link"}
+[Tamamını Oku](http://bit.ly/2R9yBvv){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 **Sizde beğendiniz yazıları benimle paylaşabilirsiniz.**

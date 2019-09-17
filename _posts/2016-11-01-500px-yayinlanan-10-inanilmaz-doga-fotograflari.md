@@ -16,7 +16,7 @@ Resimlerin sol alt köşesinde bulunan linklerden fotoğrafı çeken kişinin 50
 
 {% include picture.html image_id="/images/galeri/mount-taraki-dagi.png" imagealt="500px.com'da Ronnie Li tarafından Mt Taranaki" %}
 
-[500px.com'da Ronnie Li tarafından Mt Taranaki](https://500px.com/photo/173514057/mt-taranaki-by-ronnie-li){:target="_blank"}
+[500px.com'da Ronnie Li tarafından Mt Taranaki](https://500px.com/photo/173514057/mt-taranaki-by-ronnie-li){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 * * * 
 
@@ -24,7 +24,7 @@ Resimlerin sol alt köşesinde bulunan linklerden fotoğrafı çeken kişinin 50
 
 {% include picture.html image_id="/images/galeri/hobbit-ormani.png" imagealt="500px.com'da Andrea Iorio tarafından Hobbit Forest" %}
 
-[500px.com'da Andrea Iorio tarafından Hobbit Forest](https://500px.com/photo/66676189/hobbit-forest-by-andrea-iorio){:target="_blank"}
+[500px.com'da Andrea Iorio tarafından Hobbit Forest](https://500px.com/photo/66676189/hobbit-forest-by-andrea-iorio){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 * * * 
 
@@ -32,7 +32,7 @@ Resimlerin sol alt köşesinde bulunan linklerden fotoğrafı çeken kişinin 50
 
 {% include picture.html image_id="/images/galeri/yongbi-reservoir.png" imagealt="500px.com'da Tiger Seo tarafından pano_1" %}
 
-[500px.com'da Tiger Seo tarafından pano_1](https://500px.com/photo/173250119/pano-1-by-tiger-seo){:target="_blank"}
+[500px.com'da Tiger Seo tarafından pano_1](https://500px.com/photo/173250119/pano-1-by-tiger-seo){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 * * * 
 
@@ -40,7 +40,7 @@ Resimlerin sol alt köşesinde bulunan linklerden fotoğrafı çeken kişinin 50
 
 {% include picture.html image_id="/images/galeri/entrance.png" imagealt="500px.com'da Tiger Seo tarafından Entrance" %}
 
-[500px.com'da Tiger Seo tarafından Entrance](https://500px.com/photo/163598455/entrance-by-tiger-seo){:target="_blank"}
+[500px.com'da Tiger Seo tarafından Entrance](https://500px.com/photo/163598455/entrance-by-tiger-seo){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 * * * 
 
@@ -48,7 +48,7 @@ Resimlerin sol alt köşesinde bulunan linklerden fotoğrafı çeken kişinin 50
 
 {% include picture.html image_id="/images/galeri/wanaka-agaci.png" imagealt="500px.com'da Ronnie Li tarafından Wanaka tree" %}
 
-[500px.com'da Ronnie Li tarafından Wanaka tree](https://500px.com/photo/174085437/wanaka-tree-by-ronnie-li){:target="_blank"}
+[500px.com'da Ronnie Li tarafından Wanaka tree](https://500px.com/photo/174085437/wanaka-tree-by-ronnie-li){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 * * * 
 
@@ -64,7 +64,7 @@ Resimlerin sol alt köşesinde bulunan linklerden fotoğrafı çeken kişinin 50
 
 {% include picture.html image_id="/images/galeri/tuz-goleti.png" imagealt="500px.com'da Tiger Seo tarafından Salt pond" %}
 
-[500px.com'da Tiger Seo tarafından Salt pond](https://500px.com/photo/102874753/salt-pond-by-tiger-seo){:target="_blank"}
+[500px.com'da Tiger Seo tarafından Salt pond](https://500px.com/photo/102874753/salt-pond-by-tiger-seo){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 * * * 
 
@@ -72,7 +72,7 @@ Resimlerin sol alt köşesinde bulunan linklerden fotoğrafı çeken kişinin 50
 
 {% include picture.html image_id="/images/galeri/magna-mortem.png" imagealt="500px.com'da Josh Wallace tarafından Magna Mortem" %}
 
-[500px.com'da Josh Wallace tarafından Magna Mortem](https://500px.com/photo/78473191/magna-mortem-by-josh-wallace){:target="_blank"}
+[500px.com'da Josh Wallace tarafından Magna Mortem](https://500px.com/photo/78473191/magna-mortem-by-josh-wallace){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 * * * 
 
@@ -80,7 +80,7 @@ Resimlerin sol alt köşesinde bulunan linklerden fotoğrafı çeken kişinin 50
 
 {% include picture.html image_id="/images/galeri/volkan.png" imagealt="500px.com'da Marco Calandra tarafından Inferno" %}
 
-[500px.com'da Marco Calandra tarafından Inferno](https://500px.com/photo/180406451/inferno-by-marco-calandra){:target="_blank"}
+[500px.com'da Marco Calandra tarafından Inferno](https://500px.com/photo/180406451/inferno-by-marco-calandra){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 * * * 
 
@@ -88,7 +88,7 @@ Resimlerin sol alt köşesinde bulunan linklerden fotoğrafı çeken kişinin 50
 
 {% include picture.html image_id="/images/galeri/erozyon.png" imagealt="500px.com'da Lorenzo Nadalini tarafından Erosion" %}
 
-[500px.com'da Lorenzo Nadalini tarafından Erosion](https://500px.com/photo/180742693/erosion-by-lorenzo-nadalini){:target="_blank"}
+[500px.com'da Lorenzo Nadalini tarafından Erosion](https://500px.com/photo/180742693/erosion-by-lorenzo-nadalini){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 * * * 
 
@@ -96,4 +96,4 @@ Resimlerin sol alt köşesinde bulunan linklerden fotoğrafı çeken kişinin 50
 
 {% include picture.html image_id="/images/galeri/nostalji.png" imagealt="500px.com'da Isabella Tabacchi tarafından Nostalgia" %}
 
-[500px.com'da Isabella Tabacchi tarafından Nostalgia](https://500px.com/photo/180748095/nostalgia-by-isabella-tabacchi){:target="_blank"}
+[500px.com'da Isabella Tabacchi tarafından Nostalgia](https://500px.com/photo/180748095/nostalgia-by-isabella-tabacchi){:target="_blank"}{:rel="nofollow noopener noreferrer"}

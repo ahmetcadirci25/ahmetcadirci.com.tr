@@ -59,7 +59,7 @@ hataları düzeltebilmek
 
 {% include picture.html image_id="/images/galeri/arduino-ide.png" imagealt="Arduino IDE" %}
 
-* Son sürümüne [www.arduino.cc](http://www.arduino.cc){:target="_blank"} resmi internet sitesinden ulaşabilirsiniz.
+* Son sürümüne [www.arduino.cc](http://www.arduino.cc){:target="_blank"}{:rel="nofollow noopener noreferrer"} resmi internet sitesinden ulaşabilirsiniz.
 * Tamamen ücretsizdir
 
 #### Gömülü Sistem Nedir?
