@@ -33,7 +33,7 @@ comments   : true
 
 "Çünki, silâhların ve şarjörlerin üzerindeki böyle bir listeyi Tarrant misali caniyi bir tarafa bırakın, en baba bir tarihçinin bile tek başına hazırlaması imkânsızdır!"
 
-[Tamamını Oku](http://bit.ly/2TJR6v9){{:rel="nofollow noopener noreferrer"}:target="_blank"}{:class="tags__link"}
+[Tamamını Oku](http://bit.ly/2TJR6v9){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 
 ### #02 Yeni Zelanda'da Katliam Yapan Manyağın Tarihi Kodları
