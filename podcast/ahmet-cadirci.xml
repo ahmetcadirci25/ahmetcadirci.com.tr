@@ -38,13 +38,13 @@ sitemap: false
     {% for bolum in site.data.ahmet-cadirci %}
       <item>
         <title><![CDATA[{{ bolum.title }}]]></title>
-        <description><![CDATA[{{ bolum.description }} {{ bolum.link }}]]></description>
+        <description><![CDATA[{{ bolum.description }} <a href="{{ bolum.link }}">Ahmet Çadırcı</a>]]></description>
         <link>{{ bolum.link }}</link>
         <guid>{{ bolum.guid }}</guid>
         <pubDate>{{ bolum.pubdate }}</pubDate>
         <enclosure url="{{ bolum.mediaurl }}" length="{{ bolum.length }}" type="{{ bolum.type }}"/>
         <itunes:subtitle><![CDATA[{{ bolum.title }}]]></itunes:subtitle>
-        <itunes:summary><![CDATA[{{ bolum.description }} {{ bolum.link }}]]></itunes:summary>
+        <itunes:summary><![CDATA[{{ bolum.description }} <a href="{{ bolum.link }}">Ahmet Çadırcı</a>]]></itunes:summary>
         <itunes:duration>{{ bolum.duration }}</itunes:duration>
         <media:content url="{{ bolum.mediaurl }}" fileSize="{{ bolum.length }}" type="{{ bolum.type }}"/>
         <itunes:keywords><![CDATA[{{ bolum.keywords }}]]></itunes:keywords>
