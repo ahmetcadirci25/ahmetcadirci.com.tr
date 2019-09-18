@@ -16,14 +16,14 @@ sitemap: false
   <channel>
     <title><![CDATA[{{ site.ahmet-cadirci.title }}]]></title>
     <link>{{ site.ahmet-cadirci.link }}</link>
-    <description><![CDATA[{{ site.ahmet-cadirci.description }} {{ site.ahmet-cadirci.link }}]]></description>
+    <description><![CDATA[{{ site.ahmet-cadirci.description }} <a href="{{ site.ahmet-cadirci.link }}">Ahmet Çadırcı</a>]]></description>
     <language>{{ site.ahmet-cadirci.language }}</language>
     <spotify:countryOfOrigin>{{ site.ahmet-cadirci.spotifycountry }}</spotify:countryOfOrigin>
     <copyright><![CDATA[{{ site.ahmet-cadirci.copyright }}]]></copyright>
     <itunes:subtitle><![CDATA[{{ site.ahmet-cadirci.subtitle }}]]></itunes:subtitle>
     <itunes:author><![CDATA[{{ site.ahmet-cadirci.author }}]]></itunes:author>
-    <itunes:summary><![CDATA[{{ site.ahmet-cadirci.description }} {{ site.ahmet-cadirci.link }}]]></itunes:summary>
-    <itunes:description><![CDATA[{{ site.ahmet-cadirci.description }} {{ site.ahmet-cadirci.link }}]]></itunes:description>
+    <itunes:summary><![CDATA[{{ site.ahmet-cadirci.description }} <a href="{{ site.ahmet-cadirci.link }}">Ahmet Çadırcı</a>]]></itunes:summary>
+    <itunes:description><![CDATA[{{ site.ahmet-cadirci.description }} <a href="{{ site.ahmet-cadirci.link }}">Ahmet Çadırcı</a>]]></itunes:description>
     <itunes:owner>
     <itunes:name><![CDATA[{{ site.ahmet-cadirci.author }}]]></itunes:name>
     <itunes:email><![CDATA[{{ site.ahmet-cadirci.email }}]]></itunes:email>
