@@ -1,12 +1,12 @@
 ---
 layout   	: page
-title    	: Podcast
-description	: "Podcast sayfasında teknolojiden tasavvufa, islamdan günlük konulara kadar kayıtlı sohbetler yer almaktadır."
+title    	: "Türkçe Podcast"
+description	: "Türkçe Podcast sayfasında teknolojiden tasavvufa, islamdan günlük konulara kadar kayıtlı sohbetler yer almaktadır."
 permalink	: /podcast/
 image    	: "/images/ahmetcadirci-wallpaper.jpg"
 ---
 
-<h1 style="font-size: 30px">Podcast</h1>
+<h1 style="font-size: 30px">Türkçe Podcast</h1>
 
 * [Gönül Sadası](#gonul-sadasi)
 * [Gençlerle Başbaşa](#genclerle-basbasa)
