@@ -16,14 +16,14 @@ sitemap: false
   <channel>
     <title><![CDATA[{{ site.ahmet-cadirci.title }}]]></title>
     <link>{{ site.ahmet-cadirci.link }}</link>
-    <description><![CDATA[{{ site.ahmet-cadirci.description }} <a href="{{ site.ahmet-cadirci.link }}">Ahmet Çadırcı</a>]]></description>
+    <description><![CDATA[{{ site.ahmet-cadirci.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.ahmet-cadirci.link }}]]></description>
     <language>{{ site.ahmet-cadirci.language }}</language>
     <spotify:countryOfOrigin>{{ site.ahmet-cadirci.spotifycountry }}</spotify:countryOfOrigin>
     <copyright><![CDATA[{{ site.ahmet-cadirci.copyright }}]]></copyright>
     <itunes:subtitle><![CDATA[{{ site.ahmet-cadirci.subtitle }}]]></itunes:subtitle>
     <itunes:author><![CDATA[{{ site.ahmet-cadirci.author }}]]></itunes:author>
-    <itunes:summary><![CDATA[{{ site.ahmet-cadirci.description }} <a href="{{ site.ahmet-cadirci.link }}">Ahmet Çadırcı</a>]]></itunes:summary>
-    <itunes:description><![CDATA[{{ site.ahmet-cadirci.description }} <a href="{{ site.ahmet-cadirci.link }}">Ahmet Çadırcı</a>]]></itunes:description>
+    <itunes:summary><![CDATA[{{ site.ahmet-cadirci.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.ahmet-cadirci.link }}]]></itunes:summary>
+    <itunes:description><![CDATA[{{ site.ahmet-cadirci.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.ahmet-cadirci.link }}]]></itunes:description>
     <itunes:owner>
     <itunes:name><![CDATA[{{ site.ahmet-cadirci.author }}]]></itunes:name>
     <itunes:email><![CDATA[{{ site.ahmet-cadirci.email }}]]></itunes:email>
@@ -38,13 +38,13 @@ sitemap: false
     {% for bolum in site.data.ahmet-cadirci %}
       <item>
         <title><![CDATA[{{ bolum.title }}]]></title>
-        <description><![CDATA[{{ bolum.description }} <a href="{{ bolum.link }}">Ahmet Çadırcı</a>]]></description>
+        <description><![CDATA[{{ bolum.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ bolum.link }}]]></description>
         <link>{{ bolum.link }}</link>
         <guid>{{ bolum.guid }}</guid>
         <pubDate>{{ bolum.pubdate }}</pubDate>
         <enclosure url="{{ bolum.mediaurl }}" length="{{ bolum.length }}" type="{{ bolum.type }}"/>
         <itunes:subtitle><![CDATA[{{ bolum.title }}]]></itunes:subtitle>
-        <itunes:summary><![CDATA[{{ bolum.description }} <a href="{{ bolum.link }}">Ahmet Çadırcı</a>]]></itunes:summary>
+        <itunes:summary><![CDATA[{{ bolum.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ bolum.link }}]]></itunes:summary>
         <itunes:duration>{{ bolum.duration }}</itunes:duration>
         <media:content url="{{ bolum.mediaurl }}" fileSize="{{ bolum.length }}" type="{{ bolum.type }}"/>
         <itunes:keywords><![CDATA[{{ bolum.keywords }}]]></itunes:keywords>
