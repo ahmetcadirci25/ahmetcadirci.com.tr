@@ -16,14 +16,14 @@ sitemap: false
   <channel>
     <title><![CDATA[{{ site.can-veren-pervaneler.title }}]]></title>
     <link>{{ site.can-veren-pervaneler.link }}</link>
-    <description><![CDATA[{{ site.can-veren-pervaneler.description }} {{ site.can-veren-pervaneler.link }}]]></description>
+    <description><![CDATA[{{ site.can-veren-pervaneler.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.can-veren-pervaneler.link }}]]></description>
     <language>{{ site.can-veren-pervaneler.language }}</language>
     <spotify:countryOfOrigin>{{ site.can-veren-pervaneler.spotifycountry }}</spotify:countryOfOrigin>
     <copyright><![CDATA[{{ site.can-veren-pervaneler.copyright }}]]></copyright>
     <itunes:subtitle><![CDATA[{{ site.can-veren-pervaneler.subtitle }}]]></itunes:subtitle>
     <itunes:author><![CDATA[{{ site.can-veren-pervaneler.author }}]]></itunes:author>
-    <itunes:summary><![CDATA[{{ site.can-veren-pervaneler.description }} {{ site.can-veren-pervaneler.link }}]]></itunes:summary>
-    <itunes:description><![CDATA[{{ site.can-veren-pervaneler.description }} {{ site.can-veren-pervaneler.link }}]]></itunes:description>
+    <itunes:summary><![CDATA[{{ site.can-veren-pervaneler.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.can-veren-pervaneler.link }}]]></itunes:summary>
+    <itunes:description><![CDATA[{{ site.can-veren-pervaneler.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.can-veren-pervaneler.link }}]]></itunes:description>
     <itunes:owner>
     <itunes:name><![CDATA[{{ site.can-veren-pervaneler.author }}]]></itunes:name>
     <itunes:email><![CDATA[{{ site.can-veren-pervaneler.email }}]]></itunes:email>
@@ -38,13 +38,13 @@ sitemap: false
     {% for bolum in site.data.can-veren-pervaneler %}
       <item>
         <title><![CDATA[{{ bolum.title }}]]></title>
-        <description><![CDATA[{{ bolum.description }} {{ bolum.link }}]]></description>
+        <description><![CDATA[{{ bolum.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ bolum.link }}]]></description>
         <link>{{ bolum.link }}</link>
         <guid>{{ bolum.guid }}</guid>
         <pubDate>{{ bolum.pubdate }}</pubDate>
         <enclosure url="{{ bolum.mediaurl }}" length="{{ bolum.length }}" type="{{ bolum.type }}"/>
         <itunes:subtitle><![CDATA[{{ bolum.title }}]]></itunes:subtitle>
-        <itunes:summary><![CDATA[{{ bolum.description }} {{ bolum.link }}]]></itunes:summary>
+        <itunes:summary><![CDATA[{{ bolum.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ bolum.link }}]]></itunes:summary>
         <itunes:duration>{{ bolum.duration }}</itunes:duration>
         <media:content url="{{ bolum.mediaurl }}" fileSize="{{ bolum.length }}" type="{{ bolum.type }}"/>
         <itunes:keywords><![CDATA[{{ bolum.keywords }}]]></itunes:keywords>

@@ -13,7 +13,7 @@ image    	: "/images/ahmetcadirci-wallpaper.jpg"
 * [Can Veren Pervâneler](#can-veren-pervaneler)
 * [Tarih Tekerrür ve Ekonomik Krizler](#tarih-tekerrur-ve-ekonomik-krizler)
 * [Tarih ve Mekan](#tarih-ve-mekan)
-* [Podcast](#podcast)
+* [Teknoloji](#teknoloji)
 
 ---
 
@@ -102,7 +102,7 @@ Dursun Gürlek'in sunumuyla Tarih ve Mekan.
 
 ---
 
-<h2 style="font-size: 25px" id="podcast">Podcast — Ahmet Çadırcı</h2>
+<h2 style="font-size: 25px" id="teknoloji">Podcast — Ahmet Çadırcı</h2>
 
 En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzerinden ulaşabilirsiniz. 
 
