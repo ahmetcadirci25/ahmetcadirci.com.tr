@@ -8,6 +8,8 @@ image    	: "/images/ahmetcadirci-wallpaper.jpg"
 
 <h1 style="font-size: 30px">Türkçe Podcast</h1>
 
+Türkçe Podcast sayfasında teknolojiden tasavvufa, islamdan günlük konulara kadar kayıtlı sohbetler yer almaktadır. iTunes, Spotify, Google Podcast ve diğer uygulamalarından dinleyebilirsiniz. Türkçe Podcast yayınları ücretsizdir. Önerileri [iletişim]({{ site.url }}/iletisim/)  sayfasından tarafıma iletebilirsiniz. 
+
 * [Gönül Sadası](#gonul-sadasi)
 * [Gençlerle Başbaşa](#genclerle-basbasa)
 * [Can Veren Pervâneler](#can-veren-pervaneler)
