@@ -1,6 +1,6 @@
 ---
-title      : "Feedly RSS İçe (Import) veya Dışa (Export) Aktarma"
-description: "Feedly ise web sitelerinde yeni eklenen içeriği kolaylıkla takip etmemizi sağlar. Web tarayıcısı üzerinden, Android veya iOS uygulamaları..."
+title      : "Feedly Nedir? Feedly RSS İçe veya Dışa Aktarma"
+description: "Feedly Nedir? Feedly RSS İçe (Import) veya Dışa (Export) Aktarma.. Feedly ise web sitelerinde yeni eklenen içeriği kolaylıkla takip etmemizi sağlar."
 date       : 2016-10-30 17:27:20
 categories : [İnternet, Program]
 tags       : [Feedly, RSS, Feed]
@@ -9,6 +9,8 @@ comments   : true
 ---
 
 **RSS**, web sitesine yeni eklenen bir içeriği kullanıcıya hızlı bir şekilde ulaşmasını sağlayan web sayfası bildirim araçıdır. Kullandığı dosya uzantısı .rss, .atom ve .xml'dir.
+
+## Feedly Nedir?
 
 **Feedly** ise web sitelerinde yeni eklenen içeriği kolaylıkla takip etmemizi sağlar. [Web](https://feedly.com){:target="_blank"}{:rel="nofollow noopener noreferrer"} tarayıcısı üzerinden, [Android](https://play.google.com/store/apps/details?id=com.devhd.feedly){:target="_blank"}{:rel="nofollow noopener noreferrer"} veya [iOS](https://itunes.apple.com/us/app/feedly-your-work-newsfeed/id396069556?mt=8){:target="_blank"}{:rel="nofollow noopener noreferrer"} uygulamaları ile kolaylıkla takip edebilirsiniz. DevHD firması tarafından geliştirilen Feedly 2008 yılında yayına açılmıştır.
 
