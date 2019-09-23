@@ -42,8 +42,6 @@ FeedBurner hesabınızdaki beslemeleri nasıl güncel hale getirebilirim. Feed d
 
 **Yapmanınız gereken *Subscribe Now!* düğmesine basmak!**
 
-Web sitenin güncel yazılarını takip edebilirsiniz.
-[{{site.url}}/r/rss]({{site.url}}/r/rss){:target="_blank"}
+Web sitenin güncel yazılarını takip edebilirsiniz: [{{site.url}}/r/rss]({{site.url}}/r/rss){:target="_blank"}
 
-Web sitenin güncel podcast ve video yayınlarını takip edebilirsiniz.
-[{{site.url}}/r/podcast]({{site.url}}/r/podcast){:target="_blank"}
+Web sitenin güncel podcast ve video yayınlarını takip edebilirsiniz: [{{site.url}}/r/podcast]({{site.url}}/r/podcast){:target="_blank"}
