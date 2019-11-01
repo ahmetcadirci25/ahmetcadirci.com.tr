@@ -12,7 +12,7 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 
 ## Uygulamalar
 
-- [VidaX](#vida-nasıl-kurulur)
+- [VidaX](#vidax-nasıl-kurulur)
 - [Total Files](#total-files-nasıl-kurulur)
 - [Kestirmeler](#kestirmeler-nasıl-kurulur)
 
@@ -112,11 +112,12 @@ Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhon
 - [Instagram Fotoğraf İndirme](http://bit.ly/2GverZw){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 - [Instagram Video İndirme](http://bit.ly/2Zkete0){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
-**Not**
+**Notlar**
 
 * Uygulama YouTube videolarında telif bulunduğundan dolay indirme gerçekleştiremiyor. Diğer tüm sitelerden video indirebilirsiniz.
 * Doha+ uygulaması kaldırıldı.
+* Vida+ yeni güncelleme ile VidaX adını almıştır.
 
 **İpucu**
 
-Uygulamayı kullanarak iPad'e film indirme işlemi yapabilirsiniz. Aynı işlemler iPhone cihazlarınızda da geçerlidir. iPad film indirme işlemi için <a href="#vida-nasıl-kurulur">nasıl kurulur</a> kısmında adım adım takip etmeniz gerekir.
+Uygulamayı kullanarak iPad'e film indirme işlemi yapabilirsiniz. Aynı işlemler iPhone cihazlarınızda da geçerlidir. iPad film indirme işlemi için <a href="#vidax-nasıl-kurulur">nasıl kurulur</a> kısmında adım adım takip etmeniz gerekir.
