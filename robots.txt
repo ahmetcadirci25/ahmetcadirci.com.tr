@@ -2,7 +2,4 @@ User-agent: *
 Disallow: /search/?q=
 Allow: /
 
-User-agent: AhrefsBot 
-Disallow: /
-
 Sitemap: https://ahmetcadirci.com.tr/sitemap.xml
