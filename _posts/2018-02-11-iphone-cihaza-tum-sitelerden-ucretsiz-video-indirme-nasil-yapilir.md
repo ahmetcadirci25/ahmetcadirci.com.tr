@@ -22,7 +22,7 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 
 1. App Store'a giriş yapıyoruz.
 2. Arama çubuğuna **VidaX** yazıyoruz.
-3. **[VidaX](https://apps.apple.com/tr/app/vidax/id1480478320){:target="_blank"}{:rel="nofollow noopener noreferrer"}** uygulamasını indiriyoruz.
+3. **[VidaX](https://apple.co/33F3KMT){:target="_blank"}{:rel="nofollow noopener noreferrer"}** uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
 
 #### Kurulum Videosu 
