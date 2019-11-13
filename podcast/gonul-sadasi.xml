@@ -40,6 +40,7 @@ sitemap: false
         <title><![CDATA[{{ bolum.title }}]]></title>
         <description><![CDATA[{{ bolum.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ bolum.link }}]]></description>
         <link>{{ bolum.link }}</link>
+        <guid>{{ bolum.guid }}</guid>
         <pubDate>{{ bolum.pubdate }}</pubDate>
         <enclosure url="{{ bolum.mediaurl }}" length="{{ bolum.length }}" type="{{ bolum.type }}"/>
         <itunes:subtitle><![CDATA[{{ bolum.title }}]]></itunes:subtitle>
