@@ -53,9 +53,9 @@ Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
 
 ---
 
-<h2 style="font-size: 25px" id="can-veren-pervaneler">Hayati İnanç & Selahaddin Kocaaslan — Can Veren Pervâneler</h2>
+<h2 style="font-size: 25px" id="can-veren-pervaneler">Hayati İnanç — Can Veren Pervâneler</h2>
 
-Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ve Selahaddin Kocaaslan ile 'Can Veren Pervâneler' programında...
+Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ile 'Can Veren Pervâneler' programında...
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2G2RlZV)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2CS9nMr)
