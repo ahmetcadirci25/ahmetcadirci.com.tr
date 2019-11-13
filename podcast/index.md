@@ -13,6 +13,7 @@ Türkçe Podcast sayfasında teknolojiden tasavvufa, islamdan günlük konulara 
 * [Gönül Sadası](#gonul-sadasi)
 * [Gençlerle Başbaşa](#genclerle-basbasa)
 * [Can Veren Pervâneler](#can-veren-pervaneler)
+* [Memleket Aşkına](#memleket-askina)
 * [Tarih Tekerrür ve Ekonomik Krizler](#tarih-tekerrur-ve-ekonomik-krizler)
 * [Tarih ve Mekan](#tarih-ve-mekan)
 * [Teknoloji](#teknoloji)
@@ -67,6 +68,23 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 [![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/2YqFhMe)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2LIVKVZ)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/312jkRk)
+
+---
+
+<h2 style="font-size: 25px" id="memleket-askina">Mete Yarar & Nedim Şener — Memleket Aşkına</h2>
+
+İki usta isim, Nedim Şener ve Mete Yarar, Memleket Aşkına programıyla güncel yorum ve analizleriyle sizlerle buluşuyor. 
+
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)]()
+[![iTunes]({{ site.url }}/images/itunes.svg)]()
+[![Spotify]({{ site.url }}/images/spotify.svg)]()
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
+[![Stitcher]({{ site.url }}/images/stitcher.svg)]()
+[![Overcast]({{ site.url }}/images/overcast.svg)]()
+[![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)]()
+[![Castro]({{ site.url }}/images/castro.svg)]()
+[![CastBox]({{ site.url }}/images/castbox.svg)]()
+[![Listen Notes]({{ site.url }}/images/listennotes.svg)]()
 
 ---
 

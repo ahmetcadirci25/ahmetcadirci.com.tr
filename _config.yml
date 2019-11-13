@@ -108,6 +108,22 @@ can-veren-pervaneler                :
   image                             : "https://ahmetcadirci.com.tr/images/can-veren-pervaneler.jpg"
   explicit                          : "clean"
 
+memleket-askina                     : 
+  title                             : "Mete Yarar & Nedim Şener — Memleket Aşkına"
+  subtitle                          : "Mete Yarar & Nedim Şener — Memleket Aşkına"
+  link                              : "https://ahmetcadirci.com.tr/podcast/"
+  description                       : "İki usta isim, Nedim Şener ve Mete Yarar, Memleket Aşkına programıyla güncel yorum ve analizleriyle sizlerle buluşuyor. SuperHaber YouTube hesabında yayınlanan videoların ses kayıtları yer almaktadır. SuperHaber YouTube hesabını takip etmeyi unutmatın."
+  keywords                          : "mete yarar, nedim şener, memleket aşkına, haber, analiz, yorum, superhaber, ahmet çadırcı"
+  language                          : "tr-tr"
+  spotifycountry                    : "tr"
+  copyright                         : "Ahmet Çadırcı"
+  author                            : "Ahmet Çadırcı"
+  email                             : "ahmetcadirci25@gmail.com"
+  category                          : "News"
+  subcategory                       : "News Commentary"
+  image                             : "https://ahmetcadirci.com.tr/images/memleket-askina.jpg"
+  explicit                          : "clean"
+
 genclerle-basbasa                   :
   title                             : "Sadettin Ökten — Gençlerle Başbaşa"
   subtitle                          : "Sadettin Ökten — Gençlerle Başbaşa"
