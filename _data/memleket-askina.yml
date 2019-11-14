@@ -1,3 +1,14 @@
+- guid                : "019"
+  title               : "#019 Memleket Aşkına — Mete Yarar & Nedim Şener"
+  description         : "İki usta isim, Nedim Şener ve Mete Yarar, Memleket Aşkına programıyla güncel yorum ve analizleriyle sizlerle buluşuyor. SuperHaber YouTube hesabında yayınlanan videoların ses kayıtları yer almaktadır. SuperHaber YouTube hesabını takip etmeyi unutmatın."
+  keywords            : "mete yarar, nedim şener, memleket aşkına, haber, analiz, yorum, superhaber, ahmet çadırcı"
+  link                : "https://ahmetcadirci.com.tr/podcast/"
+  pubdate             : "Wed, 13 Nov 2019 19:34:34 GMT"
+  mediaurl            : "https://dl.dropboxusercontent.com/s/b5jth7oehte2pan/019.mp3"
+  length              : "14589013"
+  duration            : "00:24:37"
+  type                : "audio/mpeg"
+
 - guid                : "018"
   title               : "#018 Memleket Aşkına — Mete Yarar & Nedim Şener"
   description         : "İki usta isim, Nedim Şener ve Mete Yarar, Memleket Aşkına programıyla güncel yorum ve analizleriyle sizlerle buluşuyor. SuperHaber YouTube hesabında yayınlanan videoların ses kayıtları yer almaktadır. SuperHaber YouTube hesabını takip etmeyi unutmatın."
@@ -6,7 +17,7 @@
   pubdate             : "Wed, 13 Nov 2019 19:34:34 GMT"
   mediaurl            : "https://dl.dropboxusercontent.com/s/jlfwusnxe5f7biw/018.mp3"
   length              : "23326964"
-  duration            : "01:25:00"
+  duration            : "00:25:00"
   type                : "audio/mpeg"
 
 - guid                : "017"
@@ -17,7 +28,7 @@
   pubdate             : "Wed, 13 Nov 2019 19:34:34 GMT"
   mediaurl            : "https://dl.dropboxusercontent.com/s/1kh642tqbqv2p91/017.mp3"
   length              : "23326964"
-  duration            : "01:25:00"
+  duration            : "00:25:00"
   type                : "audio/mpeg"
 
 - guid                : "016"
@@ -28,7 +39,7 @@
   pubdate             : "Wed, 13 Nov 2019 19:34:34 GMT"
   mediaurl            : "https://dl.dropboxusercontent.com/s/9j0n6xhy88p4sh4/016.mp3"
   length              : "23326964"
-  duration            : "01:25:00"
+  duration            : "00:25:00"
   type                : "audio/mpeg"
 
 - guid                : "015"
@@ -39,7 +50,7 @@
   pubdate             : "Wed, 13 Nov 2019 19:34:34 GMT"
   mediaurl            : "https://dl.dropboxusercontent.com/s/qfw07sti6opp1yv/015.mp3"
   length              : "23326964"
-  duration            : "01:25:00"
+  duration            : "00:25:00"
   type                : "audio/mpeg"
 
 - guid                : "014"
@@ -50,7 +61,7 @@
   pubdate             : "Wed, 13 Nov 2019 19:34:34 GMT"
   mediaurl            : "https://dl.dropboxusercontent.com/s/csjsj9q5fsepttv/014.mp3"
   length              : "23326964"
-  duration            : "01:25:00"
+  duration            : "00:25:00"
   type                : "audio/mpeg"
 
 - guid                : "013"
@@ -61,7 +72,7 @@
   pubdate             : "Wed, 13 Nov 2019 19:34:34 GMT"
   mediaurl            : "https://dl.dropboxusercontent.com/s/ud3jlo9eaq9leca/013.mp3"
   length              : "23326964"
-  duration            : "01:25:00"
+  duration            : "00:25:00"
   type                : "audio/mpeg"
 
 - guid                : "012"
