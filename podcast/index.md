@@ -76,7 +76,7 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 İki usta isim, Nedim Şener ve Mete Yarar, Memleket Aşkına programıyla güncel yorum ve analizleriyle sizlerle buluşuyor. 
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2rEXbvL)
-[![iTunes]({{ site.url }}/images/itunes.svg)]()
+[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2piBAsc)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2qWehVq)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/2pkb0iz)
