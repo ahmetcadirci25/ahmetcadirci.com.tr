@@ -35,7 +35,7 @@ Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2JWYBZt)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2YkVhej)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/2Yu4tRY)
-
+[![Android]({{ site.url }}/images/android.svg)](http://bit.ly/2QP4pYu)
 
 ---
 
@@ -54,7 +54,7 @@ Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Y96TGb)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/30ZlaCc)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/318u3d1)
-
+[![Android]({{ site.url }}/images/android.svg)](http://bit.ly/35rTxE4)
 
 ---
 
@@ -73,7 +73,7 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Mi2f1l)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2LIVKVZ)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/312jkRk)
-
+[![Android]({{ site.url }}/images/android.svg)](http://bit.ly/2Oerlz0)
 
 ---
 
@@ -92,7 +92,7 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/34oG2Vu)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/34cNcw3)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/2Oe5eIE)
-
+[![Android]({{ site.url }}/images/android.svg)](http://bit.ly/33aAXiu)
 
 ---
 
@@ -111,7 +111,7 @@ Alev Alatlı'nın sunumuyla 'Tarih Tekerrür ve Ekonomik Krizler' programının 
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Ze4xT5)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2SJj4U9)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/2LKDICO)
-
+[![Android]({{ site.url }}/images/android.svg)](http://bit.ly/2XE8noe)
 
 ---
 
@@ -130,7 +130,7 @@ Dursun Gürlek'in sunumuyla Tarih ve Mekan.
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2GA6rpM)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2YaeK6s)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/32U9C59)
-
+[![Android]({{ site.url }}/images/android.svg)](http://bit.ly/33bTNWn)
 
 ---
 
@@ -149,8 +149,6 @@ En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzer
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Oje4aj)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2JVmccF)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/2yeh6BP)
-
-
 
 <style>
 .post-content img {
