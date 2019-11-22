@@ -31,9 +31,10 @@ Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/2yrDesJ)
 [![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2Ybkqx5)
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2JWYBZt)
-[![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/313g1cz)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2YkVhej)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/2Yu4tRY)
+
+<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="200" src="https://open.spotify.com/embed-podcast/show/1QvUyU8mkAOqMuzhVjrhdD" width="100%"></iframe>
 
 ---
 
@@ -48,9 +49,10 @@ Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/32WNjLW)
 [![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2YoVOfx)
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Y96TGb)
-[![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/2Gx7mY5)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/30ZlaCc)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/318u3d1)
+
+<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="200" src="https://open.spotify.com/embed-podcast/show/1h8jqZMNM4U7C78KWbjKVk" width="100%"></iframe>
 
 ---
 
@@ -65,9 +67,10 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/32VuclC)
 [![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2SJiKFa)
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Mi2f1l)
-[![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/2YqFhMe)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2LIVKVZ)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/312jkRk)
+
+<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="200" src="https://open.spotify.com/embed-podcast/show/3Tkx12h6lJr9GyeUdKaKtE" width="100%"></iframe>
 
 ---
 
@@ -80,11 +83,12 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2qWehVq)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/2pkb0iz)
-[![Overcast]({{ site.url }}/images/overcast.svg)]()
-[![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)]()
-[![Castro]({{ site.url }}/images/castro.svg)]()
-[![CastBox]({{ site.url }}/images/castbox.svg)]()
-[![Listen Notes]({{ site.url }}/images/listennotes.svg)]()
+[![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2KN1Zpw)
+[![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/34oG2Vu)
+[![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/34cNcw3)
+[![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/2Oe5eIE)
+
+<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="200" src="https://open.spotify.com/embed-podcast/show/4XH4sAOWlddFK9tpRuCzgu" width="100%"></iframe>
 
 ---
 
@@ -99,9 +103,10 @@ Alev Alatlı'nın sunumuyla 'Tarih Tekerrür ve Ekonomik Krizler' programının 
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/2OhDhlh)
 [![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2JTK4gV)
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Ze4xT5)
-[![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/2Gy8ASR)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2SJj4U9)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/2LKDICO)
+
+<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="200" src="https://open.spotify.com/embed-podcast/show/4xT2cVVBvu7kPmUPmbfc5S" width="100%"></iframe>
 
 ---
 
@@ -116,9 +121,10 @@ Dursun Gürlek'in sunumuyla Tarih ve Mekan.
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/2YackEU)
 [![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2JTIUC5)
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2GA6rpM)
-[![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/32R0MoB)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2YaeK6s)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/32U9C59)
+
+<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="200" src="https://open.spotify.com/embed-podcast/show/4zCsahlmZY5a7YN92CWk5F" width="100%"></iframe>
 
 ---
 
@@ -133,9 +139,10 @@ En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzer
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/32WqZC7)
 [![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2OompJQ)
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Oje4aj)
-[![Castro]({{ site.url }}/images/castro.svg)](http://bit.ly/2ylZX9b)
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2JVmccF)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/2yeh6BP)
+
+<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="200" src="https://open.spotify.com/embed-podcast/show/4BL7r5IMsKd8kSPv5paR4g" width="100%"></iframe>
 
 
 <style>
