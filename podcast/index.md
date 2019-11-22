@@ -24,6 +24,8 @@ Türkçe Podcast sayfasında teknolojiden tasavvufa, islamdan günlük konulara 
 
 Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
 
+<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/1QvUyU8mkAOqMuzhVjrhdD" width="100%"></iframe>
+
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2TWBIqH)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2FLkB7g)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2U7SsQL)
@@ -34,13 +36,14 @@ Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2YkVhej)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/2Yu4tRY)
 
-<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="200" src="https://open.spotify.com/embed-podcast/show/1QvUyU8mkAOqMuzhVjrhdD" width="100%"></iframe>
 
 ---
 
 <h2 style="font-size: 25px" id="genclerle-basbasa">Sadettin Ökten — Gençlerle Başbaşa</h2>
 
 Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
+
+<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/1h8jqZMNM4U7C78KWbjKVk" width="100%"></iframe>
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2I0f6US)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2uQ0U8g)
@@ -52,13 +55,14 @@ Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/30ZlaCc)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/318u3d1)
 
-<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="200" src="https://open.spotify.com/embed-podcast/show/1h8jqZMNM4U7C78KWbjKVk" width="100%"></iframe>
 
 ---
 
 <h2 style="font-size: 25px" id="can-veren-pervaneler">Hayati İnanç — Can Veren Pervâneler</h2>
 
 Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ile 'Can Veren Pervâneler' programında...
+
+<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/3Tkx12h6lJr9GyeUdKaKtE" width="100%"></iframe>
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2G2RlZV)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2CS9nMr)
@@ -70,13 +74,14 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2LIVKVZ)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/312jkRk)
 
-<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="200" src="https://open.spotify.com/embed-podcast/show/3Tkx12h6lJr9GyeUdKaKtE" width="100%"></iframe>
 
 ---
 
 <h2 style="font-size: 25px" id="memleket-askina">Mete Yarar & Nedim Şener — Memleket Aşkına</h2>
 
 İki usta isim, Nedim Şener ve Mete Yarar, Memleket Aşkına programıyla güncel yorum ve analizleriyle sizlerle buluşuyor. 
+
+<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/4XH4sAOWlddFK9tpRuCzgu" width="100%"></iframe>
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2rEXbvL)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2piBAsc)
@@ -88,13 +93,14 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/34cNcw3)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/2Oe5eIE)
 
-<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="200" src="https://open.spotify.com/embed-podcast/show/4XH4sAOWlddFK9tpRuCzgu" width="100%"></iframe>
 
 ---
 
 <h2 style="font-size: 25px" id="tarih-tekerrur-ve-ekonomik-krizler">Alev Alatlı — Tarih Tekerrür ve Ekonomik Krizler</h2>
 
 Alev Alatlı'nın sunumuyla 'Tarih Tekerrür ve Ekonomik Krizler' programının podcast yayınları.
+
+<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/4xT2cVVBvu7kPmUPmbfc5S" width="100%"></iframe>
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2J7tmZM)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2Lf6g6g)
@@ -106,13 +112,14 @@ Alev Alatlı'nın sunumuyla 'Tarih Tekerrür ve Ekonomik Krizler' programının 
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2SJj4U9)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/2LKDICO)
 
-<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="200" src="https://open.spotify.com/embed-podcast/show/4xT2cVVBvu7kPmUPmbfc5S" width="100%"></iframe>
 
 ---
 
 <h2 style="font-size: 25px" id="tarih-ve-mekan">Dursun Gürlek — Tarih ve Mekan</h2>
 
 Dursun Gürlek'in sunumuyla Tarih ve Mekan.
+
+<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/4zCsahlmZY5a7YN92CWk5F" width="100%"></iframe>
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2N2zVCh)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2IKXb3u)
@@ -124,13 +131,14 @@ Dursun Gürlek'in sunumuyla Tarih ve Mekan.
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2YaeK6s)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/32U9C59)
 
-<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="200" src="https://open.spotify.com/embed-podcast/show/4zCsahlmZY5a7YN92CWk5F" width="100%"></iframe>
 
 ---
 
 <h2 style="font-size: 25px" id="teknoloji">Podcast — Ahmet Çadırcı</h2>
 
 En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzerinden ulaşabilirsiniz. 
+
+<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/4BL7r5IMsKd8kSPv5paR4g" width="100%"></iframe>
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2Id3Gfw)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2COm8aM)
@@ -142,7 +150,6 @@ En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzer
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2JVmccF)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/2yeh6BP)
 
-<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="200" src="https://open.spotify.com/embed-podcast/show/4BL7r5IMsKd8kSPv5paR4g" width="100%"></iframe>
 
 
 <style>
