@@ -14,8 +14,8 @@ layout : default
                 <div class="meta">
 
                   <picture>
-                    <source type="image/webp" class="wp-post-image" srcset="{{ site.url }}{{post.image | replace: 'png', 'webp'}}" alt="{{ post.title }}">
-                    <img class="wp-post-image" src="{{ site.url }}{{post.image}}" alt="{{ post.title }}">
+                    <source loading="lazy" type="image/webp" class="wp-post-image" srcset="{{ site.url }}{{post.image | replace: 'png', 'webp'}}" alt="{{ post.title }}">
+                    <img loading="lazy" class="wp-post-image" src="{{ site.url }}{{post.image}}" alt="{{ post.title }}">
                   </picture>
 
                   <div class="meta__container">

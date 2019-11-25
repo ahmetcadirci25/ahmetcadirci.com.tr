@@ -10,12 +10,12 @@
       <div class="widget-author__avatar--blurred">
 
         <picture>
-          <source type="image/webp" srcset="{{ "/images/hakkimizda.png" | prepend: site.url | replace: 'png', 'webp' }}" alt="{{ site.author.name }}">
-          <img loading="lazy" src="{{ "/images/hakkimizda.png" | prepend: site.url }}" alt="{{ site.author.name }}">
+          <source loading="lazy" type="image/webp" srcset="{{ "/images/hakkimizda.png" | prepend: site.url | replace: 'png', 'webp' }}" alt="{{ site.author.name }}">
+          <img loading="lazy" loading="lazy" src="{{ "/images/hakkimizda.png" | prepend: site.url }}" alt="{{ site.author.name }}">
         </picture>
 
       </div>
-      <img class="widget-author__avatar" src="{{ "/images/avatar.svg" | prepend: site.url }}" alt="{{ site.author.name }}" width="90" height="90">
+      <img loading="lazy" class="widget-author__avatar" src="{{ "/images/avatar.svg" | prepend: site.url }}" alt="{{ site.author.name }}" width="90" height="90">
     </div>
     <div class="row">
       <div class="col-xs-10 col-xs-offset-1">
@@ -60,8 +60,8 @@
             <hr>
             <a href="{{ site.url }}{{ site.posts[random].url }}">
               <picture>
-                <source type="image/webp" class="wp-post-image" srcset="{{ site.url }}{{site.posts[random].image | replace: 'png', 'webp'}}" alt="{{ site.posts[random].title }}">
-                <img class="wp-post-image" src="{{ site.url }}{{site.posts[random].image}}" alt="{{ site.posts[random].title }}">
+                <source loading="lazy" type="image/webp" class="wp-post-image" srcset="{{ site.url }}{{site.posts[random].image | replace: 'png', 'webp'}}" alt="{{ site.posts[random].title }}">
+                <img loading="lazy" class="wp-post-image" src="{{ site.url }}{{site.posts[random].image}}" alt="{{ site.posts[random].title }}">
               </picture>
               <p><b>{{ site.posts[random].title }}</b></p>
             </a>

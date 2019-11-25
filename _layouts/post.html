@@ -9,8 +9,8 @@ layout: default
     <div class="meta">
 
       <picture>
-        <source type="image/webp" class="wp-post-image" srcset="{{ site.url }}{{page.image | replace: 'png', 'webp'}}" alt="{{ page.title }}">
-        <img class="wp-post-image" src="{{ site.url }}{{page.image}}" alt="{{ page.title }}">
+        <source loading="lazy" type="image/webp" class="wp-post-image" srcset="{{ site.url }}{{page.image | replace: 'png', 'webp'}}" alt="{{ page.title }}">
+        <img loading="lazy" class="wp-post-image" src="{{ site.url }}{{page.image}}" alt="{{ page.title }}">
       </picture>
                 
       <div class="meta__container">
