@@ -10,7 +10,7 @@ layout: default
       <div class="responsive-embed-video">
 
         <!-- Embed Vimeo video 
-        <img src="{{ site.url }}/images/loading.gif" data-src="{{ site.url }}{{ page.image }}" class="vimeo-thumb lazyload" alt="{{ page.title }}" data-vimeo-id="{{page.videoid}}" data-width="1138" />-->
+        <img loading="lazy" src="{{ site.url }}/images/loading.gif" data-src="{{ site.url }}{{ page.image }}" class="vimeo-thumb lazyload" alt="{{ page.title }}" data-vimeo-id="{{page.videoid}}" data-width="1138" />-->
 
         <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/{{page.videoid}}?autoplay=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -105,7 +105,7 @@ layout: default
             <div class="post-author">
               <h6>Tarafından Yazılmıştır</h6>
               <hr>
-              <img src="{{ "/images/avatar.svg" | prepend: site.url }}" alt="{{ site.author.name }}">
+              <img loading="lazy" src="{{ "/images/avatar.svg" | prepend: site.url }}" alt="{{ site.author.name }}">
               <h5>
                 <a href="{{ site.url }}">{{ site.author.name }}</a> 
               </h5>
