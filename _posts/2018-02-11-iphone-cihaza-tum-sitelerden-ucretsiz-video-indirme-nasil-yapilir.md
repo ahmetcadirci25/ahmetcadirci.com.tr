@@ -12,7 +12,7 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 
 ## Uygulamalar
 
-- [DoDaX For Clouds](#vidax-nasıl-kurulur)
+- [DoDaX For Clouds](#dodax-for-clouds-nasıl-kurulur)
 - [Total Files](#total-files-nasıl-kurulur)
 - [Kestirmeler](#kestirmeler-nasıl-kurulur)
 
@@ -123,4 +123,4 @@ Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhon
 
 **İpucu**
 
-Uygulamayı kullanarak iPad'e film indirme işlemi yapabilirsiniz. Aynı işlemler iPhone cihazlarınızda da geçerlidir. iPad film indirme işlemi için <a href="#vidax-nasıl-kurulur">nasıl kurulur</a> kısmında adım adım takip etmeniz gerekir.
+Uygulamayı kullanarak iPad'e film indirme işlemi yapabilirsiniz. Aynı işlemler iPhone cihazlarınızda da geçerlidir. iPad film indirme işlemi için <a href="#dodax-for-clouds-nasıl-kurulur">nasıl kurulur</a> kısmında adım adım takip etmeniz gerekir.
