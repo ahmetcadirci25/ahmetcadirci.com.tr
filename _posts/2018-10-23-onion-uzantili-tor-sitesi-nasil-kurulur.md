@@ -46,10 +46,10 @@ Bir alan adı oluşturmak - seçtiğiniz bir tanıma sahip bir sözcüğe sahip 
 
 İşletim sisteminize uygun olan dosyayı aşağıdaki linklere tıklayarak indirebilirsiniz.  
 
-- [Windows](https://gitlab.com/thetorproject/gettorbrowser/blob/torbrowser-releases/torbrowser-install-win64-8.5.5_tr.exe){:target="_blank"}{:rel="nofollow noopener noreferrer"} 
-- [OS X](https://gitlab.com/thetorproject/gettorbrowser/blob/torbrowser-releases/TorBrowser-8.5.5-osx64_tr.dmg){:target="_blank"}{:rel="nofollow noopener noreferrer"} 
-- [Linux 32-bit](https://gitlab.com/thetorproject/gettorbrowser/blob/torbrowser-releases/tor-browser-linux32-8.5.5_tr.tar.xz){:target="_blank"}{:rel="nofollow noopener noreferrer"} 
-- [Linux 64-bit](https://gitlab.com/thetorproject/gettorbrowser/blob/torbrowser-releases/tor-browser-linux64-8.5.5_tr.tar.xz){:target="_blank"}{:rel="nofollow noopener noreferrer"} 
+- [Windows](https://github.com/TheTorProject/gettorbrowser/releases/download/torbrowser-release/torbrowser-install-9.0.4_tr.exe){:target="_blank"}{:rel="nofollow noopener noreferrer"} 
+- [OS X](https://github.com/TheTorProject/gettorbrowser/releases/download/torbrowser-release/TorBrowser-9.0.4-osx64_tr.dmg){:target="_blank"}{:rel="nofollow noopener noreferrer"} 
+- [Linux 32-bit](https://github.com/TheTorProject/gettorbrowser/releases/download/torbrowser-release/tor-browser-linux32-9.0.4_tr.tar.xz){:target="_blank"}{:rel="nofollow noopener noreferrer"} 
+- [Linux 64-bit](https://github.com/TheTorProject/gettorbrowser/releases/download/torbrowser-release/tor-browser-linux64-9.0.4_tr.tar.xz){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 - [Android Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&hl=tr){:target="_blank"}{:rel="nofollow noopener noreferrer"} 
 - [iOS Onion Browser](https://itunes.apple.com/us/app/onion-browser/id519296448?mt=8){:target="_blank"}{:rel="nofollow noopener noreferrer"} 
 
