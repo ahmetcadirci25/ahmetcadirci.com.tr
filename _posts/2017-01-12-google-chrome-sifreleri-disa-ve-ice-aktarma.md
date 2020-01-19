@@ -10,25 +10,23 @@ comments   : true
 
 Google'ın Chrome tarayıcısını kullananlar, tarayıcının Otomatik Doldurma özelliği için kullanılabilecek şifre koruma özelliğinin farkında olacaktır. Bununla birlikte, şifrelerini tarayıcının kendisinden içe aktarabileceğinizi veya hatta dışa aktarabileceğinizi biliyor muydunuz?
 
-### Nasıl Yapılır?
+## Dışa Aktarma ve Dışa Aktarma Video Anlatım
 
-1. Chrome tarayıcısını açın ve adres çubuğuna `chrome://flags/#password-import-export` yazın. **"Enter"** tuşuna bastığınızda, Chrome bayrakları sayfasına getirileceksiniz.
-2. Açılan menüden **"Etkinleştir"** seçeneğini seçin. Bunu yaptıktan sonra, Chrome tarayıcıyı yeniden başlatmanızı ister. Tarayıcıyı yeniden başlatmak için **"Şimdi Yeniden Başlat"** ı tıklayın.
+Videoyu izleyerek adımları takip edebilirsiniz. İlk aşama (sol kısım) şifreleri dışa aktarma, ikinci aşama (sağ kısım) ise şifreleri içe aktarma işlemi yapılmıştır.
 
-{% include picture.html image_id="/images/galeri/google-chrome-password-import-export.png" imagealt="Google Chrome Şifre İçe ve Dışa Aktarma" %}
+{% include vimeo.html vimeo_id="385786826" vimeo_image="385786826" %}
 
-3. Chrome'un şifre yöneticisini, `chrome://settings/passwords` girerek açın veya **"Ayarlar"** menüsüne gidin ve Gelişmiş Ayarlar'da bulunan **"Şifreleri Yönet"** seçeneğini tıklayın.
+### Dışa Aktarma Nasıl Yapılır?
 
-{% include picture.html image_id="/images/galeri/chrome-sifreler.png" imagealt="Chrome Şifreleri Yönet" %}
+1. Chrome tarayıcısını açın ve adres çubuğuna `chrome://settings/passwords` yazın. **"Enter"** tuşuna bastığınızda, Chrome şifreler sayfası açılacak.
+2. "Kayıtlı Şifreler" başlığının tam karşısında üç noktalı düğmeye tıklayın. "Şifreleri dışa aktar..." düğmesini tıklayın.
+3. Açılan pencerede "Şifreleri dışa aktar..." düğmesine tıklayın.
+4. Şifreleri Chrome'dan dışa aktarmak için PC'nizin veya Mac'inizin yönetici şifresini girmeniz gerekir. 
+5. Daha sonra "Chrome Şifreleri.csv" dosyasını istediğiniz yere kayıt edin. 
 
-4. Parola listenizi dışa aktarmak için **"Dışa Aktar"** düğmesine tıklamanız yeterlidir. Kullanıcı hesabı şifrenizi girmenizi isteyecek bir pencere açılır. Parolanızı girdikten sonra, bir **"Kaydet"** penceresi açılır.
-5. Tarayıcı otomatik olarak şifrelerinizi düz bir **"Metin CSV"** dosyası olarak kaydeder. Oradan tüm şifreleri **"CSV"** ithalatını destekleyen bir şifre yöneticisine alabilirsiniz.
-6. Parolaları içe aktarmak isteyenler için **"İçe Aktar"** düğmesini tıklamanız yeterlidir. Dışa aktarma şifrelerinden farklı olarak, Chrome kullanıcı hesabı şifrenizi istemez. Şifrenizi içeren **"CSV"** dosyasını açmanız yeterlidir, geri kalanı ise Chrome yapacaktır.
+### İçe Aktarma Nasıl Yapılır?
 
-Bu yöntemi kullanarak şifreleri dışarı aktarmayla ilgili önemli bir nokta, Chrome'un düz metin olarak bir şifre listesi oluşturmasıdır. Parolaları bir parola yöneticisine aktarmaya başladıktan sonra, herhangi birinin yanlışlıkla üzerine gelmesini önlemek için dosyayı hemen silmek isteyebilirsiniz.
-
-### Chrome'da Kayıtlı Olan Şifreleri Opera'da İçe Aktarma
-
-Yukarıdaki tüm işlemleri aynı şekilde Opera tarayısında yaptıktan sonra `opera://settings/passwords` kısmından **"Al"** diyerek tüm kayıtlı şifreleri içeri aktarmış olursunuz.
-
-{% include picture.html image_id="/images/galeri/opera-sifreler.png" imagealt="Opera Şifreleri Yönet" %}
+1. Chrome tarayıcısını açın ve adres çubuğuna `chrome://settings/passwords` yazın. **"Enter"** tuşuna bastığınızda, Chrome şifreler sayfası açılacak.
+2. "Kayıtlı Şifreler" başlığının tam karşısında üç noktalı düğmeye tıklayın. "İçe aktar..." düğmesini tıklayın.
+3. Daha sonra kayıt ettiğiniz "Chrome Şifreleri.csv" dosyasını bulup tıklayın.
+4. Tüm şifreler içeri aktarılacaktır.
