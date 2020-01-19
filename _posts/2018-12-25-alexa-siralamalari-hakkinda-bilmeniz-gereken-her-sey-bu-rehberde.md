@@ -60,7 +60,7 @@ Mevcut verilere dayanarak istatistiklerin sınırları vardır. Düşük trafiğ
 
 **WordPress Siteye Alexa Sertifika Kodu Ekleme Videosu**
 
-{% include vimeo.html vimeo_id="jt9QVIrS!FiCaSO5ejbu8MwBrX-trHGvvKWd_aJ9dFe0RAIrmvKw" vimeo_image="jt9QVIrS!FiCaSO5ejbu8MwBrX-trHGvvKWd_aJ9dFe0RAIrmvKw" %}
+{% include vimeo.html vimeo_id="1XCSIZqylTxeTmDyAeVATLV2hX7gWeLBl" vimeo_image="1XCSIZqylTxeTmDyAeVATLV2hX7gWeLBl" %}
 
 HTML vb. sitelerde de aynı mantıkla hareket edilmelidir. Alexa Sertifika Kodu her zaman `</head>` kapatma etiketinden önce eklenmelidir. 
 

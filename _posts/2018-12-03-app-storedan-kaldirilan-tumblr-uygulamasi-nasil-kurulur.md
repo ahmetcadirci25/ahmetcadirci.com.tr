@@ -32,7 +32,7 @@ Bu yöntemin kullanılabilmesi için daha önceden Tumblr uygulamasının indiri
 
 #### Kurulum Videosu 
 
-{% include vimeo.html vimeo_id="zx9G2A7T!yRvkZnnzOAkDQUyhBypJz9Nx_FdqrWjwClM2T7cONM4" vimeo_image="zx9G2A7T!yRvkZnnzOAkDQUyhBypJz9Nx_FdqrWjwClM2T7cONM4" %}
+{% include vimeo.html vimeo_id="1rh98Gx6sq9yDjTwW3Dw5YPmt3RoaCj_6" vimeo_image="1rh98Gx6sq9yDjTwW3Dw5YPmt3RoaCj_6" %}
 
 ### Yöntem 2
 
@@ -48,7 +48,7 @@ Eğer birinci yöntem sizin için uygun değilse ikinci yöntem ile sorunu çöz
 
 #### Kurulum Videosu 
 
-{% include vimeo.html vimeo_id="358SSaBJ!L2GayStypdkUJ_HoxvOrxTDcVqmAvvCnJyxYD_b1tAw" vimeo_image="358SSaBJ!L2GayStypdkUJ_HoxvOrxTDcVqmAvvCnJyxYD_b1tAw" %}
+{% include vimeo.html vimeo_id="1pz0MzWIyXOs8S4NF2J2eVcBfgBMXJUbc" vimeo_image="1pz0MzWIyXOs8S4NF2J2eVcBfgBMXJUbc" %}
 
 ##### Tumblr iOS uygulaması neden App Store'dan kayboldu?
 
