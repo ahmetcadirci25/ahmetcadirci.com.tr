@@ -14,7 +14,7 @@ Google'ın Chrome tarayıcısını kullananlar, tarayıcının Otomatik Doldurma
 
 Videoyu izleyerek adımları takip edebilirsiniz. İlk aşama (sol kısım) şifreleri dışa aktarma, ikinci aşama (sağ kısım) ise şifreleri içe aktarma işlemi yapılmıştır.
 
-{% include vimeo.html vimeo_id="385787659" %}
+{% include vimeo.html vimeo_id="173291137375467" vimeo_image="173291137375467" %}
 
 ### Dışa Aktarma Nasıl Yapılır?
 
