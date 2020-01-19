@@ -151,7 +151,7 @@ Yukarıdaki adımları tamamladıkta sonra dosyaları sunucunuza yükleyin. Daha
 
 **Önizleme Videosu**
 
-{% include vimeo.html vimeo_id="145558820227726" vimeo_image="145558820227726" %}
+{% include vimeo.html vimeo_id="Wx8WiAaQ!bpIHLPK1tfHOUD8nw5tfMu53PjyqWYl6gdLTHB34o6w" vimeo_image="Wx8WiAaQ!bpIHLPK1tfHOUD8nw5tfMu53PjyqWYl6gdLTHB34o6w" %}
 
 ### 7. Dosyalar
 
