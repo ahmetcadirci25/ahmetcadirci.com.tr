@@ -29,13 +29,13 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 
 Kurulum videosunda AppStore arama kutucuğuna **VidaBox** yazmayı unutmayın.
 
-{% include vimeo.html vimeo_id="3t0QVYoR!VESKiOVnH7Z77bUKdu8hsxd9exfvoLp45NRohhiUwH8" vimeo_image="3t0QVYoR!VESKiOVnH7Z77bUKdu8hsxd9exfvoLp45NRohhiUwH8" %}
+{% include vimeo.html vimeo_id="1jVxIcnL6UzDaxrMf3MFR8wlMfOF3qQTa" vimeo_image="1jVxIcnL6UzDaxrMf3MFR8wlMfOF3qQTa" %}
 
 #### İndirme Videosu
 
 [Gelen yorumlara]({{site.url}}/2018/iphone-cihaza-tum-sitelerden-ucretsiz-video-indirme-nasil-yapilir/#comment-3931533922) istinaden daha açıklayıcı olması için video eklenmiştir. Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhone film rulosuna video indirme** ve kaydetme işlemi yer almaktadır. Ekstra olarak (ses) mp3 formatına çevirme işlemi gösterilmiştir.
 
-{% include vimeo.html vimeo_id="OltEnAZR!3In1tMHYmNckRcoCJzz5NdkqZbSFFPHFdHQSip6eEAQ" vimeo_image="OltEnAZR!3In1tMHYmNckRcoCJzz5NdkqZbSFFPHFdHQSip6eEAQ" %}
+{% include vimeo.html vimeo_id="1y7AbTJDECnCODLScLQH4vAR-Cuqj_4gh" vimeo_image="1y7AbTJDECnCODLScLQH4vAR-Cuqj_4gh" %}
 
 #### YouTube'dan Video İndirme Nasıl Yapılır?
 
@@ -83,7 +83,7 @@ Kurulum videosunda AppStore arama kutucuğuna **VidaBox** yazmayı unutmayın.
 
 Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhone film rulosuna video indirme** ve kaydetme işlemi yer almaktadır.
 
-{% include vimeo.html vimeo_id="vpsEECJJ!lPhXY3Njgln_Z1f3fFBuEeu5x-32GAD42fxCXsIdK1g" vimeo_image="vpsEECJJ!lPhXY3Njgln_Z1f3fFBuEeu5x-32GAD42fxCXsIdK1g" %}
+{% include vimeo.html vimeo_id="1Z5TTBIuHe2AbYaahShUS_UNeBI5Vq7-l" vimeo_image="1Z5TTBIuHe2AbYaahShUS_UNeBI5Vq7-l" %}
 
 #### Video İndirme (Total Files) Nasıl Yapılır?
 
