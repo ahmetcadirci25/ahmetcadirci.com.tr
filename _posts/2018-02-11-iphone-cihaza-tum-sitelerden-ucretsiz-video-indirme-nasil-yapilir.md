@@ -12,25 +12,25 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 
 ## Uygulamalar
 
-- [DoDaX For Clouds](#dodax-for-clouds-nasıl-kurulur)
+- [VidaBox](#vidabox-nasıl-kurulur)
 - [Total Files](#total-files-nasıl-kurulur)
 - [Kestirmeler](#kestirmeler-nasıl-kurulur)
 
 ---
 
-### DoDaX For Clouds Nasıl Kurulur?
+### VidaBox Nasıl Kurulur?
 
 1. App Store'a giriş yapıyoruz.
-2. Arama çubuğuna **DoDaX For Clouds** yazıyoruz.
-3. **[DoDaX For Clouds](https://apple.co/35vEkCk){:target="_blank"}{:rel="nofollow noopener noreferrer"}** uygulamasını indiriyoruz.
+2. Arama çubuğuna **VidaBox** yazıyoruz.
+3. **[VidaBox](https://apple.co/2RC2ghY){:target="_blank"}{:rel="nofollow noopener noreferrer"}** uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
 
-{% include picture.html image_id="/images/vidax-indirme.png" imagealt="AppStore DoDaX For Clouds Uygulamasını İndirme İşlemi" link="/images/vidax-indirme.png" %} 
+{% include picture.html image_id="/images/vidax-indirme.png" imagealt="AppStore VidaBox Uygulamasını İndirme İşlemi" link="/images/vidax-indirme.png" %} 
 *Resmi büyütmek için üzerine tıklayın.* 
 
 #### Kurulum Videosu 
 
-Kurulum videosunda AppStore arama kutucuğuna **DoDaX For Clouds** yazmayı unutmayın.
+Kurulum videosunda AppStore arama kutucuğuna **VidaBox** yazmayı unutmayın.
 
 {% include vimeo.html vimeo_id="255265889" vimeo_image="682632036" %}
 
@@ -43,7 +43,7 @@ Kurulum videosunda AppStore arama kutucuğuna **DoDaX For Clouds** yazmayı unut
 #### YouTube'dan Video İndirme Nasıl Yapılır?
 
 1. YouTube sayfasından video url'sini kopyalayın.
-2. **DoDaX For Clouds** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
+2. **VidaBox** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
 3. Video oynattığınızda **X** işareti belirecektir. **X** işaretine tıklayın ve reklamı kapatın.
 4. Otomatik olarak videoyu indirmek istediğiniz formatlar çıkacaktır. Örneğin: SD (360p), SD (240p), HD (720p), HD (1080p) ve daha fazla format yer alacaktır.
 5. Çıkan formatlardan size uygun olanı seçtiğinizde indirme işlemi başlayacaktır.
@@ -64,7 +64,7 @@ Kurulum videosunda AppStore arama kutucuğuna **DoDaX For Clouds** yazmayı unut
 #### Diğer Sitelerden (Facebook, Twitter, Vimeo ve daha fazlası) Video İndirme Nasıl Yapılır?
 
 1. Videonun yer aldığı sayfanın url'sini kopyalayın.
-2. **DoDaX For Clouds** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
+2. **VidaBox** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
 3. Video oynattığınızda **X** işareti belirecektir. **X** işaretine tıklayın ve reklamı kapatın.
 4. Otomatik olarak videoyu indirmek istediğiniz formatlar çıkacaktır.
 5. Çıkan formatlardan size uygun olanı seçtiğinizde indirme işlemi başlayacaktır.
@@ -119,7 +119,7 @@ Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhon
 
 * Uygulama YouTube videolarında telif bulunduğundan dolay indirme gerçekleştiremiyor. Diğer tüm sitelerden video indirebilirsiniz.
 * Doha+ uygulaması kaldırıldı.
-* Vida+ yeni güncelleme ile DoDaX For Clouds adını almıştır.
+* Vida+ yeni güncelleme ile VidaBox adını almıştır.
 
 **İpucu**
 
