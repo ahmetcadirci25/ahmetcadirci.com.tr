@@ -22,11 +22,11 @@
 				var iframe = document.createElement( "iframe" );
 				iframe.setAttribute( "frameborder", "0" );
 				iframe.setAttribute( "allowfullscreen", "" );
-				iframe.setAttribute( "src", "https://mega.nz/embed#!"+ this.dataset.embed);
+				iframe.setAttribute( "allow", "autoplay;" );
+				iframe.setAttribute( "src", "https://mega.nz/embed#!"+ this.dataset.embed + "!1a");
 				this.innerHTML = "";
 				this.appendChild( iframe );
 			} );    
 		};
 	} )();
 </script>
-

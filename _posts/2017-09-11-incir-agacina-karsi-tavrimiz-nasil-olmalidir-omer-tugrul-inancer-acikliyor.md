@@ -6,7 +6,7 @@ date       : 2017-09-11 21:00:12
 categories : [Video, İslam]
 tags       : [Ömer Tuğrul İnançer, İncir Ağacı]
 image      : "/images/incir-agacina-karsi-tavrimiz-nasil-olmalidir-omer-tugrul-inancer-acikliyor.png"
-videoid    : 2928133243946144
+videoid    : 600QGC4S!t42PrUfeLtvzPk18SXHN2tsgz0f98rA3UBiLwya0x_c
 comments   : true
 ---
 
