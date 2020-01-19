@@ -25,9 +25,6 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 3. **[VidaBox](https://apple.co/2RC2ghY){:target="_blank"}{:rel="nofollow noopener noreferrer"}** uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
 
-{% include picture.html image_id="/images/vidax-indirme.png" imagealt="AppStore VidaBox Uygulamasını İndirme İşlemi" link="/images/vidax-indirme.png" %} 
-*Resmi büyütmek için üzerine tıklayın.* 
-
 #### Kurulum Videosu 
 
 Kurulum videosunda AppStore arama kutucuğuna **VidaBox** yazmayı unutmayın.
