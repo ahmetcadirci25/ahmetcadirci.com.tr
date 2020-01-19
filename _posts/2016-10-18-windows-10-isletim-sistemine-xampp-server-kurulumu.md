@@ -7,7 +7,7 @@ categories : [Wordpress, Podcast, Video]
 tags       : [Windows 10, XAMPP, Sanal Server, Local Host]
 keywords   : podcast, windows, xampp
 image      : "/images/windows-10-isletim-sistemine-xampp-server-kurulumu.png"
-videoid    : 233167070
+videoid    : 2545201632432114
 ---
 
 WordPress'i herhangi bir sunucuya yüklemeden direk bilgisayarımızda çalıştırmak istiyorsak bilgisayarımızı sunucuya çevirmemiz gerekiyor.

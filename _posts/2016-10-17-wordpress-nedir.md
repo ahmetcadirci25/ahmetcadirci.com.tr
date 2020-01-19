@@ -7,7 +7,7 @@ categories : [Wordpress, Podcast, Video]
 tags       : [Wordpress Nedir, iTunes, PHP]
 keywords   : podcast, wordpress
 image      : "/images/wordpress-nedir.png"
-videoid    : 233166808
+videoid    : 197746434686180
 ---
 
 WordPress, dünyada en çok kullanılan içerik yönetim sistemlerinden biridir.

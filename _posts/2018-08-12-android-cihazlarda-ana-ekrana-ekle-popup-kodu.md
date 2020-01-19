@@ -151,7 +151,7 @@ Yukarıdaki adımları tamamladıkta sonra dosyaları sunucunuza yükleyin. Daha
 
 **Önizleme Videosu**
 
-<iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/284581390" webkitAllowFullScreen width="100%"></iframe>
+{% include vimeo.html vimeo_id="145558820227726" vimeo_image="145558820227726" %}
 
 ### 7. Dosyalar
 
