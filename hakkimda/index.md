@@ -16,7 +16,7 @@ Sosyal blog görüntüsü kazanmak için yorum ve yorumculara büyük önem veri
 
 Bu girişimin amacını, siteyi ziyaret eden değerli okuyuculara, yerli kaynaklarda yer almayan veya tamamen işlenmemiş olan, nitelikli bir bilgi olma niyeti ile değerli okuyuculara aktarabilmek, bu girişiminin amacını özetlemektedir.
 
-Yukarıda söylediğim gibi, bu blogu açmanın en büyük sebebi; Yazmak ve faydalı şeyler sunmaktan hoşlanırım. İnternette çok fazla araştırma yapan ve yeni bilgi edinmeyi seven bir kişiyim.
+Yukarıda söylediğim gibi, bu blogu açmanın en büyük sebebi; Yazmak ve faydalı şeyler sunmaktan hoşlanırım. İnternet'te çok fazla araştırma yapan ve yeni bilgi edinmeyi seven bir kişiyim.
 
 Benimle ilgili ve blogumla ilgili merak ettiğiniz her şey için [iletişim]({{site.url}}/iletisim/) sayfasından bana ulaşabilirsiniz. Hepinize iyi günler diliyorum.
 

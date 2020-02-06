@@ -40,7 +40,7 @@ comments   : true
 
 - Evliya Çelebi programının yeni bölümleri Türkçe olarak çekilecek.
 - Fatma Girik'in Ö. Faruk Aksoy'a "imamoğlum" diye çağırdığını anlatmaktadır.
-- 20 yaşında, İstanbul'dan Paris'e tek yönlü bir bilet alarak serüvüne başladı. O zamandan beri, Faruk Aksoy dünyayı gezdi ve çoğunu fotoğrafladı.
+- 20 yaşında, İstanbul'dan Paris'e tek yönlü bir bilet alarak serüvene başladı. O zamandan beri, Faruk Aksoy dünyayı gezdi ve çoğunu fotoğrafladı.
 
 ## İslam’ın İki Kutsal Şehri Mekke-Medine Kitabı
 
