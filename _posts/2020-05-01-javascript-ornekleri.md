@@ -375,8 +375,8 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
         // Bir öğenin içine değişken bir değer yazma
         let x = 10;
         let y = 20;
-        let sum = x + y;
-        document.getElementById("sonuc").innerHTML = sum;
+        let sonuc = x + y;
+        document.getElementById("sonuc").innerHTML = sonuc;
     </script>
 
 </body>
