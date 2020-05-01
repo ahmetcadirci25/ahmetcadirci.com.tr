@@ -10,7 +10,9 @@ comments   : true
 
 JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı bir uygulamalı JavaScript örnekleri içerir. 
 
-### JavaScript "Merhaba Dünya!" Uygulaması
+**Örnekler devamlı güncellenecektir.**
+
+#### JavaScript "Merhaba Dünya!" Uygulaması
 
 ```
 <!DOCTYPE html>
@@ -30,7 +32,7 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
 </html>
 ```
 
-### JavaScript Kodunu Bir HTML Dosyasına Gömme
+#### JavaScript Kodunu Bir HTML Dosyasına Gömme
 
 ```
 <!DOCTYPE html>
@@ -50,7 +52,7 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
 </html>
 ```
 
-### HTML Belgesinde Harici Bir JavaScript Dosyası Çağırma
+#### HTML Belgesinde Harici Bir JavaScript Dosyası Çağırma
 
 ```
 <!DOCTYPE html>
@@ -69,7 +71,7 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
 </html>
 ```
 
-### HTML Etiketine JavaScript Kodu Ekleme
+#### HTML Etiketine JavaScript Kodu Ekleme
 
 ```
 <!DOCTYPE html>
@@ -86,7 +88,7 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
 </html>
 ```
 
-### JavaScript'te Büyük / Küçük Harf Duyarlılığı
+#### JavaScript'te Büyük / Küçük Harf Duyarlılığı
 
 ```
 <!DOCTYPE html>
@@ -111,7 +113,7 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
 </html>
 ```
 
-### JavaScript Tekli Yorum Satırı
+#### JavaScript Tekli Yorum Satırı
 
 ```
 <!DOCTYPE html>
@@ -131,7 +133,7 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
 </html>
 ```
 
-### JavaScript Çoklu Yorum Satırı
+#### JavaScript Çoklu Yorum Satırı
 
 ```
 <!DOCTYPE html>
@@ -152,7 +154,7 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
 </html>
 ```
 
-### JavaScript'te Değişken Oluşturma
+#### JavaScript'te Değişken Oluşturma
 
 ```
 <!DOCTYPE html>
@@ -179,7 +181,7 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
 </html>
 ```
 
-### JavaScript'te Değişken Bildirme
+#### JavaScript'te Değişken Bildirme
 
 ```
 <!DOCTYPE html>
@@ -205,7 +207,7 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
 </html>
 ```
 
-### Aynı Anda Birden Çok Değişkeni Bildirme
+#### Aynı Anda Birden Çok Değişkeni Bildirme
 
 ```
 <!DOCTYPE html>
@@ -230,7 +232,7 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
 </html>
 ```
 
-### Tarayıcı Konsoluna Yazma
+#### Tarayıcı Konsoluna Yazma
 
 ```
 <!DOCTYPE html>
@@ -258,7 +260,7 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
 </html>
 ```
 
-### Bir Uyarıyı İletişim Kutusuna Yazma
+#### Bir Uyarıyı İletişim Kutusuna Yazma
 
 ```
 <!DOCTYPE html>
@@ -284,7 +286,7 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
 </html>
 ```
 
-### Tarayıcı Penceresine Yazma
+#### Tarayıcı Penceresine Yazma
 
 ```
 <!DOCTYPE html>
@@ -310,7 +312,7 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
 </html>
 ```
 
-### document.write() Yöntemle İlgili Sorun
+#### document.write() Yöntemle İlgili Sorun
 
 ```
 <!DOCTYPE html>
@@ -330,7 +332,7 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
 </html>
 ```
 
-### HTML Öğesine Yazdırma
+#### HTML Öğesine Yazdırma
 
 ```
 <!DOCTYPE html>
