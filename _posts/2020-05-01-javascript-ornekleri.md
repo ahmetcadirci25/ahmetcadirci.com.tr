@@ -10,7 +10,9 @@ comments   : true
 
 JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı bir uygulamalı JavaScript örnekleri içerir. 
 
-**Örnekler devamlı güncellenecektir.**
+Örnek kodları [Sublime Text 3]({{site.url}}/sublime-text-3/) kod editörü kullanarak deneyebilirsiniz. Ya da [gerçek zamanlı online HTML editörü]({{site.url}}/htmleditor/) kullanabilirsiniz.
+
+**Sık sık örnekler güncellenecektir.**
 
 ## İçindekiler
 
