@@ -14,8 +14,6 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
 
 #### JavaScript "Merhaba Dünya!" Uygulaması
 
-[Önizleme](https://codepen.io/ahmetcadirci25/pen/KKdXoJy){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
-
 ```
 <!DOCTYPE html>
 <html lang="tr">
@@ -49,10 +47,8 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
 
     <script>
         let merhaba = "Merhaba Dünya!";
-        console.log(merhaba);
+        document.write(merhaba);
     </script>
-
-    <p>Not: Klavyedeki F12 tuşuna basarak tarayıcı konsoluna (console) bakın.</p>
 
 </body>
 </html>
