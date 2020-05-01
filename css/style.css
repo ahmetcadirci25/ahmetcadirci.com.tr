@@ -6,6 +6,7 @@ html {
 .dark .header,
 .dark .footer,
 .dark .copyrights,
+.dark pre,
 .dark .social-buttons__item,
 .dark .social-icons .social-icons__container,
 .dark #disqus_thread:after,
@@ -36,6 +37,7 @@ html {
 .dark h4 a,
 .dark h5 a,
 .dark h6 a,
+.dark pre,
 .dark .footer__text,
 .dark .contact form input,
 .dark blockquote,
@@ -49,6 +51,7 @@ html {
 .dark .social__container, 
 .dark .search__container, 
 .dark hr, 
+.dark pre,
 .dark .sticky__box, 
 .dark .sticky:after,
 .dark .sticky:before,
@@ -619,7 +622,11 @@ pre {
     word-wrap: break-word;
     background-color: #f5f5f5;
     border: 1px solid #ccc;
-    border-radius: 4px
+    border-radius: 4px;
+    -webkit-user-select: all;
+    -moz-user-select: all;   
+    -ms-user-select: all;    
+    user-select: all;        
 }
 
 .container:after,.container:before,.row:after,.row:before {
