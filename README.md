@@ -50,6 +50,7 @@ Sosyal paylaşımlarımı takip etmek için:
 
 ### Yeni Yazılar
 
+* [JavaScript Örnekleri](https://ahmetcadirci.com.tr/2020/javascript-ornekleri/)
 * [Evliya Çelebi Programı Sunucusu Ömer Faruk Aksoy Kimdir?](https://ahmetcadirci.com.tr/2019/omer-faruk-aksoy/)
 * [Daniel Chamovitz - Bitkilerin Bildikleri](https://ahmetcadirci.com.tr/2019/bitkilerin-bildikleri/)
 * [YouTube Kanallarından ve Çalma Listelerinden RSS URL'leri Nasıl Alabilirsiniz?](https://ahmetcadirci.com.tr/2019/youtube-rss/)
