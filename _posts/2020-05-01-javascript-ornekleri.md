@@ -382,3 +382,124 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
 </body>
 </html>
 ```
+
+#### JavaScript'te Gerçek API ile Bağlantı Kurma ve Veri Çekme
+
+```
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript'te Gerçek API ile Bağlantı Kurma ve Veri Çekme</title>
+</head>
+<body>
+
+    <script>
+        const yazilar = fetch("https://api.dailysmarty.com/posts");
+        // console.log(yazilar);
+
+        yazilar
+        .then(data => data.json())
+        .then(data => {
+            data.posts.forEach((item) => {      
+            document.write("<a href='" + item.url_for_post + "'>" + item.title + "</a><br>");
+            });
+        })
+        
+        .catch((err) => {
+            console.log(err);
+        })
+    </script>
+
+</body>
+</html>
+```
+
+#### JavaScript'te Attribute Kullanarak Öznitelikleri Değiştirme
+
+```
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript'te Attribute Kullanarak Öznitelikleri Değiştirme</title>
+</head>
+<body>
+
+    <a href="https://www.pexels.com" target="_blank">Pexel.com</a>
+
+    <hr>
+
+    <img src="https://images.pexels.com/photos/4207892/pexels-photo-4207892.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" width="50%">
+
+    <img src="https://images.pexels.com/photos/2868871/pexels-photo-2868871.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" width="50%">
+
+    <script>
+        // Bağlantı linkini değiştirme
+        let a = document.querySelector("a");
+        console.log(a);
+        a.setAttribute("href", "https://www.unsplash.com");
+        
+        // Birinci görseli bulup yeni resimle değiştirme
+        let img1 = document.querySelectorAll("img")[0];
+        console.log(img1);
+        img1.setAttribute("src", "https://images.pexels.com/photos/4048182/pexels-photo-4048182.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+
+        // İkinci görseli bulup yeni resimle değiştirme
+        let img2 = document.querySelectorAll("img")[1];
+        console.log(img2);
+        img2.setAttribute("src", "https://images.pexels.com/photos/4171211/pexels-photo-4171211.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    </script>
+
+</body>
+</html>
+```
+
+#### JavaScript'te Click Event Kullanarak Kutuları Gizleme
+
+```
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript'te Click Event Kullanarak Kutuları Gizleme</title>
+    <style>
+        .kutu{
+            width: 150px;
+            height: 150px;
+            margin: 10px;
+            float: left;
+        }
+
+        #mavi{
+            background-color: blue;
+        }
+        #kirmizi{
+            background-color: red;
+        }
+        #sari{
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="mavi" class="kutu"></div>
+    <div id="kirmizi" class="kutu"></div>
+    <div id="sari" class="kutu"></div>
+
+    <script>
+
+        let kutular = document.querySelectorAll(".kutu");
+
+        kutular.forEach(function(kutu){                
+            kutu.addEventListener("click", function(){
+                this.style.display = "none";
+            })
+        });
+
+    </script>
+
+</body>
+</html>
+```
