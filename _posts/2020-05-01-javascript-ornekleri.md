@@ -31,6 +31,9 @@ JavaScript dilinin çeşitli tekniklerini ve özelliklerini gösteren kapsamlı 
 - [Tarayıcı Penceresine Yazma]({{site.url}}/2020/javascript-ornekleri/#tarayıcı-penceresine-yazma)
 - [document.write() Yöntemle İlgili Sorun]({{site.url}}/2020/javascript-ornekleri/#documentwrite-yöntemle-i̇lgili-sorun)
 - [HTML Öğesine Yazdırma]({{site.url}}/2020/javascript-ornekleri/#html-öğesine-yazdırma)
+- [JavaScript’te Gerçek API ile Bağlantı Kurma ve Veri Çekme]({{site.url}}/2020/javascript-ornekleri/#javascriptte-gerçek-api-ile-bağlantı-kurma-ve-veri-çekme)
+- [JavaScript’te Attribute Kullanarak Öznitelikleri Değiştirme]({{site.url}}/2020/javascript-ornekleri/#javascriptte-attribute-kullanarak-öznitelikleri-değiştirme)
+- [JavaScript’te Click Event Kullanarak Kutuları Gizleme]({{site.url}}/2020/javascript-ornekleri/#javascriptte-click-event-kullanarak-kutuları-gizleme)
 
 #### JavaScript "Merhaba Dünya!" Uygulaması
 
