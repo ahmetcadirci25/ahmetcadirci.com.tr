@@ -24,7 +24,7 @@ Türkçe Podcast sayfasında teknolojiden tasavvufa, islamdan günlük konulara 
 
 Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
 
-<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/1QvUyU8mkAOqMuzhVjrhdD" width="100%"></iframe>
+<iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/1QvUyU8mkAOqMuzhVjrhdD" width="100%"></iframe>
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2TWBIqH)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2FLkB7g)
@@ -43,7 +43,7 @@ Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
 
 Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
 
-<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/1h8jqZMNM4U7C78KWbjKVk" width="100%"></iframe>
+<iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/1h8jqZMNM4U7C78KWbjKVk" width="100%"></iframe>
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2I0f6US)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2uQ0U8g)
@@ -62,7 +62,7 @@ Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
 
 Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ile 'Can Veren Pervâneler' programında...
 
-<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/3Tkx12h6lJr9GyeUdKaKtE" width="100%"></iframe>
+<iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/3Tkx12h6lJr9GyeUdKaKtE" width="100%"></iframe>
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2G2RlZV)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2CS9nMr)
@@ -81,7 +81,7 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 
 İki usta isim, Nedim Şener ve Mete Yarar, Memleket Aşkına programıyla güncel yorum ve analizleriyle sizlerle buluşuyor. 
 
-<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/4XH4sAOWlddFK9tpRuCzgu" width="100%"></iframe>
+<iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/4XH4sAOWlddFK9tpRuCzgu" width="100%"></iframe>
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2rEXbvL)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2piBAsc)
@@ -100,7 +100,7 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 
 Alev Alatlı'nın sunumuyla 'Tarih Tekerrür ve Ekonomik Krizler' programının podcast yayınları.
 
-<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/4xT2cVVBvu7kPmUPmbfc5S" width="100%"></iframe>
+<iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/4xT2cVVBvu7kPmUPmbfc5S" width="100%"></iframe>
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2J7tmZM)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2Lf6g6g)
@@ -119,7 +119,7 @@ Alev Alatlı'nın sunumuyla 'Tarih Tekerrür ve Ekonomik Krizler' programının 
 
 Dursun Gürlek'in sunumuyla Tarih ve Mekan.
 
-<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/4zCsahlmZY5a7YN92CWk5F" width="100%"></iframe>
+<iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/4zCsahlmZY5a7YN92CWk5F" width="100%"></iframe>
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2N2zVCh)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2IKXb3u)
@@ -138,7 +138,7 @@ Dursun Gürlek'in sunumuyla Tarih ve Mekan.
 
 En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzerinden ulaşabilirsiniz. 
 
-<iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/4BL7r5IMsKd8kSPv5paR4g" width="100%"></iframe>
+<iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/4BL7r5IMsKd8kSPv5paR4g" width="100%"></iframe>
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2Id3Gfw)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2COm8aM)
