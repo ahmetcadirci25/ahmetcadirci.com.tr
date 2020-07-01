@@ -9,8 +9,9 @@ image      : "/images/ahmetcadirci-wallpaper.jpg"
 <h1 style="font-size: 30px">Sosyal Medya Hesapları</h1>
 
 Sosyal medya hesaplarımdan bana ulaşabilirsiniz. Web sitemde yayınlanan en güncel yazıları [RSS]({{ site.url }}/r/rss){:target="_blank"} ve [E-Bülten]({{ site.url }}/r/ebulten){:target="_blank"} ile takip edebilirsiniz:
-- [Feedly]({{ site.url }}/r/feedly){:target="_blank"}
 - [RSS]({{ site.url }}/r/rss){:target="_blank"}
+- [Feedly]({{ site.url }}/r/feedly){:target="_blank"}
+- [Feedbin]({{ site.url }}/r/feedbin){:target="_blank"}
 - [RSS Podcast]({{ site.url }}/r/rss-podcast){:target="_blank"}
 - [iTunes Podcast]({{ site.url }}/r/podcast){:target="_blank"}
 - [Spotify Podcast]({{ site.url }}/r/spotify){:target="_blank"}
