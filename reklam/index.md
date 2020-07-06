@@ -12,7 +12,7 @@ Aklınıza takılan tüm soruları [iletişim]({{ site.url }}/iletisim/) sayfas�
 
 ## Görüntülü Reklam
 
-Shipy üzerinden görüntülü reklam seçenekleri *(örneğin, 300*250px,  300*600px veya 160*600px ebatında reklam alanları)* kontrol edip satın alma işlemi yapabilirsiniz. 
+Shipy üzerinden görüntülü reklam seçenekleri *(örneğin, 300x250px,  300x600px veya 160x600px ebatında reklam alanları)* kontrol edip satın alma işlemi yapabilirsiniz. 
 
 Satın Al: [https://shipy.net/](https://shipy.net/)
 
