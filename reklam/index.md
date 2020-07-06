@@ -12,15 +12,13 @@ Aklınıza takılan tüm soruları [iletişim]({{ site.url }}/iletisim/) sayfas�
 
 ## Görüntülü Reklam
 
-Shipy üzerinden görüntülü reklam seçenekleri kontrol edip satın alabilirsiniz. 
+Shipy üzerinden görüntülü reklam seçenekleri *(örneğin, 300*250px,  300*600px veya 160*600px ebatında reklam alanları)* kontrol edip satın alma işlemi yapabilirsiniz. 
 
 Satın Al: [https://shipy.net/](https://shipy.net/)
 
 ## Sponsorlu Yazılar
 
-Sponsorlu yazılar her yere gider ve çok fazla ilgi görür.
-
-Şunları elde edersiniz: Diğer tüm yayınlar gibi ana sayfada doğrudan yayınlanan ve sitede sonsuza kadar kalan bir yazı.
+Sponsorlu yazılar her yere gider ve çok fazla ilgi görür. Diğer tüm yayınlar gibi ana sayfada doğrudan yayınlanan ve sitede sonsuza kadar kalan bir yazı.
 
 Blog gönderileri oldukları için biçimleri oldukça açık. Uzun ve ayrıntılı öğreticiler olabilirler, orta uzunlukta özellik duyurular olabilir veya çok kısa, tatlı ve doğrudan olabilirler.
 
