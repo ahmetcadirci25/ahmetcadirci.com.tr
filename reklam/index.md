@@ -10,7 +10,7 @@ image    : "/images/ahmetcadirci-wallpaper.jpg"
 
 Aklınıza takılan tüm soruları [iletişim]({{ site.url }}/iletisim/) sayfasından iletebilirsiniz. 
 
-## Görüntülü Reklam
+### Görüntülü Reklam
 
 - Reklamınız 1 ay boyunca kenar çubuğunda yayınlanır. Reklam süresi 30 gündür.
 - Görselin hazırlanması, düzenlenmesi reklam sahibine aittir.
@@ -18,3 +18,33 @@ Aklınıza takılan tüm soruları [iletişim]({{ site.url }}/iletisim/) sayfas�
 - İllegal sitelerin reklamları kesinlikle yayınlanmaz.
 
 [👉 Hemen Satın Al](https://bit.ly/3e799kk){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
+
+### Sponsorlu Yazılar
+
+Blog gönderisi olduğu için farklı biçimlerde düzenleme yapılabilir. Uzun ve ayrıntılı, orta uzunlukta ve kısa bilgilendirme tarzında yazılabilir. 
+
+- Reklam veren tarafın sitesinin silinmesi ya da kaldırılması durumunda reklam verene haber verilmeksizin alakalı linkler kaldırılabilir.
+- Google Politikaları gereği, sponsorlu yazılarının sponsorlu içerik olduğu belirtilmek zorundadır.
+
+**Kısa Tanıtım Yazısı**
+
+- Yazı Başlığı (10-20 kelime)
+- 300 Kelimelik
+- 1 Link
+
+[👉 Hemen Satın Al](https://bit.ly/2Z8CWEU){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
+
+**Orta Tanıtım Yazısı**
+- Yazı Başlığı (10-20 kelime)
+- 500 - 1000 Kelimelik
+- 3 Link
+
+[👉 Hemen Satın Al](https://bit.ly/3iELc7z){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
+
+**Uzun Tanıtım Yazısı**
+- Yazı Başlığı (10-20 kelime)
+- 1500 - 5000 Kelimelik
+- 5 Link
+
+[👉 Hemen Satın Al](https://bit.ly/3f8KKMI){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
+
