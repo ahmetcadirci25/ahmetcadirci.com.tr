@@ -15,8 +15,8 @@ Nik Verezin'in geliştirdiği web tarayıcısı, reklam engelleme ve parola gibi
 ### Private Browser with Adblock Nasıl Kurulur?
 
 1. App Store’a giriş yapıyoruz.
-2. Arama çubuğuna **[Private Browser with Adblock](https://apple.co/2IgRw81)** yazıyoruz.
-3. **[Private Browser with Adblock](https://apple.co/2IgRw81)** uygulamasını indiriyoruz.
+2. Arama çubuğuna **[Private Browser with Adblock](https://apple.co/2IgRw81){:target="_blank"}{:rel="nofollow noopener noreferrer"}** yazıyoruz.
+3. **[Private Browser with Adblock](https://apple.co/2IgRw81){:target="_blank"}{:rel="nofollow noopener noreferrer"}** uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
 
 #### Videolar Arka Planda Nasıl Oynatılır?
