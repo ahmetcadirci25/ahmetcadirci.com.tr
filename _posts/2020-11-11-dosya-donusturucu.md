@@ -16,7 +16,7 @@ Dosya Dönüştürücü (File Converter), Windows gezginindeki bağlam menüsün
 
 Arayüz, uygulamanın kullanımının keyifli olmasını sağlamak için olabildiğince hafif olacak şekilde tasarlanmıştır.
 
-Dosyaların bağlam menülerine dönüştürme ön ayarları eklemek / kaldırmak veya dönüştürme seçeneklerini değiştirmek için mevcut olanı düzenlemek için uygulamayı büyük ölçüde özelleştirebilirsiniz.
+Dosyaların bağlam menülerine dönüştürme ön ayarları eklemek / kaldırmak veya dönüştürme seçeneklerini değiştirmek, mevcut olanı düzenlemek için uygulamayı büyük ölçüde özelleştirebilirsiniz.
 
 {% include picture.html image_id="/images/galeri/ayarlar.png" imagealt="Dosya Dönüştürücü Ayarları" link="/images/galeri/ayarlar.png" %} 
 *Resmi büyütmek için üzerine tıklayın.* 
