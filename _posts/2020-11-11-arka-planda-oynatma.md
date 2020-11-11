@@ -26,6 +26,8 @@ Nik Verezin'in geliştirdiği web tarayıcısı, reklam engelleme ve parola gibi
 3. Video daha sonra bir "**resim içinde resim**" özelliği ile oynatmaya devam edecektir.
 4. Diğer uygulamalara geçerek arka planda videonuz oynamaya devam edecektir.
 
+{% include vimeo.html vimeo_id="1bAgcR5PDr6KkLUKPItQUhk6ZdgVJ5VWl" vimeo_image="1bAgcR5PDr6KkLUKPItQUhk6ZdgVJ5VWl" %}
+
 #### Resim İçinde Resim Özelliği Nasıl Kullanılır?
 
 1. **Private Browser with Adblock**'u yükledikten sonra, tarayıcıyı açın ve YouTube.com gidin. 

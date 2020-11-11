@@ -16,40 +16,31 @@ Arayüz, uygulamanın kullanımının keyifli olmasını sağlamak için olabild
 
 **Birçok farklı dosya formatını destekler:**
 
-<table class="table">
-    <thead>
-        <tr>
-            <th></th>
-            <th>Supported output formats</th>
-            <th>Compatible input formats</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Audio</td>
-            <td>flac, aac, ogg, mp3, wav</td>
-            <td>3gp, aiff, ape, avi, bik, cda, flac, flv, m4a, mkv, mov, mp3, mp4, oga, ogg, wav, webm, wma, wmv</td>
-        </tr>
-        <tr>
-            <td>Video</td>
-            <td>webm, mkv, mp4, ogv, avi, gif</td>
-            <td>3gp, avi, bik, flv, gif, m4v, mkv, mp4, mpeg, mov, ogv, webm, wmv</td>
-        </tr>
-        <tr>
-            <td>Image</td>
-            <td>png, jpg, ico, webp</td>
-            <td>bmp, exr, ico, jpg, jpeg, png, psd, svg, tiff, tga, webp, pdf, doc*, docx*, odt*, odp*, ods*, ppt*, pptx*, xls*,
-                xlsx*</td>
-        </tr>
-        <tr>
-            <td>Document</td>
-            <td>pdf</td>
-            <td>doc*, docx*, odt*, odp*, ods*, ppt*, pptx*, xls*, xlsx*, bmp, exr, ico, jpg, jpeg, png, psd, svg, tiff, tga</td>
-        </tr>
-    </tbody>
-</table>
 
-** Office belgelerini dönüştürmek için Microsoft Office'in yüklü ve etkinleştirilmiş olması gerekir.*
+**Ses**
+
+Çıktı Formatları: flac, aac, ogg, mp3, wav
+Girdi Formatları: 3gp, aiff, ape, avi, bik, cda, flac, flv, m4a, mkv, mov, mp3, mp4, oga, ogg, wav, webm, wma, wmv
+
+
+**Video**
+
+Çıktı Formatları: webm, mkv, mp4, ogv, avi, gif
+Girdi Formatları: 3gp, avi, bik, flv, gif, m4v, mkv, mp4, mpeg, mov, ogv, webm, wmv
+
+**Image**
+
+Çıktı Formatları: png, jpg, ico, webp
+Girdi Formatları: bmp, exr, ico, jpg, jpeg, png, psd, svg, tiff, tga, webp, pdf, doc*, docx*, odt*, odp*, ods*, ppt*, pptx*, xls*,
+xlsx*
+
+**Document**
+
+Çıktı Formatları: pdf
+Girdi Formatları: doc*, docx*, odt*, odp*, ods*, ppt*, pptx*, xls*, xlsx*, bmp, exr, ico, jpg, jpeg, png, psd, svg, tiff, tga        
+   
+
+*Office belgelerini dönüştürmek için Microsoft Office'in yüklü ve etkinleştirilmiş olması gerekir.*
 
 Dosyaların bağlam menülerine dönüştürme ön ayarları eklemek / kaldırmak veya dönüştürme seçeneklerini değiştirmek için mevcut olanı düzenlemek için uygulamayı büyük ölçüde özelleştirebilirsiniz.
 
