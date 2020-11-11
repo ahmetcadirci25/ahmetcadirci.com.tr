@@ -36,7 +36,7 @@ Dosya Dönüştürücü (File Converter), Windows Vista / 7/8 ve 10 ile uyumludu
 
 #### Desteklediği Formatlar
 
-<table class="table">
+<table border="" bordercolor="#dee2e6" cellpadding="10" class="table push-down-30">
 <thead>
 <tr>
 <th></th>
