@@ -50,6 +50,7 @@ Sosyal paylaşımlarımı takip etmek için:
 
 ### Yeni Yazılar
 
+* [Figma Font Ekleme](https://ahmetcadirci.com.tr/2020/figma-font-ekleme/)
 * [Dosya Dönüştürücü (File Conventer) ile Her Şeyi 2 Tıklamayla Dönüştürün ve Sıkıştırın!](https://ahmetcadirci.com.tr/2020/dosya-donusturucu/)
 * [iPhone'da YouTube Dahil Tüm Sitelerdeki Videoları Arka Planda Nasıl Oynatılır?](https://ahmetcadirci.com.tr/2020/arka-planda-oynatma/)
 * [Windows Eraser: Dosyaları ve Klasörleri Kalıcı Olarak Silme](https://ahmetcadirci.com.tr/2020/eraser/)
