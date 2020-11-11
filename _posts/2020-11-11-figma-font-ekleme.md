@@ -1,5 +1,5 @@
 ---
-title      : "Figma Font Ekleme"
+title      : "Figma Yazı Tipi (Font) Ekleme"
 description: "Figma, Google Web Yazı Tiplerinin bir çoğuna erişmenize olanak sağlar. Fakat tasarımcılar için bu yeterli değildir. Satın alınan veya ücretsiz indirilen yazı tiplerini kullanmak isteyebilirsiniz. "
 date       : 2020-11-11 12:00:00
 categories : [Program]
