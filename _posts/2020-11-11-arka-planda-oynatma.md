@@ -19,14 +19,14 @@ Nik Verezin'in geliştirdiği web tarayıcısı, reklam engelleme ve parola gibi
 3. **[Private Browser with Adblock](https://apple.co/2IgRw81)** uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
 
-### Videolar Arka Planda Nasıl Oynatılır?
+#### Videolar Arka Planda Nasıl Oynatılır?
 
 1. **Private Browser with Adblock**'u yükledikten sonra, tarayıcıyı açın ve YouTube.com gidin. 
 2. Arka planda dinlemek istediğiniz videoyu bulun, oynatın ve açılır pencerede "**Cancel**" a tıklayın.
 3. Video daha sonra bir "**resim içinde resim**" özelliği ile oynatmaya devam edecektir.
 4. Diğer uygulamalara geçerek arka planda videonuz oynamaya devam edecektir.
 
-### Resim İçinde Resim Özelliği Nasıl Kullanılır?
+#### Resim İçinde Resim Özelliği Nasıl Kullanılır?
 
 1. **Private Browser with Adblock**'u yükledikten sonra, tarayıcıyı açın ve YouTube.com gidin. 
 2. Arka planda dinlemek istediğiniz videoyu bulun, oynatın ve açılır pencerede "Cancel" a tıklayın.
@@ -34,7 +34,7 @@ Nik Verezin'in geliştirdiği web tarayıcısı, reklam engelleme ve parola gibi
 4. Sağ üst köşede yer alan ekranı büyütme düğmesine tıklayın. 
 5. Diğer uygulamaya geçtiğinizde "**resim içinde resim**" özelliği ile oynatmaya devam edecektir.
 
-### Video İndirme Özelliği Nasıl Kullanılır?
+#### Video İndirme Özelliği Nasıl Kullanılır?
 
 1. **Private Browser with Adblock**'u yükledikten sonra, tarayıcıyı açın ve YouTube.com gidin. 
 2. Arka planda dinlemek istediğiniz videoyu bulun, oynatın ve açılır pencerede "**Download**" a tıklayın.
@@ -42,13 +42,13 @@ Nik Verezin'in geliştirdiği web tarayıcısı, reklam engelleme ve parola gibi
 4. "**Downloads**" sekmesinden indirme işlemini takip edebilirsiniz. 
 5. İndirme işlemi bittikten sonra videoları oynatabilirsiniz. 
 
-### Reklam Engelleme Özelliği Nasıl Aktif Edilir?
+#### Reklam Engelleme Özelliği Nasıl Aktif Edilir?
 
 1. **Private Browser with Adblock**'u yükledikten sonra, tarayıcıyı açın.
 2. "**More**" sekmesine geçiş yapın.
 3. "**Ad Block**" düğmesine tıklayarak reklam engellemeyi aktif edebilirsiniz.
 
-### VPN Özelliği Nasıl Aktif Edilir?
+#### VPN Özelliği Nasıl Aktif Edilir?
 
 1. **Private Browser with Adblock**'u yükledikten sonra, tarayıcıyı açın.
 2. "**More**" sekmesine geçiş yapın.
