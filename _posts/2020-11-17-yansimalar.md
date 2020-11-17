@@ -10,9 +10,7 @@ comments   : true
 
 İbrahim Kalın, müzisyen Sami Yusuf'un **Yansımalar** adlı sohbet programına konuk oldu. Müzikten, felsefeye ve daha fazlası.
 
-<div style="--aspect-ratio: 16/9;"><iframe src="https://www.youtube-nocookie.com/embed/wNafQTXL8Ms" width="1600" height="900"frameborder="0"></iframe></div>
-
-<style>[style*="--aspect-ratio"] > :first-child{width:100%}[style*="--aspect-ratio"] > img{height:auto}[style*="--aspect-ratio"]::before{content:"";display:block;padding-bottom:calc(100% / (var(--aspect-ratio)))}[style*="--aspect-ratio"] > :first-child{position:absolute;top:0;left:0;height:100%}</style>
+<iframe width="100%" height="450" src="https://www.youtube-nocookie.com/embed/wNafQTXL8Ms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Sami Yusuf: Sayın İbrahim Kalın, Sizi aramızda görmek bir onur. Sizin büyük bir hayranınızım. Tüm çalışmalarınızı takip ediyorum. Siz bir entelektüelsiniz, bir felsefecisiniz. Aynı zamanda bir akademisyen ve ülkenizde en yüksek ofistesiniz. Çok güzel şeyler yapmaktasınız. Ve gerçekten harika, olağanüstü bir müzisyensiniz. Bize katıldığınız için teşekkürler, çok teşekkür ederim.**
 
