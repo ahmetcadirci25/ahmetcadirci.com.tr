@@ -50,6 +50,7 @@ Sosyal paylaşımlarımı takip etmek için:
 
 ### Yeni Yazılar
 
+* [50+ Ücretsiz HTML Bootstrap Kurumsal Temalar](https://ahmetcadirci.com.tr/2020/50-ucretsiz-html-bootstrap-kurumsal-temalar/)
 * [İbrahim Kalın Yansımalar](https://ahmetcadirci.com.tr/2020/yansimalar/)
 * [Figma Yazı Tipi (Font) Ekleme](https://ahmetcadirci.com.tr/2020/figma-font-ekleme/)
 * [Dosya Dönüştürücü (File Conventer) ile Her Şeyi 2 Tıklamayla Dönüştürün ve Sıkıştırın!](https://ahmetcadirci.com.tr/2020/dosya-donusturucu/)
