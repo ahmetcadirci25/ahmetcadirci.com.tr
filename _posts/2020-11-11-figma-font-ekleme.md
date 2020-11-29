@@ -12,7 +12,7 @@ Figma, Google Web Yazı Tiplerinin bir çoğuna erişmenize olanak sağlar. Faka
 
 #### Nasıl Kurulur?
 
-1. [figma.com/settings](https://figma.com/settings){:target="_blank"}{:rel="nofollow noopener noreferrer"} sayfasına gidin.
+1. [figma.com/settings](https://bit.ly/2VfXubW){:target="_blank"}{:rel="nofollow noopener noreferrer"} sayfasına gidin.
 2. "**Fonts"** sekmesi altında **"Download installer to enable local fonts."** düğmesine tıklayın.
 3. İndirme işlemi bittikten sonra "**FigmaFontHelperSetup.exe**" dosyasına tıklayın.
 4. **"Install"** tuşuna tıklamanız yeterli olacaktır.

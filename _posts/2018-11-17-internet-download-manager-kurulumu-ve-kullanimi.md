@@ -10,7 +10,7 @@ comments   : true
 
 **Internet Download Manager** (IDM) indirme hızlarını %500'e kadar arttırmak, indirmeleri devam ettirmek ve programlamak için kullanımı kolay bir araçtır. Internet Download Manager kullanıcılarının görüşlerine göre Internet Download Manager sevdiğiniz yazılımları, oyunları, cd, dvd ve mp3 müzikleri, filmleri, ve ücretsiz yazılımları indirmek için mükemmel bir hızlandırıcı programı!
 
-[👉 YAZILIM LİNKİ](http://mirror2.internetdownloadmanager.com/idman636build5.exe?v=lt&filename=idman636build5.exe){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
+[👉 YAZILIM LİNKİ](https://mirror2.internetdownloadmanager.com/idman638build14.exe?v=lt&filename=idman638build14.exe){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 ## İçindekiler 
 

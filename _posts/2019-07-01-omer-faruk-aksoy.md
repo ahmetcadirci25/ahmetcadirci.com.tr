@@ -16,9 +16,9 @@ comments   : true
 
 **BBC**, **Discovery** ve **National Geographic** kanallarına belgeseller çekti. Çekmiş olduğu belgeseller Hac, Mekke ve Medine ile ilgilidir. 
 
-> Genç yaşta sinema ve görsel sanatların gücünün farkına varan fotoğrafçılığının yanında National Geographic'in [Inside Mecca](https://www.imdb.com/title/tt0427389/){:target="_blank"}{:rel="nofollow noopener noreferrer"} ve BBC'nin The Hajj: The Journey of a Life Time gibi önemli belgesel yapımlarda da görev aldı. Son senelerde de BBC, National Geographic, Discovery gibi kanallara hacla ilgili çekimler yaptı. Son çalışması da "[İbni Battuta'nın Ayak İzlerinden Mekke'ye Yolculuk](https://www.imdb.com/title/tt1235836/){:target="_blank"}{:rel="nofollow noopener noreferrer"}" adlı bir IMAX sinemasıydı. Orada da yönetmen yardımcılığı yaptı.
+> Genç yaşta sinema ve görsel sanatların gücünün farkına varan fotoğrafçılığının yanında National Geographic'in [Inside Mecca](https://imdb.to/33tpu0p){:target="_blank"}{:rel="nofollow noopener noreferrer"} ve BBC'nin The Hajj: The Journey of a Life Time gibi önemli belgesel yapımlarda da görev aldı. Son senelerde de BBC, National Geographic, Discovery gibi kanallara hacla ilgili çekimler yaptı. Son çalışması da "[İbni Battuta'nın Ayak İzlerinden Mekke'ye Yolculuk](https://imdb.to/3leSH5j){:target="_blank"}{:rel="nofollow noopener noreferrer"}" adlı bir IMAX sinemasıydı. Orada da yönetmen yardımcılığı yaptı.
 
-2009 yılında yapılan "[Eşsiz Kareler Eşliğinde Bir Fotoğrafçının Objektifinden Kutsal Beldeler](http://www.sonpeygamber.info/essiz-kareler-esliginde-bir-fotografcinin-objektifinden-kutsal-beldeler){:target="_blank"}{:rel="nofollow noopener noreferrer"}" röportajını okumanızı tavsiye ederim.
+2009 yılında yapılan "[Eşsiz Kareler Eşliğinde Bir Fotoğrafçının Objektifinden Kutsal Beldeler](https://bit.ly/3mhYWGE){:target="_blank"}{:rel="nofollow noopener noreferrer"}" röportajını okumanızı tavsiye ederim.
 
 ## Evliya Çelebi Programı
 
@@ -28,7 +28,7 @@ comments   : true
 
 {% include youtube.html youtube_id="fonoaVo1WaY"%}
 
-[👉 Diğer Bölümler](https://www.youtube.com/playlist?list=PL0gMcF5aNgrMkPRUUUYiSCiCVTngxoBo3){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
+[👉 Diğer Bölümler](https://bit.ly/39p730p){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 ## Evliya Çelebi'nin Yapımcı Mustafa Aksay ve Sunucu Ömer Faruk Aksoy ile Söyleşi
 
@@ -65,7 +65,7 @@ comments   : true
 #### Cebelü'r-Rahme - Arafat
 {% include picture.html image_id="/images/galeri/cebelur-rahme-arafat.jpg" imagealt="Cebelü'r-Rahme - Arafat" %}
 
-Daha fazlasını görmek için [tıklayın](http://www.sonpeygamber.info/galeri/fotograf/omer-faruk-aksoy-koleksiyonu){:target="_blank"}{:rel="nofollow noopener noreferrer"}. 
+Daha fazlasını görmek için [tıklayın](https://bit.ly/3o15REw){:target="_blank"}{:rel="nofollow noopener noreferrer"}. 
 
 #### Bibliyografya: 
 

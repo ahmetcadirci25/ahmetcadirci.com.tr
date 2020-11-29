@@ -28,7 +28,7 @@ Alexa Rank (Sıralama) hakkında bilmemiz gereken her şey bu rehberde bir araya
 
 
 ### Alexa 
-*Alexa ABD merkezli ve [amazon.com](https://www.amazon.com){:target="_blank"}{:rel="nofollow noopener noreferrer"} tarafından yönetilen bir internet şirketidir.*
+*Alexa ABD merkezli ve [amazon.com](https://amzn.to/2HNeVgW){:target="_blank"}{:rel="nofollow noopener noreferrer"} tarafından yönetilen bir internet şirketidir.*
 
 ### Alexa Nedir?
 **"Bilgi güçtür - doğru araçlara sahipseniz."**
@@ -48,9 +48,9 @@ Alexa site sıralaması benzersiz ziyaretçiler ve sayfa gösterimlerinin birle�
 Mevcut verilere dayanarak istatistiklerin sınırları vardır. Düşük trafiği olan siteler Alexa tarafından doğru şekilde sıralanmamaktadır. 
 
 ### Alexa Sorgulama
-1. Alexa Sorgulama işlemini yapmak için önce bağlantıya [alexa.com/siteinfo](https://www.alexa.com/siteinfo/){:target="_blank"}{:rel="nofollow noopener noreferrer"} tıklayın. 
+1. Alexa Sorgulama işlemini yapmak için önce bağlantıya [alexa.com/siteinfo](https://bit.ly/2JmmsE3){:target="_blank"}{:rel="nofollow noopener noreferrer"} tıklayın. 
 2. Açılan sayfadaki arama kutucuğuna alan adı (domain) adresini yazın.
-3. Örnek: [ahmetcadirci.com.tr ](https://www.alexa.com/siteinfo/ahmetcadirci.com.tr){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+3. Örnek: [ahmetcadirci.com.tr ](https://bit.ly/2JmQozK){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 4. **Find** düğmesine basın.
 5. Karşınıza Traffic Statistics (Trafik İstatistikleri) çıkacaktır.
 
@@ -65,7 +65,7 @@ Mevcut verilere dayanarak istatistiklerin sınırları vardır. Düşük trafiğ
 HTML vb. sitelerde de aynı mantıkla hareket edilmelidir. Alexa Sertifika Kodu her zaman `</head>` kapatma etiketinden önce eklenmelidir. 
 
 ### Alexa'da Top 500 Site
-**Alexa'da top 500 site** bilgilerine ulaşmak için lütfen bağlantı adresine [tıklayın.](https://www.alexa.com/topsites){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+**Alexa'da top 500 site** bilgilerine ulaşmak için lütfen bağlantı adresine [tıklayın.](https://bit.ly/3mj1FQf){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 1. Google.com
 2. Youtube.com
@@ -79,7 +79,7 @@ HTML vb. sitelerde de aynı mantıkla hareket edilmelidir. Alexa Sertifika Kodu 
 10. Tmall.com
 
 ### Alexa'da Türkçe Siteler Sıralaması
-**Alexa'da Türkçe siteler sıralaması**na ulaşmak için lütfen bağlantı adresine [tıklayın.](https://www.alexa.com/topsites/countries/TR){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+**Alexa'da Türkçe siteler sıralaması**na ulaşmak için lütfen bağlantı adresine [tıklayın.](https://bit.ly/3mipHuN){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 1. Youtube.com
 2. Google.com
@@ -92,13 +92,13 @@ HTML vb. sitelerde de aynı mantıkla hareket edilmelidir. Alexa Sertifika Kodu 
 9. Live.com
 10. Kizlarsoruyor.com
 
-Diğer ülkelerin sıralama bilgileri için [tıklayın.](https://www.alexa.com/topsites/countries){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+Diğer ülkelerin sıralama bilgileri için [tıklayın.](https://bit.ly/3lk7cor){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### Alexa Kategorilere Göre Sıralama
 
 Alexa kategorilerinde; Alışveriş, Basın ve Yayın, Bilgisayar, Bilim, Bölgesel, Ekonomi ve İş Dünyası, Ev, Eğlence ve Yaşam, Kaynaklar, Kültür ve Sanat, Oyunlar, Sağlık, Spor, Toplum, Çocuklar ve Gençler yer almaktadır.
 
-**Alexa kategori** bilgilerine ulaşmak için lütfen bağlantı adresine [tıklayın.](https://www.alexa.com/topsites/category){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+**Alexa kategori** bilgilerine ulaşmak için lütfen bağlantı adresine [tıklayın.](https://bit.ly/3fOceZi){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### Alexa Toolbar (Araç Çubuğu)
 *Alexa Toolbar'ı bilgisayarınıza yükleyerek; Web sitenizin ziyaretçi performansını sürekli izleyebilir, ziyaret ettiğiniz sitenin de ziyaretçi performansını anında görebilirsiniz.*
@@ -111,14 +111,14 @@ Alexa kategorilerinde; Alışveriş, Basın ve Yayın, Bilgisayar, Bilim, Bölge
 
 #### Chrome
 - Chrome web mağazasından **Alexa Toolbar** (Araç Çubuğu) eklentisini indirebilirsiniz. 
-- [Chrome Eklentisi](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [Chrome Eklentisi](https://bit.ly/33qSENA){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 - Açılan sayfa **Chrome'a ekle** düğmesine tıklayın. 
 - Yükleme bittikten sonra **Alexa Toolbar** eklenti simgesine tıklayın.
 - **Accept and Enable** düğmesine tıkladıktan sonra kullanmaya başlayabilirsiniz.
 
 #### Firefox
 - Eklentiyi indirmek için *lütfen bağlantı adresine tıklayın.*
-- [Firefox Eklentisi](https://www.alexa.com/toolbar?browser=firefox){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [Firefox Eklentisi](https://bit.ly/3fOchUY){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 - Açılan sayfa ****Install Alexa Browser Extension** düğmesine tıklayın. 
 - Daha sonra **Accept and Install** düğmesine tıklayın. 
 - Url satırında açılan ekrana **İzin Ver** dedikten sonra yükleme tamamlanacaktır.
@@ -140,7 +140,7 @@ Alexa kategorilerinde; Alışveriş, Basın ve Yayın, Bilgisayar, Bilim, Bölge
 
 {% include sorucevap.html soru="Neden Sitemde Ülke Trafik Sıralaması Yok?" cevap="Bir ülke trafik sıralaması ve ülke bayrağı görülmüyorsa, bunun için yeterli veriye sahip olmadığı anlamına gelir. <br><br> Sitenin trafik sıralamasını, kullanıcılarının en büyük oranının bulunduğu ülkeye göre gösterilir."%}
 
-{% include sorucevap.html soru="Alexa Kategori Dizinine Site Ekleme Nasıl Yapılır?" cevap="Alexa Pro aboneliğiniz varsa,  destek <b>https://support.alexa.com/hc/en-us/requests/new</b> kısmından sitenizin eklenmesi için mesaj atabilirsiniz. <br><br> Mesajınızda sitenizi hangi dizine eklenmesini istiyorsanız bağlantı adresini göndermeyi unutmayın.  Yalnızca bir kategoriye ekleme yapılmaktadır."%}
+{% include sorucevap.html soru="Alexa Kategori Dizinine Site Ekleme Nasıl Yapılır?" cevap="Alexa Pro aboneliğiniz varsa,  destek <b>https://bit.ly/3o6odnP</b> kısmından sitenizin eklenmesi için mesaj atabilirsiniz. <br><br> Mesajınızda sitenizi hangi dizine eklenmesini istiyorsanız bağlantı adresini göndermeyi unutmayın.  Yalnızca bir kategoriye ekleme yapılmaktadır."%}
 
 
 #### Bibliyografya:
