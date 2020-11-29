@@ -50,6 +50,7 @@ Sosyal paylaşımlarımı takip etmek için:
 
 ### Yeni Yazılar
 
+* [Adobe Photoshop için 50+ Ücretsiz Fırçalar](https://ahmetcadirci.com.tr/2020/photoshop-fircalari/)
 * [50+ Ücretsiz HTML Bootstrap Kurumsal Temalar](https://ahmetcadirci.com.tr/2020/50-ucretsiz-html-bootstrap-kurumsal-temalar/)
 * [İbrahim Kalın Yansımalar](https://ahmetcadirci.com.tr/2020/yansimalar/)
 * [Figma Yazı Tipi (Font) Ekleme](https://ahmetcadirci.com.tr/2020/figma-font-ekleme/)
