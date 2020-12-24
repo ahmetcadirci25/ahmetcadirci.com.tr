@@ -6,7 +6,6 @@ categories : [Program, Tasarım]
 tags       : [Adobe Photoshop, Fırça, Brush]
 image      : "/images/photoshop-fircalari.png"
 comments   : true
-sponsor    : true
 ---
 
 Şimdi söz verdiğimiz ücretsiz Photoshop fırçalarına bakma zamanı. Ücretsiz Photoshop fırçaları mı arıyorsunuz? Şimdi indirmek için harika Photoshop fırçaları bulabilirsiniz. Bugün, web'in dört bir yanından 50'den fazla ücretsiz Photoshop fırçasından oluşan inanılmaz bir seçkiyi sizlerle paylaşıyoruz.
