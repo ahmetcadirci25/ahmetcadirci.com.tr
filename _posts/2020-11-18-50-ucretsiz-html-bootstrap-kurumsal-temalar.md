@@ -6,6 +6,7 @@ categories : [Kod, İnternet]
 tags       : [Bootstrap, Tema, Şablon]
 image      : "/images/50-ucretsiz-html-bootstrap-kurumsal-temalar.png"
 comments   : true
+sponsor    : false
 ---
 
 Farklı sektörlerden onlarca HTML Bootstrap kurumsal temaları sizler için listelendi. Tamamını ücretsiz indirebilirsiniz.

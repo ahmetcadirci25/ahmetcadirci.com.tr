@@ -21,6 +21,7 @@ layout: default
               </span> 
               <span class="meta__categories"><svg class="icon icon-list"><use xlink:href="#icon-list"></use></svg>  &nbsp; {% for categories in page.categories %}<a href="{{ site.url }}/kategoriler/#{{ categories }}">{{ categories }}</a>, {% endfor %} </span>
               <span class="meta__date"><svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>   &nbsp; {{ page.date | date: "%d.%m.%Y" }}</span> 
+              {% if page.sponsor %} <span class="meta__sponsor" style="background-color: #51ab6d;padding: 5px 10px;border-radius: 3px;">SPONSORLU</span>{% endif %}
             </div>
           </div>
           <div class="col-xs-12 col-sm-3">
