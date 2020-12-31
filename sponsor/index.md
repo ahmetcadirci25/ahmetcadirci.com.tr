@@ -17,7 +17,7 @@ Aklınıza takılan tüm soruları [iletişim]({{ site.url }}/iletisim/) sayfas�
 - GörseL 300x250 boyutlarında JPG, PNG formatında olmalıdır.
 - İllegal sitelerin reklamları kesinlikle yayınlanmaz.
 
-[👉 Hemen Satın Al](https://bit.ly/3e799kk){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
+[👉 Hemen Satın Al]({{ site.url }}/iletisim/){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 ### Sponsorlu Yazılar
 
@@ -30,7 +30,7 @@ Blog gönderisi olduğu için farklı biçimlerde düzenleme yapılabilir. Uzun 
 - Görsel
 - 1 Link
 
-[👉 Hemen Satın Al](https://bit.ly/2Z8CWEU){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
+[👉 Hemen Satın Al]({{ site.url }}/iletisim/){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 **Orta Tanıtım Yazısı**
 - Yazı Başlığı (10-20 kelime)
@@ -38,7 +38,7 @@ Blog gönderisi olduğu için farklı biçimlerde düzenleme yapılabilir. Uzun 
 - Görsel
 - 3 Link
 
-[👉 Hemen Satın Al](https://bit.ly/3iELc7z){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
+[👉 Hemen Satın Al]({{ site.url }}/iletisim/){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 **Uzun Tanıtım Yazısı**
 - Yazı Başlığı (10-20 kelime)
@@ -46,7 +46,7 @@ Blog gönderisi olduğu için farklı biçimlerde düzenleme yapılabilir. Uzun 
 - Görsel
 - 5 Link
 
-[👉 Hemen Satın Al](https://bit.ly/3f8KKMI){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
+[👉 Hemen Satın Al]({{ site.url }}/iletisim/){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 **Bilgilendirme**
 
