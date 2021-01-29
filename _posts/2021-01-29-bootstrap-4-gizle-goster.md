@@ -10,6 +10,7 @@ comments   : true
 
 Bootstrap 4 birlikte değişik ekran boyutlarına göre öğeleri gizleyebilir ve gösterebilirsiniz. Bunun için hazırlanan tablo ile kolaylıkla gerçekleştirebilirsiniz. 
 
+<div style="overflow-x: auto;-webkit-overflow-scrolling: touch;">
 <table border="" bordercolor="#dee2e6" cellpadding="10" class="table push-down-30">
 <thead>
 <tr>
@@ -88,12 +89,13 @@ Bootstrap 4 birlikte değişik ekran boyutlarına göre öğeleri gizleyebilir v
 </tr>
 </tbody>
 </table>
-
+</div>
 
 ## Yalnızca Belirli Görüntü Alanı Boyutunda Göster 
 
 Sadece `sm` üzerinde göstermek istiyorsanız ancak diğer boyutlarda gizlemek için, `d-none d-sm-block d-md-none` kullanın.
 
+<div style="overflow-x: auto;-webkit-overflow-scrolling: touch;">
 <table border="" bordercolor="#dee2e6" cellpadding="10" class="table push-down-30">
 <thead>
 <tr>
@@ -148,11 +150,13 @@ Sadece `sm` üzerinde göstermek istiyorsanız ancak diğer boyutlarda gizlemek 
 </tr>
 </tbody>
 </table>
+</div>
 
 ## Yalnızca Belirli Görüntü Alanı Boyutunda Gizle 
 
 Yalnızca `sm`'de gizlemek ancak diğer boyutlarda göstermek istiyorsanız, `d-block d-sm-none d-md-block` kullanın.
 
+<div style="overflow-x: auto;-webkit-overflow-scrolling: touch;">
 <table border="" bordercolor="#dee2e6" cellpadding="10" class="table push-down-30">
 <thead>
 <tr>
@@ -207,6 +211,7 @@ Yalnızca `sm`'de gizlemek ancak diğer boyutlarda göstermek istiyorsanız, `d-
 </tr>
 </tbody>
 </table>
+</div>
 
 #### Bibliyografya:
 
