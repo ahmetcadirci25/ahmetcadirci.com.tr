@@ -36,6 +36,7 @@ Dosya Dönüştürücü (File Converter), Windows Vista / 7/8 ve 10 ile uyumludu
 
 #### Desteklediği Formatlar
 
+<div style="overflow-x: auto;-webkit-overflow-scrolling: touch;">
 <table border="" bordercolor="#dee2e6" cellpadding="10" class="table push-down-30">
 <thead>
 <tr>
@@ -67,5 +68,6 @@ xlsx*</td>
 </tr>
 </tbody>
 </table>
+</div>
 
 *Office belgelerini dönüştürmek için Microsoft Office'in yüklü ve etkinleştirilmiş olması gerekir.*
