@@ -1,7 +1,7 @@
 ---
 title      : "Adobe Photoshop için 50+ Ücretsiz Fırçalar"
 description: "Adobe Photoshop için 50+ Ücretsiz Fırçaların yer aldığı kaynakları sizler için derledik."
-date       : 2020-11-29 11:30:00
+date       : 2020-11-19 11:30:00
 categories : [Program, Tasarım]
 tags       : [Adobe Photoshop, Fırça, Brush]
 image      : "/images/photoshop-fircalari.png"
