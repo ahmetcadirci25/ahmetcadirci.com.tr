@@ -1,7 +1,7 @@
 ---
 title      : "Bootstrap 4 Ekran Boyutuna Göre Gizle ve Göster"
 description: "Bootstrap 4 birlikte değişik ekran boyutlarına göre öğeleri gizleyebilir ve gösterebilirsiniz. Bunun için hazırlanan tablo ile kolaylıkla gerçekleştirebilirsiniz."
-date       : 2020-01-29 11:30:00
+date       : 2021-01-29 11:30:00
 categories : [Kod]
 tags       : [Bootstrap 4]
 image      : "/images/bootstrap-4-gizle-goster.png"
@@ -90,7 +90,7 @@ Bootstrap 4 birlikte değişik ekran boyutlarına göre öğeleri gizleyebilir v
 </table>
 
 
-### Yalnızca Belirli Görüntü Alanı Boyutunda Göster 
+## Yalnızca Belirli Görüntü Alanı Boyutunda Göster 
 
 Sadece `sm` üzerinde göstermek istiyorsanız ancak diğer boyutlarda gizlemek için, `d-none d-sm-block d-md-none` kullanın.
 
@@ -149,7 +149,7 @@ Sadece `sm` üzerinde göstermek istiyorsanız ancak diğer boyutlarda gizlemek 
 </tbody>
 </table>
 
-### Yalnızca Belirli Görüntü Alanı Boyutunda Gizle 
+## Yalnızca Belirli Görüntü Alanı Boyutunda Gizle 
 
 Yalnızca `sm`'de gizlemek ancak diğer boyutlarda göstermek istiyorsanız, `d-block d-sm-none d-md-block` kullanın.
 
