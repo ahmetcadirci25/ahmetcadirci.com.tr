@@ -1,6 +1,6 @@
 ---
 title      : "Bootstrap 4 Ekran Boyutuna Göre Gizle ve Göster"
-description: "Bootstrap 4 birlikte değişik ekran boyutlarına göre öğeleri gizleyebilir ve gösterebilirsiniz. Bunun için hazırlanan tablo ile kolaylıkla gerçekleştirebilirsiniz."
+description: "Bootstrap 4'le birlikte değişik ekran boyutlarına göre öğeleri gizleyebilir ve gösterebilirsiniz. Bunun için hazırlanan tablo ile kolaylıkla gerçekleştirebilirsiniz."
 date       : 2021-01-29 11:30:00
 categories : [Kod]
 tags       : [Bootstrap 4]
@@ -8,7 +8,9 @@ image      : "/images/bootstrap-4-gizle-goster.png"
 comments   : true
 ---
 
-Bootstrap 4 birlikte değişik ekran boyutlarına göre öğeleri gizleyebilir ve gösterebilirsiniz. Bunun için hazırlanan tablo ile kolaylıkla gerçekleştirebilirsiniz. 
+Bootstrap 4'le birlikte değişik ekran boyutlarına göre öğeleri gizleyebilir ve gösterebilirsiniz. Bunun için hazırlanan tablo ile kolaylıkla gerçekleştirebilirsiniz. 
+
+Eğer bir eleman boyutu `sm` ve altında gizlemek, ancak `md`, `lg` ve `xl` görünür olmasını istiyorsanız, `d-none d-md-block` kullanın.
 
 <div style="overflow-x: auto;-webkit-overflow-scrolling: touch;">
 <table border="" bordercolor="#dee2e6" cellpadding="10" class="table push-down-30">
