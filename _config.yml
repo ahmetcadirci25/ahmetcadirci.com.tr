@@ -55,14 +55,15 @@ highlighter: rouge
 kramdown:
   input: GFM
   hard_wrap: false
-        
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-redirect-from
   - jekyll-paginate
+  - jekyll-include-cache
 
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.jekyll-cache']
 
 # Podcast Listesi
 ahmet-cadirci                       :
