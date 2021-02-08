@@ -12,22 +12,22 @@ Apple iPhone ve iPad cihazımıza kuracağız uygulama ile tüm sitelerden ücre
 
 ## Uygulamalar
 
-- [VidaBox](#vidabox-nasıl-kurulur)
+- [Tbox](#tbox-nasıl-kurulur)
 - [Total Files](#total-files-nasıl-kurulur)
 - [Kestirmeler](#kestirmeler-nasıl-kurulur)
 
 ---
 
-### VidaBox Nasıl Kurulur?
+### Tbox Nasıl Kurulur?
 
 1. App Store'a giriş yapıyoruz.
-2. Arama çubuğuna **VidaBox** yazıyoruz.
-3. **[VidaBox](https://apple.co/3eQUICQ){:target="_blank"}{:rel="nofollow noopener noreferrer"}** uygulamasını indiriyoruz.
+2. Arama çubuğuna **Tbox** yazıyoruz.
+3. **[Tbox](http://apple.co/3aKsmZv){:target="_blank"}{:rel="nofollow noopener noreferrer"}** uygulamasını indiriyoruz.
 4. Kurulum tamamlandıktan sonra uygulamayı açıyoruz.
 
 #### Kurulum Videosu 
 
-Kurulum videosunda AppStore arama kutucuğuna **VidaBox** yazmayı unutmayın.
+Kurulum videosunda AppStore arama kutucuğuna **Tbox** yazmayı unutmayın.
 
 {% include vimeo.html vimeo_id="1jVxIcnL6UzDaxrMf3MFR8wlMfOF3qQTa" vimeo_image="1jVxIcnL6UzDaxrMf3MFR8wlMfOF3qQTa" %}
 
@@ -40,7 +40,7 @@ Kurulum videosunda AppStore arama kutucuğuna **VidaBox** yazmayı unutmayın.
 #### YouTube'dan Video İndirme Nasıl Yapılır?
 
 1. YouTube sayfasından video url'sini kopyalayın.
-2. **VidaBox** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
+2. **Tbox** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
 3. Video oynattığınızda **X** işareti belirecektir. **X** işaretine tıklayın ve reklamı kapatın.
 4. Otomatik olarak videoyu indirmek istediğiniz formatlar çıkacaktır. Örneğin: SD (360p), SD (240p), HD (720p), HD (1080p) ve daha fazla format yer alacaktır.
 5. Çıkan formatlardan size uygun olanı seçtiğinizde indirme işlemi başlayacaktır.
@@ -61,7 +61,7 @@ Kurulum videosunda AppStore arama kutucuğuna **VidaBox** yazmayı unutmayın.
 #### Diğer Sitelerden (Facebook, Twitter, Vimeo ve daha fazlası) Video İndirme Nasıl Yapılır?
 
 1. Videonun yer aldığı sayfanın url'sini kopyalayın.
-2. **VidaBox** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
+2. **Tbox** uygulamasını açın. Url'yi üst tarafta bulunan url satırına yapıştırın.
 3. Video oynattığınızda **X** işareti belirecektir. **X** işaretine tıklayın ve reklamı kapatın.
 4. Otomatik olarak videoyu indirmek istediğiniz formatlar çıkacaktır.
 5. Çıkan formatlardan size uygun olanı seçtiğinizde indirme işlemi başlayacaktır.
@@ -117,4 +117,4 @@ Videoyu izleyerek ücretsiz bir şekilde indirme yapabilirsiniz. Videoda **iPhon
 
 **İpucu**
 
-Uygulamayı kullanarak iPad'e film indirme işlemi yapabilirsiniz. Aynı işlemler iPhone cihazlarınızda da geçerlidir. iPad film indirme işlemi için <a href="#vidabox-nasıl-kurulur">nasıl kurulur</a> kısmında adım adım takip etmeniz gerekir.
+Uygulamayı kullanarak iPad'e film indirme işlemi yapabilirsiniz. Aynı işlemler iPhone cihazlarınızda da geçerlidir. iPad film indirme işlemi için <a href="#tbox-nasıl-kurulur">nasıl kurulur</a> kısmında adım adım takip etmeniz gerekir.
