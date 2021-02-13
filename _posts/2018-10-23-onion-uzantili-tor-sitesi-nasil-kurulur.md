@@ -102,15 +102,16 @@ Tor Check’in adresini ziyaret ederek kontrol edebilirsiniz.
 
 ## .ONION Alan Adı Nasıl Oluşturabilirim? 
 
-1. **Adım** Tor tarayıcısını açıktan sonra url satırına [http://dhosting4okcs22v.onion](http://dhosting4okcs22v.onion/register.php){:target="_blank"}{:rel="nofollow noopener noreferrer"} adresini kopyalayın.  
+1. **Adım** Tor tarayıcısını açıktan sonra url satırına [http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion](http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion/signup/){:target="_blank"}{:rel="nofollow noopener noreferrer"} adresini kopyalayın.
 2. **Adım** Açılan sayfada **Username** (Kullanıcı adı), **Password** (Şifre), **Confirm password** (Şifre Tekrarı), **Copy** (Bot Kontrolü) ve **Kullanım sözleşmesini** kabul edin. 
 3. **Adım** Üye olduktan sonra uyarı mesajı alacaksınız. **fzrcdjvzulfpczfd.onion** gibi rastgele alan adı üretilecektir. 
-4. **Adım** [http://dhosting4okcs22v.onion/login.php](http://dhosting4okcs22v.onion/login.php){:target="_blank"}{:rel="nofollow noopener noreferrer"} adresinden kullanıcı adı ve şifrenizi yazarak giriş yapabilirsiniz.  
+4. **Adım** [http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion/login/](http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion/login/){:target="_blank"}{:rel="nofollow noopener noreferrer"} adresinden kullanıcı adı ve şifrenizi yazarak giriş yapabilirsiniz.  
 5. **Adım** Giriş işlemini yaptıktan sonra kontrol paneli açıklacaktır. 
 
 {% include picture.html image_id="/images/galeri/onion-hosting-bilgileri.png" link="/images/galeri/onion-hosting-bilgileri.png" imagealt="Giriş Sayfası" %} 
 *Resmi büyütmek için üzerine tıklayın.* 
 
+Diğer hosting firması: [http://comhostdymd5dd3v4d57mn363iamvqvmade7arsed7objrjldmgesdad.onion/](http://comhostdymd5dd3v4d57mn363iamvqvmade7arsed7objrjldmgesdad.onion/)
 
 ### HTML (Demo) Site Kurulumu ve Yapılandırma 
 
