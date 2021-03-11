@@ -50,6 +50,7 @@ Sosyal paylaşımlarımı takip etmek için:
 
 ### Yeni Yazılar
 
+* [Modern Masaüstü RSS Okuyucusu](https://ahmetcadirci.com.tr/2021/modern-masaustu-rss-okuyucusu/)
 * [Bootstrap 4 Ekran Boyutuna Göre Gizle ve Göster](https://ahmetcadirci.com.tr/2021/bootstrap-4-gizle-goster/)
 * [Adobe Photoshop için 50+ Ücretsiz Fırçalar](https://ahmetcadirci.com.tr/2020/photoshop-fircalari/)
 * [50+ Ücretsiz HTML Bootstrap Kurumsal Temalar](https://ahmetcadirci.com.tr/2020/50-ucretsiz-html-bootstrap-kurumsal-temalar/)
