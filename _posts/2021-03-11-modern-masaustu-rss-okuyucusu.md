@@ -32,6 +32,4 @@ comments   : true
 
 {% include picture.html image_id="/images/galeri/raven-reader.png" imagealt="Raven Reader" %}
 
-https://ravenreader.app/
-
 [İndir](http://bit.ly/30C7tet){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
