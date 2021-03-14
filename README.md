@@ -50,6 +50,7 @@ Sosyal paylaşımlarımı takip etmek için:
 
 ### Yeni Yazılar
 
+* [Kalitesiyle Bir Adım Öne Çıkan YouTube Kanalları](https://ahmetcadirci.com.tr/2021/kaliteli-youtube-kanallari/)
 * [Modern Masaüstü RSS Okuyucusu](https://ahmetcadirci.com.tr/2021/modern-masaustu-rss-okuyucusu/)
 * [Bootstrap 4 Ekran Boyutuna Göre Gizle ve Göster](https://ahmetcadirci.com.tr/2021/bootstrap-4-gizle-goster/)
 * [Adobe Photoshop için 50+ Ücretsiz Fırçalar](https://ahmetcadirci.com.tr/2020/photoshop-fircalari/)
