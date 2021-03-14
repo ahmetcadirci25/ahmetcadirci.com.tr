@@ -1,7 +1,7 @@
 ---
 title      : "Modern Masaüstü RSS Okuyucusu"
 description: "İki yeni uygulamayı sizlere tanıtmak isterim. Uzun süreden beri takip ettiğim programlar ile RSS takibi yapabilirsiniz. "
-date       : 2021-01-29 11:30:00
+date       : 2021-03-11 11:30:00
 categories : [Program]
 tags       : [RSS, Feed]
 image      : "/images/rss-okuyucusu.png"
