@@ -28,7 +28,7 @@ Sizler için, sizin istediğiniz formatta programları yayınlamayı kendimize g
 
 Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ile YouTube kanalında.
 
-### Adem Özköse 
+## Adem Özköse 
 
 {% include youtube.html youtube_id="xukqo335OCg"%}
 
@@ -37,7 +37,7 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 
 Gazeteci, yazar ve seyyah Adem Özköse'nin şahsî YouTube kanalı.
 
-### MyMecra
+## MyMecra
 
 {% include youtube.html youtube_id="dk0uUZtba1g"%}
 
@@ -45,3 +45,14 @@ Gazeteci, yazar ve seyyah Adem Özköse'nin şahsî YouTube kanalı.
 [Abone Ol](https://www.youtube.com/channel/UCj-hxwtrOCSlBRwe74A9exA?sub_confirmation=1){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 MY Mecra; ilkeli, eğlenceli, aile yapısını koruyan, vizyon katan, kültüre ve sanata önem veren, eğitimden, sağlıktan, fikirden, kitaplardan, şiirden, tarihten, güncelden, sosyolojiden, dini meselelerden yapacağı vurgularla, kimi zaman ciddi, kimi zaman da komik ama hep ufuk açıcı özgün içerikleri ve kaliteli prodüksiyonları ile YouTube’a tamamen farklı ve milli bir renk vermek için yola çıktı. 
+
+## AçıkBeyin
+
+{% include youtube.html youtube_id="JHqh3AYvWbE"%}
+
+[Videolar](https://www.youtube.com/channel/UCwTFqq1xsRrwl5D2xwkJrPw/videos){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
+[Abone Ol](https://www.youtube.com/channel/UCwTFqq1xsRrwl5D2xwkJrPw?sub_confirmation=1){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
+
+İnsan hakkında artık her zamankinden çok daha fazla şey biliyoruz. Hâlâ önümüzdeki en büyük muamma olsa da, insana dair temel kuralları anlamaya başladık.
+
+Bilimin katı dilinden, bilginin bin bir dala bölünmesinden dolayı takip edemez olduğumuz insanlık birikimini ihtiyacı olan herkesin hizmetine sunmak günümüzün en önemli meselesi haline geldi.
