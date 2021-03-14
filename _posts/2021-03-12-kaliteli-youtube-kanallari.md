@@ -56,3 +56,21 @@ MY Mecra; ilkeli, eğlenceli, aile yapısını koruyan, vizyon katan, kültüre 
 İnsan hakkında artık her zamankinden çok daha fazla şey biliyoruz. Hâlâ önümüzdeki en büyük muamma olsa da, insana dair temel kuralları anlamaya başladık.
 
 Bilimin katı dilinden, bilginin bin bir dala bölünmesinden dolayı takip edemez olduğumuz insanlık birikimini ihtiyacı olan herkesin hizmetine sunmak günümüzün en önemli meselesi haline geldi.
+
+## GZT
+
+{% include youtube.html youtube_id="lTkGjTkbZAw"%}
+
+[Videolar](https://www.youtube.com/channel/UClWewRX7n_IY3mBbxmttR5Q/videos){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
+[Abone Ol](https://www.youtube.com/channel/UClWewRX7n_IY3mBbxmttR5Q?sub_confirmation=1){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
+
+Türkiye'de dijital haberciliğin benzersiz örneği olan GZT'nin Youtube kanalındasın. Bu kanalda gündem ile ilgili özel içerikler ve röportajlar bulabilirsin. Tarihten siyasete, bilimden sanata her alanda içerik bulabileceğiniz kanalımıza abone olmayı ve bizi diğer sosyal mecralarda takip etmeyi unutma!
+
+## Coşkun Aral Anlatıyor
+
+{% include youtube.html youtube_id="T3qtq4C8jAk"%}
+
+[Videolar](https://www.youtube.com/channel/UCbTMeHc82kdBcXLzkzJValQ/videos){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
+[Abone Ol](https://www.youtube.com/channel/UCbTMeHc82kdBcXLzkzJValQ?sub_confirmation=1){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
+
+Yarım asıra yaklaşan bir meslek deneyimi ve dünyanın farklı coğrafyalarından derlenen, astronomiden gastronomiye, savaştan barışa, dünden bugüne ve geleceğe uzanan yakın tarih tanıklıkları... Türkiye belgeselcilik tarihinin en önemli isimlerinden Coşkun Aral ve Haberci Yapım'dan özel videolar Coşkun Aral Youtube kanalında...
