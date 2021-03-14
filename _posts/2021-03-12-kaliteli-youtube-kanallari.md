@@ -12,12 +12,16 @@ Uzun süredir takip ettiğim ve kalitesiyle bir adım öne çıkan youtube kanal
 
 ### Bekir Develi
 
+{% include youtube.html youtube_id="ZQSA2vjjkMs"%}
+
 Sizler için, sizin istediğiniz formatta programları yayınlamayı kendimize görev biliyoruz. Peynir Gemisi - Çocuklar İçin Siyer - Herkes İçin Siyer - Kalanlar - Tarih Yerinde Anlatılır - Vlog - Keşke Benim Olsa - Soru Cevap - Nur Haktan'la Hitabet ve Diksiyon Eğitimi ve yeni programlar bu kanalda olacak.
 
 [Videolar](https://www.youtube.com/channel/UCy8aOYFayWzwENIOro8kJnQ/videos){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 [Abone Ol](https://www.youtube.com/channel/UCy8aOYFayWzwENIOro8kJnQ?sub_confirmation=1){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 ### Hayati İnanç
+
+{% include youtube.html youtube_id="QZrAhEpsOhQ"%}
 
 Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ile YouTube kanalında.
 
@@ -26,12 +30,16 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 
 ### Adem Özköse 
 
+{% include youtube.html youtube_id="xukqo335OCg"%}
+
 Gazeteci, yazar ve seyyah Adem Özköse'nin şahsî YouTube kanalı.
 
 [Videolar](https://www.youtube.com/channel/UCppRLYaUuBCYApeTYOJ-azg/videos){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 [Abone Ol](https://www.youtube.com/channel/UCppRLYaUuBCYApeTYOJ-azg?sub_confirmation=1){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 ### MyMecra
+
+{% include youtube.html youtube_id="dk0uUZtba1g"%}
 
 MY Mecra; ilkeli, eğlenceli, aile yapısını koruyan, vizyon katan, kültüre ve sanata önem veren, eğitimden, sağlıktan, fikirden, kitaplardan, şiirden, tarihten, güncelden, sosyolojiden, dini meselelerden yapacağı vurgularla, kimi zaman ciddi, kimi zaman da komik ama hep ufuk açıcı özgün içerikleri ve kaliteli prodüksiyonları ile YouTube’a tamamen farklı ve milli bir renk vermek için yola çıktı. 
 
