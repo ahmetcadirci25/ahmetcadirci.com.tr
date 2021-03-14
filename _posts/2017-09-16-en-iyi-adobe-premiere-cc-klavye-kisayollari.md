@@ -14,8 +14,8 @@ Premiere kısayollarını buradan indirin. [http://bit.ly/PeachyShortcuts](http:
 
 ### Adobe Premiere CC Klavye Kısayolları Kurulumu
 
-<div class='embed-container'><iframe src='http://www.youtube.com/embed/LtBzsq-ZN4g' frameborder='0' allowfullscreen></iframe></div>
+{% include youtube.html youtube_id="LtBzsq-ZN4g"%}
 
 ### Adobe Premiere CC Klavye Kısayolları Kullanımı
 
-<div class='embed-container'><iframe src='http://www.youtube.com/embed/QBkFhIFcZak' frameborder='0' allowfullscreen></iframe></div>
+{% include youtube.html youtube_id="QBkFhIFcZak"%}
