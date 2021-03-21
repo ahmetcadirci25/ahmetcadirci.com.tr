@@ -74,3 +74,12 @@ Türkiye'de dijital haberciliğin benzersiz örneği olan GZT'nin Youtube kanal�
 [Abone Ol](https://www.youtube.com/channel/UCbTMeHc82kdBcXLzkzJValQ?sub_confirmation=1){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
 
 Yarım asıra yaklaşan bir meslek deneyimi ve dünyanın farklı coğrafyalarından derlenen, astronomiden gastronomiye, savaştan barışa, dünden bugüne ve geleceğe uzanan yakın tarih tanıklıkları... Türkiye belgeselcilik tarihinin en önemli isimlerinden Coşkun Aral ve Haberci Yapım'dan özel videolar Coşkun Aral Youtube kanalında...
+
+## Mim Kemal Öke
+
+{% include youtube.html youtube_id="kNKav6zwB1I"%}
+
+[Videolar](https://www.youtube.com/channel/UCG4pU7le2vOf-2HwqkbiktQ/videos){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
+[Abone Ol](https://www.youtube.com/channel/UCG4pU7le2vOf-2HwqkbiktQ?sub_confirmation=1){:target="_blank"}{:rel="nofollow noopener noreferrer"}{:class="tags__link"}
+
+Engellilere yönelik hizmet etmek maksadıyla hipoterapi, ritim ve dans eğitimleri almıştır. Gönüllülük esası çerçevesinde down sendromlu çocuk ve yetişkinlere ritim ve dans terapi dersleri yapmaktadır. Mutluluğun formülünü arayanlara ise şöyle cevap vermektedir: “Mutluluğun formülü, mutlu etmektir. Sizler de mutlu olmak istiyorsanız hizmet kervanına katılın a canlar!” Dervişlik nedir diye soranlara ise şöyle cevap vermekte: “Herkes mutasavvıf olabilir fakat herkes sûfî olamaz. Sûfîlik, başka bir deyişle dervişlik, yan gelip yatma yeri değildir, hizmet yeridir!” diye de eklemektedir. Akademisyenliğin, öğrencinin içindeki cevheri açığa çıkarmak ve işlemek olduğuna inanmakta, üniversiteyi ikinci evi olarak tanımlamaktadır.
