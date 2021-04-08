@@ -26,7 +26,8 @@ Videoyu izleyerek adımları takip edebilirsiniz. İlk aşama (sol kısım) şif
 
 ### İçe Aktarma Nasıl Yapılır?
 
-1. Chrome tarayıcısını açın ve adres çubuğuna `chrome://settings/passwords` yazın. **"Enter"** tuşuna bastığınızda, Chrome şifreler sayfası açılacak.
+1. Chrome tarayıcısını açın ve adres çubuğuna `chrome://flags/#PasswordImport` yazın. **"Enter"** tuşuna bastığınızda, **"Password import"** özelliği **"Enable"** olarak değiştirin.
+1. Ardından adres çubuğuna `chrome://settings/passwords` yazın. **"Enter"** tuşuna bastığınızda, Chrome şifreler sayfası açılacak.
 2. "**Kayıtlı Şifreler**" başlığının tam karşısında üç noktalı düğmeye tıklayın. "**İçe aktar...**" düğmesini tıklayın.
 3. Daha sonra kayıt ettiğiniz "**Chrome Şifreleri.csv**" dosyasını bulup tıklayın.
 4. Tüm şifreler içeri aktarılacaktır.
