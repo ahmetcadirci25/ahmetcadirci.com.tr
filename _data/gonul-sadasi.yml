@@ -1,9 +1,16 @@
-- guid                : "072"
-  title               : "#072 Gönül Sadası (Lütuf) — Kemal Sayar & Sadettin Ökten"
+- guid                : "073"
+  title               : "#073 Gönül Sadası (Lütuf) — Kemal Sayar & Sadettin Ökten"
   pubdate             : "Tue, 01 Jun 2021 17:15:39 GMT"
   mediaurl            : "http://dosya.erkammedya.com/ERKAMRADYO/ARSIV/2021/programlar/GONUL_SADASI/GONUL_SADASI_2021_05_31.mp3"
   length              : "38208364"
   duration            : "00:39:47"
+
+- guid                : "072"
+  title               : "#072 Gönül Sadası (Şahsiyyet) — Kemal Sayar & Sadettin Ökten"
+  pubdate             : "Wed, 26 May 2021 16:15:27 GMT"
+  mediaurl            : "http://dosya.erkammedya.com/ERKAMRADYO/ARSIV/2021/programlar/GONUL_SADASI/GONUL_SADASI_2021_05_24.mp3"
+  length              : "32377870"
+  duration            : "00:33:43"
 
 - guid                : "071"
   title               : "#071 Gönül Sadası (Hayret) — Kemal Sayar & Sadettin Ökten"
