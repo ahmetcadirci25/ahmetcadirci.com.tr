@@ -95,7 +95,7 @@ gonul-sadasi                        :
   email                             : "ahmetcadirci25@gmail.com"
   category                          : "Religion &#38; Spirituality"
   subcategory                       : "Islam"
-  image                             : "https://ahmetcadirci.com.tr/images/gonul-sadasi.jpg?v=2"
+  image                             : "https://ahmetcadirci.com.tr/images/gonul-sadasi.jpg"
   explicit                          : "clean"
 
 can-veren-pervaneler                : 
@@ -143,7 +143,7 @@ genclerle-basbasa                   :
   email                             : "ahmetcadirci25@gmail.com"
   category                          : "Religion &#38; Spirituality"
   subcategory                       : "Islam"
-  image                             : "https://ahmetcadirci.com.tr/images/genclerle-basbasa.jpg?v=2"
+  image                             : "https://ahmetcadirci.com.tr/images/genclerle-basbasa.jpg"
   explicit                          : "clean"
 
 tarih-ve-mekan                      :
