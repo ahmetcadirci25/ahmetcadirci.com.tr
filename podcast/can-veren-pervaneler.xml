@@ -38,16 +38,16 @@ sitemap: false
     {% for bolum in site.data.can-veren-pervaneler %}
       <item>
         <title><![CDATA[{{ bolum.title }}]]></title>
-        <description><![CDATA[{{ bolum.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ bolum.link }}]]></description>
-        <link>{{ bolum.link }}</link>
+        <description><![CDATA[{{ site.can-veren-pervaneler.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.can-veren-pervaneler.link }}]]></description>
+        <link>{{ site.can-veren-pervaneler.link }}</link>
         <guid isPermaLink="false">{{ bolum.guid }}</guid>
         <pubDate>{{ bolum.pubdate }}</pubDate>
-        <enclosure url="{{ bolum.mediaurl }}" length="{{ bolum.length }}" type="{{ bolum.type }}"/>
+        <enclosure url="{{ bolum.mediaurl }}" length="{{ bolum.length }}" type="audio/mpeg"/>
         <itunes:subtitle><![CDATA[{{ bolum.title }}]]></itunes:subtitle>
-        <itunes:summary><![CDATA[{{ bolum.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ bolum.link }}]]></itunes:summary>
+        <itunes:summary><![CDATA[{{ site.can-veren-pervaneler.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.can-veren-pervaneler.link }}]]></itunes:summary>
         <itunes:duration>{{ bolum.duration }}</itunes:duration>
-        <media:content url="{{ bolum.mediaurl }}" fileSize="{{ bolum.length }}" type="{{ bolum.type }}"/>
-        <itunes:keywords><![CDATA[{{ bolum.keywords }}]]></itunes:keywords>
+        <media:content url="{{ bolum.mediaurl }}" fileSize="{{ bolum.length }}" type="audio/mpeg"/>
+        <itunes:keywords><![CDATA[{{ site.can-veren-pervaneler.keywords }}]]></itunes:keywords>
       </item>
     {% endfor %}
 
