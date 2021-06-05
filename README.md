@@ -31,7 +31,6 @@ Video ve Fotoğrafları takip etmek için:
 Sosyal paylaşımlarımı takip etmek için:
 - [Reddit](https://ahmetcadirci.com.tr/r/reddit)
 - [Tumblr](https://ahmetcadirci.com.tr/r/tumblr)
-- [Google+](https://ahmetcadirci.com.tr/r/googleplus)
 
 ---
 
