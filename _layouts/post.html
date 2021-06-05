@@ -10,7 +10,7 @@ layout: default
 
       <picture>
         <source loading="lazy" type="image/webp" class="wp-post-image" srcset="{{ site.url }}{{page.image | replace: 'png', 'webp'}}" alt="{{ page.title }}">
-        <img loading="lazy" class="wp-post-image" src="{{ site.url }}{{page.image}}" alt="{{ page.title }}">
+        <img loading="lazy" class="wp-post-image" width="1170" height="670" src="{{ site.url }}{{page.image}}" alt="{{ page.title }}">
       </picture>
                 
       <div class="meta__container">
@@ -95,7 +95,7 @@ layout: default
             <div class="post-author">
               <h6>Tarafından Yazılmıştır</h6>
               <hr>
-              <img loading="lazy" src="{{ "/images/avatar.svg" | prepend: site.url }}" alt="{{ site.author.name }}">
+              <img loading="lazy" width="90" height="90" src="{{ "/images/avatar.svg" | prepend: site.url }}" alt="{{ site.author.name }}">
               <h5>
                 <a href="{{ site.url }}">{{ site.author.name }}</a> 
               </h5>
