@@ -1,7 +1,20 @@
 ---
-layout : null
-sitemap: false
-title  : "Podcast — Ahmet Çadırcı1"
+layout        : null
+sitemap       : false
+title         : "Podcast — Ahmet Çadırcı"
+subtitle      : "Podcast — Ahmet Çadırcı"
+link          : "https://ahmetcadirci.com.tr/podcast/"
+description   : "En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzerinden ulaşabilirsiniz."
+keywords      : "ahmet çadırcı, wordpress, podcast, teknoloji, internet"
+language      : "tr-tr"
+spotifycountry: "tr"
+copyright     : "Ahmet Çadırcı"
+author        : "Ahmet Çadırcı"
+email         : "ahmetcadirci25@gmail.com"
+category      : "Technology"
+subcategory   : "Software How-To"
+image         : "https://ahmetcadirci.com.tr/images/ahmet-cadirci.jpg"
+explicit      : "clean"
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
@@ -16,25 +29,25 @@ title  : "Podcast — Ahmet Çadırcı1"
 >
   <channel>
     <title><![CDATA[{{ page.title }}]]></title>
-    <link>{{ site.ahmet-cadirci.link }}</link>
-    <description><![CDATA[{{ site.ahmet-cadirci.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.ahmet-cadirci.link }}]]></description>
-    <language>{{ site.ahmet-cadirci.language }}</language>
-    <spotify:countryOfOrigin>{{ site.ahmet-cadirci.spotifycountry }}</spotify:countryOfOrigin>
-    <copyright><![CDATA[{{ site.ahmet-cadirci.copyright }}]]></copyright>
-    <itunes:subtitle><![CDATA[{{ site.ahmet-cadirci.subtitle }}]]></itunes:subtitle>
-    <itunes:author><![CDATA[{{ site.ahmet-cadirci.author }}]]></itunes:author>
-    <itunes:summary><![CDATA[{{ site.ahmet-cadirci.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.ahmet-cadirci.link }}]]></itunes:summary>
-    <itunes:description><![CDATA[{{ site.ahmet-cadirci.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.ahmet-cadirci.link }}]]></itunes:description>
+    <link>{{ page.link }}</link>
+    <description><![CDATA[{{ page.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></description>
+    <language>{{ page.language }}</language>
+    <spotify:countryOfOrigin>{{ page.spotifycountry }}</spotify:countryOfOrigin>
+    <copyright><![CDATA[{{ page.copyright }}]]></copyright>
+    <itunes:subtitle><![CDATA[{{ page.subtitle }}]]></itunes:subtitle>
+    <itunes:author><![CDATA[{{ page.author }}]]></itunes:author>
+    <itunes:summary><![CDATA[{{ page.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:summary>
+    <itunes:description><![CDATA[{{ page.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:description>
     <itunes:owner>
-    <itunes:name><![CDATA[{{ site.ahmet-cadirci.author }}]]></itunes:name>
-    <itunes:email><![CDATA[{{ site.ahmet-cadirci.email }}]]></itunes:email>
+    <itunes:name><![CDATA[{{ page.author }}]]></itunes:name>
+    <itunes:email><![CDATA[{{ page.email }}]]></itunes:email>
     </itunes:owner>
-    <itunes:image href="{{ site.ahmet-cadirci.image }}"/>
-    <itunes:category text="{{ site.ahmet-cadirci.category }}">
-      <itunes:category text="{{ site.ahmet-cadirci.subcategory }}"/>
+    <itunes:image href="{{ page.image }}"/>
+    <itunes:category text="{{ page.category }}">
+      <itunes:category text="{{ page.subcategory }}"/>
     </itunes:category>
-    <itunes:explicit>{{ site.ahmet-cadirci.explicit }}</itunes:explicit>
-    <itunes:keywords><![CDATA[{{ site.ahmet-cadirci.keywords }}]]></itunes:keywords>
+    <itunes:explicit>{{ page.explicit }}</itunes:explicit>
+    <itunes:keywords><![CDATA[{{ page.keywords }}]]></itunes:keywords>
 
     {% for bolum in site.data.ahmet-cadirci %}
       <item>
