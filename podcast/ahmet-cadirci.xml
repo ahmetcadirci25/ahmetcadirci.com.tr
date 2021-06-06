@@ -33,6 +33,7 @@ explicit      : "clean"
     <description><![CDATA[{{ page.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></description>
     <language>{{ page.language }}</language>
     <spotify:countryOfOrigin>{{ page.spotifycountry }}</spotify:countryOfOrigin>
+    <googleplay:author><![CDATA[{{ page.author }}]]></googleplay:author>
     <copyright><![CDATA[{{ page.copyright }}]]></copyright>
     <itunes:subtitle><![CDATA[{{ page.subtitle }}]]></itunes:subtitle>
     <itunes:author><![CDATA[{{ page.author }}]]></itunes:author>
