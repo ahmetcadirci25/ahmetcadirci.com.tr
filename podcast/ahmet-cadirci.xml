@@ -1,6 +1,7 @@
 ---
 layout : null
 sitemap: false
+title  : "Podcast — Ahmet Çadırcı1"
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
@@ -14,7 +15,7 @@ sitemap: false
   xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
   <channel>
-    <title><![CDATA[{{ site.ahmet-cadirci.title }}]]></title>
+    <title><![CDATA[{{ page.title }}]]></title>
     <link>{{ site.ahmet-cadirci.link }}</link>
     <description><![CDATA[{{ site.ahmet-cadirci.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.ahmet-cadirci.link }}]]></description>
     <language>{{ site.ahmet-cadirci.language }}</language>
