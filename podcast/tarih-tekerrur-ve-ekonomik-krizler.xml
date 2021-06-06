@@ -1,6 +1,20 @@
 ---
-layout : null
-sitemap: false
+layout        : null
+sitemap       : false
+title         : "Alev Alatlı — Tarih Tekerrür ve Ekonomik Krizler"
+subtitle      : "Alev Alatlı — Tarih Tekerrür ve Ekonomik Krizler"
+link          : "https://ahmetcadirci.com.tr/podcast/"
+description   : "Alev Alatlı'nın sunumuyla 'Tarih Tekerrür ve Ekonomik Krizler' programının podcast yayınları."
+keywords      : "tarih, tekerrür, ekonomi, ekonomik krizler, tarih ve ekonomi, tarih tekerrür ve ekonomik krizler, alev alatlı, rusya, amerika, ahmet çadırcı"
+language      : "tr-tr"
+spotifycountry: "tr"
+copyright     : "Ahmet Çadırcı"
+author        : "Ahmet Çadırcı"
+email         : "ahmetcadirci25@gmail.com"
+category      : "Society &#38; Culture"
+subcategory   : "History"
+image         : "https://ahmetcadirci.com.tr/images/tarih-tekerrur-ve-ekonomik-krizler.jpg"
+explicit      : "clean"
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
@@ -14,26 +28,26 @@ sitemap: false
   xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
   <channel>
-    <title><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.title }}]]></title>
-    <link>{{ site.tarih-tekerrur-ve-ekonomik-krizler.link }}</link>
-    <description><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.tarih-tekerrur-ve-ekonomik-krizler.link }}]]></description>
-    <language>{{ site.tarih-tekerrur-ve-ekonomik-krizler.language }}</language>
-    <spotify:countryOfOrigin>{{ site.tarih-tekerrur-ve-ekonomik-krizler.spotifycountry }}</spotify:countryOfOrigin>
-    <copyright><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.copyright }}]]></copyright>
-    <itunes:subtitle><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.subtitle }}]]></itunes:subtitle>
-    <itunes:author><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.author }}]]></itunes:author>
-    <itunes:summary><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.tarih-tekerrur-ve-ekonomik-krizler.link }}]]></itunes:summary>
-    <itunes:description><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.tarih-tekerrur-ve-ekonomik-krizler.link }}]]></itunes:description>
+    <title><![CDATA[{{ page.title }}]]></title>
+    <link>{{ page.link }}</link>
+    <description><![CDATA[{{ page.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></description>
+    <language>{{ page.language }}</language>
+    <spotify:countryOfOrigin>{{ page.spotifycountry }}</spotify:countryOfOrigin>
+    <copyright><![CDATA[{{ page.copyright }}]]></copyright>
+    <itunes:subtitle><![CDATA[{{ page.subtitle }}]]></itunes:subtitle>
+    <itunes:author><![CDATA[{{ page.author }}]]></itunes:author>
+    <itunes:summary><![CDATA[{{ page.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:summary>
+    <itunes:description><![CDATA[{{ page.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:description>
     <itunes:owner>
-    <itunes:name><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.author }}]]></itunes:name>
-    <itunes:email><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.email }}]]></itunes:email>
+    <itunes:name><![CDATA[{{ page.author }}]]></itunes:name>
+    <itunes:email><![CDATA[{{ page.email }}]]></itunes:email>
     </itunes:owner>
-    <itunes:image href="{{ site.tarih-tekerrur-ve-ekonomik-krizler.image }}"/>
-    <itunes:category text="{{ site.tarih-tekerrur-ve-ekonomik-krizler.category }}">
-      <itunes:category text="{{ site.tarih-tekerrur-ve-ekonomik-krizler.subcategory }}"/>
+    <itunes:image href="{{ page.image }}"/>
+    <itunes:category text="{{ page.category }}">
+      <itunes:category text="{{ page.subcategory }}"/>
     </itunes:category>
-    <itunes:explicit>{{ site.tarih-tekerrur-ve-ekonomik-krizler.explicit }}</itunes:explicit>
-    <itunes:keywords><![CDATA[{{ site.tarih-tekerrur-ve-ekonomik-krizler.keywords }}]]></itunes:keywords>
+    <itunes:explicit>{{ page.explicit }}</itunes:explicit>
+    <itunes:keywords><![CDATA[{{ page.keywords }}]]></itunes:keywords>
 
     {% for bolum in site.data.tarih-tekerrur-ve-ekonomik-krizler %}
       <item>

@@ -1,6 +1,20 @@
 ---
-layout : null
-sitemap: false
+layout        : null
+sitemap       : false
+title         : "Sadettin Ökten — Gençlerle Başbaşa"
+subtitle      : "Sadettin Ökten — Gençlerle Başbaşa"
+link          : "https://ahmetcadirci.com.tr/podcast/"
+description   : "Prof. Dr. Sadettin Ökten ile Gençlerle Başbaşa Podcast Yayınları."
+keywords      : "sadettin ökten, ahlak, podcast, edebiyat, kültür, toplum, medeniyet, kültür, sanat, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
+language      : "tr-tr"
+spotifycountry: "tr"
+copyright     : "Ahmet Çadırcı"
+author        : "Ahmet Çadırcı"
+email         : "ahmetcadirci25@gmail.com"
+category      : "Religion &#38; Spirituality"
+subcategory   : "Islam"
+image         : "https://ahmetcadirci.com.tr/images/genclerle-basbasa-cover.jpg"
+explicit      : "clean"
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
@@ -14,26 +28,26 @@ sitemap: false
   xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
   <channel>
-    <title><![CDATA[{{ site.genclerle-basbasa.title }}]]></title>
-    <link>{{ site.genclerle-basbasa.link }}</link>
-    <description><![CDATA[{{ site.genclerle-basbasa.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.genclerle-basbasa.link }}]]></description>
-    <language>{{ site.genclerle-basbasa.language }}</language>
-    <spotify:countryOfOrigin>{{ site.genclerle-basbasa.spotifycountry }}</spotify:countryOfOrigin>
-    <copyright><![CDATA[{{ site.genclerle-basbasa.copyright }}]]></copyright>
-    <itunes:subtitle><![CDATA[{{ site.genclerle-basbasa.subtitle }}]]></itunes:subtitle>
-    <itunes:author><![CDATA[{{ site.genclerle-basbasa.author }}]]></itunes:author>
-    <itunes:summary><![CDATA[{{ site.genclerle-basbasa.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.genclerle-basbasa.link }}]]></itunes:summary>
-    <itunes:description><![CDATA[{{ site.genclerle-basbasa.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.genclerle-basbasa.link }}]]></itunes:description>
+    <title><![CDATA[{{ page.title }}]]></title>
+    <link>{{ page.link }}</link>
+    <description><![CDATA[{{ page.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></description>
+    <language>{{ page.language }}</language>
+    <spotify:countryOfOrigin>{{ page.spotifycountry }}</spotify:countryOfOrigin>
+    <copyright><![CDATA[{{ page.copyright }}]]></copyright>
+    <itunes:subtitle><![CDATA[{{ page.subtitle }}]]></itunes:subtitle>
+    <itunes:author><![CDATA[{{ page.author }}]]></itunes:author>
+    <itunes:summary><![CDATA[{{ page.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:summary>
+    <itunes:description><![CDATA[{{ page.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:description>
     <itunes:owner>
-    <itunes:name><![CDATA[{{ site.genclerle-basbasa.author }}]]></itunes:name>
-    <itunes:email><![CDATA[{{ site.genclerle-basbasa.email }}]]></itunes:email>
+    <itunes:name><![CDATA[{{ page.author }}]]></itunes:name>
+    <itunes:email><![CDATA[{{ page.email }}]]></itunes:email>
     </itunes:owner>
-    <itunes:image href="{{ site.genclerle-basbasa.image }}"/>
-    <itunes:category text="{{ site.genclerle-basbasa.category }}">
-      <itunes:category text="{{ site.genclerle-basbasa.subcategory }}"/>
+    <itunes:image href="{{ page.image }}"/>
+    <itunes:category text="{{ page.category }}">
+      <itunes:category text="{{ page.subcategory }}"/>
     </itunes:category>
-    <itunes:explicit>{{ site.genclerle-basbasa.explicit }}</itunes:explicit>
-    <itunes:keywords><![CDATA[{{ site.genclerle-basbasa.keywords }}]]></itunes:keywords>
+    <itunes:explicit>{{ page.explicit }}</itunes:explicit>
+    <itunes:keywords><![CDATA[{{ page.keywords }}]]></itunes:keywords>
 
     {% for bolum in site.data.genclerle-basbasa %}
       <item>

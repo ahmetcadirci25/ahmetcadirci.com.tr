@@ -1,6 +1,20 @@
 ---
-layout : null
-sitemap: false
+layout        : null
+sitemap       : false
+title         : "Dursun Gürlek — Tarih ve Mekan"
+subtitle      : "Dursun Gürlek — Tarih ve Mekan"
+link          : "https://ahmetcadirci.com.tr/podcast/"
+description   : "Dursun Gürlek'in sunumuyla Tarih ve Mekan."
+keywords      : "dursun gürlek, tarih, mekan, tarih ve mekan, ahmet çadırcı"
+language      : "tr-tr"
+spotifycountry: "tr"
+copyright     : "Ahmet Çadırcı"
+author        : "Ahmet Çadırcı"
+email         : "ahmetcadirci25@gmail.com"
+category      : "Society &#38; Culture"
+subcategory   : "History"
+image         : "https://ahmetcadirci.com.tr/images/tarih-ve-mekan.jpg"
+explicit      : "clean"
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
@@ -14,26 +28,26 @@ sitemap: false
   xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
   <channel>
-    <title><![CDATA[{{ site.tarih-ve-mekan.title }}]]></title>
-    <link>{{ site.tarih-ve-mekan.link }}</link>
-    <description><![CDATA[{{ site.tarih-ve-mekan.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.tarih-ve-mekan.link }}]]></description>
-    <language>{{ site.tarih-ve-mekan.language }}</language>
-    <spotify:countryOfOrigin>{{ site.tarih-ve-mekan.spotifycountry }}</spotify:countryOfOrigin>
-    <copyright><![CDATA[{{ site.tarih-ve-mekan.copyright }}]]></copyright>
-    <itunes:subtitle><![CDATA[{{ site.tarih-ve-mekan.subtitle }}]]></itunes:subtitle>
-    <itunes:author><![CDATA[{{ site.tarih-ve-mekan.author }}]]></itunes:author>
-    <itunes:summary><![CDATA[{{ site.tarih-ve-mekan.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.tarih-ve-mekan.link }}]]></itunes:summary>
-    <itunes:description><![CDATA[{{ site.tarih-ve-mekan.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.tarih-ve-mekan.link }}]]></itunes:description>
+    <title><![CDATA[{{ page.title }}]]></title>
+    <link>{{ page.link }}</link>
+    <description><![CDATA[{{ page.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></description>
+    <language>{{ page.language }}</language>
+    <spotify:countryOfOrigin>{{ page.spotifycountry }}</spotify:countryOfOrigin>
+    <copyright><![CDATA[{{ page.copyright }}]]></copyright>
+    <itunes:subtitle><![CDATA[{{ page.subtitle }}]]></itunes:subtitle>
+    <itunes:author><![CDATA[{{ page.author }}]]></itunes:author>
+    <itunes:summary><![CDATA[{{ page.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:summary>
+    <itunes:description><![CDATA[{{ page.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:description>
     <itunes:owner>
-    <itunes:name><![CDATA[{{ site.tarih-ve-mekan.author }}]]></itunes:name>
-    <itunes:email><![CDATA[{{ site.tarih-ve-mekan.email }}]]></itunes:email>
+    <itunes:name><![CDATA[{{ page.author }}]]></itunes:name>
+    <itunes:email><![CDATA[{{ page.email }}]]></itunes:email>
     </itunes:owner>
-    <itunes:image href="{{ site.tarih-ve-mekan.image }}"/>
-    <itunes:category text="{{ site.tarih-ve-mekan.category }}">
-      <itunes:category text="{{ site.tarih-ve-mekan.subcategory }}"/>
+    <itunes:image href="{{ page.image }}"/>
+    <itunes:category text="{{ page.category }}">
+      <itunes:category text="{{ page.subcategory }}"/>
     </itunes:category>
-    <itunes:explicit>{{ site.tarih-ve-mekan.explicit }}</itunes:explicit>
-    <itunes:keywords><![CDATA[{{ site.tarih-ve-mekan.keywords }}]]></itunes:keywords>
+    <itunes:explicit>{{ page.explicit }}</itunes:explicit>
+    <itunes:keywords><![CDATA[{{ page.keywords }}]]></itunes:keywords>
 
     {% for bolum in site.data.tarih-ve-mekan %}
       <item>

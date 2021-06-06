@@ -1,6 +1,20 @@
 ---
-layout : null
-sitemap: false
+layout        : null
+sitemap       : false
+title         : "Hayati İnanç — Can Veren Pervâneler"
+subtitle      : "Hayati İnanç — Can Veren Pervâneler"
+link          : "https://ahmetcadirci.com.tr/podcast/"
+description   : "Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ile 'Can Veren Pervâneler' programında..."
+keywords      : "hayati inanç, şiir, divan edebiyatı, divan şiiri, sohbet, islam, ahmet çadırcı"
+language      : "tr-tr"
+spotifycountry: "tr"
+copyright     : "Ahmet Çadırcı"
+author        : "Ahmet Çadırcı"
+email         : "ahmetcadirci25@gmail.com"
+category      : "Religion &#38; Spirituality"
+subcategory   : "Islam"
+image         : "https://ahmetcadirci.com.tr/images/can-veren-pervaneler.jpg"
+explicit      : "clean"
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
@@ -14,40 +28,40 @@ sitemap: false
   xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
   <channel>
-    <title><![CDATA[{{ site.can-veren-pervaneler.title }}]]></title>
-    <link>{{ site.can-veren-pervaneler.link }}</link>
-    <description><![CDATA[{{ site.can-veren-pervaneler.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.can-veren-pervaneler.link }}]]></description>
-    <language>{{ site.can-veren-pervaneler.language }}</language>
-    <spotify:countryOfOrigin>{{ site.can-veren-pervaneler.spotifycountry }}</spotify:countryOfOrigin>
-    <copyright><![CDATA[{{ site.can-veren-pervaneler.copyright }}]]></copyright>
-    <itunes:subtitle><![CDATA[{{ site.can-veren-pervaneler.subtitle }}]]></itunes:subtitle>
-    <itunes:author><![CDATA[{{ site.can-veren-pervaneler.author }}]]></itunes:author>
-    <itunes:summary><![CDATA[{{ site.can-veren-pervaneler.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.can-veren-pervaneler.link }}]]></itunes:summary>
-    <itunes:description><![CDATA[{{ site.can-veren-pervaneler.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.can-veren-pervaneler.link }}]]></itunes:description>
+    <title><![CDATA[{{ page.title }}]]></title>
+    <link>{{ page.link }}</link>
+    <description><![CDATA[{{ page.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></description>
+    <language>{{ page.language }}</language>
+    <spotify:countryOfOrigin>{{ page.spotifycountry }}</spotify:countryOfOrigin>
+    <copyright><![CDATA[{{ page.copyright }}]]></copyright>
+    <itunes:subtitle><![CDATA[{{ page.subtitle }}]]></itunes:subtitle>
+    <itunes:author><![CDATA[{{ page.author }}]]></itunes:author>
+    <itunes:summary><![CDATA[{{ page.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:summary>
+    <itunes:description><![CDATA[{{ page.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:description>
     <itunes:owner>
-    <itunes:name><![CDATA[{{ site.can-veren-pervaneler.author }}]]></itunes:name>
-    <itunes:email><![CDATA[{{ site.can-veren-pervaneler.email }}]]></itunes:email>
+    <itunes:name><![CDATA[{{ page.author }}]]></itunes:name>
+    <itunes:email><![CDATA[{{ page.email }}]]></itunes:email>
     </itunes:owner>
-    <itunes:image href="{{ site.can-veren-pervaneler.image }}"/>
-    <itunes:category text="{{ site.can-veren-pervaneler.category }}">
-      <itunes:category text="{{ site.can-veren-pervaneler.subcategory }}"/>
+    <itunes:image href="{{ page.image }}"/>
+    <itunes:category text="{{ page.category }}">
+      <itunes:category text="{{ page.subcategory }}"/>
     </itunes:category>
-    <itunes:explicit>{{ site.can-veren-pervaneler.explicit }}</itunes:explicit>
-    <itunes:keywords><![CDATA[{{ site.can-veren-pervaneler.keywords }}]]></itunes:keywords>
+    <itunes:explicit>{{ page.explicit }}</itunes:explicit>
+    <itunes:keywords><![CDATA[{{ page.keywords }}]]></itunes:keywords>
 
     {% for bolum in site.data.can-veren-pervaneler %}
       <item>
         <title><![CDATA[{{ bolum.title }}]]></title>
-        <description><![CDATA[{{ site.can-veren-pervaneler.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.can-veren-pervaneler.link }}]]></description>
-        <link>{{ site.can-veren-pervaneler.link }}</link>
+        <description><![CDATA[{{ page.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></description>
+        <link>{{ page.link }}</link>
         <guid isPermaLink="false">{{ bolum.guid }}</guid>
         <pubDate>{{ bolum.pubdate }}</pubDate>
         <enclosure url="{{ bolum.mediaurl }}" length="{{ bolum.length }}" type="audio/mpeg"/>
         <itunes:subtitle><![CDATA[{{ bolum.title }}]]></itunes:subtitle>
-        <itunes:summary><![CDATA[{{ site.can-veren-pervaneler.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.can-veren-pervaneler.link }}]]></itunes:summary>
+        <itunes:summary><![CDATA[{{ page.description }} <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:summary>
         <itunes:duration>{{ bolum.duration }}</itunes:duration>
         <media:content url="{{ bolum.mediaurl }}" fileSize="{{ bolum.length }}" type="audio/mpeg"/>
-        <itunes:keywords><![CDATA[{{ site.can-veren-pervaneler.keywords }}]]></itunes:keywords>
+        <itunes:keywords><![CDATA[{{ page.keywords }}]]></itunes:keywords>
       </item>
     {% endfor %}
 

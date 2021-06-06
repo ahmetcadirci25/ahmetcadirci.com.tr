@@ -1,6 +1,20 @@
 ---
-layout : null
-sitemap: false
+layout        : null
+sitemap       : false
+title         : "Mete Yarar & Nedim Şener — Memleket Aşkına"
+subtitle      : "Mete Yarar & Nedim Şener — Memleket Aşkına"
+link          : "https://ahmetcadirci.com.tr/podcast/"
+description   : "İki usta isim, Nedim Şener ve Mete Yarar, Memleket Aşkına programıyla güncel yorum ve analizleriyle sizlerle buluşuyor. SuperHaber YouTube hesabında yayınlanan videoların ses kayıtları yer almaktadır. SuperHaber YouTube hesabını takip etmeyi unutmatın."
+keywords      : "mete yarar, nedim şener, memleket aşkına, haber, analiz, yorum, superhaber, ahmet çadırcı"
+language      : "tr-tr"
+spotifycountry: "tr"
+copyright     : "Ahmet Çadırcı"
+author        : "Ahmet Çadırcı"
+email         : "ahmetcadirci25@gmail.com"
+category      : "News"
+subcategory   : "News Commentary"
+image         : "https://ahmetcadirci.com.tr/images/memleket-askina.jpg"
+explicit      : "clean"
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
@@ -14,26 +28,26 @@ sitemap: false
   xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 >
   <channel>
-    <title><![CDATA[{{ site.memleket-askina.title }}]]></title>
-    <link>{{ site.memleket-askina.link }}</link>
-    <description><![CDATA[{{ site.memleket-askina.description }} http://bit.ly/SuperHaber <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.memleket-askina.link }}]]></description>
-    <language>{{ site.memleket-askina.language }}</language>
-    <spotify:countryOfOrigin>{{ site.memleket-askina.spotifycountry }}</spotify:countryOfOrigin>
-    <copyright><![CDATA[{{ site.memleket-askina.copyright }}]]></copyright>
-    <itunes:subtitle><![CDATA[{{ site.memleket-askina.subtitle }}]]></itunes:subtitle>
-    <itunes:author><![CDATA[{{ site.memleket-askina.author }}]]></itunes:author>
-    <itunes:summary><![CDATA[{{ site.memleket-askina.description }} http://bit.ly/SuperHaber <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.memleket-askina.link }}]]></itunes:summary>
-    <itunes:description><![CDATA[{{ site.memleket-askina.description }} http://bit.ly/SuperHaber <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ site.memleket-askina.link }}]]></itunes:description>
+    <title><![CDATA[{{ page.title }}]]></title>
+    <link>{{ page.link }}</link>
+    <description><![CDATA[{{ page.description }} http://bit.ly/SuperHaber <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></description>
+    <language>{{ page.language }}</language>
+    <spotify:countryOfOrigin>{{ page.spotifycountry }}</spotify:countryOfOrigin>
+    <copyright><![CDATA[{{ page.copyright }}]]></copyright>
+    <itunes:subtitle><![CDATA[{{ page.subtitle }}]]></itunes:subtitle>
+    <itunes:author><![CDATA[{{ page.author }}]]></itunes:author>
+    <itunes:summary><![CDATA[{{ page.description }} http://bit.ly/SuperHaber <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:summary>
+    <itunes:description><![CDATA[{{ page.description }} http://bit.ly/SuperHaber <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:description>
     <itunes:owner>
-    <itunes:name><![CDATA[{{ site.memleket-askina.author }}]]></itunes:name>
-    <itunes:email><![CDATA[{{ site.memleket-askina.email }}]]></itunes:email>
+    <itunes:name><![CDATA[{{ page.author }}]]></itunes:name>
+    <itunes:email><![CDATA[{{ page.email }}]]></itunes:email>
     </itunes:owner>
-    <itunes:image href="{{ site.memleket-askina.image }}"/>
-    <itunes:category text="{{ site.memleket-askina.category }}">
-      <itunes:category text="{{ site.memleket-askina.subcategory }}"/>
+    <itunes:image href="{{ page.image }}"/>
+    <itunes:category text="{{ page.category }}">
+      <itunes:category text="{{ page.subcategory }}"/>
     </itunes:category>
-    <itunes:explicit>{{ site.memleket-askina.explicit }}</itunes:explicit>
-    <itunes:keywords><![CDATA[{{ site.memleket-askina.keywords }}]]></itunes:keywords>
+    <itunes:explicit>{{ page.explicit }}</itunes:explicit>
+    <itunes:keywords><![CDATA[{{ page.keywords }}]]></itunes:keywords>
 
     {% for bolum in site.data.memleket-askina %}
       <item>
