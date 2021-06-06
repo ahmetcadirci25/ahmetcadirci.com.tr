@@ -13,10 +13,8 @@ Türkçe Podcast sayfasında teknolojiden tasavvufa, islamdan günlük konulara 
 * [Gönül Sadası](#gonul-sadasi)
 * [Gençlerle Başbaşa](#genclerle-basbasa)
 * [Can Veren Pervâneler](#can-veren-pervaneler)
-* [Memleket Aşkına](#memleket-askina)
 * [Tarih Tekerrür ve Ekonomik Krizler](#tarih-tekerrur-ve-ekonomik-krizler)
 * [Tarih ve Mekan](#tarih-ve-mekan)
-* [Teknoloji](#teknoloji)
 
 ---
 
