@@ -77,25 +77,6 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 
 ---
 
-<h2 style="font-size: 25px" id="memleket-askina">Mete Yarar & Nedim Şener — Memleket Aşkına</h2>
-
-İki usta isim, Nedim Şener ve Mete Yarar, Memleket Aşkına programıyla güncel yorum ve analizleriyle sizlerle buluşuyor. 
-
-<iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/4XH4sAOWlddFK9tpRuCzgu" width="100%"></iframe>
-
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](https://ahmetcadirci.com.tr/podcast/memleket-askina.xml)
-[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2piBAsc)
-[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2qWehVq)
-[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
-[![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/2pkb0iz)
-[![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2KN1Zpw)
-[![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/34oG2Vu)
-[![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/34cNcw3)
-[![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/2Oe5eIE)
-[![Android]({{ site.url }}/images/android.svg)](http://bit.ly/33aAXiu)
-
----
-
 <h2 style="font-size: 25px" id="tarih-tekerrur-ve-ekonomik-krizler">Alev Alatlı — Tarih Tekerrür ve Ekonomik Krizler</h2>
 
 Alev Alatlı'nın sunumuyla 'Tarih Tekerrür ve Ekonomik Krizler' programının podcast yayınları.
@@ -131,24 +112,6 @@ Dursun Gürlek'in sunumuyla Tarih ve Mekan.
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2YaeK6s)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/32U9C59)
 [![Android]({{ site.url }}/images/android.svg)](http://bit.ly/33bTNWn)
-
----
-
-<h2 style="font-size: 25px" id="teknoloji">Podcast — Ahmet Çadırcı</h2>
-
-En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzerinden ulaşabilirsiniz. 
-
-<iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/4BL7r5IMsKd8kSPv5paR4g" width="100%"></iframe>
-
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](https://ahmetcadirci.com.tr/podcast/ahmet-cadirci.xml)
-[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2COm8aM)
-[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2Ojg6qN)
-[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2TKrPMD)
-[![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/32WqZC7)
-[![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2OompJQ)
-[![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Oje4aj)
-[![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2JVmccF)
-[![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/2yeh6BP)
 
 <style>
 .post-content img {
