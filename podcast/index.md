@@ -26,7 +26,7 @@ Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
 
 <iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/1QvUyU8mkAOqMuzhVjrhdD" width="100%"></iframe>
 
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2TWBIqH)
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](https://ahmetcadirci.com.tr/podcast/gonul-sadasi.xml)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2FLkB7g)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2U7SsQL)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2KZFNJQ)
@@ -45,7 +45,7 @@ Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
 
 <iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/1h8jqZMNM4U7C78KWbjKVk" width="100%"></iframe>
 
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2I0f6US)
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](https://ahmetcadirci.com.tr/podcast/genclerle-basbasa.xml)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2uQ0U8g)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2ZuxwBB)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2XlMlcn)
@@ -64,7 +64,7 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 
 <iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/3Tkx12h6lJr9GyeUdKaKtE" width="100%"></iframe>
 
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2G2RlZV)
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](https://ahmetcadirci.com.tr/podcast/can-veren-pervaneler.xml)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2CS9nMr)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2JT3JzG)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2KcCi3Z)
@@ -83,7 +83,7 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 
 <iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/4XH4sAOWlddFK9tpRuCzgu" width="100%"></iframe>
 
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2rEXbvL)
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](https://ahmetcadirci.com.tr/podcast/memleket-askina.xml)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2piBAsc)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2qWehVq)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
@@ -102,7 +102,7 @@ Alev Alatlı'nın sunumuyla 'Tarih Tekerrür ve Ekonomik Krizler' programının 
 
 <iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/4xT2cVVBvu7kPmUPmbfc5S" width="100%"></iframe>
 
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2J7tmZM)
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](https://ahmetcadirci.com.tr/podcast/tarih-tekerrur-ve-ekonomik-krizler.xml)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2Lf6g6g)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/31OSqgS)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
@@ -121,7 +121,7 @@ Dursun Gürlek'in sunumuyla Tarih ve Mekan.
 
 <iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/4zCsahlmZY5a7YN92CWk5F" width="100%"></iframe>
 
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2N2zVCh)
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](https://ahmetcadirci.com.tr/podcast/tarih-ve-mekan.xml)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2IKXb3u)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2Ky50vm)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
@@ -140,7 +140,7 @@ En güncel internet, teknoloji ve bilişim haberlerini podcast kayıtları üzer
 
 <iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/4BL7r5IMsKd8kSPv5paR4g" width="100%"></iframe>
 
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](http://bit.ly/2Id3Gfw)
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](https://ahmetcadirci.com.tr/podcast/ahmet-cadirci.xml)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2COm8aM)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2Ojg6qN)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2TKrPMD)
