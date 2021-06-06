@@ -35,7 +35,6 @@ Soru & Cevap'ları görüntülemek için:
 
 Video ve Fotoğrafları takip etmek için:
 - [Vimeo]({{ site.url }}/r/vimeo){:target="_blank"}
-- [YouTube]({{ site.url }}/r/youtube){:target="_blank"}
 - [Instagram]({{ site.url }}/r/instagram){:target="_blank"}
 - [Flickr]({{ site.url }}/r/flickr){:target="_blank"}
 - [Unsplash]({{ site.url }}/r/unsplash){:target="_blank"}
