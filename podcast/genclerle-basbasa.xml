@@ -1,11 +1,11 @@
 ---
 layout        : null
 sitemap       : false
-title         : "Sadettin Ökten — Gençlerle Başbaşa"
-subtitle      : "Sadettin Ökten — Gençlerle Başbaşa"
+title         : "Sa'düddîn Ökten — Gençlerle Başbaşa"
+subtitle      : "Sa'düddîn Ökten — Gençlerle Başbaşa"
 link          : "https://ahmetcadirci.com.tr/podcast/"
-description   : "Prof. Dr. Sadettin Ökten ile Gençlerle Başbaşa Podcast Yayınları."
-keywords      : "sadettin ökten, ahlak, podcast, edebiyat, kültür, toplum, medeniyet, kültür, sanat, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
+description   : "Prof. Dr. Sa'düddîn Ökten ile Gençlerle Başbaşa Podcast Yayınları."
+keywords      : "sa'düddîn ökten, ahlak, podcast, edebiyat, kültür, toplum, medeniyet, kültür, sanat, sohbet, islam, tasavvuf, tarikat, marifet, ahmet çadırcı"
 language      : "tr-tr"
 spotifycountry: "tr"
 copyright     : "Ahmet Çadırcı"
@@ -13,7 +13,7 @@ author        : "Ahmet Çadırcı"
 email         : "ahmetcadirci25@gmail.com"
 category      : "Religion &#38; Spirituality"
 subcategory   : "Islam"
-image         : "https://ahmetcadirci.com.tr/images/genclerle-basbasa-cover.jpg"
+image         : "https://ahmetcadirci.com.tr/images/genclerle-basbasa.jpg"
 explicit      : "clean"
 ---
 <?xml version="1.0" encoding="UTF-8"?>

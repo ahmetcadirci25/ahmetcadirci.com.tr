@@ -1,11 +1,11 @@
 ---
 layout        : null
 sitemap       : false
-title         : "Kemal Sayar & Sadettin Ökten — Gönül Sadası"
-subtitle      : "Kemal Sayar & Sadettin Ökten — Gönül Sadası"
+title         : "Kemal Sayar & Sa'düddîn Ökten — Gönül Sadası"
+subtitle      : "Kemal Sayar & Sa'düddîn Ökten — Gönül Sadası"
 link          : "https://ahmetcadirci.com.tr/podcast/"
-description   : "Kemal Sayar ve Prof. Dr. Sadettin Ökten hoş sohbetleri..."
-keywords      : "kemal sayar, sadettin ökten, sohbet, islam, şiir, kültür, sanat, tasavvuf, ahmet çadırcı"
+description   : "Kemal Sayar ve Prof. Dr. Sa'düddîn Ökten hoş sohbetleri..."
+keywords      : "kemal sayar, sa'düddîn ökten, sohbet, islam, şiir, kültür, sanat, tasavvuf, ahmet çadırcı"
 language      : "tr-tr"
 spotifycountry: "tr"
 copyright     : "Ahmet Çadırcı"
@@ -13,7 +13,7 @@ author        : "Ahmet Çadırcı"
 email         : "ahmetcadirci25@gmail.com"
 category      : "Religion &#38; Spirituality"
 subcategory   : "Islam"
-image         : "https://ahmetcadirci.com.tr/images/gonul-sadasi-cover.jpg"
+image         : "https://ahmetcadirci.com.tr/images/gonul-sadasi.jpg"
 explicit      : "clean"
 ---
 <?xml version="1.0" encoding="UTF-8"?>
