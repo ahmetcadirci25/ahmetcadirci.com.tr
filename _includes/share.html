@@ -38,14 +38,13 @@
   </div>
 </div>
 
-<div class="share-dialog">
+
 <button class="share-button" type="button" title="Paylaş">
   <svg>
     <use href="#share-icon"></use>
   </svg>
   <span>Paylaş</span>
 </button>
-</div>
 
 <svg class="hidden">
   <defs>
@@ -100,7 +99,7 @@ closeButton.addEventListener('click', event => {
   margin-right: 7px;
 }
 
-.share-dialog button, .share-dialog .button {
+.share-button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -125,12 +124,12 @@ closeButton.addEventListener('click', event => {
   border-color: #cdd;
 }
 
-.share-dialog .share-button, .share-dialog .copy-link {
+.share-button, .share-dialog .copy-link {
   padding-left: 30px;
   padding-right: 30px;
 }
 
-.share-dialog .share-button, .share-dialog {
+.share-button, .share-dialog {
   position: absolute;
   top: 50%;
   left: 50%;
