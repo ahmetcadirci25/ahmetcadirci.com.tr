@@ -18,9 +18,9 @@ Türkçe Podcast sayfasında teknolojiden tasavvufa, islamdan günlük konulara 
 
 ---
 
-<h2 style="font-size: 25px" id="gonul-sadasi">Kemal Sayar & Sadettin Ökten — Gönül Sadası</h2>
+<h2 style="font-size: 25px" id="gonul-sadasi">Kemal Sayar & Sa'düddîn Ökten — Gönül Sadası</h2>
 
-Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
+Kemal Sayar ve Prof. Dr. Sa'düddîn Ökten hoş sohbetleri...
 
 <iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/1QvUyU8mkAOqMuzhVjrhdD" width="100%"></iframe>
 
@@ -37,9 +37,9 @@ Kemal Sayar ve Prof. Dr. Sadettin ÖKTEN hoş sohbetleri...
 
 ---
 
-<h2 style="font-size: 25px" id="genclerle-basbasa">Sadettin Ökten — Gençlerle Başbaşa</h2>
+<h2 style="font-size: 25px" id="genclerle-basbasa">Sa'düddîn Ökten — Gençlerle Başbaşa</h2>
 
-Prof. Dr. Sadettin ÖKTEN ile Gençlerle Başbaşa Podcast Yayınları.
+Prof. Dr. Sa'düddîn Ökten ile Gençlerle Başbaşa Podcast Yayınları.
 
 <iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/1h8jqZMNM4U7C78KWbjKVk" width="100%"></iframe>
 
