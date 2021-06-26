@@ -48,7 +48,7 @@ Sosyal paylaşımlarımı takip etmek için:
 
 ### Yeni Yazılar
 
-* [Instagram Hesabım Çalındı İse Yapmanız Gerekenler](https://ahmetcadirci.com.tr/2021/instagram-hesabim-calindi/)
+* [Instagram Hesabım Çalındı.. Yapmanız Gerekenler](https://ahmetcadirci.com.tr/2021/instagram-hesabim-calindi/)
 * [Kalitesiyle Bir Adım Öne Çıkan YouTube Kanalları](https://ahmetcadirci.com.tr/2021/kaliteli-youtube-kanallari/)
 * [Modern Masaüstü RSS Okuyucusu](https://ahmetcadirci.com.tr/2021/modern-masaustu-rss-okuyucusu/)
 * [Bootstrap 4 Ekran Boyutuna Göre Gizle ve Göster](https://ahmetcadirci.com.tr/2021/bootstrap-4-gizle-goster/)

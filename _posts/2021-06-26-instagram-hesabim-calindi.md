@@ -1,5 +1,5 @@
 ---
-title      : "Instagram Hesabım Çalındı İse Yapmanız Gerekenler"
+title      : "Instagram Hesabım Çalındı.. Yapmanız Gerekenler"
 description: "Instagram hesabınız çalındı ise yapmanız gerekenler şu şekildedir. Sizler için bulduğum instagram yardım merkezine ait dört tane formdan direk iletişime geçebilirsiniz."
 date       : 2021-06-26 11:30:00
 categories : [İnternet]
