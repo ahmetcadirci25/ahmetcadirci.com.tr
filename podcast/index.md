@@ -16,6 +16,8 @@ Türkçe Podcast sayfasında teknolojiden tasavvufa, islamdan günlük konulara 
 * [Tarih Tekerrür ve Ekonomik Krizler](#tarih-tekerrur-ve-ekonomik-krizler)
 * [Tarih ve Mekan](#tarih-ve-mekan)
 
+<iframe loading="lazy" src="https://discord.com/widget?id=858301237005778974&theme=dark" width="350" height="250" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ---
 
 <h2 style="font-size: 25px" id="gonul-sadasi">Kemal Sayar & Sa'düddîn Ökten — Gönül Sadası</h2>
@@ -84,7 +86,7 @@ Alev Alatlı'nın sunumuyla 'Tarih Tekerrür ve Ekonomik Krizler' programının 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](https://ahmetcadirci.com.tr/podcast/tarih-tekerrur-ve-ekonomik-krizler.xml)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2Lf6g6g)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/31OSqgS)
-[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](https://bit.ly/3w2NXVv)
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/2OhDhlh)
 [![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2JTK4gV)
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Ze4xT5)
@@ -103,7 +105,7 @@ Dursun Gürlek'in sunumuyla Tarih ve Mekan.
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](https://ahmetcadirci.com.tr/podcast/tarih-ve-mekan.xml)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2IKXb3u)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2Ky50vm)
-[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](https://bit.ly/3x2rvxd)
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/2YackEU)
 [![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2JTIUC5)
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2GA6rpM)
