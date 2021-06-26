@@ -16,7 +16,7 @@ Türkçe Podcast sayfasında teknolojiden tasavvufa, islamdan günlük konulara 
 * [Tarih Tekerrür ve Ekonomik Krizler](#tarih-tekerrur-ve-ekonomik-krizler)
 * [Tarih ve Mekan](#tarih-ve-mekan)
 
-<iframe loading="lazy" src="https://discord.com/widget?id=858301237005778974&theme=dark" width="350" height="250" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe loading="lazy" src="https://discord.com/widget?id=858301237005778974&theme=dark" width="100%" height="250" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ---
 
