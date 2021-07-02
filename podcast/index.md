@@ -10,7 +10,7 @@ image    	: "/images/ahmetcadirci-wallpaper.jpg"
 
 Türkçe Podcast sayfasında teknolojiden tasavvufa, islamdan günlük konulara kadar kayıtlı sohbetler yer almaktadır. iTunes, Spotify, Google Podcast ve diğer uygulamalardan dinleyebilirsiniz. Türkçe Podcast yayınları ücretsizdir. Önerileri [iletişim]({{ site.url }}/iletisim/) sayfasından tarafıma iletebilirsiniz. 
 
-Discord topluluğuna ücretsiz katılabilirsiniz: [https://discord.gg/K5wyep7bgR](https://discord.gg/K5wyep7bgR){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+Discord topluluğuna ücretsiz katılabilirsiniz: [https://discord.gg/gpyGxZW4As](https://discord.gg/gpyGxZW4As){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 * [Gönül Sadası](#gonul-sadasi)
 * [Gençlerle Başbaşa](#genclerle-basbasa)

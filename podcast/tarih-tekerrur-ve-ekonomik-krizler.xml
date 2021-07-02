@@ -30,15 +30,15 @@ explicit      : "clean"
   <channel>
     <title><![CDATA[{{ page.title }}]]></title>
     <link>{{ page.link }}</link>
-    <description><![CDATA[{{ page.description }} Discord https://discord.gg/K5wyep7bgR <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></description>
+    <description><![CDATA[{{ page.description }} Discord https://discord.gg/gpyGxZW4As <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></description>
     <language>{{ page.language }}</language>
     <spotify:countryOfOrigin>{{ page.spotifycountry }}</spotify:countryOfOrigin>
     <googleplay:author><![CDATA[{{ page.author }}]]></googleplay:author>
     <copyright><![CDATA[{{ page.copyright }}]]></copyright>
     <itunes:subtitle><![CDATA[{{ page.subtitle }}]]></itunes:subtitle>
     <itunes:author><![CDATA[{{ page.author }}]]></itunes:author>
-    <itunes:summary><![CDATA[{{ page.description }} Discord https://discord.gg/K5wyep7bgR <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:summary>
-    <itunes:description><![CDATA[{{ page.description }} Discord https://discord.gg/K5wyep7bgR <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:description>
+    <itunes:summary><![CDATA[{{ page.description }} Discord https://discord.gg/gpyGxZW4As <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:summary>
+    <itunes:description><![CDATA[{{ page.description }} Discord https://discord.gg/gpyGxZW4As <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:description>
     <itunes:owner>
     <itunes:name><![CDATA[{{ page.author }}]]></itunes:name>
     <itunes:email><![CDATA[{{ page.email }}]]></itunes:email>
@@ -53,13 +53,13 @@ explicit      : "clean"
     {% for bolum in site.data.tarih-tekerrur-ve-ekonomik-krizler %}
       <item>
         <title><![CDATA[{{ bolum.title }}]]></title>
-        <description><![CDATA[{{ bolum.description }} Discord https://discord.gg/K5wyep7bgR <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ bolum.link }}]]></description>
+        <description><![CDATA[{{ bolum.description }} Discord https://discord.gg/gpyGxZW4As <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ bolum.link }}]]></description>
         <link>{{ bolum.link }}</link>
         <guid isPermaLink="false">{{ bolum.guid }}</guid>
         <pubDate>{{ bolum.pubdate }}</pubDate>
         <enclosure url="{{ bolum.mediaurl }}" length="{{ bolum.length }}" type="{{ bolum.type }}"/>
         <itunes:subtitle><![CDATA[{{ bolum.title }}]]></itunes:subtitle>
-        <itunes:summary><![CDATA[{{ bolum.description }} Discord https://discord.gg/K5wyep7bgR <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ bolum.link }}]]></itunes:summary>
+        <itunes:summary><![CDATA[{{ bolum.description }} Discord https://discord.gg/gpyGxZW4As <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ bolum.link }}]]></itunes:summary>
         <itunes:duration>{{ bolum.duration }}</itunes:duration>
         <media:content url="{{ bolum.mediaurl }}" fileSize="{{ bolum.length }}" type="{{ bolum.type }}"/>
         <itunes:keywords><![CDATA[{{ bolum.keywords }}]]></itunes:keywords>
