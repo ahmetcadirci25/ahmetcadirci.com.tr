@@ -39,25 +39,6 @@ Kemal Sayar ve Prof. Dr. Sa'düddîn Ökten hoş sohbetleri...
 
 ---
 
-<h2 style="font-size: 25px" id="genclerle-basbasa">Sa'düddîn Ökten — Gençlerle Başbaşa</h2>
-
-Prof. Dr. Sa'düddîn Ökten ile Gençlerle Başbaşa Podcast Yayınları.
-
-<iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/1h8jqZMNM4U7C78KWbjKVk" width="100%"></iframe>
-
-[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](https://ahmetcadirci.com.tr/podcast/genclerle-basbasa.xml)
-[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2uQ0U8g)
-[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2ZuxwBB)
-[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2XlMlcn)
-[![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/32WNjLW)
-[![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2YoVOfx)
-[![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Y96TGb)
-[![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/30ZlaCc)
-[![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/318u3d1)
-[![Android]({{ site.url }}/images/android.svg)](https://www.subscribeonandroid.com/ahmetcadirci.com.tr/podcast/genclerle-basbasa.xml)
-
----
-
 <h2 style="font-size: 25px" id="can-veren-pervaneler">Hayati İnanç — Can Veren Pervâneler</h2>
 
 Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en güzel şiirleri ile günümüze ve gönlümüze taşınacağı Hayati İnanç ile 'Can Veren Pervâneler' programında...
@@ -74,6 +55,25 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 [![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/2LIVKVZ)
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/312jkRk)
 [![Android]({{ site.url }}/images/android.svg)](https://www.subscribeonandroid.com/ahmetcadirci.com.tr/podcast/can-veren-pervaneler.xml)
+
+---
+
+<h2 style="font-size: 25px" id="genclerle-basbasa">Sa'düddîn Ökten — Gençlerle Başbaşa</h2>
+
+Prof. Dr. Sa'düddîn Ökten ile Gençlerle Başbaşa Podcast Yayınları.
+
+<iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/1h8jqZMNM4U7C78KWbjKVk" width="100%"></iframe>
+
+[![RSS Feed]({{ site.url }}/images/rss-feed.svg)](https://ahmetcadirci.com.tr/podcast/genclerle-basbasa.xml)
+[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2uQ0U8g)
+[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2ZuxwBB)
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](http://bit.ly/2XlMlcn)
+[![Stitcher]({{ site.url }}/images/stitcher.svg)](http://bit.ly/32WNjLW)
+[![Overcast]({{ site.url }}/images/overcast.svg)](http://bit.ly/2YoVOfx)
+[![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](http://bit.ly/2Y96TGb)
+[![CastBox]({{ site.url }}/images/castbox.svg)](http://bit.ly/30ZlaCc)
+[![Listen Notes]({{ site.url }}/images/listennotes.svg)](http://bit.ly/318u3d1)
+[![Android]({{ site.url }}/images/android.svg)](https://www.subscribeonandroid.com/ahmetcadirci.com.tr/podcast/genclerle-basbasa.xml)
 
 ---
 
