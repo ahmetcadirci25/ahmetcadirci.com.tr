@@ -70,7 +70,7 @@ Diyanet Radyo'nun hazırladığı Hz. Peygamber'in hayatının anlatıldığı '
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/3wjrdAS)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](https://bit.ly/3qKmMOl)
-[![Overcast]({{ site.url }}/images/overcast.svg)]()
+[![Overcast]({{ site.url }}/images/overcast.svg)](https://bit.ly/3hbr4ez)
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)]()
 [![CastBox]({{ site.url }}/images/castbox.svg)]()
 [![Listen Notes]({{ site.url }}/images/listennotes.svg)]()
