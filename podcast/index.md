@@ -63,13 +63,13 @@ Nâbi'den Şeyh Gâlib'e, Bâki'den Fuzûli'ye nice müstesna değerimizin en g�
 
 Diyanet Radyo'nun hazırladığı Hz. Peygamber'in hayatının anlatıldığı 'Karanlıktan aydınlığa Asr-ı Saadet' radyo tiyatrosu..
 
-<iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/1h8jqZMNM4U7C78KWbjKVk" width="100%"></iframe>
+<iframe loading="lazy" allow="encrypted-media" allowtransparency="true" frameborder="0" height="250" src="https://open.spotify.com/embed-podcast/show/63SdFXc07p95KsP9D0Ur3f" width="100%"></iframe>
 
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](https://ahmetcadirci.com.tr/podcast/asri-saadet-radyo-tiyatrosu.xml)
-[![iTunes]({{ site.url }}/images/itunes.svg)]()
-[![Spotify]({{ site.url }}/images/spotify.svg)]()
+[![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/3htCcT3)
+[![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/3wjrdAS)
 [![Google Podcast]({{ site.url }}/images/googlepodcast.svg)]()
-[![Stitcher]({{ site.url }}/images/stitcher.svg)]()
+[![Stitcher]({{ site.url }}/images/stitcher.svg)](https://bit.ly/3qKmMOl)
 [![Overcast]({{ site.url }}/images/overcast.svg)]()
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)]()
 [![CastBox]({{ site.url }}/images/castbox.svg)]()
