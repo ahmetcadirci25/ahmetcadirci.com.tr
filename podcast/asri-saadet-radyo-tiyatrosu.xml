@@ -1,0 +1,70 @@
+---
+layout        : null
+sitemap       : false
+title         : "Asr-ı Saadet Radyo Tiyatrosu"
+subtitle      : "Asr-ı Saadet Radyo Tiyatrosu"
+link          : "https://ahmetcadirci.com.tr/podcast/"
+description   : "Diyanet Radyo'nun hazırladığı Hz. Peygamber'in hayatının anlatıldığı 'Karanlıktan aydınlığa Asr-ı Saadet' radyo tiyatrosu.."
+keywords      : "diyanet radyo, asr-ı saadet, radyo tiyatrosu, islam, mekke, medine, hz. peygamber, hz. muhammed sav, ahmet çadırcı"
+language      : "tr-tr"
+spotifycountry: "tr"
+copyright     : "Ahmet Çadırcı"
+author        : "Ahmet Çadırcı"
+email         : "ahmetcadirci25@gmail.com"
+category      : "Religion &#38; Spirituality"
+subcategory   : "Islam"
+image         : "https://ahmetcadirci.com.tr/images/asri-saadet-radyo-tiyatrosu.jpg"
+explicit      : "clean"
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:spotify="http://www.spotify.com/ns/rss"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+  <channel>
+    <title><![CDATA[{{ page.title }}]]></title>
+    <link>{{ page.link }}</link>
+    <description><![CDATA[{{ page.description }} Discord https://discord.gg/gpyGxZW4As <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></description>
+    <language>{{ page.language }}</language>
+    <spotify:countryOfOrigin>{{ page.spotifycountry }}</spotify:countryOfOrigin>
+    <googleplay:author><![CDATA[{{ page.author }}]]></googleplay:author>
+    <copyright><![CDATA[{{ page.copyright }}]]></copyright>
+    <itunes:subtitle><![CDATA[{{ page.subtitle }}]]></itunes:subtitle>
+    <itunes:author><![CDATA[{{ page.author }}]]></itunes:author>
+    <itunes:summary><![CDATA[{{ page.description }} Discord https://discord.gg/gpyGxZW4As <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:summary>
+    <itunes:description><![CDATA[{{ page.description }} Discord https://discord.gg/gpyGxZW4As <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ page.link }}]]></itunes:description>
+    <itunes:owner>
+    <itunes:name><![CDATA[{{ page.author }}]]></itunes:name>
+    <itunes:email><![CDATA[{{ page.email }}]]></itunes:email>
+    </itunes:owner>
+    <itunes:image href="{{ page.image }}"/>
+    <itunes:category text="{{ page.category }}">
+      <itunes:category text="{{ page.subcategory }}"/>
+    </itunes:category>
+    <itunes:explicit>{{ page.explicit }}</itunes:explicit>
+    <itunes:keywords><![CDATA[{{ page.keywords }}]]></itunes:keywords>
+
+    {% for bolum in site.data.asri-saadet-radyo-tiyatrosu %}
+      <item>
+        <title><![CDATA[{{ bolum.title }}]]></title>
+        <description><![CDATA[{{ bolum.description }} Discord https://discord.gg/gpyGxZW4As <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ bolum.link }}]]></description>
+        <link>{{ bolum.link }}</link>
+        <guid isPermaLink="false">{{ bolum.guid }}</guid>
+        <pubDate>{{ bolum.pubdate }}</pubDate>
+        <enclosure url="{{ bolum.mediaurl }}" length="{{ bolum.length }}" type="{{ bolum.type }}"/>
+        <itunes:subtitle><![CDATA[{{ bolum.title }}]]></itunes:subtitle>
+        <itunes:summary><![CDATA[{{ bolum.description }} Discord https://discord.gg/gpyGxZW4As <a href="{{ site.url }}" rel="dofollow">{{ site.title }}</a> {{ bolum.link }}]]></itunes:summary>
+        <itunes:duration>{{ bolum.duration }}</itunes:duration>
+        <media:content url="{{ bolum.mediaurl }}" fileSize="{{ bolum.length }}" type="{{ bolum.type }}"/>
+        <itunes:keywords><![CDATA[{{ bolum.keywords }}]]></itunes:keywords>
+      </item>
+    {% endfor %}
+
+  </channel>
+</rss>
