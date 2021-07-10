@@ -87,7 +87,7 @@ Prof. Dr. Sa'düddîn Ökten ile Gençlerle Başbaşa Podcast Yayınları.
 [![RSS Feed]({{ site.url }}/images/rss-feed.svg)](https://ahmetcadirci.com.tr/podcast/genclerle-basbasa.xml)
 [![iTunes]({{ site.url }}/images/itunes.svg)](https://apple.co/2uQ0U8g)
 [![Spotify]({{ site.url }}/images/spotify.svg)](https://spoti.fi/2ZuxwBB)
-[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](https://bit.ly/2XlMlcn)
+[![Google Podcast]({{ site.url }}/images/googlepodcast.svg)](https://bit.ly/3khtYk3)
 [![Stitcher]({{ site.url }}/images/stitcher.svg)](https://bit.ly/32WNjLW)
 [![Overcast]({{ site.url }}/images/overcast.svg)](https://bit.ly/2YoVOfx)
 [![Pocket Casts]({{ site.url }}/images/pocketcasts.svg)](https://bit.ly/2Y96TGb)
