@@ -26,7 +26,7 @@ Blog gönderisi olduğu için farklı biçimlerde düzenleme yapılabilir. Uzun 
 **Kısa Tanıtım Yazısı**
 
 - Yazı Başlığı (10-20 kelime)
-- 300 Kelimelik
+- 300 - 500 Kelimelik
 - Görsel
 - 1 Link
 
@@ -42,7 +42,7 @@ Blog gönderisi olduğu için farklı biçimlerde düzenleme yapılabilir. Uzun 
 
 **Uzun Tanıtım Yazısı**
 - Yazı Başlığı (10-20 kelime)
-- 1500 - 5000 Kelimelik
+- 1000 - 5000 Kelimelik
 - Görsel
 - 5 Link
 
